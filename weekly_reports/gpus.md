@@ -1,85 +1,75 @@
 # 🎮 GPUs
-**Week of August 13, 2026**
+**Week of August 14, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-08-13 09:47
+- **Articles this week:** 6
+- **Report generated:** 2026-08-14 09:43
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Modders give the Steam Machine a Radeon eGPU and water cooling, because why not 
+### 1. 4GB vs. 8GB VRAM: The 1080p Benchmark 
 
-Modders have enhanced the Steam Machine's performance through eGPU and water cooling modifications, increasing its capabilities. One modder successfully added external graphics, while another created a custom water block. This boosts the system's performance and efficiency.
+Benchmarking the 4GB Radeon RX 6500 XT GPU against its 8GB counterpart in modern 1080p games reveals significant performance differences, underscoring the impact of VRAM capacity on gaming performance.
 
-💡 *Performance upgrades for Steam Machines expand gaming possibilities.*
+💡 *Higher VRAM capacity significantly improves gaming performance in 1080p resolution.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113444-modders-give-steam-machine-radeon-egpu-water-cooling.html)
-
----
-
-### 2. Nvidia doubles RTX PRO 6000 Blackwell's MSRP to a staggering $16,000 96GB card started pre-orders below $8,000 last year 
-
-Nvidia's RTX 6000 Pro Blackwell data center GPU has doubled in price since launch, now at $16,000, up 20% in just a couple of months, driven by AI demand and unprecedented data center buildouts.
-
-💡 *AI-driven data center growth fuels GPU price surges dramatically.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-doubles-rtx-pro-6000-blackwells-msrp-to-a-staggering-usd16-000-96gb-card-started-pre-orders-below-usd8-000-last-year)
+🔗 [Read Full Article](https://www.techspot.com/review/3159-vram-benchmark-4gb-vs-8gb/)
 
 ---
 
-### 3. CoreWeave proves Nvidia's aging AI GPUs from 2020 can generate profit nine years after deployment, signs A100 contracts into 2029 power constraints and legacy infrastructure keep old GPUs profitable 
+### 2. Just one instruction on AMD's 2015-era CPUs gets you access to Platform Security Processor, microcode, and System Management Interface exploit for 15h and 16h chip families cracks open secret memory areas 
 
-CoreWeave's revenue surged 112% year-over-year to $2.58 billion in quarterly earnings. This success can be attributed to the profitability of Nvidia's aging AI GPUs from 2020. The company is still signing contracts for the A100 despite power constraints.
+A single instruction can access sensitive areas on AMD CPUs, including the Platform Security Processor, microcode, and System Management Interface. This vulnerability affects the 15h and 16h chip families. It allows unauthorized access to secret memory areas.
 
-💡 *Legacy infrastructure maintains profitability of outdated AI GPUs nine years later*
+💡 *Single instruction bypasses security on AMD CPUs, exposing sensitive data.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/coreweave-ceo-mike-intrator-says-it-has-signed-an-a100-contract-running-into-2029)
-
----
-
-### 4. Asobi Remote Play app lets gamers stream PS4 and PS5 games on the Steam Deck, even without a console dev breaks PlayStation Plus Premium cloud gaming support free of the PlayStation Portal 
-
-The Asobi: Remote Play app extends PlayStation Plus Premium cloud gaming to Steam Deck and Linux devices, allowing users to stream PS4 and PS5 games without a console. This service goes beyond the PlayStation Portal's limited cloud gaming support. It enables users to access PlayStation games on a wider range of devices.
-
-💡 *Breaking console barriers with cloud gaming on multiple platforms.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/video-games/playstation/asobi-remote-play-app-lets-gamers-stream-ps4-and-ps5-games-on-the-steam-deck-even-without-a-console-dev-breaks-playstation-plus-premium-cloud-gaming-support-free-of-the-playstation-portal)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/just-one-instruction-on-amds-2015-era-cpus-gets-you-access-to-platform-security-processor-microcode-and-system-management-interface-exploit-for-15h-and-16h-chip-families-cracks-open-secret-memory-areas)
 
 ---
 
-### 5. Save over $600 on a massive 18-inch gaming laptop as it falls to a new all-time low price at Amazon Acer's Predator Helios Neo 18 AI packs an RTX 5070 Ti and 32GB of memory 
+### 3. Get 16GB of DDR5 RAM free when you buy AMD's 9900X and an Asus TUF motherboard $659 Newegg combo saves $274, and you get a free 240mm AIO 
 
-Acer's Predator Helios Neo 18 AI gaming laptop has reached an all-time low price at Amazon, with a significant $600 price drop. This massive 18-inch laptop features an RTX 5070 Ti and 32GB of memory. It's a great opportunity for gamers to upgrade their devices.
+Buy the AMD Ryzen 9 9900X, Asus TUF Gaming X870E-Plus Wifi7, and 16GB Team Group T-Force Vulkan RAM combo on Newegg to save $274 and get the 16GB of DDR5 RAM for free.
 
-💡 *Gaming laptops become more affordable for budget-conscious buyers suddenly*
+💡 *Unlock significant cost savings with bundled RAM deal.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/save-over-usd600-on-a-massive-18-inch-gaming-laptop-as-it-falls-to-a-new-all-time-low-price-at-amazon-acers-predator-helios-neo-18-ai-packs-an-rtx-5070-ti-and-32gb-of-memory)
-
----
-
-### 6. Google unveils Pixel 11 series featuring Tensor G6 SoC, Titan M3 security chip, and Android 17, starting at $899 
-
-Google's Pixel 11 series features Tensor G6 SoC, Titan M3 security, and Android 17, starting at $899.
-
-💡 *Google's latest flagship offers significant performance and security upgrades.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113458-google-unveils-pixel-11-series-featuring-tensor-g6.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/get-16gb-of-ddr5-ram-free-when-you-buy-amds-9900x-and-an-asus-tuf-motherboard-usd659-newegg-combo-saves-usd274-and-you-get-a-free-240mm-aio)
 
 ---
 
-### 7. A four-year-old budget CPU is outselling AMD's best gaming chip in some markets 
+### 4. Jump into PC gaming for under a thousand dollars with a $350 saving on this RTX 5060-powered laptop the 15.6-inch MSI Cyborg 15 is just $949 at Walmart 
 
-AMD's top CPUs dominate the Amazon bestseller list, but one older Intel CPU outsells its best gaming chip. This indicates Intel's budget offerings remain strong despite AMD's success. The older Intel CPU's popularity suggests its value and performance appeal to price-conscious buyers.
+Get a high-performance gaming laptop at Walmart for $949, saving $350.
 
-💡 *Budget Intel CPU's enduring popularity beats AMD's high-end gaming chip*
+💡 *Affordable high-end gaming laptops are now more accessible to consumers.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113447-four-year-old-budget-cpu-outselling-amd-best.html)
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/jump-into-pc-gaming-for-under-a-thousand-dollars-with-a-usd350-saving-on-this-rtx-5060-powered-laptop-the-15-6-inch-msi-cyborg-15-is-just-usd949-at-walmart)
+
+---
+
+### 5. Humanoid hype may be outrunning reality, IDC analyst warns 
+
+The humanoid robot industry may be prioritizing hype over practicality, according to IDC analyst Phil Solis. With numerous companies investing in bipedal robots, there's a need for a focus on affordability, reliability, and real-world deployments. This could impact the technology's widespread adoption and usability.
+
+💡 *Hype may hinder humanoid robot adoption and practical usability.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors-fusion/humanoid-hype-may-be-outrunning-reality-idc-analyst-warns)
+
+---
+
+### 6. Nvidia raises RTX Pro 6000 Blackwell price to a staggering $16,000 
+
+Nvidia raises the price of its RTX Pro 6000 to $16,000 due to market demand.
+
+💡 *Artificial intelligence drives memory crunch, fueling graphics card price surge.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113460-nvidia-raises-rtx-pro-6000-blackwell-price-staggering.html)
 
 ---
 

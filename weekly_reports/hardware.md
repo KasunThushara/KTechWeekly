@@ -1,145 +1,165 @@
 # 💻 Hardware
-**Week of August 13, 2026**
+**Week of August 14, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 13
-- **Report generated:** 2026-08-13 09:47
+- **Articles this week:** 15
+- **Report generated:** 2026-08-14 09:43
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Qualcomm Snapdragon C Arm SoC outperforms an Intel N250 CPU by up to 67 percent in unplugged benchmarks ⭐⭐
+### 1. Geekom IT13 Max 2026 review: Meteor Lake rides again in a $799 mini PC 
 
-Qualcomm's Snapdragon C Arm SoC outperforms Intel N250 CPU by up to 67% in unplugged benchmarks, showcasing the Arm SoC's efficiency and performance in $300+ Windows laptops.
+The Geekom IT13 Max 2026 mini PC packs an Intel Meteor Lake Core Ultra 9 processor with 24GB DDR5 RAM, offering a powerful and affordable solution for demanding tasks.
 
-💡 *Qualcomm's Arm SoC gains edge over Intel in budget laptops' efficiency.*
+💡 *Meteor Lake brings high-end performance to budget-friendly mini PCs.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/13/qualcomm-snapdragon-c-arm-soc-outperforms-an-intel-n250-cpu-by-up-to-67-percent-in-unplugged-benchmarks/)
-
----
-
-### 2. The current state of PCIe 6.0 SSDs and controllers Marvell, Phison, and SMI prepare controllers as drives finally come to market following years of delays 
-
-PCIe 6.0 SSDs with Marvell, Phison, and SMI controllers are almost here, offering faster speeds and capacities. Despite years of delays, Micron and Samsung have released their SSDs. Expect massive data storage and transfer rates with these new drives.
-
-💡 *Massive data storage capacities and ultra-fast transfer speeds arrive soon.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/the-current-state-of-pcie-6-0-ssds-and-controllers-marvell-phison-and-smi-prepare-controllers-as-drives-finally-come-to-market-following-years-of-delays)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/geekom-it13-max-2026-review-meteor-lake-rides-again-in-a-usd799-mini-pc)
 
 ---
 
-### 3. Qualcomm details Snapdragon C specs for $300 laptops for the first time claims 67% faster performance on battery than Intel N250, AC performance remains a mystery 
+### 2. Maxsun Terminator B850M Pro II Motherboard Review: Comparable features, but US pricing is over MSRP 
 
-Qualcomm has detailed the specs for its Snapdragon C processor, offering 8 cores and all-day battery life. The processor claims 67% faster performance on battery than Intel N250. However, its AC performance remains unclear.
+The Maxsun Terminator B850M Pro II is a budget Micro ATX motherboard with decent features, but it's only a good option if purchased at its MSRP of $199.99. It's a decent choice for those on a tight budget who can find it at the listed price. However, US pricing is often higher than the MSRP.
 
-💡 *Qualcomm challenges Intel in battery efficiency for budget laptops.*
+💡 *MSRP pricing discrepancy affects US buyers' value perception.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/qualcomm-details-snapdragon-c-specs-for-usd300-laptops-for-the-first-time-claims-67-percent-faster-performance-on-battery-than-intel-n250-ac-performance-remains-a-mystery)
-
----
-
-### 4. QIDI Plus5 3D printer review: The best one yet 
-
-QIDI Plus5 is a high-performance 3D printer that boasts large build volume and delivers excellent print quality with difficult filaments.
-
-💡 *Rugged 3D printing capabilities for demanding applications.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/qidi-plus5-3d-printer-review)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/maxsun-terminator-b850m-pro-ii-motherboard-review)
 
 ---
 
-### 5. YMTC breaks into the top three NAND makers for the first time as AI servers swallow 48% of all flash Chinese vendor has 14% share, according to research 
+### 3. Coin-sized device can hack a Boeing 737 s Flight Management Computer, mess with takeoff weights, or even divert an aircraft gadget connects to an easily accessible port that overrides commands from the pilots, uses in-flight Wi-Fi 
 
-YMTC has entered the top three NAND makers for the first time, with a 14% share of the market, driven by the growing demand for AI servers, which account for 48% of all flash sales.
+Security researchers found a vulnerability in Boeing 737's avionics system, allowing remote hacking through in-flight Wi-Fi by plugging a coin-sized device into the diagnostic port. This device can override pilot commands and compromise flight operations. The vulnerability could have significant consequences for aircraft safety.
 
-💡 *YMTC's rise reflects China's increasing role in global flash memory supply.*
+💡 *Remote hacking of flight systems poses a critical risk to air travel safety.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/ymtc-breaks-into-the-top-three-nand-makers-for-the-first-time)
-
----
-
-### 6. GMKtec Evo-T2 review: Panther Lake for a price 
-
-GMKtec's Evo-T2 mini PC offers a compact personal AI workstation with Intel's 18A Panther Lake silicon, 64GB LPDDR5X-8533 RAM, and capabilities for office productivity and gaming.
-
-💡 *High-end performance in a compact, affordable package emerges in the market.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/gmktec-evo-t2-review)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/coin-sized-device-can-hack-a-boeing-737s-flight-management-computer-mess-with-takeoff-weights-or-even-divert-an-aircraft-gadget-connects-to-an-easily-accessible-port-that-overrides-commands-from-the-pilots-uses-in-flight-wi-fi)
 
 ---
 
-### 7. Intel CEO hints at return to the memory business says market is ripe for innovation, hints at stacking memory and CPU 
+### 4. AAEON PICO-ADN2 A low-profile Alder Lake-N Pico-ITX SBC for space-constrained applications 
 
-Intel's CEO, Lip-Bu Tan, hints at a potential return to the memory business. He believes the market is ripe for innovation, possibly related to stacking memory and CPU. Tan also mentioned a personal pet project focused on a new memory architecture.
+AAEON PICO-ADN2 is a low-profile Pico-ITX SBC for space-constrained applications, powered by Intel Alder Lake-N SoC, featuring multi-display support and connectivity options.
 
-💡 *Intel's resurgence in memory business could disrupt traditional CPU market dynamics.*
+💡 *Low-profile design for space-constrained transportation and automation applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/intel-ceo-hints-at-return-to-the-memory-business-says-market-is-ripe-for-innovation-hints-at-stacking-memory-and-cpu)
-
----
-
-### 8. WCH CH32V407/467 RISC-V MCU integrates Fast Ethernet MAC + PHY, 480 Mbps USB 2.0 PHY, up to 8 MB on-chip PSRAM 
-
-WCH CH32V407 and CH32V467 are 200 MHz RISC-V microcontrollers with built-in Ethernet, USB, and PSRAM, suitable for industrial IoT and edge AI applications.
-
-💡 *High-performance RISC-V MCU for industrial IoT and edge AI applications emerges.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/13/wch-ch32v407-467-risc-v-mcu-integrates-fast-ethernet-mac-phy-480-mbps-usb-2-0-phy-up-to-8-mb-on-chip-psram/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/13/aaeon-pico-adn2-a-low-profile-alder-lake-n-pico-itx-sbc-for-space-constrained-applications/)
 
 ---
 
-### 9. Apollo Automation launches $40 official ESPHome Starter Kit with ESP32-C6 board, four FPC modules 
+### 5. Qualcomm's Snapdragon C wants to be the Arm chip for $300 laptops 
 
-Apollo Automation launches the ESPHome Starter Kit, an official ESPHome starter kit designed with a ESP32-C6 board and four FPC modules for various sensors. The kit offers Wi-Fi 6, Bluetooth LE, and Thread/Zigbee connectivity. It's priced at $40.
+Qualcomm's Snapdragon C is a processor targeting $300 laptops with an 8-core Kryo CPU, clock speeds of 3 GHz single-core and 2 GHz multi-core, and 2 MB total cache.
 
-💡 *Low-cost, easy-to-use smart home automation kit with built-in wireless connectivity*
+💡 *Competing with Arm chips in budget laptop market.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/12/apollo-automation-official-esphome-starter-kit-with-esp32-c6-board-four-fpc-modules/)
-
----
-
-### 10. Samsung Odyssey G80HS 32" Review: Going 6K 
-
-Samsung's Odyssey G80HS offers a 6K 165Hz display with dual 3K 330Hz mode for balanced productivity and gaming. However, its high price comes with compromises. This monitor is suitable for those seeking high refresh rates and resolution.
-
-💡 *Balances high refresh rates and resolution for gaming and productivity.*
-
-🔗 [Read Full Article](https://www.techspot.com/review/3154-samsung-odyssey-g80hs/)
+🔗 [Read Full Article](https://www.techspot.com/news/113466-qualcomm-snapdragon-c-wants-arm-chip-300-laptops.html)
 
 ---
 
-### 11. Vibe-coded app adds a 3D video rental storefront to your Jellyfin HTPC self-hosted, open-source project brings back memories of browsing for VHS tapes on Saturday afternoons 
+### 6. Windows 11's new CPU-boosting speed trick is rolling out to all apps 
 
-A Jellyfin front-end has been vibe-coded to mimic old video rental stores, bringing back nostalgic memories of browsing VHS tapes. This immersive experience provides a complete video rental storefront simulation. It's a unique twist on a self-hosted media platform.
+Microsoft is rolling out the Low Latency Profile (LLP) feature to all Windows 11 users, improving performance across the GUI and native OS apps.
 
-💡 *Reviving nostalgic experiences in modern self-hosted media platforms is innovative.*
+💡 *Enhancing CPU performance for smoother Windows GUI and app experiences*
 
-🔗 [Read Full Article](https://www.tomshardware.com/software/applications/vibe-coded-app-adds-a-3d-video-rental-storefront-to-your-jellyfin-htpc-self-hosted-open-source-project-brings-back-memories-of-browsing-for-vhs-tapes-on-saturday-afternoons)
-
----
-
-### 12. Nova Lake CPUs with cut-down E-core clusters may still retain full cache pool, says new leak 8P+12E config predictions revised from 33MB to 36MB, 4P+4E config from 15MB to 18MB 
-
-Nova Lake CPUs with reduced E-core clusters may retain full cache pool, according to a recent leak.
-
-💡 *Cache pool retention affects performance in CPU-intensive tasks and workloads.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/nova-lake-cpus-with-cut-down-e-core-clusters-may-still-retain-full-cache-pool-says-new-leak-8p-12e-config-predictions-revised-from-33mb-to-36mb-4p-4e-config-from-15mb-to-18mb)
+🔗 [Read Full Article](https://www.techspot.com/news/113459-microsoft-expands-cpu-boosting-feature-all-windows-11.html)
 
 ---
 
-### 13. A four-year-old budget CPU is outselling AMD's best gaming chip in some markets 
+### 7. Just one instruction on AMD's 2015-era CPUs gets you access to Platform Security Processor, microcode, and System Management Interface exploit for 15h and 16h chip families cracks open secret memory areas 
 
-AMD's top CPUs dominate the Amazon bestseller list, but one older Intel CPU outsells its best gaming chip. This indicates Intel's budget offerings remain strong despite AMD's success. The older Intel CPU's popularity suggests its value and performance appeal to price-conscious buyers.
+A single instruction can access sensitive areas on AMD CPUs, including the Platform Security Processor, microcode, and System Management Interface. This vulnerability affects the 15h and 16h chip families. It allows unauthorized access to secret memory areas.
 
-💡 *Budget Intel CPU's enduring popularity beats AMD's high-end gaming chip*
+💡 *Single instruction bypasses security on AMD CPUs, exposing sensitive data.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113447-four-year-old-budget-cpu-outselling-amd-best.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/just-one-instruction-on-amds-2015-era-cpus-gets-you-access-to-platform-security-processor-microcode-and-system-management-interface-exploit-for-15h-and-16h-chip-families-cracks-open-secret-memory-areas)
+
+---
+
+### 8. Functioning version of 'the first arcade video game ever created' heads to auction with $200,000 estimate green sparkle 2-player edition of Computer Space hails from 1973 
+
+A 1973 Computer Space green sparkle 2-player arcade game is up for auction, estimated to fetch $200,000. This rare find is one of the first coin-operated video games ever created. It is being sold via RR Auctions in Boston.
+
+💡 *First coin-operated video game's existence is a gaming history treasure*
+
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/functioning-version-of-the-first-arcade-video-game-ever-created-heads-to-auction-with-usd200-000-estimate-green-sparkle-2-player-edition-of-computer-space-hails-from-1973)
+
+---
+
+### 9. Keychron launches ludicrous 100-key custom macro pad 10 x 10 keyboard uses exclusive Keychron Apex switches and features per-key RGB control 
+
+The Keychron C100 macro pad offers 100 custom keys, per-key RGB lighting, and 8K polling rate for enhanced productivity and gaming.
+
+💡 *Industry-first 100-key design redefines gaming and productivity keyboards.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/mechanical-keyboards/keychron-launches-ludicrous-100-key-custom-macro-pad-10-x-10-keyboard-uses-exclusive-keychron-apex-switches-and-features-per-key-rgb-control)
+
+---
+
+### 10. This $57.99 8BitDo Ultimate 2 wireless controller is a brilliantly customizable option for PC gamers fully customizable gamepad with Nintendo Switch compatibility includes dual triggers, TMR joysticks, and adjustable RGB lighting 
+
+Get a customizable 8BitDo Ultimate 2 wireless controller for PC and Switch. Save 17% on this gaming accessory with dual triggers and adjustable lighting.
+
+💡 *Highly customizable gaming experience for PC and Switch gamers.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/controllers-gamepads/this-usd57-99-8bitdo-ultimate-2-wireless-controller-is-a-brilliantly-customizable-option-for-pc-gamers-fully-customizable-gamepad-with-nintendo-switch-compatibility-includes-dual-triggers-tmr-joysticks-and-adjustable-rgb-lighting)
+
+---
+
+### 11. Jump into PC gaming for under a thousand dollars with a $350 saving on this RTX 5060-powered laptop the 15.6-inch MSI Cyborg 15 is just $949 at Walmart 
+
+Get a high-performance gaming laptop at Walmart for $949, saving $350.
+
+💡 *Affordable high-end gaming laptops are now more accessible to consumers.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/jump-into-pc-gaming-for-under-a-thousand-dollars-with-a-usd350-saving-on-this-rtx-5060-powered-laptop-the-15-6-inch-msi-cyborg-15-is-just-usd949-at-walmart)
+
+---
+
+### 12. JSAUX FlipGo Horizon Pro dual-screen portable monitor review: Jack of all trades, master of some 
+
+The JSAUX FlipGo Horizon Pro is a dual-screen portable monitor that offers two 15.6-inch displays and a built-in hub for convenience. This monitor excels in providing a versatile solution for multitasking and productivity. However, it may have limitations in terms of image quality and overall performance.
+
+💡 *Dual-screen portability for enhanced productivity on-the-go*
+
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/portable-monitors/jsaux-flipgo-horizon-pro-dual-screen-portable-monitor-review)
+
+---
+
+### 13. Gemma Translator multilingual interpreter runs locally on Raspberry Pi 5 with the LiteRT runtime 
+
+Gemma Translator is an open-source project for Raspberry Pi 5, enabling a local, offline multilingual voice translator using Gemma 4 and LiteRT runtime.
+
+💡 *Enables offline multilingual voice translation on a local device.*
+
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/14/gemma-translator-multilingual-interpreter-runs-locally-on-raspberry-pi-5-with-the-litert-runtime/)
+
+---
+
+### 14. This modder shrunk a Steam Deck down to Game Boy size 
+
+A modder successfully shrunk a Steam Deck to Game Boy size, requiring key components such as an AMOLED panel and a BIOS modification. This modification will determine if the device functions as a self-contained handheld. Additional work is necessary for completion.
+
+💡 *Miniaturization of gaming consoles could redefine portable gaming experiences.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113468-modder-shrunk-steam-deck-down-game-boy-size.html)
+
+---
+
+### 15. Cargo thieves are staging car crashes to steal AI data center hardware 
+
+Cargo thieves are using staged car crashes to steal AI data center hardware shipments. The shipments were moving from Silicon Valley to Southern California, with private escort vehicles in tow. This tactic allows thieves to intercept valuable equipment.
+
+💡 *Thieves exploit security measures to steal high-tech shipments with ease.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113463-cargo-thieves-staging-car-crashes-steal-ai-data.html)
 
 ---
 

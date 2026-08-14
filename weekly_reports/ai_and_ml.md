@@ -1,5 +1,5 @@
 # 🤖 AI & ML
-**Week of August 13, 2026**
+**Week of August 14, 2026**
 
 *Artificial Intelligence and Machine Learning*
 
@@ -7,239 +7,239 @@
 
 ## 📊 Summary
 - **Articles this week:** 23
-- **Report generated:** 2026-08-13 09:47
+- **Report generated:** 2026-08-14 09:43
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Qualcomm details Snapdragon C specs for $300 laptops for the first time claims 67% faster performance on battery than Intel N250, AC performance remains a mystery 
+### 1. Prusa Research XL, Core One, and Core One L all to receive second-generation upgrades all new orders get updated model for 'free' ⭐
 
-Qualcomm has detailed the specs for its Snapdragon C processor, offering 8 cores and all-day battery life. The processor claims 67% faster performance on battery than Intel N250. However, its AC performance remains unclear.
+Prusa Research is upgrading its 3D printers with second-generation models, including XL and CORE One lines. All new orders will receive the updated models at no additional cost. This upgrade aims to improve performance and efficiency.
 
-💡 *Qualcomm challenges Intel in battery efficiency for budget laptops.*
+💡 *Free upgrades enhance 3D printing experience for Prusa Research customers.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/qualcomm-details-snapdragon-c-specs-for-usd300-laptops-for-the-first-time-claims-67-percent-faster-performance-on-battery-than-intel-n250-ac-performance-remains-a-mystery)
-
----
-
-### 2. YMTC breaks into the top three NAND makers for the first time as AI servers swallow 48% of all flash Chinese vendor has 14% share, according to research 
-
-YMTC has entered the top three NAND makers for the first time, with a 14% share of the market, driven by the growing demand for AI servers, which account for 48% of all flash sales.
-
-💡 *YMTC's rise reflects China's increasing role in global flash memory supply.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/ymtc-breaks-into-the-top-three-nand-makers-for-the-first-time)
+🔗 [Read Full Article](https://www.tomshardware.com/3d-printing/prusa-research-xl-core-one-and-core-one-l-all-to-receive-second-generation-upgrades-all-new-orders-get-updated-model-for-free)
 
 ---
 
-### 3. AMD's TPM implementation includes two high-severity flaws, but fixes have been available since May 
+### 2. Anthropic's Claude tried to solve the Riemann hypothesis and found something new instead ⭐
 
-AMD's TPM implementation had two high-severity flaws, fixed since May. Researchers identified the issue, prompting company updates. The fixed code was available before the public patch.
+Anthropic's Claude made a breakthrough in the Riemann Hypothesis, increasing the lower bound of zeros on the critical line to 67.2%.
 
-💡 *Publicly available fixes were delayed in reaching affected users.*
+💡 *Advances in Riemann Hypothesis impact cryptography and number theory fields*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113448-amd-tpm-implementation-includes-two-high-severity-flaws.html)
-
----
-
-### 4. Scientists found a way to generate quantum entanglement using sunlight, not lasers 
-
-Scientists generated quantum entanglement using sunlight, not traditional lasers, for the first time. This breakthrough challenges the long-held assumption that lasers are necessary. The study does not aim to replace laser-based systems, but expands possibilities.
-
-💡 *Sunlight can create entangled photons, broadening quantum source options*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113454-sunlight-can-generate-entangled-photons-quantum-technology-researchers.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113472-anthropic-claude-tried-solve-riemann-hypothesis-found-something.html)
 
 ---
 
-### 5. Modders give the Steam Machine a Radeon eGPU and water cooling, because why not 
+### 3. Geekom IT13 Max 2026 review: Meteor Lake rides again in a $799 mini PC 
 
-Modders have enhanced the Steam Machine's performance through eGPU and water cooling modifications, increasing its capabilities. One modder successfully added external graphics, while another created a custom water block. This boosts the system's performance and efficiency.
+The Geekom IT13 Max 2026 mini PC packs an Intel Meteor Lake Core Ultra 9 processor with 24GB DDR5 RAM, offering a powerful and affordable solution for demanding tasks.
 
-💡 *Performance upgrades for Steam Machines expand gaming possibilities.*
+💡 *Meteor Lake brings high-end performance to budget-friendly mini PCs.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113444-modders-give-steam-machine-radeon-egpu-water-cooling.html)
-
----
-
-### 6. Oracle plans more layoffs weeks after spending most of its $2.1 billion restructuring budget, report claims some teams face double-digit percentage reductions, 21,000 full-time positions already eliminated 
-
-Oracle plans to cut more jobs, with some teams facing double-digit percentage reductions, following the elimination of 21,000 full-time positions.
-
-💡 *Layoffs continue despite significant restructuring investment, raising concerns about Oracle's workforce sustainability.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/oracle-plans-more-layoffs-weeks-after-spending-most-of-its-2-1-billion-restructuring-budget)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/mini-pcs/geekom-it13-max-2026-review-meteor-lake-rides-again-in-a-usd799-mini-pc)
 
 ---
 
-### 7. Nvidia doubles RTX PRO 6000 Blackwell's MSRP to a staggering $16,000 96GB card started pre-orders below $8,000 last year 
+### 4. Coin-sized device can hack a Boeing 737 s Flight Management Computer, mess with takeoff weights, or even divert an aircraft gadget connects to an easily accessible port that overrides commands from the pilots, uses in-flight Wi-Fi 
 
-Nvidia's RTX 6000 Pro Blackwell data center GPU has doubled in price since launch, now at $16,000, up 20% in just a couple of months, driven by AI demand and unprecedented data center buildouts.
+Security researchers found a vulnerability in Boeing 737's avionics system, allowing remote hacking through in-flight Wi-Fi by plugging a coin-sized device into the diagnostic port. This device can override pilot commands and compromise flight operations. The vulnerability could have significant consequences for aircraft safety.
 
-💡 *AI-driven data center growth fuels GPU price surges dramatically.*
+💡 *Remote hacking of flight systems poses a critical risk to air travel safety.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/gpus/nvidia-doubles-rtx-pro-6000-blackwells-msrp-to-a-staggering-usd16-000-96gb-card-started-pre-orders-below-usd8-000-last-year)
-
----
-
-### 8. AI data center developers begin suing local jurisdictions behind bans and moratoriums claims range from officials exceeding authority to violations of due process and equal protection laws 
-
-Data center developers sue local jurisdictions over temporary bans and moratoriums, citing due process and equal protection violations. The lawsuits have led to one county reversing their decision, while others continue to fight in court. This trend may spark changes in zoning regulations nationwide.
-
-💡 *Government overreach on zoning regulations affects tech infrastructure development*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-developers-begin-suing-local-jurisdictions-behind-bans-and-moratoriums-claims-range-from-officials-exceeding-authority-to-violations-of-due-process-and-equal-protection-laws)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/coin-sized-device-can-hack-a-boeing-737s-flight-management-computer-mess-with-takeoff-weights-or-even-divert-an-aircraft-gadget-connects-to-an-easily-accessible-port-that-overrides-commands-from-the-pilots-uses-in-flight-wi-fi)
 
 ---
 
-### 9. CoreWeave proves Nvidia's aging AI GPUs from 2020 can generate profit nine years after deployment, signs A100 contracts into 2029 power constraints and legacy infrastructure keep old GPUs profitable 
+### 5. Critical 'Zoomsday' flaw enables total device takeover during Zoom calls AI-assisted research only used 20 prompts to find an exploit to hack hundreds of millions of people. 
 
-CoreWeave's revenue surged 112% year-over-year to $2.58 billion in quarterly earnings. This success can be attributed to the profitability of Nvidia's aging AI GPUs from 2020. The company is still signing contracts for the A100 despite power constraints.
+A critical Zoom vulnerability, dubbed 'Zoomsday', allows attackers to take over users' devices during calls. AI-assisted research discovered the exploit in under 20 prompts, posing a significant threat to hundreds of millions of users. The vulnerability can be exploited within a Zoom meeting.
 
-💡 *Legacy infrastructure maintains profitability of outdated AI GPUs nine years later*
+💡 *AI-assisted research can rapidly uncover catastrophic security vulnerabilities in popular software.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/coreweave-ceo-mike-intrator-says-it-has-signed-an-a100-contract-running-into-2029)
-
----
-
-### 10. Suspected China-linked hackers used AI to run the first-ever end-to-end autonomous cyberattack on Taiwan's government, Israeli firm says open-source-built tool continuously devised effective hack strategies in real-time 
-
-Suspected China-linked hackers used AI to breach Taiwanese government systems, compromising 85 accounts and stealing over 2,500 records.
-
-💡 *Autonomous AI agents heighten the risk of real-time, adaptive cyberattacks globally.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/suspected-china-linked-hackers-used-ai-to-run-the-first-ever-end-to-end-autonomous-cyberattack-on-taiwans-government-israeli-firm-says-open-source-built-tool-continuously-devised-effective-hack-strategies-in-real-time)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/zoomsday-vulnerability-let-anyone-in-a-zoom-meeting-take-over-anybody-else-ai-assisted-research-only-used-20-prompts-to-find-an-exploit-to-hack-hundred-of-millions-of-people)
 
 ---
 
-### 11. Nova Lake CPUs with cut-down E-core clusters may still retain full cache pool, says new leak 8P+12E config predictions revised from 33MB to 36MB, 4P+4E config from 15MB to 18MB 
+### 6. Elon Musk says xAI will increase data center capacity 7x by 2027 targeting 10 gigawatts of compute, up to $500 billion in revenue by the end of next year 
 
-Nova Lake CPUs with reduced E-core clusters may retain full cache pool, according to a recent leak.
+Elon Musk's xAI aims to boost data center capacity 7x by 2027, targeting 10 gigawatts of compute power and potentially $500 billion in revenue.
 
-💡 *Cache pool retention affects performance in CPU-intensive tasks and workloads.*
+💡 *Transformative AI capabilities on the horizon with massive compute power increase.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/nova-lake-cpus-with-cut-down-e-core-clusters-may-still-retain-full-cache-pool-says-new-leak-8p-12e-config-predictions-revised-from-33mb-to-36mb-4p-4e-config-from-15mb-to-18mb)
-
----
-
-### 12. How optical interconnects and silicon photonics emerged as AI's next hot commodity looming US-China summit puts photonics into the crosshairs 
-
-The US aims to exclude Chinese optical transceivers from AI data centers, but China's dominance in the photonics supply chain makes a ban challenging. This move is part of a larger trade dispute between the two nations. The outcome of the ban will significantly impact the global photonics industry.
-
-💡 *Global access to photonics technology hangs in US-China trade balance*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/photonics/how-optical-interconnects-and-silicon-photonics-emerged-as-ais-next-hot-commodity-looming-us-china-summit-puts-photonics-into-the-crosshairs)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-xai-will-increase-data-center-capacity-7x-by-2027-targeting-10-gigawatts-of-compute-up-to-usd500-billion-in-revenue-by-the-end-of-next-year)
 
 ---
 
-### 13. Claude will begin digitally watermarking marking AI-generated text and images Anthropic details how it'll comply with the EU's Artificial Intelligence Act 
+### 7. AAEON PICO-ADN2 A low-profile Alder Lake-N Pico-ITX SBC for space-constrained applications 
 
-Anthropic's Claude AI models will digitally watermark generated content for EU users, enabling identification of AI-created material. This move aims to comply with the EU's Artificial Intelligence Act and promote transparency. The digital marks will be embedded in text and images.
+AAEON PICO-ADN2 is a low-profile Pico-ITX SBC for space-constrained applications, powered by Intel Alder Lake-N SoC, featuring multi-display support and connectivity options.
 
-💡 *Transparency is key to AI accountability and consumer trust.*
+💡 *Low-profile design for space-constrained transportation and automation applications.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-will-begin-digitally-watermarking-marking-ai-generated-text-and-images-anthropic-details-how-itll-comply-with-the-eus-artificial-intelligence-act)
-
----
-
-### 14. Samsung Foundry updates process roadmap to move 1.4nm node to 2029 high-NA EUV will enable 1nm-class and smaller nodes in 2030 and beyond 
-
-Samsung Foundry delays 1.4nm-class node to 2029 and plans to adopt High-NA EUV for 1nm-class process technology in 2030.
-
-💡 *Advancements in EUV enable further miniaturization of semiconductor nodes*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/samsung-foundry-updates-process-roadmap-to-move-1-4nm-node-to-2029-high-na-euv-will-enable-1nm-class-and-smaller-nodes-in-2030-and-beyond)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/13/aaeon-pico-adn2-a-low-profile-alder-lake-n-pico-itx-sbc-for-space-constrained-applications/)
 
 ---
 
-### 15. Save over $600 on a massive 18-inch gaming laptop as it falls to a new all-time low price at Amazon Acer's Predator Helios Neo 18 AI packs an RTX 5070 Ti and 32GB of memory 
+### 8. Disgruntled security researcher just dropped another Windows zero-day, right on schedule 
 
-Acer's Predator Helios Neo 18 AI gaming laptop has reached an all-time low price at Amazon, with a significant $600 price drop. This massive 18-inch laptop features an RTX 5070 Ti and 32GB of memory. It's a great opportunity for gamers to upgrade their devices.
+NightmareEclipse has released ShieldBreak, a Windows Defender zero-day vulnerability, granting full access to Windows devices.
 
-💡 *Gaming laptops become more affordable for budget-conscious buyers suddenly*
+💡 *Windows Defender exploit threatens entire device security and user data integrity*
 
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/save-over-usd600-on-a-massive-18-inch-gaming-laptop-as-it-falls-to-a-new-all-time-low-price-at-amazon-acers-predator-helios-neo-18-ai-packs-an-rtx-5070-ti-and-32gb-of-memory)
-
----
-
-### 16. Passenger returning from DEF CON 34 spoofs Delta Wi-Fi network while in flight using pentest tool pilots tell ground crew to alert corporate security after attendee from hacking conference brings the party to the sky 
-
-A flight from DEF CON 34 was targeted by a cybersecurity attendee using a pentest tool, spoofing the Delta Wi-Fi network and redirecting passengers to a phishing website. Although flight safety was unaffected, passengers' credentials may have been stolen. The incident highlights the vulnerability of in-flight Wi-Fi networks.
-
-💡 *In-flight Wi-Fi networks are vulnerable to cyber attacks in mid-air.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/passenger-returning-from-def-con-34-spoofs-delta-wi-fi-network-while-in-flight-using-pentest-tool-pilots-tell-ground-crew-to-alert-corporate-security-after-attendee-from-hacking-conference-brings-the-party-to-the-sky)
+🔗 [Read Full Article](https://www.techspot.com/news/113477-disgruntled-security-researcher-dropped-another-windows-zero-day.html)
 
 ---
 
-### 17. Independent bookstores in Europe receive suspicious orders for thousands of books, prompting fears they'll be destroyed to train AI sellers believe acquisitions are part of AI tech companies push to get more data 
+### 9. Twitch finally lets you opt out of AI training, years after it started 
 
-European bookstores receive suspicious large orders for obscure, low-demand titles. Fears exist that these orders are part of a data collection strategy by AI companies to improve their language models. The sudden spike in demand for obscure books raises concerns.
+Twitch has added an opt-out setting for users to exclude their content from AI training.
 
-💡 *AI firms exploit bookstores for data to train language models.*
+💡 *Users regain control over their content and AI-generated data usage.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/independent-bookstores-in-europe-receive-suspicious-orders-for-thousands-of-books-prompting-fears-theyll-be-destroyed-to-train-ai-sellers-believe-acquisitions-are-part-of-ai-tech-companies-push-to-get-more-data)
-
----
-
-### 18. Google's $29 Pixel Tag helps you keep track of your valuables 
-
-The Pixel Tag allows users to track their valuables with a compatible Android device. To pair, remove the battery tab and follow on-screen instructions. A custom name can be set up during setup.
-
-💡 *Track valuables with Google's compact and user-friendly Pixel Tag device.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113456-google-29-pixel-tag-helps-you-keep-track.html)
+🔗 [Read Full Article](https://www.techspot.com/news/113467-twitch-finally-gives-streamers-ai-training-opt-out.html)
 
 ---
 
-### 19. NYC could force Amazon and FedEx to directly employ its delivery drivers 
+### 10. Functioning version of 'the first arcade video game ever created' heads to auction with $200,000 estimate green sparkle 2-player edition of Computer Space hails from 1973 
 
-NYC considers forcing major delivery companies to directly employ drivers.
+A 1973 Computer Space green sparkle 2-player arcade game is up for auction, estimated to fetch $200,000. This rare find is one of the first coin-operated video games ever created. It is being sold via RR Auctions in Boston.
 
-💡 *Enhanced job security and benefits for delivery workers matter greatly.*
+💡 *First coin-operated video game's existence is a gaming history treasure*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113445-amazon-could-forced-directly-employ-delivery-drivers-under.html)
-
----
-
-### 20. The "Godmother of AI" says the biggest AI risk in schools isn't cheating it's students losing the desire to learn 
-
-The 'Godmother of AI' warns that AI's biggest risk in schools is students losing motivation to learn.
-
-💡 *Losing desire to learn outweighs cheating as AI's major school risk.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113455-godmother-ai-biggest-ai-risk-schools-isnt-cheating.html)
+🔗 [Read Full Article](https://www.tomshardware.com/video-games/retro-gaming/functioning-version-of-the-first-arcade-video-game-ever-created-heads-to-auction-with-usd200-000-estimate-green-sparkle-2-player-edition-of-computer-space-hails-from-1973)
 
 ---
 
-### 21. Chrome's new security feature could make stolen session cookies virtually useless 
+### 11. Near-packaged optics (NPO) gains ground as the industry hedges against CPO's growing pains analysts say volume for NPO silicon photonics products will extend until the end of the decade 
 
-Chrome introduces a new security feature to prevent account takeover through session cookies. This feature makes stolen session cookies virtually useless by requiring proof of device ownership. It aims to protect users from common account takeover methods.
+The case for near-packaged optics (NPO) is gaining strength as co-packaged optics (CPO) face challenges. Analysts predict growing demand for NPO silicon photonics products until the end of the decade. This shift reflects the industry's need for adaptable, high-performance solutions.
 
-💡 *Device-bound session credentials lock out session cookie hijacking*
+💡 *CPO limitations drive NPO adoption for AI and data center applications*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113450-chrome-new-security-feature-could-make-stolen-session.html)
-
----
-
-### 22. Tesla knew some of its headlights were twice as bright as legally allowed, now it's recalling 20,000 vehicles 
-
-Tesla is recalling 20,000 vehicles due to excessively bright headlights. The affected models include 1,614 Model 3 sedans and 18,735 Model Y crossovers. The recall affects vehicles built between 2017 and 2023.
-
-💡 *Excessive brightness poses a risk to oncoming drivers and road safety.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113453-tesla-knew-headlights-twice-bright-legally-allowed-now.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/near-packaged-optics-gains-ground-aso-the-industry-hedges-against-co-packaged-optics-growing-pains)
 
 ---
 
-### 23. A years-long investigation just unmasked a major torrent pirate, the how remains unclear 
+### 12. Get 16GB of DDR5 RAM free when you buy AMD's 9900X and an Asus TUF motherboard $659 Newegg combo saves $274, and you get a free 240mm AIO 
 
-A 56-year-old man was arrested for allegedly being a major torrent pirate. He acted as an initial seeder, making files available for others to download. The case involves a 2026 drama file, 'Midnight Taxi'.
+Buy the AMD Ryzen 9 9900X, Asus TUF Gaming X870E-Plus Wifi7, and 16GB Team Group T-Force Vulkan RAM combo on Newegg to save $274 and get the 16GB of DDR5 RAM for free.
 
-💡 *Unmasking a major torrent pirate could have significant implications for copyright holders.*
+💡 *Unlock significant cost savings with bundled RAM deal.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113446-years-long-investigation-unmasked-major-torrent-pirate-how.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/get-16gb-of-ddr5-ram-free-when-you-buy-amds-9900x-and-an-asus-tuf-motherboard-usd659-newegg-combo-saves-usd274-and-you-get-a-free-240mm-aio)
+
+---
+
+### 13. PBS broadcaster loses access to 50TB of data comprising 70 years of TV history after contracted cloud storage vendor goes defunct public TV channel sues Iron Mountain data center, which hosts archival materials, to ensure preservation 
+
+Nine PBS lost access to 50TB of archival data after its cloud provider went defunct. The data center hosting the files claims ownership due to a contract with an intermediary entity. The channel is now suing to ensure preservation of its TV history.
+
+💡 *Cloud storage ownership disputes can compromise archival data integrity*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation)
+
+---
+
+### 14. Humanoid hype may be outrunning reality, IDC analyst warns 
+
+The humanoid robot industry may be prioritizing hype over practicality, according to IDC analyst Phil Solis. With numerous companies investing in bipedal robots, there's a need for a focus on affordability, reliability, and real-world deployments. This could impact the technology's widespread adoption and usability.
+
+💡 *Hype may hinder humanoid robot adoption and practical usability.*
+
+🔗 [Read Full Article](https://www.fiercesensors.com/sensors-fusion/humanoid-hype-may-be-outrunning-reality-idc-analyst-warns)
+
+---
+
+### 15. Comet gets you a free AI assistant directly into your web browser 
+
+Comet offers a Chromium-based browser with integrated AI assistant, Perplexity, providing summaries, answers, and task assistance.
+
+💡 *Streamlines online research with AI-powered browsing assistance.*
+
+🔗 [Read Full Article](https://www.techspot.com/downloads/7794-comet.html)
+
+---
+
+### 16. This modder shrunk a Steam Deck down to Game Boy size 
+
+A modder successfully shrunk a Steam Deck to Game Boy size, requiring key components such as an AMOLED panel and a BIOS modification. This modification will determine if the device functions as a self-contained handheld. Additional work is necessary for completion.
+
+💡 *Miniaturization of gaming consoles could redefine portable gaming experiences.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113468-modder-shrunk-steam-deck-down-game-boy-size.html)
+
+---
+
+### 17. Nvidia raises RTX Pro 6000 Blackwell price to a staggering $16,000 
+
+Nvidia raises the price of its RTX Pro 6000 to $16,000 due to market demand.
+
+💡 *Artificial intelligence drives memory crunch, fueling graphics card price surge.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113460-nvidia-raises-rtx-pro-6000-blackwell-price-staggering.html)
+
+---
+
+### 18. This mouse splits in half to become a presentation remote 
+
+The DS21 is a three-in-one control hub for multi-space use.
+
+💡 *Streamlines device control across home office and living spaces.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113469-ergonomic-mouse-splits-apart-become-handheld-motion-controller.html)
+
+---
+
+### 19. Microsoft is killing off SMS login codes, citing AI-powered hacking 
+
+Microsoft is discontinuing SMS-based 2FA codes for Entra ID accounts. This change is part of Microsoft's shift towards more secure passkeys. The deadline is February 1.
+
+💡 *Shift to passkeys boosts security against AI-powered hacking threats*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113465-microsoft-killing-off-sms-authentication-codes-ai-makes.html)
+
+---
+
+### 20. Cargo thieves are staging car crashes to steal AI data center hardware 
+
+Cargo thieves are using staged car crashes to steal AI data center hardware shipments. The shipments were moving from Silicon Valley to Southern California, with private escort vehicles in tow. This tactic allows thieves to intercept valuable equipment.
+
+💡 *Thieves exploit security measures to steal high-tech shipments with ease.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113463-cargo-thieves-staging-car-crashes-steal-ai-data.html)
+
+---
+
+### 21. HallPass says its embarrassing AI-generated candy typos were intentional rage bait 
+
+HallPass, a new low-calorie candy, launches nationwide on August 29. It's created by Peter Rahal and Michael Tierney, co-founder of David Protein and founder of Stuffed Puffs, respectively. HallPass bars contain 70 calories and 1g of sugar per package.
+
+💡 *New low-calorie candy sparks debate on health and indulgence options*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113470-hallpass-embarrassing-ai-generated-candy-typos-actually-intentional.html)
+
+---
+
+### 22. Over 1,500 games on GOG are missing updates, DLC, and features available elsewhere 
+
+Several hundred games on GOG are missing updates and features available on other launchers.
+
+💡 *GOG's incomplete library undermines its promise of DRM-free gaming experiences.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113462-over-1500-games-gog-missing-updates-dlc-features.html)
+
+---
+
+### 23. The memory crisis is killing off sub-$100 smartphones as US sales plunge 64% 
+
+US smartphone sales dropped 5% in Q2 2026 due to rising memory prices and macroeconomic factors weakening consumer demand.
+
+💡 *Memory price increases cripple affordability of sub-$100 smartphones.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113473-memory-crisis-killing-off-sub-100-smartphones-us.html)
 
 ---
 
