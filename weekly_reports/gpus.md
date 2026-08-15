@@ -1,75 +1,85 @@
 # 🎮 GPUs
-**Week of August 14, 2026**
+**Week of August 15, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 6
-- **Report generated:** 2026-08-14 09:43
+- **Articles this week:** 7
+- **Report generated:** 2026-08-15 09:02
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. 4GB vs. 8GB VRAM: The 1080p Benchmark 
+### 1. Samsung Odyssey G80HS 6K gaming monitor review: Upping the stakes in pixel density 
 
-Benchmarking the 4GB Radeon RX 6500 XT GPU against its 8GB counterpart in modern 1080p games reveals significant performance differences, underscoring the impact of VRAM capacity on gaming performance.
+The Samsung Odyssey G80HS is a 32-inch IPS monitor with 6K resolution at 165 Hz and 330 Hz on secondary pixels, offering HDR and Adaptive-Sync capabilities.
 
-💡 *Higher VRAM capacity significantly improves gaming performance in 1080p resolution.*
+💡 *Revolutionizing gaming with unmatched pixel density and refresh rates.*
 
-🔗 [Read Full Article](https://www.techspot.com/review/3159-vram-benchmark-4gb-vs-8gb/)
-
----
-
-### 2. Just one instruction on AMD's 2015-era CPUs gets you access to Platform Security Processor, microcode, and System Management Interface exploit for 15h and 16h chip families cracks open secret memory areas 
-
-A single instruction can access sensitive areas on AMD CPUs, including the Platform Security Processor, microcode, and System Management Interface. This vulnerability affects the 15h and 16h chip families. It allows unauthorized access to secret memory areas.
-
-💡 *Single instruction bypasses security on AMD CPUs, exposing sensitive data.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/just-one-instruction-on-amds-2015-era-cpus-gets-you-access-to-platform-security-processor-microcode-and-system-management-interface-exploit-for-15h-and-16h-chip-families-cracks-open-secret-memory-areas)
+🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/samsung-odyssey-g80hs-6k-gaming-monitor-review)
 
 ---
 
-### 3. Get 16GB of DDR5 RAM free when you buy AMD's 9900X and an Asus TUF motherboard $659 Newegg combo saves $274, and you get a free 240mm AIO 
+### 2. Start your PC gaming journey with this $1,100 1080p gaming rig, now $300 off RTX 5060 rig from Newegg ships with a 10-core Intel CPU, 32GB of RAM, and a 1TB SSD 
 
-Buy the AMD Ryzen 9 9900X, Asus TUF Gaming X870E-Plus Wifi7, and 16GB Team Group T-Force Vulkan RAM combo on Newegg to save $274 and get the 16GB of DDR5 RAM for free.
+This pre-built PC features a 10-core Intel Core i5-14400F CPU, RTX 5060 GPU, 32GB of RAM, and a 1TB SSD, all available at a discounted price of $1,099.99.
 
-💡 *Unlock significant cost savings with bundled RAM deal.*
+💡 *High-performance gaming on a budget with significant hardware upgrades.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ddr5/get-16gb-of-ddr5-ram-free-when-you-buy-amds-9900x-and-an-asus-tuf-motherboard-usd659-newegg-combo-saves-usd274-and-you-get-a-free-240mm-aio)
-
----
-
-### 4. Jump into PC gaming for under a thousand dollars with a $350 saving on this RTX 5060-powered laptop the 15.6-inch MSI Cyborg 15 is just $949 at Walmart 
-
-Get a high-performance gaming laptop at Walmart for $949, saving $350.
-
-💡 *Affordable high-end gaming laptops are now more accessible to consumers.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/laptops/gaming-laptops/jump-into-pc-gaming-for-under-a-thousand-dollars-with-a-usd350-saving-on-this-rtx-5060-powered-laptop-the-15-6-inch-msi-cyborg-15-is-just-usd949-at-walmart)
+🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/start-your-pc-gaming-journey-with-this-usd1-100-1080p-gaming-rig-now-usd300-off-rtx-5060-rig-from-newegg-ships-with-a-10-core-intel-cpu-32gb-of-ram-and-a-1tb-ssd)
 
 ---
 
-### 5. Humanoid hype may be outrunning reality, IDC analyst warns 
+### 3. Modder straps two desktop CPU coolers to ZTE handset, turns smartphone into a gaming PC Snapdragon 8 Elite SoC with 24GB of RAM runs The Witcher 3 at 1080p ultra 
 
-The humanoid robot industry may be prioritizing hype over practicality, according to IDC analyst Phil Solis. With numerous companies investing in bipedal robots, there's a need for a focus on affordability, reliability, and real-world deployments. This could impact the technology's widespread adoption and usability.
+A heavily modified ZTE Nubia Z70 Ultra smartphone is turned into a makeshift gaming PC by attaching two full-size CPU coolers and utilizing Termux, Linux, and compatibility layers. This allows the device to run demanding games such as The Witcher 3 at high settings. The result is a powerful handheld gaming experience.
 
-💡 *Hype may hinder humanoid robot adoption and practical usability.*
+💡 *Advancements in smartphone hardware and software enable new portable gaming possibilities*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors-fusion/humanoid-hype-may-be-outrunning-reality-idc-analyst-warns)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cooling/modder-straps-two-desktop-cpu-coolers-to-zte-nubia-z70-ultra-turns-smartphone-into-a-gaming-pc-snapdragon-8-elite-soc-with-24gb-of-ram-runs-the-witcher-3-at-1080p-ultra)
 
 ---
 
-### 6. Nvidia raises RTX Pro 6000 Blackwell price to a staggering $16,000 
+### 4. AMD borrows $4.75 billion for 'general corporate purposes' company gives no insight into how it plans to spend cash injection 
 
-Nvidia raises the price of its RTX Pro 6000 to $16,000 due to market demand.
+AMD raises $4.75 billion for general corporate purposes, no specific plans disclosed.
 
-💡 *Artificial intelligence drives memory crunch, fueling graphics card price surge.*
+💡 *AMD's large cash injection may signal significant future investments or acquisitions.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113460-nvidia-raises-rtx-pro-6000-blackwell-price-staggering.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-borrows-usd4-75-billion-for-general-corporate-purposes-company-gives-no-insight-into-how-it-plans-to-spend-cash-injection)
+
+---
+
+### 5. Another Ryzen 7 7800X3D reportedly burns out despite AMD's voltage fix 
+
+A three-month-old Ryzen 7 7800X3D reportedly failed due to an unexpected shutdown.
+
+💡 *Ryzen 7 7800X3D reliability issues persist despite AMD's voltage fix attempts.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113481-another-ryzen-7-7800x3d-reportedly-burns-out-despite.html)
+
+---
+
+### 6. Marvel's Wolverine arrives complete on disc, just as physical gaming fades 
+
+Marvel's Wolverine will be fully playable from the disc, offering a complete experience for users straight out of the box. This is a rare feature in modern gaming, as many titles require a download to fully access their content. The announcement comes as physical gaming is fading.
+
+💡 *Physical games are still valuable for instant, complete gameplay access.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113489-marvel-wolverine-arrives-complete-disc-physical-gaming-fades.html)
+
+---
+
+### 7. Phantom Blade Zero can run on old GPUs, but you'll need way more for ray tracing 
+
+Pre-orders are open for Phantom Blade Zero, a kung fu-themed action-adventure game with Unreal Engine 5 graphics. The game aims to achieve high frame rates on old GPUs, but requires more powerful hardware for ray tracing. Developer S-Game Studio is targeting a competitive market.
+
+💡 *Ray tracing significantly increases GPU requirements for high-quality visuals.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113479-phantom-blade-zero-can-run-old-gpus-but.html)
 
 ---
 

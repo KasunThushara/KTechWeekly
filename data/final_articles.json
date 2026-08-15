@@ -1,464 +1,340 @@
 [
   {
-    "title": "Just one instruction on AMD's 2015-era CPUs gets you access to Platform Security Processor, microcode, and System Management Interface exploit for 15h and 16h chip families cracks open secret memory areas",
-    "summary": "A single instruction can access sensitive areas on AMD CPUs, including the Platform Security Processor, microcode, and System Management Interface. This vulnerability affects the 15h and 16h chip families. It allows unauthorized access to secret memory areas.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/just-one-instruction-on-amds-2015-era-cpus-gets-you-access-to-platform-security-processor-microcode-and-system-management-interface-exploit-for-15h-and-16h-chip-families-cracks-open-secret-memory-areas",
+    "title": "G.Skill Trident Z5 NeoX RGB DDR5-6000 C30 2x16GB Review EXPO ULL memory kit to max out your Ryzen",
+    "summary": "G.Skill's Trident Z5 NeoX DDR5-6000 C30 memory kit features AMD EXPO ULL, designed for maximum Ryzen performance, offering high-speed memory and RGB lighting.",
+    "link": "https://www.tomshardware.com/pc-components/ram/g-skill-trident-z5-neox-rgb-ddr5-6000-c30-2x16gb-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-15T09:01:37.099086",
+    "insight": "Maximizing Ryzen performance requires optimized DDR5 memory and EXPO ULL compatibility."
+  },
+  {
+    "title": "Scythe Magoroku Review: excellent RAM thermals, but needs improvement elsewhere",
+    "summary": "Scythe Magoroku provides excellent RAM thermals, but falls short in other areas. It excels with Intel Arrow Lake systems. Overall, a decent but not outstanding CPU cooler.",
+    "link": "https://www.tomshardware.com/pc-components/air-cooling/scythe-magoroku-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-15T09:01:37.099205",
+    "insight": "Magoroku prioritizes RAM cooling over CPU performance improvement."
+  },
+  {
+    "title": "Cargo thieves ram security escorts to hijack AI hardware shipments in California brazen thieves employ PIT maneuver, rear-ending tactics to secure goods for the black market",
+    "summary": "Cargo thieves in California employed aggressive tactics to hijack AI hardware shipments, targeting security escort vehicles and making off with millions of dollars in AI data center hardware.",
+    "link": "https://www.tomshardware.com/tech-industry/cargo-thieves-rammed-security-escorts-to-hijack-ai-hardware-shipments-in-california",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-15T09:01:37.099331",
+    "insight": "California's cargo thefts compromise AI research and sensitive technological advancements."
+  },
+  {
+    "title": "Samsung Odyssey G80HS 6K gaming monitor review: Upping the stakes in pixel density",
+    "summary": "The Samsung Odyssey G80HS is a 32-inch IPS monitor with 6K resolution at 165 Hz and 330 Hz on secondary pixels, offering HDR and Adaptive-Sync capabilities.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/samsung-odyssey-g80hs-6k-gaming-monitor-review",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-15T09:01:37.099444",
+    "insight": "Revolutionizing gaming with unmatched pixel density and refresh rates."
+  },
+  {
+    "title": "Plaintiff busted trying to use AI prompt injection to win court case, hides text instruction in filing demands AI model reviewing the text should side with him, rumbled because of strange white spaces in text",
+    "summary": "A self-represented plaintiff tried to manipulate a court decision using AI. They embedded a hidden AI prompt in their filing, but it was detected due to unusual white spaces. The court responded by restricting electronic document submissions.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/plaintiff-busted-trying-to-use-ai-prompt-injection-to-win-court-case-hides-text-instruction-in-filing-demands-ai-model-reviewing-the-text-should-side-with-him-rumbled-because-of-strange-white-spaces-in-text",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-15T09:01:37.099574",
+    "insight": "AI manipulation attempts can be exposed by technical details."
+  },
+  {
+    "title": "US imposes up to 100% tariffs on foreign-made drones and components China remains primary target as Washington moves to reduce reliance on overseas suppliers",
+    "summary": "The US imposes up to 100% tariffs on foreign-made drones and components, targeting China to reduce reliance on overseas suppliers and protect national security.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/us-imposes-up-to-100-percent-tariffs-on-foreign-made-drones-and-components-china-remains-primary-target-as-washington-moves-to-reduce-reliance-on-overseas-suppliers",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-15T09:01:37.099692",
+    "insight": "National security concerns drive US tariffs on foreign-made drones and components."
+  },
+  {
+    "title": "Older Raptor Lake CPUs are a core part of the portfolio for years to come, says Intel there s been a sudden inrush of demand for LGA 1700 chips due to DDR5 prices",
+    "summary": "Intel sees increased demand for Raptor Lake CPUs due to DDR5 price surge, making them a core part of the company's lineup for desktop builders for years to come.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/raptor-lake-is-a-core-part-of-the-portfolio-for-years-to-come-says-intel-theres-been-a-sudden-inrush-of-demand-for-lga-1700-chips-due-to-ddr5-prices",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-15T09:01:37.099826",
+    "insight": "Rising DDR5 costs drive demand for older LGA 1700 CPUs."
+  },
+  {
+    "title": "Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms our full 1:1 interview transcript",
+    "summary": "Intel VP Robert Hallock discusses Nova Lake expectations and Raptor Lake refresh plans, highlighting the company's focus on DIY builders amidst RAM shortages. He teases a potential return to Raptor Lake architecture for DDR4 platforms. The interview provides insight into Intel's shift in strategy.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-vp-robert-hallock-sets-nova-lake-expectations-teases-return-to-raptor-lake-for-ddr4-platforms-our-full-1-1-interview-transcript",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-15T09:01:37.099944",
+    "insight": "Intel adapting to RAM shortages with Raptor Lake refresh plans."
+  },
+  {
+    "title": "Start your PC gaming journey with this $1,100 1080p gaming rig, now $300 off RTX 5060 rig from Newegg ships with a 10-core Intel CPU, 32GB of RAM, and a 1TB SSD",
+    "summary": "This pre-built PC features a 10-core Intel Core i5-14400F CPU, RTX 5060 GPU, 32GB of RAM, and a 1TB SSD, all available at a discounted price of $1,099.99.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/start-your-pc-gaming-journey-with-this-usd1-100-1080p-gaming-rig-now-usd300-off-rtx-5060-rig-from-newegg-ships-with-a-10-core-intel-cpu-32gb-of-ram-and-a-1tb-ssd",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-15T09:01:37.100062",
+    "insight": "High-performance gaming on a budget with significant hardware upgrades."
+  },
+  {
+    "title": "Nvidia Jetson chip found in Russian cruise missile, Ukraine claims presence in S-71 'Monochrome' weapon may indicate use of AI tech",
+    "summary": "Ukraine's intelligence reports that Russia's S-71 'Monochrome' cruise missiles contain Nvidia's Jetson Orin NX modules, potentially utilizing AI technology for terminal guidance.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-jetson-chip-found-in-russian-cruise-missile-ukraine-claims-presence-in-s-71-monochrome-weapon-may-indicate-use-of-ai-tech",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-15T09:01:37.100174",
+    "insight": "Potential use of AI in Russian cruise missiles raises military tech concerns."
+  },
+  {
+    "title": "Modder straps two desktop CPU coolers to ZTE handset, turns smartphone into a gaming PC Snapdragon 8 Elite SoC with 24GB of RAM runs The Witcher 3 at 1080p ultra",
+    "summary": "A heavily modified ZTE Nubia Z70 Ultra smartphone is turned into a makeshift gaming PC by attaching two full-size CPU coolers and utilizing Termux, Linux, and compatibility layers. This allows the device to run demanding games such as The Witcher 3 at high settings. The result is a powerful handheld gaming experience.",
+    "link": "https://www.tomshardware.com/pc-components/cooling/modder-straps-two-desktop-cpu-coolers-to-zte-nubia-z70-ultra-turns-smartphone-into-a-gaming-pc-snapdragon-8-elite-soc-with-24gb-of-ram-runs-the-witcher-3-at-1080p-ultra",
     "categories": [
       "Hardware",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.379113",
-    "insight": "Single instruction bypasses security on AMD CPUs, exposing sensitive data."
+    "processed_date": "2026-08-15T09:01:37.100289",
+    "insight": "Advancements in smartphone hardware and software enable new portable gaming possibilities"
   },
   {
-    "title": "Functioning version of 'the first arcade video game ever created' heads to auction with $200,000 estimate green sparkle 2-player edition of Computer Space hails from 1973",
-    "summary": "A 1973 Computer Space green sparkle 2-player arcade game is up for auction, estimated to fetch $200,000. This rare find is one of the first coin-operated video games ever created. It is being sold via RR Auctions in Boston.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/functioning-version-of-the-first-arcade-video-game-ever-created-heads-to-auction-with-usd200-000-estimate-green-sparkle-2-player-edition-of-computer-space-hails-from-1973",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.379205",
-    "insight": "First coin-operated video game's existence is a gaming history treasure"
-  },
-  {
-    "title": "Prusa Research XL, Core One, and Core One L all to receive second-generation upgrades all new orders get updated model for 'free'",
-    "summary": "Prusa Research is upgrading its 3D printers with second-generation models, including XL and CORE One lines. All new orders will receive the updated models at no additional cost. This upgrade aims to improve performance and efficiency.",
-    "link": "https://www.tomshardware.com/3d-printing/prusa-research-xl-core-one-and-core-one-l-all-to-receive-second-generation-upgrades-all-new-orders-get-updated-model-for-free",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-08-14T09:42:22.379292",
-    "insight": "Free upgrades enhance 3D printing experience for Prusa Research customers."
-  },
-  {
-    "title": "Microsoft's nemesis drops new zero-day privilege escalation vulnerability attack grants system-level privileges, but it could already be patched",
-    "summary": "Microsoft's nemesis, Nightmare Eclipse, releases ShieldBreak, a Windows zero-day exploit. However, Microsoft has quickly patched it with Defender. Users who haven't updated may still be vulnerable.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-nemesis-drops-new-zero-day-privilege-escalation-vulnerability-attack-grants-system-level-privileges-but-it-could-already-be-patched",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.379370",
-    "insight": "Unpatched systems remain vulnerable to critical Windows zero-day exploit attacks."
-  },
-  {
-    "title": "Near-packaged optics (NPO) gains ground as the industry hedges against CPO's growing pains analysts say volume for NPO silicon photonics products will extend until the end of the decade",
-    "summary": "The case for near-packaged optics (NPO) is gaining strength as co-packaged optics (CPO) face challenges. Analysts predict growing demand for NPO silicon photonics products until the end of the decade. This shift reflects the industry's need for adaptable, high-performance solutions.",
-    "link": "https://www.tomshardware.com/tech-industry/near-packaged-optics-gains-ground-aso-the-industry-hedges-against-co-packaged-optics-growing-pains",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.379456",
-    "insight": "CPO limitations drive NPO adoption for AI and data center applications"
-  },
-  {
-    "title": "PS5 emulation arrives on Steam Deck, Astro Playroom showcased running at 0.6 FPS milestone SharpEmu development shows promise, despite unplayable performance",
-    "summary": "PS5 emulation arrives on Steam Deck, with Astro's Playroom running at 0.5-1 FPS. Despite unplayable performance, this proof-of-concept sparks excitement for the scenes. SharpEmu development shows promise.",
-    "link": "https://www.tomshardware.com/video-games/playstation/ps5-emulation-arrives-on-steam-deck-astro-playroom-showcased-running-at-0-6-fps-milestone-sharpemu-development-shows-promise-despite-unplayable-performance",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-08-14T09:42:22.379538",
-    "insight": "PS5 emulation on Steam Deck marks a significant technical breakthrough"
-  },
-  {
-    "title": "Memory maker CXMT overtakes Tencent to become China's most valuable company 17 days after its IPO now worth $524 billion",
-    "summary": "CXMT surpassed Tencent to become China's most valuable company after 17 days of its IPO, now worth $524 billion.",
-    "link": "https://www.tomshardware.com/tech-industry/cxmt-overtakes-tencent-to-become-chinas-most-valuable-company-17-days-after-its-ipo",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.379622",
-    "insight": "Memory technology overtakes tech giants in market value."
-  },
-  {
-    "title": "Keychron launches ludicrous 100-key custom macro pad 10 x 10 keyboard uses exclusive Keychron Apex switches and features per-key RGB control",
-    "summary": "The Keychron C100 macro pad offers 100 custom keys, per-key RGB lighting, and 8K polling rate for enhanced productivity and gaming.",
-    "link": "https://www.tomshardware.com/peripherals/mechanical-keyboards/keychron-launches-ludicrous-100-key-custom-macro-pad-10-x-10-keyboard-uses-exclusive-keychron-apex-switches-and-features-per-key-rgb-control",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.379714",
-    "insight": "Industry-first 100-key design redefines gaming and productivity keyboards."
-  },
-  {
-    "title": "Geekom IT13 Max 2026 review: Meteor Lake rides again in a $799 mini PC",
-    "summary": "The Geekom IT13 Max 2026 mini PC packs an Intel Meteor Lake Core Ultra 9 processor with 24GB DDR5 RAM, offering a powerful and affordable solution for demanding tasks.",
-    "link": "https://www.tomshardware.com/desktops/mini-pcs/geekom-it13-max-2026-review-meteor-lake-rides-again-in-a-usd799-mini-pc",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-14T09:42:22.379791",
-    "insight": "Meteor Lake brings high-end performance to budget-friendly mini PCs."
-  },
-  {
-    "title": "Maxsun Terminator B850M Pro II Motherboard Review: Comparable features, but US pricing is over MSRP",
-    "summary": "The Maxsun Terminator B850M Pro II is a budget Micro ATX motherboard with decent features, but it's only a good option if purchased at its MSRP of $199.99. It's a decent choice for those on a tight budget who can find it at the listed price. However, US pricing is often higher than the MSRP.",
-    "link": "https://www.tomshardware.com/pc-components/motherboards/maxsun-terminator-b850m-pro-ii-motherboard-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-14T09:42:22.379873",
-    "insight": "MSRP pricing discrepancy affects US buyers' value perception."
-  },
-  {
-    "title": "Coin-sized device can hack a Boeing 737 s Flight Management Computer, mess with takeoff weights, or even divert an aircraft gadget connects to an easily accessible port that overrides commands from the pilots, uses in-flight Wi-Fi",
-    "summary": "Security researchers found a vulnerability in Boeing 737's avionics system, allowing remote hacking through in-flight Wi-Fi by plugging a coin-sized device into the diagnostic port. This device can override pilot commands and compromise flight operations. The vulnerability could have significant consequences for aircraft safety.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/coin-sized-device-can-hack-a-boeing-737s-flight-management-computer-mess-with-takeoff-weights-or-even-divert-an-aircraft-gadget-connects-to-an-easily-accessible-port-that-overrides-commands-from-the-pilots-uses-in-flight-wi-fi",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-14T09:42:22.379967",
-    "insight": "Remote hacking of flight systems poses a critical risk to air travel safety."
-  },
-  {
-    "title": "Get 16GB of DDR5 RAM free when you buy AMD's 9900X and an Asus TUF motherboard $659 Newegg combo saves $274, and you get a free 240mm AIO",
-    "summary": "Buy the AMD Ryzen 9 9900X, Asus TUF Gaming X870E-Plus Wifi7, and 16GB Team Group T-Force Vulkan RAM combo on Newegg to save $274 and get the 16GB of DDR5 RAM for free.",
-    "link": "https://www.tomshardware.com/pc-components/ddr5/get-16gb-of-ddr5-ram-free-when-you-buy-amds-9900x-and-an-asus-tuf-motherboard-usd659-newegg-combo-saves-usd274-and-you-get-a-free-240mm-aio",
+    "title": "AMD borrows $4.75 billion for 'general corporate purposes' company gives no insight into how it plans to spend cash injection",
+    "summary": "AMD raises $4.75 billion for general corporate purposes, no specific plans disclosed.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-borrows-usd4-75-billion-for-general-corporate-purposes-company-gives-no-insight-into-how-it-plans-to-spend-cash-injection",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.380046",
-    "insight": "Unlock significant cost savings with bundled RAM deal."
+    "processed_date": "2026-08-15T09:01:37.100392",
+    "insight": "AMD's large cash injection may signal significant future investments or acquisitions."
   },
   {
-    "title": "Critical 'Zoomsday' flaw enables total device takeover during Zoom calls AI-assisted research only used 20 prompts to find an exploit to hack hundreds of millions of people.",
-    "summary": "A critical Zoom vulnerability, dubbed 'Zoomsday', allows attackers to take over users' devices during calls. AI-assisted research discovered the exploit in under 20 prompts, posing a significant threat to hundreds of millions of users. The vulnerability can be exploited within a Zoom meeting.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/zoomsday-vulnerability-let-anyone-in-a-zoom-meeting-take-over-anybody-else-ai-assisted-research-only-used-20-prompts-to-find-an-exploit-to-hack-hundred-of-millions-of-people",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-14T09:42:22.380127",
-    "insight": "AI-assisted research can rapidly uncover catastrophic security vulnerabilities in popular software."
-  },
-  {
-    "title": "This $57.99 8BitDo Ultimate 2 wireless controller is a brilliantly customizable option for PC gamers fully customizable gamepad with Nintendo Switch compatibility includes dual triggers, TMR joysticks, and adjustable RGB lighting",
-    "summary": "Get a customizable 8BitDo Ultimate 2 wireless controller for PC and Switch. Save 17% on this gaming accessory with dual triggers and adjustable lighting.",
-    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/this-usd57-99-8bitdo-ultimate-2-wireless-controller-is-a-brilliantly-customizable-option-for-pc-gamers-fully-customizable-gamepad-with-nintendo-switch-compatibility-includes-dual-triggers-tmr-joysticks-and-adjustable-rgb-lighting",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.380206",
-    "insight": "Highly customizable gaming experience for PC and Switch gamers."
-  },
-  {
-    "title": "Jump into PC gaming for under a thousand dollars with a $350 saving on this RTX 5060-powered laptop the 15.6-inch MSI Cyborg 15 is just $949 at Walmart",
-    "summary": "Get a high-performance gaming laptop at Walmart for $949, saving $350.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/jump-into-pc-gaming-for-under-a-thousand-dollars-with-a-usd350-saving-on-this-rtx-5060-powered-laptop-the-15-6-inch-msi-cyborg-15-is-just-usd949-at-walmart",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.380280",
-    "insight": "Affordable high-end gaming laptops are now more accessible to consumers."
-  },
-  {
-    "title": "Analysts see 'increasing foundry success conviction' as Intel CEO puts $12 million more of his own money in company analysts point to accelerating foundry progress and capex expansion",
-    "summary": "Intel CEO Lip-Bu Ran invests $12 million in company stock, indicating confidence in foundry progress.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/analysts-see-increasing-foundry-success-conviction-as-intel-ceo-puts-usd12-million-more-of-his-own-money-in-company-analysts-point-to-accelerating-foundry-progress-and-capex-expansion",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.380359",
-    "insight": "Management conviction drives foundry growth and increased investment."
-  },
-  {
-    "title": "PBS broadcaster loses access to 50TB of data comprising 70 years of TV history after contracted cloud storage vendor goes defunct public TV channel sues Iron Mountain data center, which hosts archival materials, to ensure preservation",
-    "summary": "Nine PBS lost access to 50TB of archival data after its cloud provider went defunct. The data center hosting the files claims ownership due to a contract with an intermediary entity. The channel is now suing to ensure preservation of its TV history.",
-    "link": "https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.380452",
-    "insight": "Cloud storage ownership disputes can compromise archival data integrity"
-  },
-  {
-    "title": "Alabama residents left powerless to stop massive Bitcoin mining data center despite county and town moratoriums hole in state zoning laws lets facility through",
-    "summary": "Alabama residents cannot stop a 50 MW Bitcoin mining facility due to state zoning laws.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/alabama-residents-left-powerless-to-stop-massive-bitcoin-mining-data-center-despite-county-and-town-moratoriums-hole-in-state-zoning-laws-lets-facility-through",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.380527",
-    "insight": "State's flawed zoning laws hinder community control over large-scale industrial projects."
-  },
-  {
-    "title": "JSAUX FlipGo Horizon Pro dual-screen portable monitor review: Jack of all trades, master of some",
-    "summary": "The JSAUX FlipGo Horizon Pro is a dual-screen portable monitor that offers two 15.6-inch displays and a built-in hub for convenience. This monitor excels in providing a versatile solution for multitasking and productivity. However, it may have limitations in terms of image quality and overall performance.",
-    "link": "https://www.tomshardware.com/monitors/portable-monitors/jsaux-flipgo-horizon-pro-dual-screen-portable-monitor-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.380603",
-    "insight": "Dual-screen portability for enhanced productivity on-the-go"
-  },
-  {
-    "title": "Elon Musk says xAI will increase data center capacity 7x by 2027 targeting 10 gigawatts of compute, up to $500 billion in revenue by the end of next year",
-    "summary": "Elon Musk's xAI aims to boost data center capacity 7x by 2027, targeting 10 gigawatts of compute power and potentially $500 billion in revenue.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-xai-will-increase-data-center-capacity-7x-by-2027-targeting-10-gigawatts-of-compute-up-to-usd500-billion-in-revenue-by-the-end-of-next-year",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-14T09:42:22.380684",
-    "insight": "Transformative AI capabilities on the horizon with massive compute power increase."
-  },
-  {
-    "title": "Gemma Translator multilingual interpreter runs locally on Raspberry Pi 5 with the LiteRT runtime",
-    "summary": "Gemma Translator is an open-source project for Raspberry Pi 5, enabling a local, offline multilingual voice translator using Gemma 4 and LiteRT runtime.",
-    "link": "https://www.cnx-software.com/2026/08/14/gemma-translator-multilingual-interpreter-runs-locally-on-raspberry-pi-5-with-the-litert-runtime/",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.381078",
-    "insight": "Enables offline multilingual voice translation on a local device."
-  },
-  {
-    "title": "AAEON PICO-ADN2 A low-profile Alder Lake-N Pico-ITX SBC for space-constrained applications",
-    "summary": "AAEON PICO-ADN2 is a low-profile Pico-ITX SBC for space-constrained applications, powered by Intel Alder Lake-N SoC, featuring multi-display support and connectivity options.",
-    "link": "https://www.cnx-software.com/2026/08/13/aaeon-pico-adn2-a-low-profile-alder-lake-n-pico-itx-sbc-for-space-constrained-applications/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-14T09:42:22.381216",
-    "insight": "Low-profile design for space-constrained transportation and automation applications."
-  },
-  {
-    "title": "Humanoid hype may be outrunning reality, IDC analyst warns",
-    "summary": "The humanoid robot industry may be prioritizing hype over practicality, according to IDC analyst Phil Solis. With numerous companies investing in bipedal robots, there's a need for a focus on affordability, reliability, and real-world deployments. This could impact the technology's widespread adoption and usability.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/humanoid-hype-may-be-outrunning-reality-idc-analyst-warns",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.382058",
-    "insight": "Hype may hinder humanoid robot adoption and practical usability."
-  },
-  {
-    "title": "Disgruntled security researcher just dropped another Windows zero-day, right on schedule",
-    "summary": "NightmareEclipse has released ShieldBreak, a Windows Defender zero-day vulnerability, granting full access to Windows devices.",
-    "link": "https://www.techspot.com/news/113477-disgruntled-security-researcher-dropped-another-windows-zero-day.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-14T09:42:22.382308",
-    "insight": "Windows Defender exploit threatens entire device security and user data integrity"
-  },
-  {
-    "title": "Candy Crush generates nearly $1 billion annually, 14 years after launch",
-    "summary": "Candy Crush Saga generated $876.5 million in revenue in FY 2025, a slight dip from the previous six years. The game's revenue primarily comes from in-app purchases. The decrease in revenue may indicate a decline in the game's popularity.",
-    "link": "https://www.techspot.com/news/113475-candy-crush-generates-nearly-1-billion-annually-14.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.382388",
-    "insight": "Long-term success is not guaranteed in the gaming industry."
-  },
-  {
-    "title": "Qualcomm's Snapdragon C wants to be the Arm chip for $300 laptops",
-    "summary": "Qualcomm's Snapdragon C is a processor targeting $300 laptops with an 8-core Kryo CPU, clock speeds of 3 GHz single-core and 2 GHz multi-core, and 2 MB total cache.",
-    "link": "https://www.techspot.com/news/113466-qualcomm-snapdragon-c-wants-arm-chip-300-laptops.html",
+    "title": "Gigabyte resurrects 8-year-old B450 chipset with new motherboards AM4 budget king returns as another DDR4 solution to exorbitant RAM prices",
+    "summary": "Gigabyte has released new B450 chipset motherboards for AM4 compatibility, aiming to combat high RAM prices by offering a DDR4 solution. The B450M D3HP and B450M D3HP WIFI6E motherboards are based on an 8-year-old chipset. These releases cater to budget-conscious users seeking affordable options.",
+    "link": "https://www.tomshardware.com/pc-components/motherboards/gigabyte-resurrects-8-year-old-b450-chipset-with-new-motherboards-am4-budget-king-returns-as-another-ddr4-solution-to-exorbitant-ram-prices",
     "categories": [
       "Semiconductors",
       "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-08-14T09:42:22.382471",
-    "insight": "Competing with Arm chips in budget laptop market."
+    "processed_date": "2026-08-15T09:01:37.100505",
+    "insight": "Gigabyte's B450 revival offers affordable DDR4 alternatives to pricey DDR5 RAM."
   },
   {
-    "title": "Windows 11's new CPU-boosting speed trick is rolling out to all apps",
-    "summary": "Microsoft is rolling out the Low Latency Profile (LLP) feature to all Windows 11 users, improving performance across the GUI and native OS apps.",
-    "link": "https://www.techspot.com/news/113459-microsoft-expands-cpu-boosting-feature-all-windows-11.html",
+    "title": "EITWatch open-source ESP32-S3 smartwatch implements planar EIT hand gesture recognition",
+    "summary": "Researchers at Northwestern University introduced EITWatch, an open-source ESP32-S3-based smartwatch with EIT hand gesture recognition.",
+    "link": "https://www.cnx-software.com/2026/08/14/eitwatch-open-source-esp32-s3-smartwatch-implements-planar-eit-hand-gesture-recognition/",
     "categories": [
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-14T09:42:22.382551",
-    "insight": "Enhancing CPU performance for smoother Windows GUI and app experiences"
-  },
-  {
-    "title": "Anthropic's Claude tried to solve the Riemann hypothesis and found something new instead",
-    "summary": "Anthropic's Claude made a breakthrough in the Riemann Hypothesis, increasing the lower bound of zeros on the critical line to 67.2%.",
-    "link": "https://www.techspot.com/news/113472-anthropic-claude-tried-solve-riemann-hypothesis-found-something.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-08-14T09:42:22.382652",
-    "insight": "Advances in Riemann Hypothesis impact cryptography and number theory fields"
-  },
-  {
-    "title": "Comet gets you a free AI assistant directly into your web browser",
-    "summary": "Comet offers a Chromium-based browser with integrated AI assistant, Perplexity, providing summaries, answers, and task assistance.",
-    "link": "https://www.techspot.com/downloads/7794-comet.html",
-    "categories": [
+      "Hardware",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.382733",
-    "insight": "Streamlines online research with AI-powered browsing assistance."
+    "quality_score": 15,
+    "processed_date": "2026-08-15T09:01:37.101061",
+    "insight": "Innovative, compact design enables practical wrist-based gesture recognition technology."
   },
   {
-    "title": "This modder shrunk a Steam Deck down to Game Boy size",
-    "summary": "A modder successfully shrunk a Steam Deck to Game Boy size, requiring key components such as an AMOLED panel and a BIOS modification. This modification will determine if the device functions as a self-contained handheld. Additional work is necessary for completion.",
-    "link": "https://www.techspot.com/news/113468-modder-shrunk-steam-deck-down-game-boy-size.html",
+    "title": "Giada DK320 digital signage player and Edge AI embedded PC supports up to the Intel Core 5 315 Wildcat Lake processor",
+    "summary": "Giada DK320 is a compact digital signage and edge AI PC supporting up to an Intel Core 5 315 processor. It offers advanced features like real-time analytics, intelligent monitoring, and automated decision-making. The system can be equipped with up to 48GB DDR5 RAM and M.2 NVMe storage.",
+    "link": "https://www.cnx-software.com/2026/08/14/giada-dk320-digital-signage-player-and-edge-ai-embedded-pc-supports-up-to-the-intel-core-5-315-wildcat-lake-processor/",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-15T09:01:37.101232",
+    "insight": "Edge AI capabilities enhance digital signage with real-time analytics and processing."
+  },
+  {
+    "title": "Best of Sensors: Sensirion Redefines Smart Infrastructure with CO2 Sensing",
+    "summary": "Sensirion's SCD53 CO2 sensor wins Best of Sensors Award in Smart Infrastructure Category.",
+    "link": "https://www.fiercesensors.com/sensors/best-sensors-sensirion-redefines-smart-infrastructure-co2-sensing",
+    "categories": [
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.382807",
-    "insight": "Miniaturization of gaming consoles could redefine portable gaming experiences."
+    "processed_date": "2026-08-15T09:01:37.102359",
+    "insight": "Enhancing smart infrastructure with precise CO2 monitoring and control capabilities."
   },
   {
-    "title": "Nvidia raises RTX Pro 6000 Blackwell price to a staggering $16,000",
-    "summary": "Nvidia raises the price of its RTX Pro 6000 to $16,000 due to market demand.",
-    "link": "https://www.techspot.com/news/113460-nvidia-raises-rtx-pro-6000-blackwell-price-staggering.html",
+    "title": "Another Ryzen 7 7800X3D reportedly burns out despite AMD's voltage fix",
+    "summary": "A three-month-old Ryzen 7 7800X3D reportedly failed due to an unexpected shutdown.",
+    "link": "https://www.techspot.com/news/113481-another-ryzen-7-7800x3d-reportedly-burns-out-despite.html",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.382886",
-    "insight": "Artificial intelligence drives memory crunch, fueling graphics card price surge."
+    "processed_date": "2026-08-15T09:01:37.102508",
+    "insight": "Ryzen 7 7800X3D reliability issues persist despite AMD's voltage fix attempts."
   },
   {
-    "title": "JCB's hydrogen car Hydromax hits 406 mph record at Bonneville",
-    "summary": "JCB's Hydromax vehicle set a 406 mph record at Bonneville, testing hydrogen combustion at extreme speeds.",
-    "link": "https://www.techspot.com/news/113471-jcb-hydrogen-powered-hydromax-hits-record-406-mph.html",
+    "title": "Marvel's Wolverine arrives complete on disc, just as physical gaming fades",
+    "summary": "Marvel's Wolverine will be fully playable from the disc, offering a complete experience for users straight out of the box. This is a rare feature in modern gaming, as many titles require a download to fully access their content. The announcement comes as physical gaming is fading.",
+    "link": "https://www.techspot.com/news/113489-marvel-wolverine-arrives-complete-disc-physical-gaming-fades.html",
     "categories": [
-      "Tech News"
+      "GPUs",
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.382967",
-    "insight": "Breakthrough in hydrogen engine technology for industrial machinery applications."
+    "processed_date": "2026-08-15T09:01:37.102627",
+    "insight": "Physical games are still valuable for instant, complete gameplay access."
   },
   {
-    "title": "This mouse splits in half to become a presentation remote",
-    "summary": "The DS21 is a three-in-one control hub for multi-space use.",
-    "link": "https://www.techspot.com/news/113469-ergonomic-mouse-splits-apart-become-handheld-motion-controller.html",
+    "title": "Anthropic is heading toward the largest IPO ever, at a possible $2 trillion valuation",
+    "summary": "Anthropic is heading towards a record-breaking IPO with a valuation of $2 trillion, driven by rapid revenue growth of $100-120 billion by 2026.",
+    "link": "https://www.techspot.com/news/113485-anthropic-heading-toward-largest-ipo-ever-possible-2.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.383038",
-    "insight": "Streamlines device control across home office and living spaces."
+    "processed_date": "2026-08-15T09:01:37.102738",
+    "insight": "Artificial intelligence firm's valuation may exceed traditional tech giants' market caps."
   },
   {
-    "title": "Microsoft is killing off SMS login codes, citing AI-powered hacking",
-    "summary": "Microsoft is discontinuing SMS-based 2FA codes for Entra ID accounts. This change is part of Microsoft's shift towards more secure passkeys. The deadline is February 1.",
-    "link": "https://www.techspot.com/news/113465-microsoft-killing-off-sms-authentication-codes-ai-makes.html",
+    "title": "Audacity remains one of the best free tools for editing audio",
+    "summary": "Audacity is a free, user-friendly audio editing tool with multi-platform support.",
+    "link": "https://www.techspot.com/downloads/3194-audacity.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.383114",
-    "insight": "Shift to passkeys boosts security against AI-powered hacking threats"
+    "processed_date": "2026-08-15T09:01:37.102900",
+    "insight": "Free audio editing for everyone, every project, every need."
   },
   {
-    "title": "The memory crisis is killing off sub-$100 smartphones as US sales plunge 64%",
-    "summary": "US smartphone sales dropped 5% in Q2 2026 due to rising memory prices and macroeconomic factors weakening consumer demand.",
-    "link": "https://www.techspot.com/news/113473-memory-crisis-killing-off-sub-100-smartphones-us.html",
+    "title": "Enterprise SSDs now consume 48% of global NAND flash supply",
+    "summary": "A recent study by Counterpoint Research found that enterprise SSDs are consuming around 48% of the global NAND flash supply, highlighting a seismic shift in the NAND flash industry driven by generative AI and chatbot services.",
+    "link": "https://www.techspot.com/news/113478-enterprise-ssds-now-consume-48-global-nand-flash.html",
     "categories": [
       "AI & ML"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-08-14T09:42:22.383189",
-    "insight": "Memory price increases cripple affordability of sub-$100 smartphones."
+    "quality_score": 10,
+    "processed_date": "2026-08-15T09:01:37.103017",
+    "insight": "Enterprise demand for NAND is skyrocketing due to AI and chatbots"
   },
   {
-    "title": "Cargo thieves are staging car crashes to steal AI data center hardware",
-    "summary": "Cargo thieves are using staged car crashes to steal AI data center hardware shipments. The shipments were moving from Silicon Valley to Southern California, with private escort vehicles in tow. This tactic allows thieves to intercept valuable equipment.",
-    "link": "https://www.techspot.com/news/113463-cargo-thieves-staging-car-crashes-steal-ai-data.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.383274",
-    "insight": "Thieves exploit security measures to steal high-tech shipments with ease."
-  },
-  {
-    "title": "HallPass says its embarrassing AI-generated candy typos were intentional rage bait",
-    "summary": "HallPass, a new low-calorie candy, launches nationwide on August 29. It's created by Peter Rahal and Michael Tierney, co-founder of David Protein and founder of Stuffed Puffs, respectively. HallPass bars contain 70 calories and 1g of sugar per package.",
-    "link": "https://www.techspot.com/news/113470-hallpass-embarrassing-ai-generated-candy-typos-actually-intentional.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.383355",
-    "insight": "New low-calorie candy sparks debate on health and indulgence options"
-  },
-  {
-    "title": "Over 1,500 games on GOG are missing updates, DLC, and features available elsewhere",
-    "summary": "Several hundred games on GOG are missing updates and features available on other launchers.",
-    "link": "https://www.techspot.com/news/113462-over-1500-games-gog-missing-updates-dlc-features.html",
+    "title": "NASA-tested vest could cut astronauts' radiation exposure by 60% during major solar storms",
+    "summary": "The AstroRad vest reduced astronauts' radiation exposure by 60% during solar storms. The vest was tested on a NASA's Orion capsule in 2022. Researchers compared readings from two manikins with and without the vest.",
+    "link": "https://www.techspot.com/news/113483-nasa-tested-vest-could-cut-astronauts-radiation-exposure.html",
     "categories": [
       "Tech News",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-08-14T09:42:22.383437",
-    "insight": "GOG's incomplete library undermines its promise of DRM-free gaming experiences."
+    "quality_score": 10,
+    "processed_date": "2026-08-15T09:01:37.103137",
+    "insight": "Protecting astronauts from radiation exposure is crucial for space exploration safety."
   },
   {
-    "title": "Twitch finally lets you opt out of AI training, years after it started",
-    "summary": "Twitch has added an opt-out setting for users to exclude their content from AI training.",
-    "link": "https://www.techspot.com/news/113467-twitch-finally-gives-streamers-ai-training-opt-out.html",
+    "title": "Samsung's $1,900 Galaxy Z Fold 8 still has a serious problem with dust getting into its hinge",
+    "summary": "Samsung's $1,900 Galaxy Z Fold 8 is vulnerable to dust entering its hinge due to its IP48 rating, which only protects against objects 1mm in diameter or larger. The device's protective rating suggests it may not be suitable for users in dusty or wet environments. This could impact the device's lifespan and user experience.",
+    "link": "https://www.techspot.com/news/113488-samsung-1900-galaxy-z-fold-8-has-serious.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-15T09:01:37.103249",
+    "insight": "Dust vulnerability undermines Galaxy Z Fold 8's premium price tag."
+  },
+  {
+    "title": "Nine PBS lost access to 50TB of archives when its data center vanished",
+    "summary": "Nine PBS lost 50TB of archives due to a defunct data center, sparking a lawsuit.",
+    "link": "https://www.techspot.com/news/113480-nine-pbs-lost-access-50tb-archives-when-data.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-15T09:01:37.103360",
+    "insight": "Loss of critical data archives threatens historical preservation and public trust."
+  },
+  {
+    "title": "A smart feeder outage left some cats and dogs without scheduled meals",
+    "summary": "A Petlibro smart feeder outage left pets without scheduled meals due to a communication issue between the app, devices, and online servers. The company initially reported service restoration, but users continued to experience offline devices and missed feeding schedules.",
+    "link": "https://www.techspot.com/news/113482-petlibro-outage-left-smart-feeders-offline-pets-missing.html",
     "categories": [
       "AI & ML",
-      "Tech News"
+      "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-08-14T09:42:22.383512",
-    "insight": "Users regain control over their content and AI-generated data usage."
+    "quality_score": 5,
+    "processed_date": "2026-08-15T09:01:37.103472",
+    "insight": "Reliable connectivity is crucial for pet care and user trust."
   },
   {
-    "title": "4GB vs. 8GB VRAM: The 1080p Benchmark",
-    "summary": "Benchmarking the 4GB Radeon RX 6500 XT GPU against its 8GB counterpart in modern 1080p games reveals significant performance differences, underscoring the impact of VRAM capacity on gaming performance.",
-    "link": "https://www.techspot.com/review/3159-vram-benchmark-4gb-vs-8gb/",
+    "title": "Phantom Blade Zero can run on old GPUs, but you'll need way more for ray tracing",
+    "summary": "Pre-orders are open for Phantom Blade Zero, a kung fu-themed action-adventure game with Unreal Engine 5 graphics. The game aims to achieve high frame rates on old GPUs, but requires more powerful hardware for ray tracing. Developer S-Game Studio is targeting a competitive market.",
+    "link": "https://www.techspot.com/news/113479-phantom-blade-zero-can-run-old-gpus-but.html",
     "categories": [
       "GPUs",
-      "Tech News"
+      "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-08-14T09:42:22.383591",
-    "insight": "Higher VRAM capacity significantly improves gaming performance in 1080p resolution."
+    "quality_score": 5,
+    "processed_date": "2026-08-15T09:01:37.103588",
+    "insight": "Ray tracing significantly increases GPU requirements for high-quality visuals."
+  },
+  {
+    "title": "Elon Musk earned over 2.5 million times more than Tesla workers as CEO pay surged again",
+    "summary": "Elon Musk's $158 billion compensation far exceeds typical CEO pay, skewing numbers. CEOs now earn over 300 times more than workers, according to a report. This pay disparity affects working people's lives.",
+    "link": "https://www.techspot.com/news/113486-elon-musk-earned-more-than-25-million-times.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-15T09:01:37.103715",
+    "insight": "Massive wealth gap between CEOs and workers hurts working-class stability."
+  },
+  {
+    "title": "SK hynix is now Kioxia's biggest shareholder, but taking control won't be easy",
+    "summary": "SK hynix has become Kioxia's largest shareholder, surpassing Toshiba. As of July 31, BCPE Pangea Cayman2 (SPC2) owned 14.19% of Kioxia's shares. Toshiba's stake has dropped to 14.12%.",
+    "link": "https://www.techspot.com/news/113474-sk-hynix-now-kioxia-biggest-shareholder-but-taking.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-15T09:01:37.103848",
+    "insight": "SK hynix gains significant influence in Kioxia's operations and strategy"
+  },
+  {
+    "title": "The US will let private companies hack back at cybercriminals for the first time",
+    "summary": "The US government has authorized private companies to conduct cyber operations against hackers for the first time, marking a shift in the country's cyber defense strategy.",
+    "link": "https://www.techspot.com/news/113484-us-private-security-firms-hack-overseas-cybercriminals-first.html",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-15T09:01:37.103960",
+    "insight": "Private companies can now take the fight against cybercrime directly"
   }
 ]
