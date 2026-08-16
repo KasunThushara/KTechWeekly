@@ -1,5 +1,5 @@
 # 🚀 Tech Weekly Digest
-**Week of August 15, 2026**
+**Week of August 16, 2026**
 
 Your curated weekly roundup of AI, hardware, and technology news.
 
@@ -7,101 +7,101 @@ Your curated weekly roundup of AI, hardware, and technology news.
 
 ## 📈 Top Stories This Week
 
-### 1. EITWatch open-source ESP32-S3 smartwatch implements planar EIT hand gesture recognition ⭐
+### 1. Ocypus Sigma L36 Pro Review: How is this LCD AIO so cheap? ⭐
 
-**💻 Hardware**
+**📰 Tech News**
 
-Researchers at Northwestern University introduced EITWatch, an open-source ESP32-S3-based smartwatch with EIT hand gesture recognition.
+The Ocypus Sigma L36 Pro is a budget-friendly AIO liquid cooler that offers high-performance thermal efficiency, paired with a 3.5-inch display, making it a valuable option for PC builders.
 
-💡 **Key Point:** Innovative, compact design enables practical wrist-based gesture recognition technology.
+💡 **Key Point:** Unbeatable thermal performance at an affordable price point discovered.
 
-🔗 [Read More](https://www.cnx-software.com/2026/08/14/eitwatch-open-source-esp32-s3-smartwatch-implements-planar-eit-hand-gesture-recognition/)
-
----
-
-### 2. EITWatch open-source ESP32-S3 smartwatch implements planar EIT hand gesture recognition ⭐
-
-**🤖 AI & ML**
-
-Researchers at Northwestern University introduced EITWatch, an open-source ESP32-S3-based smartwatch with EIT hand gesture recognition.
-
-💡 **Key Point:** Innovative, compact design enables practical wrist-based gesture recognition technology.
-
-🔗 [Read More](https://www.cnx-software.com/2026/08/14/eitwatch-open-source-esp32-s3-smartwatch-implements-planar-eit-hand-gesture-recognition/)
+🔗 [Read More](https://www.tomshardware.com/pc-components/liquid-cooling/ocypus-sigma-l36-pro-review)
 
 ---
 
-### 3. G.Skill Trident Z5 NeoX RGB DDR5-6000 C30 2x16GB Review EXPO ULL memory kit to max out your Ryzen 
+### 2. GEEKOM IT13 Max Review Part 3: Ubuntu 26.04 on an Intel Core Ultra 9 185H mini computer ⭐
 
-**💻 Hardware**
+**⚡ Semiconductors**
 
-G.Skill's Trident Z5 NeoX DDR5-6000 C30 memory kit features AMD EXPO ULL, designed for maximum Ryzen performance, offering high-speed memory and RGB lighting.
+The GEEKOM IT13 Max mini PC is tested with Ubuntu 26.04, showcasing the Intel Core Ultra 9 185H's performance in a Linux environment. The review covers various aspects, including system benchmarks, AI benchmarks, storage, and networking tests. It also evaluates the mini PC's fan noise and power consumption.
 
-💡 **Key Point:** Maximizing Ryzen performance requires optimized DDR5 memory and EXPO ULL compatibility.
+💡 **Key Point:** Measuring Meteor Lake performance in Linux is crucial for developers and enthusiasts.
 
-🔗 [Read More](https://www.tomshardware.com/pc-components/ram/g-skill-trident-z5-neox-rgb-ddr5-6000-c30-2x16gb-review)
-
----
-
-### 4. Scythe Magoroku Review: excellent RAM thermals, but needs improvement elsewhere 
-
-**💻 Hardware**
-
-Scythe Magoroku provides excellent RAM thermals, but falls short in other areas. It excels with Intel Arrow Lake systems. Overall, a decent but not outstanding CPU cooler.
-
-💡 **Key Point:** Magoroku prioritizes RAM cooling over CPU performance improvement.
-
-🔗 [Read More](https://www.tomshardware.com/pc-components/air-cooling/scythe-magoroku-review)
+🔗 [Read More](https://www.cnx-software.com/2026/08/15/geekom-it13-max-review-part-3-ubuntu-26-04-on-an-intel-core-ultra-9-185h-mini-computer/)
 
 ---
 
-### 5. Samsung Odyssey G80HS 6K gaming monitor review: Upping the stakes in pixel density 
+### 3. Ocypus Sigma L36 Pro Review: How is this LCD AIO so cheap? ⭐
 
 **💻 Hardware**
 
-The Samsung Odyssey G80HS is a 32-inch IPS monitor with 6K resolution at 165 Hz and 330 Hz on secondary pixels, offering HDR and Adaptive-Sync capabilities.
+The Ocypus Sigma L36 Pro is a budget-friendly AIO liquid cooler that offers high-performance thermal efficiency, paired with a 3.5-inch display, making it a valuable option for PC builders.
 
-💡 **Key Point:** Revolutionizing gaming with unmatched pixel density and refresh rates.
+💡 **Key Point:** Unbeatable thermal performance at an affordable price point discovered.
 
-🔗 [Read More](https://www.tomshardware.com/monitors/gaming-monitors/samsung-odyssey-g80hs-6k-gaming-monitor-review)
+🔗 [Read More](https://www.tomshardware.com/pc-components/liquid-cooling/ocypus-sigma-l36-pro-review)
+
+---
+
+### 4. GEEKOM IT13 Max Review Part 3: Ubuntu 26.04 on an Intel Core Ultra 9 185H mini computer ⭐
+
+**💻 Hardware**
+
+The GEEKOM IT13 Max mini PC is tested with Ubuntu 26.04, showcasing the Intel Core Ultra 9 185H's performance in a Linux environment. The review covers various aspects, including system benchmarks, AI benchmarks, storage, and networking tests. It also evaluates the mini PC's fan noise and power consumption.
+
+💡 **Key Point:** Measuring Meteor Lake performance in Linux is crucial for developers and enthusiasts.
+
+🔗 [Read More](https://www.cnx-software.com/2026/08/15/geekom-it13-max-review-part-3-ubuntu-26-04-on-an-intel-core-ultra-9-185h-mini-computer/)
+
+---
+
+### 5. Peer-reviewed study of 443,000 Backblaze hard drives ranks HGST most reliable and Toshiba the least Analysis of 1.66 million drive-years finds Seagate and Toshiba HDDs fail at roughly twice the rate of WD and HGST ⭐
+
+**📰 Tech News**
+
+A peer-reviewed study of 443,000 Backblaze hard drives ranks HGST as the most reliable and Toshiba as the least reliable. The analysis of 1.66 million drive-years found Seagate and Toshiba HDDs fail at roughly twice the rate of WD and HGST. This study provides valuable insights for individuals and businesses choosing hard drives.
+
+💡 **Key Point:** Reliability matters in hard drive choices for data storage
+
+🔗 [Read More](https://www.tomshardware.com/pc-components/hdds/peer-reviewed-study-of-443000-backblaze-drivers-ranks-hgst-most-reliable-and-toshiba-least)
 
 ---
 
 ## 📊 This Week's Coverage
 
-We covered **48 articles** across **5 focused categories**.
+We covered **39 articles** across **5 focused categories**.
 
 | Category | Articles | Description |
 |----------|----------|-------------|
-| 🤖 [AI & ML](ai_and_ml.md) | 18 | Artificial Intelligence and Machine Learning |
-| 🎮 [GPUs](gpus.md) | 7 | Graphics cards and compute accelerators |
-| 💻 [Hardware](hardware.md) | 14 | Computing hardware and development boards |
-| ⚡ [Semiconductors](semiconductors.md) | 4 | Chip manufacturing and design |
-| 📰 [Tech News](tech_news.md) | 5 | Industry news and product launches |
+| 🤖 [AI & ML](ai_and_ml.md) | 13 | Artificial Intelligence and Machine Learning |
+| 🎮 [GPUs](gpus.md) | 4 | Graphics cards and compute accelerators |
+| 💻 [Hardware](hardware.md) | 9 | Computing hardware and development boards |
+| ⚡ [Semiconductors](semiconductors.md) | 6 | Chip manufacturing and design |
+| 📰 [Tech News](tech_news.md) | 7 | Industry news and product launches |
 
 ---
 
 ## 🗂️ Browse by Category
 
 ### 🤖 [AI & ML](ai_and_ml.md)
-*Artificial Intelligence and Machine Learning* — 18 articles
+*Artificial Intelligence and Machine Learning* — 13 articles
 
 ### 🎮 [GPUs](gpus.md)
-*Graphics cards and compute accelerators* — 7 articles
+*Graphics cards and compute accelerators* — 4 articles
 
 ### 💻 [Hardware](hardware.md)
-*Computing hardware and development boards* — 14 articles
+*Computing hardware and development boards* — 9 articles
 
 ### ⚡ [Semiconductors](semiconductors.md)
-*Chip manufacturing and design* — 4 articles
+*Chip manufacturing and design* — 6 articles
 
 ### 📰 [Tech News](tech_news.md)
-*Industry news and product launches* — 5 articles
+*Industry news and product launches* — 7 articles
 
 ---
 
 ## 📅 About
 
-Generated 2026-08-15 at 09:02 by an autonomous AI curation system.
+Generated 2026-08-16 at 09:02 by an autonomous AI curation system.
 
 Articles are automatically filtered for quality and relevance.

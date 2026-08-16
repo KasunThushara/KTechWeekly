@@ -1,55 +1,75 @@
 # ⚡ Semiconductors
-**Week of August 15, 2026**
+**Week of August 16, 2026**
 
 *Chip manufacturing and design*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 4
-- **Report generated:** 2026-08-15 09:02
+- **Articles this week:** 6
+- **Report generated:** 2026-08-16 09:02
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Gigabyte resurrects 8-year-old B450 chipset with new motherboards AM4 budget king returns as another DDR4 solution to exorbitant RAM prices 
+### 1. GEEKOM IT13 Max Review Part 3: Ubuntu 26.04 on an Intel Core Ultra 9 185H mini computer ⭐
 
-Gigabyte has released new B450 chipset motherboards for AM4 compatibility, aiming to combat high RAM prices by offering a DDR4 solution. The B450M D3HP and B450M D3HP WIFI6E motherboards are based on an 8-year-old chipset. These releases cater to budget-conscious users seeking affordable options.
+The GEEKOM IT13 Max mini PC is tested with Ubuntu 26.04, showcasing the Intel Core Ultra 9 185H's performance in a Linux environment. The review covers various aspects, including system benchmarks, AI benchmarks, storage, and networking tests. It also evaluates the mini PC's fan noise and power consumption.
 
-💡 *Gigabyte's B450 revival offers affordable DDR4 alternatives to pricey DDR5 RAM.*
+💡 *Measuring Meteor Lake performance in Linux is crucial for developers and enthusiasts.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/gigabyte-resurrects-8-year-old-b450-chipset-with-new-motherboards-am4-budget-king-returns-as-another-ddr4-solution-to-exorbitant-ram-prices)
-
----
-
-### 2. Giada DK320 digital signage player and Edge AI embedded PC supports up to the Intel Core 5 315 Wildcat Lake processor 
-
-Giada DK320 is a compact digital signage and edge AI PC supporting up to an Intel Core 5 315 processor. It offers advanced features like real-time analytics, intelligent monitoring, and automated decision-making. The system can be equipped with up to 48GB DDR5 RAM and M.2 NVMe storage.
-
-💡 *Edge AI capabilities enhance digital signage with real-time analytics and processing.*
-
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/14/giada-dk320-digital-signage-player-and-edge-ai-embedded-pc-supports-up-to-the-intel-core-5-315-wildcat-lake-processor/)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/15/geekom-it13-max-review-part-3-ubuntu-26-04-on-an-intel-core-ultra-9-185h-mini-computer/)
 
 ---
 
-### 3. Older Raptor Lake CPUs are a core part of the portfolio for years to come, says Intel there s been a sudden inrush of demand for LGA 1700 chips due to DDR5 prices 
+### 2. Anti-drone chain gun with 50mm precision-guided ammunition unveiled Northrop Grumman's Raid Hunter is designed to wipe out drone swarms and cruise missiles 
 
-Intel sees increased demand for Raptor Lake CPUs due to DDR5 price surge, making them a core part of the company's lineup for desktop builders for years to come.
+Northrop Grumman's Raid Hunter is a chain gun designed to counter drone swarms and cruise missiles with precision-guided 50mm ammunition, providing a short-range, layered air defense capability.
 
-💡 *Rising DDR5 costs drive demand for older LGA 1700 CPUs.*
+💡 *Enhanced air defense against complex aerial threats is crucial for modern warfare*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/raptor-lake-is-a-core-part-of-the-portfolio-for-years-to-come-says-intel-theres-been-a-sudden-inrush-of-demand-for-lga-1700-chips-due-to-ddr5-prices)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/drones/anti-drone-chain-gun-with-50mm-precision-guided-ammunition-unveiled-northrop-grummans-raid-hunter-is-designed-to-wipe-out-drone-swarms-and-cruise-missiles)
 
 ---
 
-### 4. The US will let private companies hack back at cybercriminals for the first time 
+### 3. Nvidia turns $5B Intel stock bet into $30B windfall filing reveals new $21B SpaceX stake and complete exit from Arm stock 
 
-The US government has authorized private companies to conduct cyber operations against hackers for the first time, marking a shift in the country's cyber defense strategy.
+Nvidia has made significant investments in various companies, including a $5B Intel stake that turned into a $30B windfall. The company has also acquired a new $21B stake in SpaceX and exited from Arm stock. This strategic investment approach has been quietly executed across various clients, partners, and suppliers.
 
-💡 *Private companies can now take the fight against cybercrime directly*
+💡 *Nvidia's strategic investments drive significant financial returns and growth*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113484-us-private-security-firms-hack-overseas-cybercriminals-first.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nvidia-turns-usd5b-intel-stock-bet-into-usd30b-windfall-filing-reveals-new-usd21b-spacex-stake-and-complete-exit-from-arm-stock)
+
+---
+
+### 4. Engineer used 360-degree cam hidden in bag of snacks in attempt to steal DRAM process tech for China IT security team pinpointed perp due to camera's leaky wireless signals 
+
+A Nanya engineer attempted to steal DRAM process tech for China, but was caught. The engineer used a hidden camera in a bag of snacks to record confidential information. The leaky wireless signals from the camera led to the engineer's identification.
+
+💡 *Intellectual property theft threatens global tech industry security and stability.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/dram/nanya-engineer-used-360-degree-cam-hidden-in-snacks-in-attempt-to-steal-dram-process-tech-for-china-it-security-team-pinpointed-perp-due-to-cameras-leaky-wireless-signals)
+
+---
+
+### 5. France's court just blocked Macron's plan to ban kids from social media 
+
+France's highest court blocked a law banning minors under 15 from social media. The legislation had initially passed through the lower chambers with bipartisan support. This decision allows children under 15 to continue accessing social media.
+
+💡 *Children's online rights prevail over Macron's social media ban plan.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113494-france-plan-ban-children-under-15-social-media.html)
+
+---
+
+### 6. Samsung says Claude Code can cut chip design work from weeks to days, but it still makes serious mistakes 
+
+Samsung's Claude Code speeds up chip design work, but makes serious errors.
+
+💡 *Automation prioritizes speed over accuracy in critical chip design process.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113487-samsung-claude-code-can-cut-chip-design-work.html)
 
 ---
 

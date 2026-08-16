@@ -1,85 +1,55 @@
 # 🎮 GPUs
-**Week of August 15, 2026**
+**Week of August 16, 2026**
 
 *Graphics cards and compute accelerators*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 7
-- **Report generated:** 2026-08-15 09:02
+- **Articles this week:** 4
+- **Report generated:** 2026-08-16 09:02
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. Samsung Odyssey G80HS 6K gaming monitor review: Upping the stakes in pixel density 
+### 1. Using the Khadas Mind Graphics 2 (NVIDIA RTX 5060 Ti USB4 eGPU) on Ubuntu 26.04 ⭐
 
-The Samsung Odyssey G80HS is a 32-inch IPS monitor with 6K resolution at 165 Hz and 330 Hz on secondary pixels, offering HDR and Adaptive-Sync capabilities.
+The Khadas Mind Graphics 2 with NVIDIA RTX 5060 Ti eGPU was detected on Ubuntu 26.04, but poor performance and boot issues were encountered. A solution was found to resolve these issues. This article documents the steps to fix the performance issues and ensure proper system behavior.
 
-💡 *Revolutionizing gaming with unmatched pixel density and refresh rates.*
+💡 *Proper eGPU setup requires manual configuration to achieve optimal performance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/samsung-odyssey-g80hs-6k-gaming-monitor-review)
-
----
-
-### 2. Start your PC gaming journey with this $1,100 1080p gaming rig, now $300 off RTX 5060 rig from Newegg ships with a 10-core Intel CPU, 32GB of RAM, and a 1TB SSD 
-
-This pre-built PC features a 10-core Intel Core i5-14400F CPU, RTX 5060 GPU, 32GB of RAM, and a 1TB SSD, all available at a discounted price of $1,099.99.
-
-💡 *High-performance gaming on a budget with significant hardware upgrades.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/start-your-pc-gaming-journey-with-this-usd1-100-1080p-gaming-rig-now-usd300-off-rtx-5060-rig-from-newegg-ships-with-a-10-core-intel-cpu-32gb-of-ram-and-a-1tb-ssd)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/16/using-the-khadas-mind-graphics-2-nvidia-rtx-5060-ti-usb4-egpu-on-ubuntu-26-04/)
 
 ---
 
-### 3. Modder straps two desktop CPU coolers to ZTE handset, turns smartphone into a gaming PC Snapdragon 8 Elite SoC with 24GB of RAM runs The Witcher 3 at 1080p ultra 
+### 2. Nvidia turns $5B Intel stock bet into $30B windfall filing reveals new $21B SpaceX stake and complete exit from Arm stock 
 
-A heavily modified ZTE Nubia Z70 Ultra smartphone is turned into a makeshift gaming PC by attaching two full-size CPU coolers and utilizing Termux, Linux, and compatibility layers. This allows the device to run demanding games such as The Witcher 3 at high settings. The result is a powerful handheld gaming experience.
+Nvidia has made significant investments in various companies, including a $5B Intel stake that turned into a $30B windfall. The company has also acquired a new $21B stake in SpaceX and exited from Arm stock. This strategic investment approach has been quietly executed across various clients, partners, and suppliers.
 
-💡 *Advancements in smartphone hardware and software enable new portable gaming possibilities*
+💡 *Nvidia's strategic investments drive significant financial returns and growth*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cooling/modder-straps-two-desktop-cpu-coolers-to-zte-nubia-z70-ultra-turns-smartphone-into-a-gaming-pc-snapdragon-8-elite-soc-with-24gb-of-ram-runs-the-witcher-3-at-1080p-ultra)
-
----
-
-### 4. AMD borrows $4.75 billion for 'general corporate purposes' company gives no insight into how it plans to spend cash injection 
-
-AMD raises $4.75 billion for general corporate purposes, no specific plans disclosed.
-
-💡 *AMD's large cash injection may signal significant future investments or acquisitions.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-borrows-usd4-75-billion-for-general-corporate-purposes-company-gives-no-insight-into-how-it-plans-to-spend-cash-injection)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/nvidia-turns-usd5b-intel-stock-bet-into-usd30b-windfall-filing-reveals-new-usd21b-spacex-stake-and-complete-exit-from-arm-stock)
 
 ---
 
-### 5. Another Ryzen 7 7800X3D reportedly burns out despite AMD's voltage fix 
+### 3. AMD Ryzen 7 7700X3D vs Ryzen 7 7800X3D faceoff seeing double with Zen 4 X3D 
 
-A three-month-old Ryzen 7 7800X3D reportedly failed due to an unexpected shutdown.
+AMD's Ryzen 7 7700X3D and Ryzen 7 7800X3D face off in a performance showdown, comparing key metrics such as speed, power consumption, and price. This comparison helps determine which Zen 4 X3D processor offers the best value. We'll explore the strengths and weaknesses of each model.
 
-💡 *Ryzen 7 7800X3D reliability issues persist despite AMD's voltage fix attempts.*
+💡 *Higher-end model offers significant performance boost over its predecessor.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113481-another-ryzen-7-7800x3d-reportedly-burns-out-despite.html)
-
----
-
-### 6. Marvel's Wolverine arrives complete on disc, just as physical gaming fades 
-
-Marvel's Wolverine will be fully playable from the disc, offering a complete experience for users straight out of the box. This is a rare feature in modern gaming, as many titles require a download to fully access their content. The announcement comes as physical gaming is fading.
-
-💡 *Physical games are still valuable for instant, complete gameplay access.*
-
-🔗 [Read Full Article](https://www.techspot.com/news/113489-marvel-wolverine-arrives-complete-disc-physical-gaming-fades.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-7-7700x3d-vs-ryzen-7-7800x3d-faceoff)
 
 ---
 
-### 7. Phantom Blade Zero can run on old GPUs, but you'll need way more for ray tracing 
+### 4. This week on Tom's Hardware Premium: August 14, 2026 Testing the BC-250, our interview with Intel's Robert Hallock, and a big week for optical 
 
-Pre-orders are open for Phantom Blade Zero, a kung fu-themed action-adventure game with Unreal Engine 5 graphics. The game aims to achieve high frame rates on old GPUs, but requires more powerful hardware for ray tracing. Developer S-Game Studio is targeting a competitive market.
+This week on Tom's Hardware Premium, we tested the BC-250, published an interview with Intel, and explored optical interconnects in AI.
 
-💡 *Ray tracing significantly increases GPU requirements for high-quality visuals.*
+💡 *Optical interconnects accelerate AI buildout with faster data transfer rates.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113479-phantom-blade-zero-can-run-old-gpus-but.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-august-14-2026-testing-the-bc-250-our-interview-with-intels-robert-hallock-and-a-big-week-for-optical)
 
 ---
 

@@ -1,155 +1,105 @@
 # 💻 Hardware
-**Week of August 15, 2026**
+**Week of August 16, 2026**
 
 *Computing hardware and development boards*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 14
-- **Report generated:** 2026-08-15 09:02
+- **Articles this week:** 9
+- **Report generated:** 2026-08-16 09:02
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. EITWatch open-source ESP32-S3 smartwatch implements planar EIT hand gesture recognition ⭐
+### 1. Ocypus Sigma L36 Pro Review: How is this LCD AIO so cheap? ⭐
 
-Researchers at Northwestern University introduced EITWatch, an open-source ESP32-S3-based smartwatch with EIT hand gesture recognition.
+The Ocypus Sigma L36 Pro is a budget-friendly AIO liquid cooler that offers high-performance thermal efficiency, paired with a 3.5-inch display, making it a valuable option for PC builders.
 
-💡 *Innovative, compact design enables practical wrist-based gesture recognition technology.*
+💡 *Unbeatable thermal performance at an affordable price point discovered.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/14/eitwatch-open-source-esp32-s3-smartwatch-implements-planar-eit-hand-gesture-recognition/)
-
----
-
-### 2. G.Skill Trident Z5 NeoX RGB DDR5-6000 C30 2x16GB Review EXPO ULL memory kit to max out your Ryzen 
-
-G.Skill's Trident Z5 NeoX DDR5-6000 C30 memory kit features AMD EXPO ULL, designed for maximum Ryzen performance, offering high-speed memory and RGB lighting.
-
-💡 *Maximizing Ryzen performance requires optimized DDR5 memory and EXPO ULL compatibility.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/g-skill-trident-z5-neox-rgb-ddr5-6000-c30-2x16gb-review)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/liquid-cooling/ocypus-sigma-l36-pro-review)
 
 ---
 
-### 3. Scythe Magoroku Review: excellent RAM thermals, but needs improvement elsewhere 
+### 2. GEEKOM IT13 Max Review Part 3: Ubuntu 26.04 on an Intel Core Ultra 9 185H mini computer ⭐
 
-Scythe Magoroku provides excellent RAM thermals, but falls short in other areas. It excels with Intel Arrow Lake systems. Overall, a decent but not outstanding CPU cooler.
+The GEEKOM IT13 Max mini PC is tested with Ubuntu 26.04, showcasing the Intel Core Ultra 9 185H's performance in a Linux environment. The review covers various aspects, including system benchmarks, AI benchmarks, storage, and networking tests. It also evaluates the mini PC's fan noise and power consumption.
 
-💡 *Magoroku prioritizes RAM cooling over CPU performance improvement.*
+💡 *Measuring Meteor Lake performance in Linux is crucial for developers and enthusiasts.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/air-cooling/scythe-magoroku-review)
-
----
-
-### 4. Samsung Odyssey G80HS 6K gaming monitor review: Upping the stakes in pixel density 
-
-The Samsung Odyssey G80HS is a 32-inch IPS monitor with 6K resolution at 165 Hz and 330 Hz on secondary pixels, offering HDR and Adaptive-Sync capabilities.
-
-💡 *Revolutionizing gaming with unmatched pixel density and refresh rates.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/monitors/gaming-monitors/samsung-odyssey-g80hs-6k-gaming-monitor-review)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/15/geekom-it13-max-review-part-3-ubuntu-26-04-on-an-intel-core-ultra-9-185h-mini-computer/)
 
 ---
 
-### 5. Plaintiff busted trying to use AI prompt injection to win court case, hides text instruction in filing demands AI model reviewing the text should side with him, rumbled because of strange white spaces in text 
+### 3. Using the Khadas Mind Graphics 2 (NVIDIA RTX 5060 Ti USB4 eGPU) on Ubuntu 26.04 ⭐
 
-A self-represented plaintiff tried to manipulate a court decision using AI. They embedded a hidden AI prompt in their filing, but it was detected due to unusual white spaces. The court responded by restricting electronic document submissions.
+The Khadas Mind Graphics 2 with NVIDIA RTX 5060 Ti eGPU was detected on Ubuntu 26.04, but poor performance and boot issues were encountered. A solution was found to resolve these issues. This article documents the steps to fix the performance issues and ensure proper system behavior.
 
-💡 *AI manipulation attempts can be exposed by technical details.*
+💡 *Proper eGPU setup requires manual configuration to achieve optimal performance.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/plaintiff-busted-trying-to-use-ai-prompt-injection-to-win-court-case-hides-text-instruction-in-filing-demands-ai-model-reviewing-the-text-should-side-with-him-rumbled-because-of-strange-white-spaces-in-text)
-
----
-
-### 6. Gigabyte resurrects 8-year-old B450 chipset with new motherboards AM4 budget king returns as another DDR4 solution to exorbitant RAM prices 
-
-Gigabyte has released new B450 chipset motherboards for AM4 compatibility, aiming to combat high RAM prices by offering a DDR4 solution. The B450M D3HP and B450M D3HP WIFI6E motherboards are based on an 8-year-old chipset. These releases cater to budget-conscious users seeking affordable options.
-
-💡 *Gigabyte's B450 revival offers affordable DDR4 alternatives to pricey DDR5 RAM.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/motherboards/gigabyte-resurrects-8-year-old-b450-chipset-with-new-motherboards-am4-budget-king-returns-as-another-ddr4-solution-to-exorbitant-ram-prices)
+🔗 [Read Full Article](https://www.cnx-software.com/2026/08/16/using-the-khadas-mind-graphics-2-nvidia-rtx-5060-ti-usb4-egpu-on-ubuntu-26-04/)
 
 ---
 
-### 7. Giada DK320 digital signage player and Edge AI embedded PC supports up to the Intel Core 5 315 Wildcat Lake processor 
+### 4. Intel may refresh Raptor Lake for a third time as high DDR5 prices push buyers toward older hardware 
 
-Giada DK320 is a compact digital signage and edge AI PC supporting up to an Intel Core 5 315 processor. It offers advanced features like real-time analytics, intelligent monitoring, and automated decision-making. The system can be equipped with up to 48GB DDR5 RAM and M.2 NVMe storage.
+Intel plans to continue offering Raptor Lake CPUs, despite initial 2022 launch. The move is in response to sustained demand for DDR4 RAM due to high DDR5 prices. This allows buyers to access compatible hardware.
 
-💡 *Edge AI capabilities enhance digital signage with real-time analytics and processing.*
+💡 *High DDR5 prices drive demand for older DDR4-compatible hardware.*
 
-🔗 [Read Full Article](https://www.cnx-software.com/2026/08/14/giada-dk320-digital-signage-player-and-edge-ai-embedded-pc-supports-up-to-the-intel-core-5-315-wildcat-lake-processor/)
-
----
-
-### 8. Cargo thieves ram security escorts to hijack AI hardware shipments in California brazen thieves employ PIT maneuver, rear-ending tactics to secure goods for the black market 
-
-Cargo thieves in California employed aggressive tactics to hijack AI hardware shipments, targeting security escort vehicles and making off with millions of dollars in AI data center hardware.
-
-💡 *California's cargo thefts compromise AI research and sensitive technological advancements.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cargo-thieves-rammed-security-escorts-to-hijack-ai-hardware-shipments-in-california)
+🔗 [Read Full Article](https://www.techspot.com/news/113495-intel-may-refresh-raptor-lake-third-time-ddr5.html)
 
 ---
 
-### 9. Older Raptor Lake CPUs are a core part of the portfolio for years to come, says Intel there s been a sudden inrush of demand for LGA 1700 chips due to DDR5 prices 
+### 5. New Dell XPS 13 reviews are in with positive marks and $699 price 
 
-Intel sees increased demand for Raptor Lake CPUs due to DDR5 price surge, making them a core part of the company's lineup for desktop builders for years to come.
+The new Dell XPS 13 receives praise for its design, display, and battery life at a starting price of $699.
 
-💡 *Rising DDR5 costs drive demand for older LGA 1700 CPUs.*
+💡 *Affordable luxury laptop option with compelling specs and price point.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/raptor-lake-is-a-core-part-of-the-portfolio-for-years-to-come-says-intel-theres-been-a-sudden-inrush-of-demand-for-lga-1700-chips-due-to-ddr5-prices)
-
----
-
-### 10. Start your PC gaming journey with this $1,100 1080p gaming rig, now $300 off RTX 5060 rig from Newegg ships with a 10-core Intel CPU, 32GB of RAM, and a 1TB SSD 
-
-This pre-built PC features a 10-core Intel Core i5-14400F CPU, RTX 5060 GPU, 32GB of RAM, and a 1TB SSD, all available at a discounted price of $1,099.99.
-
-💡 *High-performance gaming on a budget with significant hardware upgrades.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/desktops/gaming-pcs/start-your-pc-gaming-journey-with-this-usd1-100-1080p-gaming-rig-now-usd300-off-rtx-5060-rig-from-newegg-ships-with-a-10-core-intel-cpu-32gb-of-ram-and-a-1tb-ssd)
+🔗 [Read Full Article](https://www.techspot.com/products/laptops/dell-xps-13-2026.330899/)
 
 ---
 
-### 11. Nvidia Jetson chip found in Russian cruise missile, Ukraine claims presence in S-71 'Monochrome' weapon may indicate use of AI tech 
+### 6. This week on Tom's Hardware Premium: August 14, 2026 Testing the BC-250, our interview with Intel's Robert Hallock, and a big week for optical 
 
-Ukraine's intelligence reports that Russia's S-71 'Monochrome' cruise missiles contain Nvidia's Jetson Orin NX modules, potentially utilizing AI technology for terminal guidance.
+This week on Tom's Hardware Premium, we tested the BC-250, published an interview with Intel, and explored optical interconnects in AI.
 
-💡 *Potential use of AI in Russian cruise missiles raises military tech concerns.*
+💡 *Optical interconnects accelerate AI buildout with faster data transfer rates.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-jetson-chip-found-in-russian-cruise-missile-ukraine-claims-presence-in-s-71-monochrome-weapon-may-indicate-use-of-ai-tech)
-
----
-
-### 12. Modder straps two desktop CPU coolers to ZTE handset, turns smartphone into a gaming PC Snapdragon 8 Elite SoC with 24GB of RAM runs The Witcher 3 at 1080p ultra 
-
-A heavily modified ZTE Nubia Z70 Ultra smartphone is turned into a makeshift gaming PC by attaching two full-size CPU coolers and utilizing Termux, Linux, and compatibility layers. This allows the device to run demanding games such as The Witcher 3 at high settings. The result is a powerful handheld gaming experience.
-
-💡 *Advancements in smartphone hardware and software enable new portable gaming possibilities*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cooling/modder-straps-two-desktop-cpu-coolers-to-zte-nubia-z70-ultra-turns-smartphone-into-a-gaming-pc-snapdragon-8-elite-soc-with-24gb-of-ram-runs-the-witcher-3-at-1080p-ultra)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-august-14-2026-testing-the-bc-250-our-interview-with-intels-robert-hallock-and-a-big-week-for-optical)
 
 ---
 
-### 13. A smart feeder outage left some cats and dogs without scheduled meals 
+### 7. US Navy 3D prints combat-ready drones and 1,000+ parts aboard aircraft carrier during exercise containerized factory fabricated 80-mph FPVs and critical spares despite rough seas and 12-foot waves 
 
-A Petlibro smart feeder outage left pets without scheduled meals due to a communication issue between the app, devices, and online servers. The company initially reported service restoration, but users continued to experience offline devices and missed feeding schedules.
+The US Navy successfully 3D-printed drones and parts on an aircraft carrier during an exercise, showcasing the potential for self-sustaining logistics and production at sea.
 
-💡 *Reliable connectivity is crucial for pet care and user trust.*
+💡 *Enhancing self-sustaining logistics for remote or hostile military operations.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113482-petlibro-outage-left-smart-feeders-offline-pets-missing.html)
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/drones/flight-ready-drones-3d-printed-and-built-on-aircraft-carrier-during-us-navy-exercise-a-containerized-factory-on-uss-essex-functioned-despite-rough-seas-and-12-foot-waves)
 
 ---
 
-### 14. SK hynix is now Kioxia's biggest shareholder, but taking control won't be easy 
+### 8. Intel says PC market is a tale of two kingdoms with mainstream taking a beating VP suggests a split between mainstream and enthusiast sockets across the industry 
 
-SK hynix has become Kioxia's largest shareholder, surpassing Toshiba. As of July 31, BCPE Pangea Cayman2 (SPC2) owned 14.19% of Kioxia's shares. Toshiba's stake has dropped to 14.12%.
+Intel VP Robert Hallock suggests a split in PC sockets due to market conditions, with mainstream taking a beating.
 
-💡 *SK hynix gains significant influence in Kioxia's operations and strategy*
+💡 *Market conditions threaten to fragment the PC industry into separate tiers.*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113474-sk-hynix-now-kioxia-biggest-shareholder-but-taking.html)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-says-pc-market-is-a-tale-of-two-kingdoms-with-mainstream-taking-a-beating-vp-suggests-a-split-between-mainstream-and-enthusiast-sockets-across-the-industry)
+
+---
+
+### 9. Gamer drops laptop temperatures by up to 15 C by switching from a wooden desk to a metal table 
+
+A gamer found that switching from a wooden desk to a metal table lowered their laptop's temperatures by up to 15 C, reducing them from 80-90 C to 75-83 C.
+
+💡 *Metal surfaces can improve laptop cooling efficiency in various environments.*
+
+🔗 [Read Full Article](https://www.techspot.com/news/113496-gamer-drops-laptop-temperatures-up-15c-simply-switching.html)
 
 ---
 

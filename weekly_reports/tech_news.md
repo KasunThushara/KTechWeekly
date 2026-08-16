@@ -1,65 +1,85 @@
 # 📰 Tech News
-**Week of August 15, 2026**
+**Week of August 16, 2026**
 
 *Industry news and product launches*
 
 ---
 
 ## 📊 Summary
-- **Articles this week:** 5
-- **Report generated:** 2026-08-15 09:02
+- **Articles this week:** 7
+- **Report generated:** 2026-08-16 09:02
 
 ---
 
 ## 📰 This Week's Articles
 
-### 1. G.Skill Trident Z5 NeoX RGB DDR5-6000 C30 2x16GB Review EXPO ULL memory kit to max out your Ryzen 
+### 1. Ocypus Sigma L36 Pro Review: How is this LCD AIO so cheap? ⭐
 
-G.Skill's Trident Z5 NeoX DDR5-6000 C30 memory kit features AMD EXPO ULL, designed for maximum Ryzen performance, offering high-speed memory and RGB lighting.
+The Ocypus Sigma L36 Pro is a budget-friendly AIO liquid cooler that offers high-performance thermal efficiency, paired with a 3.5-inch display, making it a valuable option for PC builders.
 
-💡 *Maximizing Ryzen performance requires optimized DDR5 memory and EXPO ULL compatibility.*
+💡 *Unbeatable thermal performance at an affordable price point discovered.*
 
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ram/g-skill-trident-z5-neox-rgb-ddr5-6000-c30-2x16gb-review)
-
----
-
-### 2. Scythe Magoroku Review: excellent RAM thermals, but needs improvement elsewhere 
-
-Scythe Magoroku provides excellent RAM thermals, but falls short in other areas. It excels with Intel Arrow Lake systems. Overall, a decent but not outstanding CPU cooler.
-
-💡 *Magoroku prioritizes RAM cooling over CPU performance improvement.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/air-cooling/scythe-magoroku-review)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/liquid-cooling/ocypus-sigma-l36-pro-review)
 
 ---
 
-### 3. NASA-tested vest could cut astronauts' radiation exposure by 60% during major solar storms 
+### 2. Peer-reviewed study of 443,000 Backblaze hard drives ranks HGST most reliable and Toshiba the least Analysis of 1.66 million drive-years finds Seagate and Toshiba HDDs fail at roughly twice the rate of WD and HGST ⭐
 
-The AstroRad vest reduced astronauts' radiation exposure by 60% during solar storms. The vest was tested on a NASA's Orion capsule in 2022. Researchers compared readings from two manikins with and without the vest.
+A peer-reviewed study of 443,000 Backblaze hard drives ranks HGST as the most reliable and Toshiba as the least reliable. The analysis of 1.66 million drive-years found Seagate and Toshiba HDDs fail at roughly twice the rate of WD and HGST. This study provides valuable insights for individuals and businesses choosing hard drives.
 
-💡 *Protecting astronauts from radiation exposure is crucial for space exploration safety.*
+💡 *Reliability matters in hard drive choices for data storage*
 
-🔗 [Read Full Article](https://www.techspot.com/news/113483-nasa-tested-vest-could-cut-astronauts-radiation-exposure.html)
-
----
-
-### 4. Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms our full 1:1 interview transcript 
-
-Intel VP Robert Hallock discusses Nova Lake expectations and Raptor Lake refresh plans, highlighting the company's focus on DIY builders amidst RAM shortages. He teases a potential return to Raptor Lake architecture for DDR4 platforms. The interview provides insight into Intel's shift in strategy.
-
-💡 *Intel adapting to RAM shortages with Raptor Lake refresh plans.*
-
-🔗 [Read Full Article](https://www.tomshardware.com/pc-components/cpus/intel-vp-robert-hallock-sets-nova-lake-expectations-teases-return-to-raptor-lake-for-ddr4-platforms-our-full-1-1-interview-transcript)
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/hdds/peer-reviewed-study-of-443000-backblaze-drivers-ranks-hgst-most-reliable-and-toshiba-least)
 
 ---
 
-### 5. Best of Sensors: Sensirion Redefines Smart Infrastructure with CO2 Sensing 
+### 3. Futuristic mosquito-zapping laser now available to buy, video shows device in action tiny device shoots down bugs like a personal air defense system, but costs $1,000 
 
-Sensirion's SCD53 CO2 sensor wins Best of Sensors Award in Smart Infrastructure Category.
+The mosquito-zapping laser system is now available for purchase, defending homes from mosquitoes.
 
-💡 *Enhancing smart infrastructure with precise CO2 monitoring and control capabilities.*
+💡 *Personal mosquito defense can significantly reduce disease transmission risks.*
 
-🔗 [Read Full Article](https://www.fiercesensors.com/sensors/best-sensors-sensirion-redefines-smart-infrastructure-co2-sensing)
+🔗 [Read Full Article](https://www.tomshardware.com/peripherals/futuristic-mosquito-zapping-laser-now-available-to-buy-video-shows-device-in-action-tiny-device-shoots-down-bugs-like-a-personal-air-defense-system-but-costs-usd1-000)
+
+---
+
+### 4. Devs blame Windows for VLC media player bug that causes 33-second delay when playing MP3 files creators allege Microsoft Defender blocking plugin cache is to blame 
+
+VLC developers attribute a 33-second delay in MP3 playback to a Windows 11 issue where Microsoft Defender blocks VLC's plugin cache, disrupting media player functionality.
+
+💡 *Windows security software causes VLC playback delays and cache issues*
+
+🔗 [Read Full Article](https://www.tomshardware.com/software/windows/vlc-media-player-bug-reportedly-causes-33-second-delay-when-playing-mp3-files-on-windows-developers-say-microsoft-defender-is-to-blame)
+
+---
+
+### 5. White House authorizes private companies to launch 'hack-back' cyberattacks that destroy data and systems, targeting foreign cybercrime organizations vetted organizations can now conduct offensive cyber operations 
+
+The White House has authorized private companies to launch 'hack-back' cyberattacks on foreign cybercrime organizations. These vetted companies can now conduct offensive cyber operations in response to hacking threats. The move aims to enhance cybersecurity and counter cybercrime.
+
+💡 *U.S. shifts from defensive to proactive cyber stance against foreign threats*
+
+🔗 [Read Full Article](https://www.tomshardware.com/tech-industry/cyber-security/white-house-authorizes-private-companies-to-hack-foreign-cybercrime-groups)
+
+---
+
+### 6. SK hynix runs out of replacement SSDs and defaults to original purchase price refunds fine-print warranty clause shortchanges buyers as drive prices double 
+
+SK hynix is reportedly offering refunds at original purchase price instead of replacement SSDs due to stock shortages. This means buyers may not receive the latest technology or capacity. The fine-print warranty clause may disadvantage consumers as drive prices double.
+
+💡 *Buyers shortchanged by SK hynix's warranty clause during drive price inflation.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/ssds/sk-hynix-is-allegedly-out-of-replacement-ssds-for-warranty-returns-chipmakers-original-price-refund-leaves-buyers-stranded-in-the-storage-shortage)
+
+---
+
+### 7. Catastrophic optical disc shattering blamed on cleaning chemicals and packing foam another data preservation concern to add to bit rot and laser rot 
+
+CDs and DVDs are vulnerable to damage from cleaning chemicals and packing foam off-gassing. These substances can cause catastrophic optical disc shattering, posing another data preservation concern. Bit rot and laser rot are not the only risks.
+
+💡 *Data preservation faces multiple threats, not just physical decay.*
+
+🔗 [Read Full Article](https://www.tomshardware.com/pc-components/storage/catastrophic-optical-disc-shattering-blamed-on-cleaning-chemicals-and-packing-foam-another-data-preservation-concern-to-add-to-bit-rot-and-laser-rot)
 
 ---
 
