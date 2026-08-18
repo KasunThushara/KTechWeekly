@@ -1,257 +1,414 @@
 [
   {
-    "title": "This portable, external CD/DVD drive comes with a 2.5-inch SATA and an SD Card slot for just $26 Save 10% on a modern essential for keeping physical media alive",
-    "summary": "If you have a bunch of old CDs or DVDs lying around and want something quick and simple to access them, this external drive can get the job done for you for less than $30 while offering extra features that would make it useful in your day-to-day PC usage.",
-    "link": "https://www.tomshardware.com/pc-components/this-portable-external-cd-dvd-drive-comes-with-a-2-5-inch-sata-and-an-sd-card-slot-for-just-usd26-save-10-percent-on-a-modern-essential-for-keeping-physical-media-alive",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-17T09:22:40.369730"
-  },
-  {
-    "title": "Dell CEO unveils new 'Dude, you re getting a Dell (AI server rack)' video PC maker recycles famous PC ad campaign to tout its new AI data center products",
-    "summary": "Dell has created a humorous AI-era update to its iconic early-2000s 'Dude, you re getting a Dell' series of commercials.",
-    "link": "https://www.tomshardware.com/tech-industry/dude-youre-getting-a-dell-ai-server-rack-dell-recycles-famous-ad-campaign-to-appeal-to-its-new-ai-overlords",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-17T09:22:40.369854"
-  },
-  {
-    "title": "Maker compresses a 2.9MB song by 1000x and prints it on paper as eight QR codes 21KB song is two minutes long, requires a neural network for playback",
-    "summary": "The open-source codec Meta released in 2022 converts a waveform into discrete tokens that a matching decoder turns back into audio.",
-    "link": "https://www.tomshardware.com/tech-industry/maker-compresses-a-2-9mb-song-1000-times-with-metas-ai-codec-and-prints-it-on-paper-as-eight-qr-codes",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-17T09:22:40.369966"
-  },
-  {
-    "title": "Ukraine built a $48,000 long-range drone after covertly snapping Chinese factory photos, clone destroys Russian Tu-95 bomber attack drone has 2,000 km range, country builds 6,000 flying-wing drones a year",
-    "summary": "The drone that destroyed a Tupolev Tu-95MS strategic bomber at Russia's Engels-2 air base last month turns out to be the MICH 2000.",
-    "link": "https://www.tomshardware.com/tech-industry/drones/ukraine-destroys-tu-95-bomber-using-48000-chinese-drone-clone",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-17T09:22:40.370085"
-  },
-  {
-    "title": "Critical macOS Screen Sharing flaw gives attackers remote root access CISA bumps bug to 9.8 severity following active Monero cryptojacking attacks",
-    "summary": "The Dutch National Cyber Security Centre (NCSC-NL) says that attackers are actively exploiting CVE-2026-65400, an authentication bypass in macOS Screen Sharing.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/macos-screen-sharing-flaw-exploited-to-root-macs-and-plant-monero-miners",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-17T09:22:40.370189"
-  },
-  {
-    "title": "Google reportedly taps AMD to design next-generation TPU hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning",
-    "summary": "Google may be building a TPU with on-package CPU cores specifically for agentic and reinforced learning workloads, according to a rumor.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asic-could-integrate-on-package-cpu-cores-for-reinforcement-learning",
+    "title": "Best Buy 'repairs' customer's gaming laptop by simply removing half the RAM claims unit in question only accepts 32GB RAM of RAM despite selling it as a 64GB configuration",
+    "summary": "A Redditor claims that Best Buy repaired a blue screen-afflicted under-warranty laptop by simply removing one of its two SODIMMs, and when it passed tests simply sent it back with half the memory installed.",
+    "link": "https://www.tomshardware.com/pc-components/ram/best-buy-repairs-customers-gaming-laptop-by-simply-removing-half-the-ram-claims-unit-in-question-only-accepts-32gb-ram-of-ram-despite-selling-it-as-a-64gb-configuration",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-17T09:22:40.370294"
+    "processed_date": "2026-08-18T09:13:40.561936"
   },
   {
-    "title": "Intel says it will launch new core with Nova Lake on desktop first, not in data center VP Robert Hallock hopes enthusiasts do the math compared to AMD",
-    "summary": "Intel s Robert Hallock says he hopes enthusiasts do the math compared to AMD, highlighting that the company s new core architecture will release in consumer processors before the data center.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-says-it-will-launch-new-core-with-nova-lake-on-desktop-first-not-in-data-center-vp-robert-hallock-hopes-enthusiasts-do-the-math-compared-to-amd",
+    "title": "Geekom admits to shipping malware-laced network drivers for AMD mini PCs company responds with guidance, removes malicious package",
+    "summary": "Geekom admits to shipping malware-laced network drivers for AMD mini-PCs maker requests takedown of report on the situation",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/geekom-admits-to-shipping-malware-laced-network-drivers-for-amd-mini-pcs-company-responds-with-guidance-removes-malicious-package",
     "categories": [
       "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-17T09:22:40.370403"
-  },
-  {
-    "title": "3D-printed sound-powered jet engines propel micro drones fliers are completely silent; researchers use ultrasonic frequencies to drive 12,000-RPM silent hovering fliers",
-    "summary": "A specially shaped 3D-printed resonator can make air shoot out of its nozzle and provide thrust when it hit with the proper frequency. While the prototypes don't deliver practical levels of thrust yet, they show proof that the concept works.",
-    "link": "https://www.tomshardware.com/3d-printing/3d-printed-sound-powered-jet-engines-propel-micro-drones-fliers-are-completely-silent-researchers-use-ultrasonic-frequencies-to-drive-12-000-rpm-silent-hovering-fliers",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-17T09:22:40.370517"
-  },
-  {
-    "title": "3D-printing enthusiast creates Flock Sock to blind controversial cameras, shares design slip-on cover attaches to broom handle to make it easy to put on devices placed on traffic and streetlights",
-    "summary": "SquidInk created a 3D-printing model that would allow anyone to build an easy-to-install \"protective cover\" for Flock cameras. The \"Flock Sock\" slips on these devices in seconds using a broom handle, although it must be noted that adding this \"accessory\" can you into trouble.",
-    "link": "https://www.tomshardware.com/3d-printing/3d-printing-enthusiast-creates-flock-sock-camera-blind-slip-on-cover-attaches-to-broom-handle-to-make-it-easy-to-put-on-devices-placed-on-traffic-and-streetlights",
-    "categories": [
-      "AI & ML"
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-17T09:22:40.370631"
+    "processed_date": "2026-08-18T09:13:40.562050"
   },
   {
-    "title": "The PC age began 45 years ago with the breakthrough Intel 8088 processor 8-bit bus fueled 45 years of x86 dominance",
-    "summary": "45 years ago, in August 1981, the PC age began in earnest with the launch of the IBM PC Model 5150. At its heart was the Intel 8088 microprocessor.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/the-pc-age-began-45-years-ago-with-the-breakthrough-intel-8088-processor-8-bit-bus-fueled-45-years-of-x86-dominance",
+    "title": "Alibaba is selling its gaming studio for at least $1.5 billion to help fund AI buildout, mirroring Micron's exit from consumer business dumps entire stake in Lingxi Games, which made 'Three Kingdoms: Strategy Edition'",
+    "summary": "Alibaba has agreed to sell its game development unit, Lingxi Games, to Asian private equity firm Trustar Capital, according to an internal staff memo.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-sells-its-gaming-studio-for-at-least-1-5-billion-to-help-fund-ai-buildout",
     "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-17T09:22:40.370728"
-  },
-  {
-    "title": "Modern OLEDs are just as vulnerable to burn-in as 2017 panels in 10,000-hour test twice the brightness and 27% efficiency gains offer crucial headroom",
-    "summary": "Rtings.com's latest update on their Accelerated Longevity Test shows that modern OLED TVs don't offer a clear advantage over older models in terms of burn-in since both show similar image retention after 10,000 hours of simulated usage. However, the new OLEDs are much brighter and consume much less power in the process.",
-    "link": "https://www.tomshardware.com/monitors/modern-oled-tvs-are-just-as-susceptible-to-burn-in-as-older-models-but-theyre-much-brighter-longevity-test-highlights-luminance-headroom-and-efficiency-as-mitigations",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-17T09:22:40.370840"
-  },
-  {
-    "title": "xTool M2 color craft laser and engraver review: Improved print head and positioning cameras at a lower price",
-    "summary": "The M2 is xTool s second take on an all-in-one craft tool in a box. It isn t just an iterative update to the M1 Ultra, the new M2 color craft laser and engraver thoroughly remixes the offering by adding cameras, air assist, CMYK print, and more.",
-    "link": "https://www.tomshardware.com/maker-stem/xtool-m2-color-craft-laser-and-engraver-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-17T09:22:40.370947"
-  },
-  {
-    "title": "Thieves swap RTX 5080 GPUs for RTX 3060s in Chinese gaming hotels rogue 'downgrades' go unnoticed until sudden blackout exposes $12,000 heist",
-    "summary": "Two thieves in China have been arrested after they were caught stealing high-end GPUs from gaming hotels. They'd check into rooms with RTX 5080s, replace them with RTX 3060s that looked similar, and no one noticed the performance difference.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/thieves-swap-rtx-5080-gpus-for-rtx-3060s-in-chinese-gaming-hotels-rogue-downgrades-go-unnoticed-until-sudden-blackout-exposes-usd12-000-heist",
-    "categories": [
+      "AI & ML",
       "GPUs"
     ],
     "quality_score": 10,
-    "processed_date": "2026-08-17T09:22:40.371061"
+    "processed_date": "2026-08-18T09:13:40.562181"
   },
   {
-    "title": "Ex-farm bureau chief invites AI data center developers to buy his land argues blocked $6.3B project will just move to willing neighbors, defies 500-jurisdiction moratorium wave and 70% public opposition",
-    "summary": "Blake Hurst spent a decade running the state's largest farm lobby. Now he's publicly courting the developers his neighbors froze out.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/former-missouri-farm-bureau-president-offers-his-farm-for-a-data-center",
+    "title": "Judge clears Nine PBS to retrieve 70 years of archival TV data court rules station owns 50TB of data in Iron Mountain servers after host went under",
+    "summary": "There s light at the end of the tunnel for Nine PBS after a judge has cleared the way for it to retrieve archival data and programming from Iron Mountain.",
+    "link": "https://www.tomshardware.com/software/cloud-storage/judge-clears-nine-pbs-to-retrieve-70-years-of-archival-tv-data-court-rules-station-owns-50tb-of-data-in-iron-mountain-servers-after-host-went-under",
     "categories": [
       "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-17T09:22:40.371167"
-  },
-  {
-    "title": "Ukrainian drone regiment decimates 3,500-strong U.S. armored brigade combat team in war game High drone kill-rate forced continuous 'respawns,' reveals shortcomings in American response as drones easily spotted and destroyed tanks and armored vehicles",
-    "summary": "The 3rd Brigade Combat Team (3rd BCT) of the 1st Cavalry Division was defeated in military exercises by the opposing force, which included a regiment of Ukrainian drone operators. Even though the 3rd BCT had tanks, other armor, and anti-drone units, they were no match for Ukrainian drones that easily spotted and \"destroyed\" them.",
-    "link": "https://www.tomshardware.com/tech-industry/drones/ukrainian-drone-regiment-decimates-3-500-strong-u-s-armored-brigade-combat-team-in-war-game-reveals-shortcomings-in-american-response-as-drones-easily-spotted-and-destroyed-tanks-and-heavy-armored-vehicles",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-17T09:22:40.371294"
-  },
-  {
-    "title": "Rogue iOS developer creates app that simulates messages sent by carrier pigeon; messages only travel at 100mph LA to NYC correspondence takes 22 hours to deliver; virtual birds can get distracted or even lost",
-    "summary": "Carrier Pidge slows down your electronic communications to a more natural speed.",
-    "link": "https://www.tomshardware.com/software/applications/rogue-ios-developer-creates-app-that-simulates-messages-sent-by-carrier-pigeon-messages-only-travel-at-100mph-la-to-nyc-correspondence-takes-22-hours-to-deliver-virtual-birds-can-get-distracted-or-even-lost",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-17T09:22:40.371391"
-  },
-  {
-    "title": "Pi-Ener-lite A compact 18650 UPS board for Raspberry Pi Zero with RTC and fuel gauge",
-    "summary": "Designed by ACE Design Studio in China, the Pi-Ener-lite is a dedicated UPS board made specifically for the Raspberry Pi Zero series. It features a standard flat-top 18650 lithium-ion battery holder and switches to battery power when external power is lost, while supporting simultaneous charging and discharging. The Pi-Ener-lite connects to the bottom of the Raspberry Pi Zero via seven spring-loaded pogo pins that handle both power delivery and I2C data communication, leaving the top GPIO header free for other HATs or expansions. Pi-Ener-lite specifications: Compatibility Raspberry Pi Zero series SBCs USB 1x USB Type-C port for charging Misc Power switch DS1307 real-time clock (RTC) chip with a CR1220 coin cell battery holder 7x spring pogo pins for power delivery and I2C data Power Management Battery Support Standard flat-top 18650 lithium-ion cell; supports simultaneous charging and discharging Charging current 1A @ 5V Output current 2.5A [...] The post Pi-Ener-lite A compact 18650 UPS board for Raspberry Pi Zero with RTC and fuel gauge appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/17/pi-ener-lite-a-compact-18650-ups-board-for-raspberry-pi-zero-with-rtc-and-fuel-gauge/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-17T09:22:40.371931"
-  },
-  {
-    "title": "Luckfox Lyra PLC A Linux-based Rockchip RK3506B industrial controller with RS232, RS422, RS485, CAN bus, and relays",
-    "summary": "Luckfox Lyra PLC is a Linux-based programmable logic controller powered by a Rockchip RK3506B tri-core Arm Cortex-A7 SoC, equipped with dual Ethernet, WiFi 6 and Bluetooth 5.2 wireless connectivity, a 1.9-inch touchscreen LCD, and a range of I/Os. The I/Os are mostly exposed through two 11-pole terminal blocks with one RS232, one shared RS422/RS485, one CAN Bus, and two relays, as well as smaller connectors for I2C, GPIO, and debugging. The system can be powered via USB-C (5V only), terminal block pins supporting 7V-24V DC input, or an optional PoE module. Luckfox Lyra PLC specifications: SoC Rockchip RK3506B CPU 3x Arm Cortex-A7 cores up to 1.2 GHz Arm Cortex-M0 real-time core GPU 2D GPU only No VPU, no NPU System Memory 512MB DDR3L Storage 8GB eMMC flash Display 1.9-inch touchscreen LCD with 320 x 170 resolution Networking 2x 10/100 Mbps Ethernet RJ45 ports 2.4 GHz [...] The post Luckfox Lyra PLC A Linux-based Rockchip RK3506B industrial controller with RS232, RS422, RS485, CAN bus, and relays appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/17/luckfox-lyra-plc-a-linux-based-rockchip-rk3506b-industrial-controller-with-rs232-rs422-rs485-can-bus-and-relays/",
-    "categories": [
-      "Semiconductors",
       "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-08-17T09:22:40.372117"
+    "quality_score": 5,
+    "processed_date": "2026-08-18T09:13:40.562296"
   },
   {
-    "title": "Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5",
-    "summary": "Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a82cdd091cf0948902874/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...] The post Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5 appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/",
+    "title": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices 128GB of DDR5 now $3,399",
+    "summary": "Analysis of historical price data trends indicates that the memory crisis has driven RAM prices to never-before-seen heights.",
+    "link": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
     "categories": [
-      "Hardware",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-08-17T09:22:40.372289"
+    "processed_date": "2026-08-18T09:13:40.562391"
   },
   {
-    "title": "Cadence AuraStack debuts to boost PCB and packaging designers",
-    "summary": "New AI Super Agent from Cadence gets nods from Nvidia, TSMC, Schneider",
-    "link": "https://www.fiercesensors.com/ai/cadence-aurastack-debuts-boost-pcb-and-packaging-designers",
+    "title": "America's largest grid wants to cut power to new data centers first during shortages 50MW-plus data centers must bring their own electricity generation to avoid shutoffs",
+    "summary": "PJM Interconnection has asked federal regulators to approve rules that would cut power to new data centers ahead of households during supply shortages.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/new-data-centers-on-americas-largest-grid-face-first-in-line-blackouts-unless-they-bring-their-own-power",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-18T09:13:40.562492"
+  },
+  {
+    "title": "Asus ROG Edition 20 gaming PC build A pretty powerhouse PC that next to no one can afford",
+    "summary": "What s it like to build a PC with some of the most expensive components on the market? Asus sent us its ROG 20th anniversary components so we could find out for ourselves.",
+    "link": "https://www.tomshardware.com/desktops/pc-building/asus-rog-edition-20-gaming-pc-build-a-pretty-powerhouse-pc-that-next-to-no-one-can-afford",
     "categories": [
       "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-18T09:13:40.562589"
+  },
+  {
+    "title": "Intel's Arc Pro B70 workstation GPU is now up to 48% more expensive than it was just a month ago 32GB Battlemage workstation card climbs toward $2,000",
+    "summary": "Intel's best Battlemage GPU is now even more expensive due to its large 32GB memory pool that's very useful for AI workloads.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/intels-arc-pro-b70-workstation-gpu-is-now-up-to-48-percent-more-expensive-than-it-was-just-a-month-ago-32gb-battlemage-workstation-card-climbs-toward-usd2-000",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-18T09:13:40.562696"
+  },
+  {
+    "title": "GoldenEye 007 for N64 has been '100% decompiled' success of half-decade project opens up possibilities for complex mods and ports",
+    "summary": "A reverse engineering and retro gaming enthusiast has finally succeeded in their goal of decompiling GoldenEye 007, the monumental James Bond adventure shooter from Rare.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/goldeneye-007-for-n64-has-been-100-percent-decompiled-success-of-half-decade-project-opens-up-possibilities-for-complex-mods-and-ports",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-18T09:13:40.562800"
+  },
+  {
+    "title": "Cherokee Nation bans hyperscale data centers on its lands, won't support projects without consultation energy and water consumption, air quality, noise, and cultural resource protection among concerns",
+    "summary": "Cherokee Nation, with more than 475,000 citizens, has banned hyperscale data center development on its tribally owned and trust lands.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/largest-tribe-in-the-us-bans-hyperscale-data-centers-on-its-lands",
+    "categories": [
       "AI & ML"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-08-17T09:22:40.373637"
+    "quality_score": 10,
+    "processed_date": "2026-08-18T09:13:40.562902"
   },
   {
-    "title": "New study finds HGST, WD hard drives fail less often than Seagate and Toshiba",
-    "summary": "The peer-reviewed IEEE study was written by Christoph Siemroth of the University of Essex and Yeomyung Park of Sungkyunkwan University. It reviewed data on 443,156 drives used in Backblaze data centers from 2013 through the second quarter of 2025. The sample covered more than 1.66 million drive-years. Read Entire Article",
-    "link": "https://www.techspot.com/news/113499-new-study-finds-hgst-wd-hard-drives-fail.html",
+    "title": "AI data center optical interconnect market to hit $144 billion by 2030, an over ten-fold increase from 2024 figures, according to new projections silicon photonics expected to account for nearly two-thirds of revenue, driven by co-packaged optics",
+    "summary": "A new CIC forecast projects that the data center optical interconnect market will grow from $13.7 billion in 2024 to $144.4 billion by 2030, with silicon photonics accounting for 63.7% of revenue.",
+    "link": "https://www.tomshardware.com/tech-industry/photonics/ai-data-center-optical-interconnect-market-to-hit-usd144-billion-by-2030-an-over-ten-fold-increase-from-2024-figures-according-to-new-projections-silicon-photonics-expected-to-account-for-nearly-two-thirds-of-revenue-driven-by-co-packaged-optics",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-18T09:13:40.563012"
+  },
+  {
+    "title": "ViewSonic VG1457 dual-screen portable monitor review: compact size and weight, but lackluster color",
+    "summary": "ViewSonic nailed the design with the VG1457, but should have put some more effort into sourcing higher quality display panels.",
+    "link": "https://www.tomshardware.com/monitors/portable-monitors/viewsonic-vg1457-dual-screen-portable-monitor-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-18T09:13:40.563119"
+  },
+  {
+    "title": "PC Partner warns of rising GPU prices and budget card shortages analyst suggests makers are hiking prices beyond memory costs",
+    "summary": "PC Partner warns that graphics card prices will rise further in H2 2026 as memory costs climb and supplies tighten and entry-level boards will gain the most. This is how they gain money, says Jon Peddie.",
+    "link": "https://www.tomshardware.com/tech-industry/pc-partner-warns-of-rising-gpu-prices-and-budget-card-shortages-analyst-suggests-makers-are-hiking-prices-beyond-memory-costs",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-18T09:13:40.563227"
+  },
+  {
+    "title": "Save $60 on Corsair's impressive 96% gaming keyboard with Elgato Stream Deck integration the Vanguard 96 RGB features pre-lubed mechanical switches, sound dampening, a color LCD screen, and a full-size number pad",
+    "summary": "Save $60 on Corsair's impressive Vanguard 96 RGB mechanical gaming keyboard at Best Buy.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/save-usd60-on-corsairs-impressive-96-percent-gaming-keyboard-with-elgato-stream-deck-integration-the-vanguard-96-rgb-features-pre-lubed-mechanical-switches-sound-dampening-a-color-lcd-screen-and-a-full-size-number-pad",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-08-17T09:22:40.373811"
-  },
-  {
-    "title": "This Carrier Pidge app delivers texts at 110 mph, unless your virtual pigeon gets lost, distracted, or dies",
-    "summary": "The iOS app Carrier Pidge is the work of Noah Iarrobino, who vibe coded it in about three weeks. Refreshingly, he admits that it's both \"pointless\" with \"genuinely no practical use,\" but it's still interesting to discover how long it would take to deliver a message by pigeon power. Read Entire Article",
-    "link": "https://www.techspot.com/news/113501-carrier-pidge-app-delivers-texts-110-mph-unless.html",
-    "categories": [
-      "Tech News"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-08-17T09:22:40.373917"
+    "processed_date": "2026-08-18T09:13:40.563340"
   },
   {
-    "title": "Nvidia's $5 billion Intel bet is now worth nearly $25 billion, and its SpaceX stake isn't far behind",
-    "summary": "Nvidia bought $5 billion in Intel stock last year as part of the companies' AI infrastructure partnership, creating one of the company's most valuable equity positions. The stake was valued at $24.9 billion in the latest filing. Read Entire Article",
-    "link": "https://www.techspot.com/news/113498-nvidia-5-billion-intel-bet-now-worth-nearly.html",
+    "title": "Japanese repair shop sells GPU VRAM upgrades for $25 per GB during memory crisis RTX 2080 Ti modded to 22GB of GDDR6 for just $282, double the VRAM creates a budget AI powerhouse",
+    "summary": "This vendor can upgrade your RTX 2080 Ti to feature 22GB of VRAM for less than $300, converting it into an AI powerhouse without breaking the bank.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/japanese-repair-shop-sells-gddr6-vram-upgrades-for-usd25-per-gb-during-memory-crisis-rtx-2080-ti-modded-to-22gb-for-just-usd282-double-the-vram-creates-a-budget-ai-powerhouse",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-17T09:22:40.374024"
+    "processed_date": "2026-08-18T09:13:40.563439"
   },
   {
-    "title": "UK researchers are growing miniature human tissue from NHS patient cells to improve drug testing",
-    "summary": "The work is part of the government's plan to reduce the use of animals in research by expanding alternatives known as new approach methodologies. These include organoids, organs-on-chips and AI tools that can process biological data and model disease. Read Entire Article",
-    "link": "https://www.techspot.com/news/113497-uk-researchers-building-miniature-human-organs-nhs-patient.html",
+    "title": "Senior PC store staff accused of running secret rival shop with stolen inventory Hong Kong retailer claims substantial losses over year-long scheme",
+    "summary": "A PC retailer in Wan Chai's Computer Zone 298 mall in Hong Kong, has accused two of its senior employees of stealing company stock for roughly a year and reselling it.",
+    "link": "https://www.tomshardware.com/tech-industry/hong-kong-pc-store-accuses-two-senior-staff-of-stealing-stock-to-supply-their-own-online-shop-for-over-a-year",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-18T09:13:40.563541"
+  },
+  {
+    "title": "Desktop UV printers and wild custom builds take over Open Sauce 2026 $1,700 full-color printers, flash-cured resin, and a rideable speeder bike",
+    "summary": "If you want to see the bleeding edge of 3D printing tech, you go to FormNext in Frankfurt, Germany. If you want to see the latest in consumer electronics, you go to CES in Las Vegas. If you want to see what it s like to microwave your own head, you go to Open Sauce in San Mateo, California.",
+    "link": "https://www.tomshardware.com/3d-printing/desktop-uv-printers-and-wild-custom-builds-take-over-open-sauce-2026-usd1-700-full-color-printers-flash-cured-resin-and-a-rideable-speeder-bike",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-18T09:13:40.563648"
+  },
+  {
+    "title": "Air conditioner powered by a 'PC fan' labeled a scam by German consumer organization there's a reason this lookalike AC unit is far cheaper than its competitors",
+    "summary": "Tear down of a so-called air conditioner from Epicool revealed 'a simple PC fan combined with a small heating element.'",
+    "link": "https://www.tomshardware.com/pc-components/air-cooling/air-conditioner-powered-by-a-pc-fan-labeled-a-scam-by-german-consumer-organization-theres-a-reason-this-lookalike-ac-unit-is-far-cheaper-than-its-competitors",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-18T09:13:40.563748"
+  },
+  {
+    "title": "LILYGO T-Echo Lite Kit adds a keyboard shield to the nrRF52840-based ePaper LoRa and GPS development board",
+    "summary": "LILYGO T-Echo Lite Kit is a Nordic nRF52840-based LoRa + GPS development kit with a built-in keyboard that enables direct off-grid communication without a smartphone. The kit is not entirely new since it s based on the T-Echo Lite devkit introduced last year, to which the company has now added a keyboard shield with backlit alphanumeric keys, audio support via a 3.5mm audio jack and a built-in speaker, and a vibration motor. LILYGO T-Echo Lite Kit specifications: LILYGO T-Echo Lite Core module SoC Nordic Semiconductor nRF52840 CPU 32-bit Arm Cortex-M4F microcontroller @ 64 MHz Memory and storage 1 MB Flash, 256 KB RAM Wireless Bluetooth 5, Thread, ANT, Bluetooth Mesh, 802.15.4 (Zigbee), 2.4 GHz proprietary LoRa transceiver Semtech SX1262 with global coverage support: 433 MHz, 868 MHz, 915 MHz, 923 MHz Power management circuitry Display 1.22-inch SPI e-paper display with 192 x 176 resoltion (GDEM0122T61) [...] The post LILYGO T-Echo Lite Kit adds a keyboard shield to the nrRF52840-based ePaper LoRa and GPS development board appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/18/lilygo-t-echo-lite-kit-adds-a-keyboard-shield-to-the-nrrf52840-based-epaper-lora-and-gps-development-board/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-08-18T09:13:40.564298"
+  },
+  {
+    "title": "USBridge-KVM 2.0 An open-source IP-KVM with BIOS access over SSH, OCR, and AI support (Crowdfunding)",
+    "summary": "USBridge-KVM 2.0 is a compact open-source AI-enabled IP-KVM designed for remote management and troubleshooting of servers and PCs, including systems that are unresponsive or have not yet booted. It provides out-of-band BIOS access, remote display and input control, virtual media mounting, and hardware power management. Built around a Radxa Zero 3W single board computer, it also features a 240 240 IPS display, Wi-Fi 6 connectivity, two USB Type-C ports, a Micro HDMI video output (loop), and a MicroSD card slot. It supports hardware UVC video capture up to 1080p and uses Moonlight streaming to achieve 25 50 ms low-latency remote access. One of the most notable features is the BIOS-in-Terminal, which uses offline OCR to convert BIOS and pre-boot screens into text accessible over SSH. USBridge-KVM 2.0 specifications: Main SBC Radxa Zero 3W with Rockchip RK3566, 1-2GB LPDDR4X RAM, and MicroSD storage for the OS and Btrfs snapshots Display 240 240 IPS [...] The post USBridge-KVM 2.0 An open-source IP-KVM with BIOS access over SSH, OCR, and AI support (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/18/usbridge-kvm-2-0-an-open-source-ip-kvm-with-bios-access-over-ssh-ocr-and-ai-support/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-18T09:13:40.564482"
+  },
+  {
+    "title": "SONOFF Hydro DUO review A dual-zone BLE and Zigbee water valve tested with eWeLink and Home Assistant",
+    "summary": "ITEAD has sent us a review sample of the SONOFF Hydro DUO (SWV-ZF2E) dual-channel Zigbee 3.0 and Bluetooth 5 LE smart water valve. The device supports up to 12 custom watering schedules, integrates a water flow meter, and features alert systems for leak risks, low battery, and insufficient water. The device has a maximum Zigbee communication range of 130 meters in open, unobstructed areas. It is primarily designed for the eWeLink app but also works with MQTT-compatible platforms such as Home Assistant. In this review, we will cover everything from unboxing, installation, and getting started with the SONOFF Hydro DUO via Bluetooth LE and Zigbee (through the SONOFF NSPanel Pro Gen2) using the eWeLink app, before switching to Home Assistant and creating an automation system leveraging moisture data from the XIAO Soil Moisture Sensor. SONOFF Hydro DUO unboxing We received the device in a retail package which clearly indicates we [...] The post SONOFF Hydro DUO review A dual-zone BLE and Zigbee water valve tested with eWeLink and Home Assistant appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/17/sonoff-hydro-duo-review-a-dual-zone-ble-and-zigbee-water-valve-tested-with-ewelink-and-home-assistant/",
+    "categories": [
+      "Tech News",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-18T09:13:40.564664"
+  },
+  {
+    "title": "NXP focuses on edge security in new microcontroller for Ethernet",
+    "summary": "NXP names CAREL Industries as early customer with new MCX A5 MCU, which relies on post-quantum cryptography for security.",
+    "link": "https://www.fiercesensors.com/embedded/nxp-focuses-edge-security-new-microcontroller-ethernet",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-08-18T09:13:40.565709"
+  },
+  {
+    "title": "Humanoids will take off when they are deemed safe, NXP exec says",
+    "summary": "NXP sees advanced robots as an extension of its expertise in parts for automotive.",
+    "link": "https://www.fiercesensors.com/ai/humanoids-are-going-take-when-they-are-deemed-safe-nxp-exec",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-08-18T09:13:40.565829"
+  },
+  {
+    "title": "Leaked video shows Apple's camera-equipped AirPods identifying a book by sight",
+    "summary": "The macOS Tahoe 26.7 release candidate includes code and a brief video referencing an unreleased product called B790. The short demonstration video, found by MacRumors, shows a user holding up a book so the AirPods camera can read its title. The camera appears to recognize the text, and the voiceover... Read Entire Article",
+    "link": "https://www.techspot.com/news/113519-leak-suggests-next-apple-airpods-have-cameras-visual.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-18T09:13:40.566253"
+  },
+  {
+    "title": "Ferrari's first electric car sells for a record $40 million at auction",
+    "summary": "RM Sotheby's sold the first production example of the Ferrari Luce, a customized version of the company's new electric model. The buyer was not identified. The proceeds will go to the Ferrari Foundation's education programs. Read Entire Article",
+    "link": "https://www.techspot.com/news/113509-ferrari-first-electric-car-breaks-auction-record-40.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-18T09:13:40.566362"
+  },
+  {
+    "title": "A botched Mastercard update left Australian shoppers unable to pay",
+    "summary": "An undisclosed number of Australian customers were unable to pay with their cards during Saturday's shopping trips. As reported by ABC, Mastercard quickly identified the cause of the new outage: a scheduled system update that went wrong, triggering declined transactions for a period of several hours. Read Entire Article",
+    "link": "https://www.techspot.com/news/113515-botched-mastercard-update-left-australian-shoppers-unable-pay.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-18T09:13:40.566466"
+  },
+  {
+    "title": "Apple will begin assembling Mac Minis at Foxconn's Houston plant later this year",
+    "summary": "The line will operate in a new 170,000-square-foot space at the plant, which already makes AI servers for Apple. Foxconn is funding the assembly-line buildout, while Apple has committed to purchasing the products made there. Read Entire Article",
+    "link": "https://www.techspot.com/news/113507-apple-begin-assembling-mac-minis-foxconn-houston-plant.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-18T09:13:40.566567"
+  },
+  {
+    "title": "Windows is losing a command-line tool that dates back to the Windows 2000 days",
+    "summary": "Microsoft recently released a new Insider Preview Build of Windows 11, giving unpaid beta testers an early look at features headed to the stable release. Tucked into the changelog for Preview Build 26100.9267/26200.9267 is confirmation that this marks the beginning of the end for WMIC. Read Entire Article",
+    "link": "https://www.techspot.com/news/113510-windows-losing-command-line-tool-dates-back-windows.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-08-18T09:13:40.566674"
+  },
+  {
+    "title": "We're just four frames away from the perfect Super Mario Bros. speedrun",
+    "summary": "Two of the world's best Mario speedrunners LeKukie and Niftski are publicly battling to be the first to achieve the perfect game. The competitors have been livestreaming their attempts and during a session on August 14, Niftski set a new world record with a time of 4:54.332. Just... Read Entire Article",
+    "link": "https://www.techspot.com/news/113512-perfect-super-mario-bros-speedrun-four-frames-away.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-18T09:13:40.566774"
+  },
+  {
+    "title": "Upscayl is our favorite cross-platform image upscaling tool, and it's free",
+    "summary": "Upscayl is an open-source tool for enlarging lower resolution images. It uses local AI models to upscale and sharpen images, adding believable detail instead of just stretching pixels. It runs entirely offline on your own GPU, and runs on Windows, Mac and Linux, with batch processing built in. For more useful tools, check out TechSpot's Essential Apps feature. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7771-upscayl.html",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-18T09:13:40.566886"
+  },
+  {
+    "title": "GitHub is down again, and this time it's hitting almost everything",
+    "summary": "The Microsoft-owned company acknowledged the incident at 13:40 UTC on Monday, saying it was investigating reports of performance problems across several GitHub services. Within minutes, API Requests and Actions were marked as degraded, followed by Webhooks, Issues, and Pull Requests. Read Entire Article",
+    "link": "https://www.techspot.com/news/113514-github-down-again-time-hitting-almost-everything.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-18T09:13:40.566987"
+  },
+  {
+    "title": "GPU thieves replaced RTX 5080 cards with RTX 3060s in Chinese esports hotels until a blackout gave them away",
+    "summary": "In China, esports hotels are essentially a cross between a regular hotel and a high-end gaming caf . Guest rooms are equipped with powerful gaming PCs, often with several setups in one room so groups of friends can play together overnight. Read Entire Article",
+    "link": "https://www.techspot.com/news/113511-esports-hotel-thieves-caught-swapping-out-rtx-5080.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-18T09:13:40.567091"
+  },
+  {
+    "title": "Astronomers may have discovered a new kind of object called a black hole star",
+    "summary": "\"Our picture of this object is evolving very rapidly,\" says lead author Rohan Naidu, a NASA Hubble Fellow and Pappalardo Fellow at MIT's Kavli Institute for Astrophysics and Space Research. \"We think there is a central black hole that is 100,000 times as massive as the Sun. And around this... Read Entire Article",
+    "link": "https://www.techspot.com/news/113506-astronomers-may-have-discovered-new-kind-object-called.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-18T09:13:40.567220"
+  },
+  {
+    "title": "These are the tech CEOs young people trust most and least when it comes to AI",
+    "summary": "The finding was part of a poll conducted by CNBC with Generational Lab. Participants aged between 18 and 34 were given the names of nine tech leaders and asked whether they trust them to act responsibly on AI. Read Entire Article",
+    "link": "https://www.techspot.com/news/113508-tech-ceos-young-people-trust-most-least-when.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-18T09:13:40.567321"
+  },
+  {
+    "title": "Scientists create tiny drones and boats powered entirely by sound",
+    "summary": "The technology was developed by EPFL's MicroBioRobotic Systems Lab in Switzerland, and the study was published in Science Advances. It relies on acoustic resonance: when sound at the right frequency enters a hollow chamber, the air inside vibrates strongly. The cavity directs some of that air through an opening, creating... Read Entire Article",
+    "link": "https://www.techspot.com/news/113500-scientists-create-tiny-drones-boats-powered-entirely-sound.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-18T09:13:40.567429"
+  },
+  {
+    "title": "Amazon makes it harder for customers to sue as new terms block class actions and force arbitration",
+    "summary": "Amazon notified customers of the changes by email on Friday, the same day they took effect. Continuing to use any Amazon service counts as accepting them. Users received no advance notice. Read Entire Article",
+    "link": "https://www.techspot.com/news/113504-amazon-bans-class-action-cases.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-18T09:13:40.567531"
+  },
+  {
+    "title": "Entry-level GPU shortages will get worse in the second half of 2026, warns PC Partner",
+    "summary": "The main issue is VRAM, as demand tied to AI infrastructure has put pressure on supplies of GDDR6 and GDDR7. Read Entire Article",
+    "link": "https://www.techspot.com/news/113503-pc-partner-warns-entry-level-gpu-shortages-get.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-18T09:13:40.567625"
+  },
+  {
+    "title": "Sam Altman says four years is too long for college as AI tears up the traditional career path",
+    "summary": "Speaking during a surprise appearance at Internapalooza, a networking event for technology interns hosted by investor Cory Levy, Altman talked about the two years he spent at Stanford and why he felt he didn't need to complete the standard four years. \"I think I learned a lot, and it would... Read Entire Article",
+    "link": "https://www.techspot.com/news/113505-sam-altman-four-years-long-college-ai-tears.html",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-08-17T09:22:40.374188"
+    "quality_score": 5,
+    "processed_date": "2026-08-18T09:13:40.567736"
+  },
+  {
+    "title": "Nvidia may have just built its own hyperscaler without owning a single data center",
+    "summary": "I should note, going deep into data center financing is not our usual beat. However, we do cover big tech, and Nvidia at this point is the biggest of them all, and it's not thanks to gaming GPUs. The framing that tech analyst Ryan Shrout gave to this announcement caught... Read Entire Article",
+    "link": "https://www.techspot.com/news/113502-nvidia-may-have-built-own-hyperscaler-without-owning.html",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-18T09:13:40.567837"
   }
 ]
