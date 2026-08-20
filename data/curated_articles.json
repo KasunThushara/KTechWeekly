@@ -1,378 +1,410 @@
 [
   {
-    "title": "GitHub programmer ports playable Doom to DSLR camera with 3-inch TFT LCD display Canon EOS 550D with open-source Magic Lantern firmware uses camera's button as controls, even plays sound",
-    "summary": "A developer posted their Doom port for the Canon EOS 550D on GitHub. The game uses the Magic Lantern firmware add-on to run on the camera, and uses various camera buttons to play the game directly from the SD card.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/github-programmer-ports-doom-to-dslr-camera-with-3-inch-tft-lcd-display-canon-eos-550d-with-open-source-magic-lantern-firmware-uses-cameras-button-as-controls-even-plays-sound",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.260379"
-  },
-  {
-    "title": "DJI scores a win in fight against US ban, appeals court orders fresh review of firm's 'Chinese military company' designation drone maker will stay on Pentagon list while a judge examines classified evidence for the first time",
-    "summary": "The DC Circuit reversed one of four findings, ruling that a lower court upheld a fully redacted justification without reading the classified record behind it.",
-    "link": "https://www.tomshardware.com/tech-industry/appeals-court-orders-fresh-review-of-djis-chinese-military-company-designation",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-19T09:14:50.260514"
-  },
-  {
-    "title": "Intel's next-gen Nova Lake chips may skip game-boosting X3D cache rival for mobile SKUs and debut on Razor Lake-HX instead, leaker claims new rumor says Razor Lake family reportedly uses TSMC's N2X node",
-    "summary": "Nova Lake desktop CPUs look to be the exclusive recipient of bLLC, Intel's answer to AMD's X3D, as the company looks to debut bLLC on mobile with Razor Lake-HX, and possibly Razor Lake-AX. As such, the Razor Lake family is also rumored to be manufactured on TSCM's N2X process node.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intels-next-gen-nova-lake-chips-may-skip-bllc-for-mobile-skus-and-debut-on-razor-lake-hx-instead-leaker-claims-new-rumor-says-razor-lake-family-reportedly-uses-tsmcs-n2x-node",
+    "title": "Samsung raises advanced foundry prices by up to 15% as AI demand fills its 4nm lines, report claims Chinese customers accepting the largest hikes",
+    "summary": "Samsung raised prices on new orders across its 4nm, 5nm, and 8nm foundry processes in July, with increases reaching 15% for customers in China.",
+    "link": "https://www.tomshardware.com/tech-industry/samsung-raises-advanced-foundry-prices-by-up-to-15-percent-as-ai-demand-fills-its-4nm-lines",
     "categories": [
       "Semiconductors",
-      "Hardware"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.260672"
+    "processed_date": "2026-08-20T09:15:57.104389"
   },
   {
-    "title": "AMD claims its 2026 rack-scale AI solution is 4X more energy efficient than its 2024 AI platform company says it's pacing ahead of 20X efficiency by 2030",
-    "summary": "AMD says its 2025 rack-scale AI system is 4X more energy efficient compared to its 2024 AI solution, though does not produce actual benchmark results.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-claims-its-2026-rack-scale-ai-solution-is-4x-more-energy-efficient-than-its-2024-ai-platform-company-says-its-pacing-ahead-of-20x-efficiency-by-2030",
+    "title": "China shifting massive AI data center complexes to rural provinces to tap surplus energy Eastern Data, Western Computing strategy has Chinese tech giants Huawei and Tencent building AI infrastructure Guizhou",
+    "summary": "Chinese tech giants are putting up data centers in rural Chinese provinces with zero resistance. The abundance of land and energy in these areas allowed infrastructure to easily be built with limited issues, although some experts still question how much development they can bring to these areas.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/china-shifting-massive-ai-data-center-complexes-to-rural-provinces-to-tap-surplus-energy-eastern-data-western-computing-strategy-has-chinese-tech-giants-huawei-and-tencent-building-ai-infrastructure-guizhou",
     "categories": [
-      "AI & ML",
-      "GPUs"
+      "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-08-19T09:14:50.260821"
+    "processed_date": "2026-08-20T09:15:57.104534"
   },
   {
-    "title": "Asus ROG Swift PG32UCWM 32-inch OLED gaming monitor review: A flagship display with premium performance and imagery",
-    "summary": "Asus delivers another flagship OLED with the ROG Swift PG32UCWM. It pulls out all the stops with a 32-inch Tandem RGB Stripe panel, 4K resolution, 240 Hz with 480 Hz/FHD dual mode, HDR10, Dolby Vision, Adaptive-Sync and wide gamut color.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-swift-pg32ucwm-32-inch-oled-gaming-monitor-review",
+    "title": "Qualcomm retracts select Snapdragon C power efficiency benchmarks nearly a week after publication updated slide removes idle apps and web browsing results",
+    "summary": "Qualcomm has issued an updated slide for its Snapdragon C power efficiency claims, removing two benchmarks from the results.",
+    "link": "https://www.tomshardware.com/laptops/qualcomm-retracts-select-snapdragon-c-power-efficiency-benchmarks-nearly-a-week-after-publication-updated-slide-removes-idle-apps-and-web-browsing-results",
     "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-08-19T09:14:50.260936"
-  },
-  {
-    "title": "Adata XPG Novakey RGB DDR5-6000 C30 2x16GB Review Turning salvage into pure performance",
-    "summary": "Amid the memory crunch, Adata unleashes its new XPG Novakey RGB memory kit series. But can the new lineup convince consumers to pick it up?",
-    "link": "https://www.tomshardware.com/pc-components/ram/adata-xpg-novakey-rgb-ddr5-6000-c30-2x16gb-review-turning-salvage-into-pure-performance",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-08-19T09:14:50.261038"
-  },
-  {
-    "title": "How to choose a new motherboard without overpaying scoping out the features you need, and what you might never use as component costs soar",
-    "summary": "How much motherboard is too much? We look at what you actually get as prices climb from VRMs and connectivity to premium features and diminishing returns.",
-    "link": "https://www.tomshardware.com/pc-components/motherboards/how-to-choose-a-new-motherboard-without-overpaying-scoping-out-the-features-you-need-and-what-you-might-never-use-as-component-costs-soar",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.261148"
-  },
-  {
-    "title": "Overclocker updates Hydra overclocking tool with VRAM and power limit controls for RTX 50-series GPUs new update gives up to +3000 MHz memory offset",
-    "summary": "Overclocker 1usmus has released a new update for their Hydra overclocking tool that features VRAM and power limit controls for RTX 50-series GPUs.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/famed-overclocker-1usmus-updates-hydra-overclocking-tool-with-up-to-3000-mhz-memory-offset-new-update-gives-vram-and-power-limit-controls-to-rtx-50-series-gpus",
-    "categories": [
-      "GPUs",
-      "Tech News"
+      "Semiconductors",
+      "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-08-19T09:14:50.261291"
+    "processed_date": "2026-08-20T09:15:57.104656"
   },
   {
-    "title": "China's homegrown AI accelerators to supply 90% of the country's domestic market, analysts suggest Cambricon and Huawei expected to be the biggest winners in the shift away from Nvidia and AMD",
-    "summary": "China could become almost self-sufficient in high-end AI accelerators in 2026 as Chinese IHVs led by Huawei expected to supply 90% of AI processors used domestically.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-homegrown-ai-accelerators-to-supply-90-percent-of-the-countrys-domestic-market-analysts-suggest-cambricon-and-huawei-expected-to-be-the-biggest-winners-in-the-shift-away-from-nvidia-and-amd",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.261411"
-  },
-  {
-    "title": "GameStop customer earned over $10,000 in store credit from a stack of broken consoles traded 'hundreds' of PlayStations, Xboxes, Game Boys, Switches, and more",
-    "summary": "One man s trash is another s treasure, and GameStop just paid out over $10,000 for hundreds of broken consoles.",
-    "link": "https://www.tomshardware.com/video-games/console-gaming/gamestop-customer-earned-over-usd10-000-in-store-credit-from-a-stack-of-broken-consoles-traded-hundreds-of-playstations-xboxes-game-boys-switches-and-more",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.261513"
-  },
-  {
-    "title": "Google buys Spirit Airlines data for AI training for just $10 million purchase includes hundreds of millions of emails, Microsoft Teams chats, billions of flight pricing records, and anonymized passenger records",
-    "summary": "A U.S. bankruptcy court auctioned off Spirit Airlines' treasure trove of data, with Google making the winning bid. The tech giant is paying $10 million for various information, including hundreds of millions of emails and Microsoft Teams conversations, and billions of flight pricing data and transaction records.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-buys-spirit-airlines-data-for-ai-training-for-just-usd10-million-purchase-includes-hundreds-of-millions-of-emails-microsoft-teams-chats-billions-of-flight-pricing-records-and-anonymized-passenger-records",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.261634"
-  },
-  {
-    "title": "Judge allegedly outsourced entire ruling to AI and still can't be sued federal court upholds blanket judicial immunity",
-    "summary": "A U.S. federal court has ruled that a judge accused of relying entirely on AI to make a judicial decision can still retain judicial immunity from civil lawsuits, although the ruling does not determine whether such use of AI is legally or ethically permissible.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/judges-who-use-ai-to-make-decisions-still-protected-by-judicial-immunity-court-ruling-protects-outcomes-regardless-of-ai-usage",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.261744"
-  },
-  {
-    "title": "Best Buy has slashed $1,350 off this 'outstanding' OLED RTX 5080 laptop 16-inch Lenovo Legion Pro 7i features a 24-core Arrow Lake CPU and 32GB of DDR5 RAM",
-    "summary": "Get $1,350 off this Lenovo Legion Pro 7i with RTX 5080.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/best-buy-has-slashed-usd1-350-off-this-outstanding-oled-rtx-5080-laptop-16-inch-lenovo-legion-pro-7i-features-a-24-core-arrow-lake-cpu-and-32gb-of-ddr5-ram",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.261853"
-  },
-  {
-    "title": "Secret tracking device placed in rare book ends up in Amazon processing facility destroying books to train AI models is 'all' the Vegas warehouse does",
-    "summary": "404 Media placed an AirTag inside a shipment of 1,000 books, which landed at an Amazon facility that reportedly spends all day cutting the spine off of, and scanning, books.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secret-tracking-device-placed-in-rare-book-ends-up-in-amazon-processing-facility-destroying-books-to-train-ai-models-is-all-the-vegas-warehouse-does",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.261958"
-  },
-  {
-    "title": "China reportedly orders state agencies to uninstall its government-only edition of Windows 10 Beijing accelerates planned retirement over data security concerns",
-    "summary": "China's Ministry of State Security has told some state-linked organizations to remove a customized version of Windows 10 from their machines.",
-    "link": "https://www.tomshardware.com/software/operating-systems/china-reportedly-orders-state-agencies-to-uninstall-its-government-only-edition-of-windows-10",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.262063"
-  },
-  {
-    "title": "Firm test-fires 3D-printed, fully cryogenic reusable rocket engine Indian startup leverages SLM printing to create its first working prototype",
-    "summary": "Othisis, an Indian startup that's only been in business for two years, has demonstrated a fully 3D-printed, reusable rocket engine.",
-    "link": "https://www.tomshardware.com/3d-printing/othisis-test-fires-3d-printed-fully-cryogenic-reusable-rocket-engine-indian-startup-leverages-slm-printing-to-create-its-first-working-prototype",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.262163"
-  },
-  {
-    "title": "Nvidia crypto mining GPUs hacked to restore locked-away VRAM software mod unlocks 64GB of VRAM on $250 CMP 170HX",
-    "summary": "CMP Unlocker enables previously disabled VRAM on Nvidia's five-year-old CMP 170HX cryptocurrency mining graphics card.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-crypto-mining-gpus-hacked-to-restore-locked-away-vram-in-order-to-feed-ai-boom-software-mod-unlocks-64gb-of-vram-on-usd250-cmp-170hx",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.262289"
-  },
-  {
-    "title": "Raspberry Pi Compute Module 5 gets an official programming jig",
-    "summary": "The Raspberry Pi Compute Module 5 Programming Jig is a single-head provisioning system designed to easily flash an OS to the Raspberry Pi CM5 without a carrier board. The jig connects to the provisioning network via Ethernet or Wi-Fi and also features a second Ethernet port for the Compute Module. The CM5 is kept in place by a mechanical clamping mechanism, and the jig relies on pogo pins to interface with the Compute Module. Specifications: Features Provisioning head Pogo pin interface Mechanical clamping mechanism Compatible with Raspberry Pi Compute Module 5 Connectivity JIG ETH Gigabit Ethernet RJ45 jack for connecting the jig to the network; note DUT ETH Gigabit Ethernet RJ45 jack for connecting the CM5 to the network WiFi with external antenna, as an alternative to JIG ETH USB-C boot connector to connect to the host Misc LED status indicators Power 12V/2A (24W) DC via power [...] The post Raspberry Pi Compute Module 5 gets an official programming jig appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/19/raspberry-pi-compute-module-5-gets-an-official-programming-jig/",
+    "title": "You can now buy a delidded Ryzen 9 9950X3D2 Dual Edition for $1,403 stripped dual-cache offering is $500 more expensive than regular version",
+    "summary": "Thermal Grizzly offers the halo CPU with the pop topped for an egregious price, yet it almost makes sense on this chip.",
+    "link": "https://www.tomshardware.com/pc-components/overclocking/you-can-now-buy-a-delidded-ryzen-9-9950x3d2-dual-edition-for-usd1-403-stripped-dual-cache-offering-is-usd500-more-expensive-than-regular-version",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-08-19T09:14:50.262764"
-  },
-  {
-    "title": "NXP MCX A5 Cortex-M33 MCU family supports 10BASE-T1S Single Pair Ethernet and Post-Quantum Cryptography",
-    "summary": "NXP has introduced the MCX A5 family of Cortex-M33 MCUs, which features a 10/100Mbps Ethernet MAC and an integrated 10BASE-T1S Single Pair Ethernet digital PHY. It targets industrial and networking applications such as controllers, PLCs, remote I/O, building and energy management systems, and other connected edge devices. The MCUs run at up to 240 MHz and feature up to 2 MB dual-bank Flash and 640 KB SRAM, along with multiple communication interfaces and analog peripherals. Security features include an EdgeLock accelerator, secure boot with PQC hybrid support, secure firmware updates, lifecycle management, secure debug, external Flash encryption, and anti-tamper monitoring. NXP MCX A5 Series (MCXA577) specifications: MCU Core Arm Cortex-M33 core clocked at up to 240 MHz Includes FPU, DSP, MPU, and TrustZone support Integrated SmartDMA co-processor for efficient data handling Delivers 988.8 CoreMark (4.12 CoreMark/MHz) Memory and Storage Up to 2 MB dual-bank Flash with ECC and read-while-write support [...] The post NXP MCX A5 Cortex-M33 MCU family supports 10BASE-T1S Single Pair Ethernet and Post-Quantum Cryptography appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/19/nxp-mcx-a5-cortex-m33-mcu-family-supports-10base-t1s-single-pair-ethernet-and-post-quantum-cryptography/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-19T09:14:50.262946"
-  },
-  {
-    "title": "Waveshare PiRack-M6F 6-node rack unit for Raspberry Pi 4/5 brings all ports to the front",
-    "summary": "Waveshare PiRack-M6F is a multi-node server cluster kit for Raspberry Pi 4/5 designed for 10-inch 2U racks and supporting up to six Model B SBCs with all ports brought to the front panel. We wrote about rack mounts for Raspberry Pi SBCs before with products such as KKSB 10-inch and 19-inch rack panels and MyElectronics 19-inch 2U & 3U rack mounts, but those are mostly mechanical solutions. The PiRack-M6F adds some add-on boards to bring all Raspberry Pi ports to the front, add a debug connector (Pi 5 only), and a screw terminal at the back for 5V power. It also supports HAT and add-on boards, for instance, to add PoE support. Waveshare PiRack-M6F kit content and highlights: PiRack-M6F aluminum alloy rack with 2U height mounting space Designed for 6x Raspberry Pi 4/5 Dimensions Fits in 254 x 88 x 85 mm volume 6x Pi 5 Connector Adapter (D) [...] The post Waveshare PiRack-M6F 6-node rack unit for Raspberry Pi 4/5 brings all ports to the front appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/18/waveshare-pirack-m6f-6-node-rack-unit-for-raspberry-pi-4-5-brings-all-ports-to-the-front/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.263104"
+    "processed_date": "2026-08-20T09:15:57.104773"
   },
   {
-    "title": "Focus on safety drives robot work at NXP",
-    "summary": "NXP Technology Days event includes drill-downs on robot sensors and a new front end circuit amid a discussion of safety designs.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/focus-safety-drives-robot-work-nxp",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-08-19T09:14:50.264094"
-  },
-  {
-    "title": "NXP Tech Days: sensors, virtual sensors, actuators and partners",
-    "summary": "NXP hosted 900 guests to see 30 partners and 24 hours of technical deep dive sessions.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/nxp-tech-days-sensors-virtual-sensors-actuators-and-partners",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.264280"
-  },
-  {
-    "title": "New GTA 6 gameplay just leaked, and Rockstar can't take it down fast enough",
-    "summary": "Two low-resolution clips attributed to an X account calling itself CyberLeek appear to show previously unseen gameplay from GTA 6. Although the footage lasts only a couple of minutes, Take-Two's rapid but ultimately ineffective copyright takedowns suggest the clips are genuine. Read Entire Article",
-    "link": "https://www.techspot.com/news/113535-gta-vi-gameplay-reportedly-leaks-older-build-shows.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.264703"
-  },
-  {
-    "title": "Millions of cars are under recall for catching fire while parked",
-    "summary": "In the first seven months of 2026, the NHTSA issued 17 park-outside recall campaigns affecting about 1.7 million vehicles. Eight of those recalls were announced in June and July, including a warning covering 1 million Jeep vehicles with an electrical connection issue involving power-steering pumps. Read Entire Article",
-    "link": "https://www.techspot.com/news/113528-more-vehicle-recalls-telling-owners-park-outside-because.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-19T09:14:50.264882"
-  },
-  {
-    "title": "MPC-HC is old-school software in the best possible way",
-    "summary": "Media Player Classic - Home Cinema is fast, lightweight, and plays virtually anything without unnecessary extras. Its classic interface stays out of the way, while advanced users can fine-tune playback with custom filters, shaders, and renderers such as madVR. MPC-HC is also one of our Essential Apps . Read Entire Article",
-    "link": "https://www.techspot.com/downloads/4411-media-player-classic-home-cinema.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.265056"
-  },
-  {
-    "title": "European Central Bank warns AI bubble burst could trigger systemic fallout",
-    "summary": "The European Central Bank recently published a new blog post by five economists and researchers, arguing that the current \"AI boom\" will likely leave room for a significant correction in financial markets. The AI bubble is not just engulfing Wall Street and the \"Magnificent Seven\" stocks, the bank said, as... Read Entire Article",
-    "link": "https://www.techspot.com/news/113516-european-central-bank-warns-ai-bubble-burst-could.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-19T09:14:50.265273"
-  },
-  {
-    "title": "Fairphone brings its $649 repairable Gen 6+ smartphone to the US",
-    "summary": "The Fairphone (Gen. 6+) is billed as the company's first device to feature 12GB of RAM, and comes at a time when manufacturers are more conscious than ever about the amount of memory they are stuffing into their devices due to AI-driven shortages. The handset is powered by Qualcomm's Snapdragon... Read Entire Article",
-    "link": "https://www.techspot.com/news/113531-fairphone-brings-649-repairable-gen-6-smartphone-us.html",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.265452"
-  },
-  {
-    "title": "Meta goes to trial over Facebook and Instagram's impact on young users",
-    "summary": "The case, which will be heard in federal court in Oakland, California, could put some of Meta's most familiar platform features under scrutiny. The states suing the company are seeking changes to infinite scrolling, recommendation systems, autoplay, like counts, appearance-altering filters, and disappearing posts for younger users. Read Entire Article",
-    "link": "https://www.techspot.com/news/113525-meta-goes-trial-over-facebook-instagram-impact-young.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.265630"
-  },
-  {
-    "title": "Sony still hasn't decided when the PlayStation 6 will launch",
-    "summary": "Sony CEO Hiroki Totoki recently told The Wall Street Journal that the company has yet to nail down the PlayStation 6's launch date. While trusted leakers have painted a fairly clear picture of the upcoming console's capabilities, Sony and Microsoft, for that matter are likely still determining how... Read Entire Article",
-    "link": "https://www.techspot.com/news/113521-sony-hasnt-decided-when-playstation-6-launch.html",
+    "title": "Hacker leaks GTA VI gameplay and map to protest digital-only release claims pre-orders are a legacy of physical game releases",
+    "summary": "Hacker Cyberleek leaked gameplay clips and the entire map of GTA VI in protest of Rockstar's decision to launch pre-orders of a digital game. They claim that pre-orders were created because physical discs could run out at retailers, meaning gamers will pay more to ensure they have a copy on launch day. But because digital copies cannot sell out, there is no need for a pre-order system.",
+    "link": "https://www.tomshardware.com/video-games/hacker-leaks-gta-vi-gameplay-and-map-to-protest-digital-only-release-claims-pre-orders-are-a-legacy-of-physical-game-releases",
     "categories": [
       "Tech News",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.265810"
+    "processed_date": "2026-08-20T09:15:57.104905"
   },
   {
-    "title": "China pulls the plug on Windows 10 for government machines months ahead of schedule",
-    "summary": "Bloomberg reports that China's Ministry of State Security recently issued the instruction to affected organizations. C&M Information Technologies, the developer of the special operating system, had planned to retire it in February 2027. Read Entire Article",
-    "link": "https://www.techspot.com/news/113529-china-finally-pulling-windows-10-government-machines-ahead.html",
+    "title": "Google to stop making Pixel devices in China, report claims India and Vietnam prime candidates for manufacturing shift owing to Beijing-Washington tensions",
+    "summary": "To reduce reliance on China, Google plans to relocate production of Pixel smartphones, smartwatches, and headsets from China to India and Vietnam.",
+    "link": "https://www.tomshardware.com/phones/google-to-stop-making-pixel-devices-in-china-report-claims-india-and-vietnam-prime-candidates-for-manufacturing-shift-owing-to-beijing-washington-tensions",
     "categories": [
+      "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.265982"
+    "processed_date": "2026-08-20T09:15:57.105023"
   },
   {
-    "title": "Intel says Nova Lake, its next major CPU architecture, is coming to desktop PCs before servers",
-    "summary": "Robert Hallock, an Intel vice president, made the point in a recent conversation with Tom's Hardware. He did not name the product, but his comments appeared to refer to Nova Lake, Intel's upcoming processor family. Read Entire Article",
-    "link": "https://www.techspot.com/news/113523-intel-nova-lake-next-major-cpu-architecture-coming.html",
+    "title": "Comcast turns Xfinity routers into home motion detectors free Wi-Fi sensing feature tracks RF interference with zero extra hardware required",
+    "summary": "To appease concerns about privacy, Wi-Fi Motion is opt-in",
+    "link": "https://www.tomshardware.com/networking/routers/comcast-turns-xfinity-routers-into-home-motion-detectors-free-wi-fi-sensing-feature-tracks-rf-interference-with-zero-extra-hardware-required",
     "categories": [
       "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-08-19T09:14:50.266153"
+    "quality_score": 0,
+    "processed_date": "2026-08-20T09:15:57.105128"
   },
   {
-    "title": "This website lets you check if your license plate was ever searched on Flock's cameras",
-    "summary": "HaveIBeenFlocked.com allows users to search license plates to see whether authorities or others with access to Flock's camera network have searched for the same plates. The site is part of a growing network of online resources that track and report on what growing numbers of Americans call a surveillance state.... Read Entire Article",
-    "link": "https://www.techspot.com/news/113518-drivers-can-check-whether-their-license-plate-has.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.266358"
-  },
-  {
-    "title": "Unitree shows off new Superman robot that it says can outrun Usain Bolt and jump 6.5 feet",
-    "summary": "Unitree claims the prototype, which has 0.85-meter-long (2.7-foot) legs, can clear a 2-meter (6.5-foot) standing high jump and reach 12.66 meters per second. That narrowly exceeds the widely cited 12.42 m/s peak Bolt hit during his world-record 9.58-second 100-meter run in Berlin in 2009. Read Entire Article",
-    "link": "https://www.techspot.com/news/113527-unitree-shows-off-new-superman-robot-can-outrun.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.266543"
-  },
-  {
-    "title": "Better founder who fired 900 employees over Zoom is now fighting to get his own job back",
-    "summary": "Garg was replaced earlier this month by Daniel Lewis, a hedge fund manager who joined Better's board on July 27. Garg said Lewis had been advising him for about six months before taking the board seat, offering ideas on cost reductions and profitability. Read Entire Article",
-    "link": "https://www.techspot.com/news/113520-better-founder-who-fired-900-employees-over-zoom.html",
+    "title": "Jason Kelce-led marketing campaign asks beer drinkers to send their pee to AI data centers Liquid Death and Garage Beer skit claims 'AI data centers waste millions of gallons of water'",
+    "summary": "Two indie brands join together in a viral ad campaign asking people to pee on computers. Taylor Swift's brother-in-law, Jason Kelce, who co-owns one of the brands, stars in this humorous ad where he pees in a bottle and carries it to a post office to send to his AI data center of choice.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/jason-kelce-led-marketing-campaign-asks-beer-drinkers-to-send-their-pee-to-ai-data-centers-liquid-death-and-garage-beer-skit-claims-ai-data-centers-waste-millions-of-gallons-of-water",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.266719"
+    "processed_date": "2026-08-20T09:15:57.105268"
   },
   {
-    "title": "Google pays $10 million for 100 million Spirit Airlines emails and 500 million Teams chats to train AI",
-    "summary": "The proposed purchase covers employee emails, Microsoft Teams messages, spreadsheets, calendars, marketing material, aircraft operations, revenue management, and worker productivity data. Read Entire Article",
-    "link": "https://www.techspot.com/news/113526-google-pays-10-million-100-million-spirit-airlines.html",
+    "title": "Beijing AI bar that offers unlimited free DeepSeek coding tokens with $1.50 drink haemorrhaging cash 'the bar is completely losing money, ' owner admits",
+    "summary": "An AI-themed bar in Beijing's Zhongguancun tech hub hands out free, unlimited DeepSeek tokens with its drinks, running inference locally on two Nvidia DGX Spark mini-PCs.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/beijing-ai-bar-pours-pints-of-foam-with-free-deepseek-tokens-served-from-two-nvidia-dgx-sparks",
     "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-20T09:15:57.105413"
+  },
+  {
+    "title": "Ajinomoto reportedly cuts critical chip packaging film supply to China by 30% as domestic substitutes race to qualify ABF restriction comes following Beijing's rare earth export curbs",
+    "summary": "Japanese chemical maker Ajinomoto has reportedly told customers in mainland China that it will cut the supply of ABF.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/ajinomoto-reportedly-cuts-abf-chip-packaging-film-supply-to-china-by-30-percent",
+    "categories": [
+      "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-19T09:14:50.266892"
+    "processed_date": "2026-08-20T09:15:57.105526"
   },
   {
-    "title": "AMD Radeon RX 9050 8GB Review: Budget GPU, Zero Budget Value",
-    "summary": "AMD's Radeon RX 9050 8GB promises current-generation graphics for budget gamers, but poor performance and even worse value make this GPU nearly impossible to justify. Read Entire Article",
-    "link": "https://www.techspot.com/review/3162-amd-radeon-rx-9050-8gb/",
+    "title": "MicroSD card torture test writes 133 petabytes of data across 351 cards over three years cards tested to failure reveal SanDisk as the outlier with 6 failures of the 7 tested",
+    "summary": "Matt Cole has been running hundreds of microSD cards through their paces, running them through thousands of cycles until they fail. The results are quite surprising, with both the winners and losers coming from some of the most unexpected brands.",
+    "link": "https://www.tomshardware.com/pc-components/microsd-cards/microsd-card-testing-database-celebrates-third-anniversary-with-133-petabytes-of-data-written-across-4-6-million-cycles-hundreds-of-cards-tested-to-failure-reveal-sandisk-as-the-outlier-with-6-failures-of-the-7-tested",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-20T09:15:57.105653"
+  },
+  {
+    "title": "ASRock X870E Taichi White Motherboard Review: A Taichi washed in white, now with 10 GbE",
+    "summary": "The ASRock X870E Taichi White updates the original with a cleaner all-white design and 10 GbE, and is the first ASRock board to feature all-white components. But pricing could scare away some users.",
+    "link": "https://www.tomshardware.com/pc-components/motherboards/asrock-x870e-taichi-white-motherboard-review",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-20T09:15:57.105762"
+  },
+  {
+    "title": "AI server boom funds $314 universal cash payout in Taiwan President Lai Ching-te says the payout ensures the country's AI windfall 'can be shared by all,' 11% GDP growth and $903B export surge finance $7.4B dividend",
+    "summary": "Taiwan will hand roughly $314 USD in cash to every resident next year as a boon for the island's residents generated by the AI gold rush. The 2027 central government budget sets aside $7.4 billion USD for the dividend.",
+    "link": "https://www.tomshardware.com/tech-industry/taiwan-to-pay-every-resident-314-from-its-ai-boom-windfall",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-20T09:15:57.105884"
+  },
+  {
+    "title": "First Nvidia H200 shipments reach China, ByteDance and Tencent take deliveries as Beijing loosens its import block most licensed chips must stay in Hong Kong, which can't power them",
+    "summary": "Beijing wants most of each company's U.S.-licensed allowance, which the FT puts at up to 100,000 units apiece, kept off the mainland.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/first-nvidia-h200-shipments-reach-bytedance-and-tencent-as-beijing-loosens-its-import-block",
+    "categories": [
+      "GPUs",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-20T09:15:57.105995"
+  },
+  {
+    "title": "$10 Quake shareware CD locked copies of all id Software games behind a flawed encryption scheme pay-over-the-phone system only held up for 39 days after 1996 release, leaving developer with 150,000 discs it couldn't sell",
+    "summary": "id Software included locked versions of its entire game library on the $10 Quake shareware CD it released in 1996. But the system meant to allow gamers to pay for and unlock those titles over the phone proved vulnerable to crackers who discovered a way to unlock every game on the disc for free.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/usd10-quake-shareware-cd-locked-copies-of-all-id-software-games-behind-a-flawed-encryption-scheme-pay-over-the-phone-system-only-held-up-for-39-days-after-1996-release-leaving-developer-with-150-000-discs-it-couldnt-sell",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-20T09:15:57.106115"
+  },
+  {
+    "title": "Dev uses Claude AI to create native macOS driver for 'obscure' Windows-only printer Linux container hack enables system-wide Cmd-P printing, driver now available on Github",
+    "summary": "A developer has revealed that they used Claude Code to create a macOS laser printer driver for the HP Laser 1008a, a machine designed for Windows users.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dev-uses-claude-ai-to-create-native-macos-driver-for-obscure-windows-only-printer-linux-container-hack-enables-system-wide-cmd-p-printing-driver-now-available-on-github",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-20T09:15:57.106234"
+  },
+  {
+    "title": "Player builds working AI chatbot in vanilla Minecraft using 445K command blocks clever approach shrank initial block count from over 1 million, requires no mods, plugins, or datapacks to work",
+    "summary": "Building neural networks in Minecraft using redstone is a relatively common pursuit, but a clever creator has worked around the limitations of command blocks' available math operations to implement an LLM in just 445,782 blocks, down from over a million in the initial implementation.",
+    "link": "https://www.tomshardware.com/video-games/minecraft-creator-works-around-in-game-math-limitations-to-implement-an-llm-using-445k-command-blocks-clever-approach-shrank-initial-block-count-from-over-1-million-requires-no-mods-plugins-or-datapacks-to-work",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-20T09:15:57.106381"
+  },
+  {
+    "title": "White House cuts data centers, batteries, and AR from the US critical technology list post-quantum cryptography, integrated photonics, high entropy alloys among new additions",
+    "summary": "Appendix A of the 24-page document rewrites the federal Critical and Emerging Technologies list for the first time since February 2024.",
+    "link": "https://www.tomshardware.com/tech-industry/white-house-cuts-data-centers-batteries-and-ar-from-the-us-critical-technology-list",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-20T09:15:57.106492"
+  },
+  {
+    "title": "Quectel SH602FA and SE505FE smart modules bring Android 16 to 4G LTE and 5G IoT devices",
+    "summary": "Quectel has just introduced the SH602FA 4G LTE Cat 4 and SE505FE 5G Sub-6 GHz Android 16-smart IoT modules. Both integrate octa-core MediaTek processors, cellular connectivity, wireless interfaces, and multimedia functions for devices such as smart displays, point-of-sale terminals, industrial handhelds, and robots. The high-performance 4G LTE SH602FA module is built around the MediaTek MT8786 Cortex-A75/A55 processor, while the entry-level 5G SE505FE module is powered by a MediaTek MT8863T Cortex-A76/A55 SoC. Both modules are available in multiple regional variants, as well as a Wi-Fi/Bluetooth-only -WF variant. Quectel SH602FA and SE505FE specifications: From the specifications, the SE505FE is the higher-performance option, with 2 Cortex-A76 cores at up to 2.4 GHz, 5G Sub-6 GHz connectivity with up to 3.27 Gbps downlink and 4 4 DL MIMO, plus support for displays up to 120 Hz and cameras up to 32 MP. It also has USB 3.1, 181 GPIOs, and 5 ADCs, compared with USB [...] The post Quectel SH602FA and SE505FE smart modules bring Android 16 to 4G LTE and 5G IoT devices appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/20/quectel-sh602fa-and-se505fe-smart-modules-bring-android-16-to-4g-lte-and-5g-iot-devices/",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-20T09:15:57.106947"
+  },
+  {
+    "title": "KAGA FEI ES4L15MA1 is a ridiculously small, ready-to-use BLE 6.0 module based on Nordic nRF54L15 SoC",
+    "summary": "Japanese company KAGA FEI has introduced another incredibly small ES4L15MA1 Bluetooth LE 6.0 module based on Nordic Semiconductor s nRF54L15 ultra-low-power Cortex-M33 wireless MCU. Launched alongside the larger EC4L15MA1 module, the ES4L15MA1 module appears to be based on the same hardware as the ES4L15BA1 world s smallest module unveiled in 2024 with an 8.55 x 3.25 x 1.00 mm form factor. The main difference is that the new modules come with ready-to-use embedded software providing a command-based API via UART to shorten product development cycles and lower development costs for IoT devices relying on Bluetooth LE 6.0 connectivity. KAGA FEI ES4L15MA1 specifications: SoC Nordic Semiconductor nRF54L15 MCU cores Arm Cortex-M33 with Arm TrustZone @ 128MHz RISC-V coprocessor for software-defined peripheral Memory 256KB SRAM Storage 1.5MB non-volatile memory Wireless Bluetooth 6.0 Data rates 2Mbps, 1Mbps, 500kbps, 125kbps Features (TBC in built-in firmware) AoA / AoD Channel Sounding Frequency 2402 [...] The post KAGA FEI ES4L15MA1 is a ridiculously small, ready-to-use BLE 6.0 module based on Nordic nRF54L15 SoC appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/20/kaga-fei-es4l15ma1-is-a-ridiculously-small-ready-to-use-ble-6-0-module-based-on-nordic-nrf54l15-soc/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 25,
+    "processed_date": "2026-08-20T09:15:57.107125"
+  },
+  {
+    "title": "StarFive Dubhe-100 A 64-bit, RVA23-compliant RISC-V core for high-performance applications",
+    "summary": "StarFive has launched a new high-performance 64-bit RISC-V core from the Dubhe family with the RVA23-compliant Dubhe-100 designed for servers and HPC, as well as other high-performance applications. The new RISC-V IP core delivers a SPECint2006 score of 15/GHz, supports Vector and Vector Crypto extensions, and features a deep out-of-order design with a 15-stage pipeline and 6-wide issue. StarFive Dubhe-100 key features and specifications: ISA RV64GCBVH 15-stage pipeline, 6-issue Superscalar, deep out-of-order execution Support Multi-core cache coherence Support instruction fusion Support AIA1.0 Performance SPECint2006: 15/GHz Dhrystone v2.2: 10.0/MHz (legal) HPM (Hardware Performance Monitor) RISC-V standard HPM support Micro-architecture level analysis and performance tuning PMP & PMA (Physical Memory Protection / Physical Memory Attributes) Configurable 16/32/64 PMP supported regions, minimum 4096-byte region size Support predefined PMA and Svpbmt Debug & Trace Standard debug module compliant with RISC-V Debug Spec Standard Trace module interface compliant with RISC-V Trace Spec Power Management [...] The post StarFive Dubhe-100 A 64-bit, RVA23-compliant RISC-V core for high-performance applications appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/20/starfive-dubhe-100-a-64-bit-rva23-compliant-risc-v-core-for-high-performance-applications/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 30,
+    "processed_date": "2026-08-20T09:15:57.107337"
+  },
+  {
+    "title": "Pine64 hits pause on Linux devices due to RAM and eMMC shortage/high prices",
+    "summary": "While some companies keep increasing prices, the Pine64 community has now announced they don t intend to manufacture Linux devices due to the current RAM and eMMC flash shortage and related high prices. Pine64 started with the launch of the Pine A64 development board in 2015, and since then they have launched more Arm and RISC-V Linux SBCs, Linux smartphones, and Linux tablets and e-Readers. We used to get several announcements per year, but this year so far, we only covered one: the Pine64 PineVoice. But it s not a Linux device, and instead, a smart speaker based on a BL602 RISC-V microcontroller. Here s the full (unedited) announcement published on Telegram, which you should also find on other Pine64 channels: Hi everyone! Just a quick reminder that due to the current DRAM/eMMC shortage, there isn t any plans to continue producing more Linux devices in the near future. Whether production continues or not [...] The post Pine64 hits pause on Linux devices due to RAM and eMMC shortage/high prices appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/19/pine64-hits-pause-on-linux-devices-due-to-ram-and-emmc-shortage-high-prices/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-08-20T09:15:57.107511"
+  },
+  {
+    "title": "PwrBlock 323 A USB-C PD programmable power supply for automated test fixtures (Crowdfunding)",
+    "summary": "Finland-based Everypin has introduced the PwrBlock 323, a programmable USB-C PD power supply designed specifically for automated test fixtures. It can provide 1 to 32V at up to 3A, with up to 92W output from a 100W USB-C PD source, and supports software-controlled power switching, voltage and current measurement, and power cycling for a device under test (DUT). The company highlights that the PwrBlock 323 can be mounted inside a test jig or stand using its mounting points and pin headers to control and power the DUT directly as part of the automated test sequence. It adds one more option to USB-C programmable lab power supplies such as Ampisu, PocketPD, and BenchVolt PD, PwrBlock 323 specifications: MCU STMicro STM32G0C1CEU Arm Cortex-M0+ microcontroller USB 2x USB Type-C ports for power and control 10-pin IDC USB control connector (connects to a host computer or test controller over USB) Expansion 40-pin [...] The post PwrBlock 323 A USB-C PD programmable power supply for automated test fixtures (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/19/pwrblock-323-usb-c-pd-programmable-power-supply-for-automated-test-fixtures/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-20T09:15:57.107683"
+  },
+  {
+    "title": "The largest all-electric plane ever flew for 27 minutes, on $5 of electricity",
+    "summary": "Heart's X1 demonstrator flew for 27 minutes from a regional airport in upstate New York, running on battery power the entire time. The aircraft reached 1,100 feet with one pilot aboard and no passengers. The flight marked the first time the company had put the X1 in the air. Read Entire Article",
+    "link": "https://www.techspot.com/news/113540-heart-aerospace-30-seat-electric-plane-takes-flight.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-20T09:15:57.108767"
+  },
+  {
+    "title": "How \"tokenomics\" might save AI PCs",
+    "summary": "There are some interesting things happening in the PC market these days and, more importantly, the potential for even more impactful changes over the next year or so. At a high level, overall PC shipments were predicted to decline and are indeed starting to do so on a unit basis. Read Entire Article",
+    "link": "https://www.techspot.com/news/113534-how-tokenomics-might-save-ai-pcs.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-20T09:15:57.108881"
+  },
+  {
+    "title": "The Pixel 11 Pro and Pro XL also got reviewed: great cameras, modest upgrades",
+    "summary": "Google's Pixel 11 Pro and Pro XL bring improved cameras, brighter displays, a more efficient Tensor G6 chip, and new Gemini AI features. Reviewers praise the camera upgrades and Google's software experience, but weaker gaming performance, mediocre battery life, less RAM, and higher prices make this generation a tougher sell. Read Entire Article",
+    "link": "https://www.techspot.com/products/smartphones/google-pixel-11-pro-xl.330906/",
     "categories": [
       "GPUs",
       "Hardware"
     ],
     "quality_score": 15,
-    "processed_date": "2026-08-19T09:14:50.267061"
+    "processed_date": "2026-08-20T09:15:57.109005"
+  },
+  {
+    "title": "Pew survey: 52% of Americans now more concerned than excited about AI",
+    "summary": "A recent report from the Pew Research Center reveals that more than half of US adults 52%, to be exact are \"more concerned than excited\" about the increased use of artificial intelligence in daily life. That is up from just 37% who answered the same way in 2021... Read Entire Article",
+    "link": "https://www.techspot.com/news/113545-young-americans-growing-increasingly-wary-ai.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-20T09:15:57.109116"
+  },
+  {
+    "title": "Apple just patched a critical macOS flaw that let hackers break in without a password",
+    "summary": "The Netherlands' National Cyber Security Centre (NCSC-NL) recently published an alarming security advisory about the new macOS flaw. It describes a vulnerability tied to an improper authentication process in Apple's line of desktop operating systems, which can have dire consequences on Mac systems when they have the built-in Screen Sharing... Read Entire Article",
+    "link": "https://www.techspot.com/news/113532-apple-patched-critical-macos-flaw-hackers-break-without.html",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-20T09:15:57.109237"
+  },
+  {
+    "title": "Google Pixel 11 Pro Fold reviews are in: rivals are moving faster",
+    "summary": "The Pixel 11 Pro Fold is lighter and slimmer, with new AI and multitasking features and IP68 protection. Reviewers say it's a solid device but overly conservative, with average battery life, weak SoC performance, a noticeable crease, and a high price. Read Entire Article",
+    "link": "https://www.techspot.com/products/smartphones/google-pixel-11-pro-fold.330901/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-08-20T09:15:57.109413"
+  },
+  {
+    "title": "Best Buy removes 32GB RAM worth $600 to \"repair\" customer's 64GB gaming laptop",
+    "summary": "Redditor GRINZ_DOCTOR claims to have bought a Lenovo Legion 5 gaming laptop from Best Buy's website last December. The laptop reportedly worked as advertised for a few months before it began crashing during gaming sessions. Read Entire Article",
+    "link": "https://www.techspot.com/news/113533-best-buy-removes-32gb-ram-worth-600-repair.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-20T09:15:57.109542"
+  },
+  {
+    "title": "PeaZip is a powerful free alternative to built-in archive tools",
+    "summary": "Modern OS can handle common archives on their own, but PeaZip gives you finer control over compression, broader format support, encryption, split archives, integrity checks, and file conversion. It's available for Windows, macOS, and Linux. PeaZip is also featured in TechSpot's Essential Apps . Read Entire Article",
+    "link": "https://www.techspot.com/downloads/4849-peazip.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-20T09:15:57.109659"
+  },
+  {
+    "title": "Comcast is turning your WiFi router into a basic home security system, for free",
+    "summary": "The feature is available through an update to the Xfinity Internet app and works with XB7 gateways and newer models. It is part of the company's new Xfinity Shield service and comes at no additional cost. Read Entire Article",
+    "link": "https://www.techspot.com/news/113538-comcast-adds-home-motion-sensing-millions-xfinity-routers.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-20T09:15:57.109771"
+  },
+  {
+    "title": "Amazon to bring 30-minute drone delivery to 500 US locations by the end of 2026",
+    "summary": "Amazon's dream of widespread drone deliveries has taken over a decade of false starts and setbacks, but its vision is starting to be fulfilled. The latest expansion plan would see its current drone delivery footprint increase sixfold. Read Entire Article",
+    "link": "https://www.techspot.com/news/113543-amazon-drones-soon-deliver-nearly-500-us-cities.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-20T09:15:57.109880"
+  },
+  {
+    "title": "Apple's services business is finally feeling the pain of losing control over App Store payments",
+    "summary": "The Cupertino company reported $30.7 billion in services revenue for the June quarter, a record but below analysts' expectations of $31.4 billion. Gross margin for the division was 75.6%, also below forecasts, according to Visible Alpha. Apple shares fell about 9% in the days after the results. Read Entire Article",
+    "link": "https://www.techspot.com/news/113539-apple-services-business-starting-feel-pain-losing-grip.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-20T09:15:57.109996"
+  },
+  {
+    "title": "OpenAI is slowing down AI development after rogue agents incidents and Bernie Sanders threatens Senate action",
+    "summary": "OpenAI says that two developments over the past several weeks have underscored the growing risks associated with increasingly capable AI systems: the attack on Hugging Face and others by its own agents and the company's decision to slow the release of its new Astra model because it has \"critical\" cybersecurity... Read Entire Article",
+    "link": "https://www.techspot.com/news/113542-openai-announces-slowing-pace-development-after-hack-rogue.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-20T09:15:57.110118"
+  },
+  {
+    "title": "The Blood of Dawnwalker's system requirements dropped by half in just months",
+    "summary": "The system requirements for The Blood of Dawnwalker have become significantly lighter since April. With upscaling as the primary caveat, the game's final spec sheet will come as good news for users with less than 16GB of video memory. Read Entire Article",
+    "link": "https://www.techspot.com/news/113537-blood-dawnwalker-system-requirements-dropped-half-months.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-20T09:15:57.110224"
+  },
+  {
+    "title": "Flock's fastest-growing business is 60 mph police drones that can read license plates from the sky",
+    "summary": "Flock is best known for the roadside cameras now operating in more than 6,000 US communities. But the company is increasingly betting on drones that can be dispatched to emergency scenes before police officers arrive. Read Entire Article",
+    "link": "https://www.techspot.com/news/113541-flock-fastest-growing-business-60-mph-police-drones.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-20T09:15:57.110363"
+  },
+  {
+    "title": "Some Tesla owners are using Full Self-Driving for 95% of their trips, but they're still legally in control",
+    "summary": "Tesla's Full Self-Driving (supervised) remains a Level 2 driver-assistance system. The person behind the wheel is responsible for the vehicle at all times, even when the software is steering, braking, and controlling speed. Read Entire Article",
+    "link": "https://www.techspot.com/news/113536-tesla-owners-using-full-self-driving-95-their.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-20T09:15:57.110481"
   }
 ]
