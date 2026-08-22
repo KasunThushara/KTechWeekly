@@ -1,214 +1,4 @@
 {
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-gpt-5-6-sol-and-unreleased-ai-models-break-out-of-testing-environment-in-unprecedented-cybersecurity-incident-rogue-agents-hacked-huggingfaces-production-servers-with-thousands-of-individual-actions-across-a-swarm-of-short-lived-sandboxes": {
-    "title": "OpenAI's GPT-5.6 Sol and unreleased AI models break out of testing environment in 'unprecedented cybersecurity incident' rogue agents hacked HuggingFace's production servers with 'thousands of individual actions across a swarm of short-lived sandboxes'",
-    "fingerprint": "1ced256e024882c186e30b4d2e726372",
-    "timestamp": 1784717402.52618,
-    "date": "2026-07-22T10:50:02.526185"
-  },
-  "https://www.tomshardware.com/pc-components/gpus/nvidia-shows-off-dlss-5-with-three-ai-modes-for-different-levels-of-detail-upscaler-can-switch-between-models-in-real-time": {
-    "title": "Nvidia shows off DLSS 5 with three AI modes for different levels of detail upscaler can switch between models in real-time",
-    "fingerprint": "78e2345ca0763b83ced6d93c8dc42a5e",
-    "timestamp": 1784717402.52628,
-    "date": "2026-07-22T10:50:02.526280"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-is-considering-export-controls-on-ai-technologies-including-banning-local-companies-from-using-tsmc-report-claims-restrictions-would-also-advanced-ai-models-training-data-and-overseas-acquisitions": {
-    "title": "China is considering export controls on AI technologies, including banning local companies from using TSMC, report claims restrictions would also cover advanced AI models, training data, and overseas acquisitions",
-    "fingerprint": "e4e478e88485fbdcf8b26b7b9f14d156",
-    "timestamp": 1784717402.526425,
-    "date": "2026-07-22T10:50:02.526425"
-  },
-  "https://www.tomshardware.com/tech-industry/data-centers/amazon-data-center-in-bahrain-struck-and-destroyed-by-iranian-cruise-missiles-state-media-claims-attacks-launched-against-aws-site-in-response-to-alleged-us-strikes-on-an-under-construction-nuclear-plant": {
-    "title": "Amazon data center in Bahrain struck and destroyed by Iranian cruise missiles, state media claims attacks launched against AWS site in response to alleged US strikes on an under-construction nuclear plant",
-    "fingerprint": "fcdfccb23f26ac8a04d0c73321798d74",
-    "timestamp": 1784717402.526529,
-    "date": "2026-07-22T10:50:02.526530"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/behind-the-scenes-at-nvidias-engineering-superlab-vera-rubin-nvl72-running-openai-workloads-800vdc-demonstrated-and-more": {
-    "title": "Behind the scenes at Nvidia's Engineering SuperLab Vera Rubin NVL72 running OpenAI workloads, 800VDC demonstrated, and more",
-    "fingerprint": "47d1bebda334924399719b583702dfea",
-    "timestamp": 1784717402.526619,
-    "date": "2026-07-22T10:50:02.526619"
-  },
-  "https://www.tomshardware.com/pc-components/gpus/nvidia-details-rubin-architectural-optimizations-for-inference-improvements-target-better-performance-and-efficiency-from-the-gpu-to-the-rack": {
-    "title": "Nvidia details Rubin architectural optimizations for inference improvements target better performance and efficiency from the GPU to the rack",
-    "fingerprint": "c93acef1c6ffd62b92e1f7f6f78303aa",
-    "timestamp": 1784717402.526697,
-    "date": "2026-07-22T10:50:02.526698"
-  },
-  "https://www.tomshardware.com/pc-components/cpus/nvidia-spills-the-beans-on-vera-cpu-spec-benchmarks-revealed-olympus-architecture-detailed-and-more": {
-    "title": "Nvidia deep dives Vera CPU for AI data centers SPEC CPU 2026 benchmarks revealed, Olympus architecture specifics, and more",
-    "fingerprint": "01ed69c83bce1118a60cc995cd41fca4",
-    "timestamp": 1784717402.526788,
-    "date": "2026-07-22T10:50:02.526788"
-  },
-  "https://www.tomshardware.com/pc-components/cpus/nvidia-has-shipped-hundreds-of-thousands-of-grace-standalone-servers-gpu-firm-pivots-messaging-as-cpus-take-center-stage-in-agentic-data-centers": {
-    "title": "Nvidia has shipped 'hundreds of thousands of Grace standalone servers GPU firm pivots messaging as CPUs take center stage in agentic data centers",
-    "fingerprint": "dd0882384423ff169f7cdd3ea089f42e",
-    "timestamp": 1784717402.526883,
-    "date": "2026-07-22T10:50:02.526884"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/kimi-k3-rocks-the-ai-industry-as-moonshot-ai-undercuts-closed-source-american-competitors-on-price-but-the-huge-2-8t-open-weight-model-still-needs-serious-hardware-to-deploy-at-scale": {
-    "title": "Kimi K3 rocks the AI industry as Moonshot AI undercuts closed-source American competitors on price but the huge 2.8T open-weight model still needs serious hardware to deploy at scale",
-    "fingerprint": "fa8113ffac5eb14bb30f3e5023f317d9",
-    "timestamp": 1784717402.52699,
-    "date": "2026-07-22T10:50:02.526990"
-  },
-  "https://www.tomshardware.com/pc-components/gpus/local-ai-clustering-with-dells-pro-max-gb10-connecting-two-nvidia-grace-blackwell-to-scale-out-ai-compute-at-home": {
-    "title": "Local AI clustering with Dell's Pro Max GB10 connecting two Nvidia Grace Blackwell to scale out AI compute at home",
-    "fingerprint": "93fdf0f3d91cf7814c2dc7e3daea6d77",
-    "timestamp": 1784717402.527089,
-    "date": "2026-07-22T10:50:02.527090"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-slapped-with-usd1-5-billion-settlement-in-copyright-lawsuit-largest-payout-ever-court-says-that-training-ai-on-books-other-publications-is-fair-use-but-ruled-that-the-startups-7-million-book-pirated-library-infringes-authors-rights": {
-    "title": "Anthropic hit with largest-ever $1.5 billion penalty in copyright lawsuit court says training AI on published material is fair use, but startup s pirated library infringes on authors rights",
-    "fingerprint": "4dab3d818a12735e1ea5264b64cc8c03",
-    "timestamp": 1784717402.527189,
-    "date": "2026-07-22T10:50:02.527190"
-  },
-  "https://www.tomshardware.com/tech-industry/semiconductors/intel-to-co-develop-and-manufacture-fortinets-next-gen-firewall-asic": {
-    "title": "Intel to co-develop and manufacture Fortinet's next-gen firewall ASIC on Intel 4 node gets its first named external customer",
-    "fingerprint": "a5812bfd39c1a2d2b67c93d5f1510fc4",
-    "timestamp": 1784717402.527271,
-    "date": "2026-07-22T10:50:02.527272"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/z-ai-powers-up-1gw-ai-data-center-built-entirely-on-chinese-chips": {
-    "title": "Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon",
-    "fingerprint": "cca124ec6dac42927f455b4134a711a9",
-    "timestamp": 1784717402.527373,
-    "date": "2026-07-22T10:50:02.527373"
-  },
-  "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-eyes-price-hikes-of-up-to-25-percent-on-chip-production-services-in-2027-report-claims-plans-to-raise-baseline-prices-by-5-percent-to-10-percent-on-advanced-nodes": {
-    "title": "TSMC eyes price hikes of up to 25% on chip production services in 2027, report claims plans to raise baseline prices by 5% to 10% on advanced nodes",
-    "fingerprint": "2a9206c2a480deaf606d73331348e89a",
-    "timestamp": 1784717402.527456,
-    "date": "2026-07-22T10:50:02.527456"
-  },
-  "https://www.tomshardware.com/tech-industry/policy/intel-layoffs-to-hit-data-center-group-division-focused-on-server-cpus-ai-chips-and-data-center-architecture-to-be-hit-by-an-unknown-number-of-cuts": {
-    "title": "Intel layoffs to hit Data Center group division focused on server CPUs, AI chips, and data center architecture to be hit by an unknown number of cuts",
-    "fingerprint": "7a1b8e72f3536d678687af18efa47c70",
-    "timestamp": 1784717402.527542,
-    "date": "2026-07-22T10:50:02.527542"
-  },
-  "https://www.tomshardware.com/laptops/macbooks/save-usd400-on-a-new-14-inch-macbook-pro-m5-48gb-of-ram-a-1tb-ssd-and-a-16-core-processor-for-usd2-699": {
-    "title": "Save $400 on a new 14-inch MacBook Pro M5 48GB of RAM, a 1TB SSD, and a 16-core processor for $2,699",
-    "fingerprint": "dd8aae81191c33371fd512f43152f610",
-    "timestamp": 1784717402.52763,
-    "date": "2026-07-22T10:50:02.527630"
-  },
-  "https://www.tomshardware.com/video-games/retro-gaming/1994-sega-32x-gets-first-person-backrooms-game-with-raycasting-engine-retro-hardware-tour-de-force-includes-yellow-rooms-buzzing-fluorescents-endless-procedurally-generated-levels": {
-    "title": "1994 Sega 32X gets first-person Backrooms game with raycasting engine retro hardware tour de force includes yellow rooms, buzzing fluorescents, endless procedurally generated levels",
-    "fingerprint": "475f012f08a2d23a9aa7882b0f948ae6",
-    "timestamp": 1784717402.527731,
-    "date": "2026-07-22T10:50:02.527731"
-  },
-  "https://www.tomshardware.com/tech-industry/semiconductors/smics-third-gen-7nm-node-shows-smaller-metal-pitch-than-intel-18a-higher-transistor-density-than-tsmc-n6-without-euv-analysis-of-n-3-shows-significant-advancement-for-chinese-semi-manufacturing": {
-    "title": "SMIC's third-gen 7nm node shows smaller metal pitch than Intel 18A, higher transistor density than TSMC N6 without EUV analysis of N+3 shows significant advancement for Chinese semi manufacturing",
-    "fingerprint": "187daaf39a4f0941bd8b0468583aa48b",
-    "timestamp": 1784717402.527822,
-    "date": "2026-07-22T10:50:02.527823"
-  },
-  "https://www.cnx-software.com/2026/07/22/arduino-uno-q-arcade-bundle-lets-you-build-a-custom-retro-gaming-console/": {
-    "title": "Arduino UNO Q Arcade bundle lets you build a custom retro gaming console for about $90",
-    "fingerprint": "25bfef65253a7d41d4f998f57f7c4696",
-    "timestamp": 1784717402.528283,
-    "date": "2026-07-22T10:50:02.528284"
-  },
-  "https://www.cnx-software.com/2026/07/22/acemagician-kron-k1-mini-pc-gets-low-cost-variant-with-amd-ryzen-r2544-cpu-8gb-ddr4-256gb-ssd/": {
-    "title": "ACEMAGICIAN Kron K1 mini PC gets low-cost variant with AMD Ryzen R2544 CPU, 8GB DDR4, 256GB SSD",
-    "fingerprint": "5d43c3cdd8dfecc728854618309a8429",
-    "timestamp": 1784717402.528461,
-    "date": "2026-07-22T10:50:02.528461"
-  },
-  "https://www.cnx-software.com/2026/07/22/raspberry-pi-touch-display-2-10%e2%80%b3-portrait-review-3d-printed-vesa-mount/": {
-    "title": "Raspberry Pi Touch Display 2 10 Portrait review, 3D printed VESA mount",
-    "fingerprint": "69b70fa1dc9b08560643fcf77a764568",
-    "timestamp": 1784717402.528607,
-    "date": "2026-07-22T10:50:02.528608"
-  },
-  "https://www.cnx-software.com/2026/07/22/nvidia-increases-the-price-of-jetson-modules-and-devkits-by-up-to-101/": {
-    "title": "NVIDIA increases the price of Jetson modules and devkits by up to 101%",
-    "fingerprint": "d943cc40f5c7b5ccb7b1076bf8305d16",
-    "timestamp": 1784717402.528751,
-    "date": "2026-07-22T10:50:02.528752"
-  },
-  "https://www.fiercesensors.com/embedded/argonaut-will-use-lidar-dodge-lunar-boulders-rough-terrain": {
-    "title": "Argonaut will use lidar to dodge lunar boulders, rough terrain",
-    "fingerprint": "a3c5f3d12697f0fbaf75a90cfe2112ee",
-    "timestamp": 1784717402.529749,
-    "date": "2026-07-22T10:50:02.529750"
-  },
-  "https://www.techspot.com/review/3150-amd-ryzen-7700x3d/": {
-    "title": "AMD Ryzen 7 7700X3D Review: The Budget 3D V-Cache King",
-    "fingerprint": "8a0d51e55381eb0c48d3f3d1ae554208",
-    "timestamp": 1784717402.530144,
-    "date": "2026-07-22T10:50:02.530145"
-  },
-  "https://www.techspot.com/news/113193-france-voted-ban-kids-under-15-social-media.html": {
-    "title": "France just voted to ban kids under 15 from social media, but Australia's ban shows how hard that is to enforce",
-    "fingerprint": "95386c92d29ea63af896eecfb8061991",
-    "timestamp": 1784717402.53027,
-    "date": "2026-07-22T10:50:02.530271"
-  },
-  "https://www.techspot.com/news/113191-one-six-windows-pcs-runs-windows-10-vulnerabilities.html": {
-    "title": "One in six Windows PCs still runs Windows 10, and the vulnerabilities are piling up",
-    "fingerprint": "0f343b56f04f5f3bd73eb85faac43a9b",
-    "timestamp": 1784717402.530415,
-    "date": "2026-07-22T10:50:02.530416"
-  },
-  "https://www.techspot.com/news/113188-der8auer-converts-7000-rtx-5090-lightning-z-custom.html": {
-    "title": "Der8auer converts $7,000 RTX 5090 Lightning Z to custom water cooling, drops temps by 11 C",
-    "fingerprint": "1e5ad6c3bdf5b3111d12031457d743d5",
-    "timestamp": 1784717402.530542,
-    "date": "2026-07-22T10:50:02.530542"
-  },
-  "https://www.techspot.com/news/113182-openai-ambitious-ad-revenue-goals-look-like-ai.html": {
-    "title": "OpenAI's ambitious ad revenue goals look like AI-generated money, analysis says",
-    "fingerprint": "972bace9e76a923557ba7a9528b3b2f0",
-    "timestamp": 1784717402.530666,
-    "date": "2026-07-22T10:50:02.530667"
-  },
-  "https://www.techspot.com/downloads/7891-microsoft-comic-chat.html": {
-    "title": "Microsoft just open-sourced the app that made Comic Sans famous",
-    "fingerprint": "96f4cd21ed03add8f69a0c4511b2b2f8",
-    "timestamp": 1784717402.5308,
-    "date": "2026-07-22T10:50:02.530800"
-  },
-  "https://www.techspot.com/news/113186-nand-shortages-could-finally-ease-2027-but-adata.html": {
-    "title": "NAND shortages could finally ease in 2027, but ADATA warns the DRAM crisis may last another 10 years",
-    "fingerprint": "90c0bfb53e5951f0d1dfe3bb2afbb5c0",
-    "timestamp": 1784717402.530927,
-    "date": "2026-07-22T10:50:02.530927"
-  },
-  "https://www.techspot.com/news/113187-samsung-unveils-galaxy-card-take-apple-credit-card.html": {
-    "title": "Samsung finally has its own credit card, seven years after Apple",
-    "fingerprint": "d63d4cad537ec852bf9f8506bb8d6982",
-    "timestamp": 1784717402.531011,
-    "date": "2026-07-22T10:50:02.531012"
-  },
-  "https://www.techspot.com/news/113180-us-fire-departments-test-autonomous-drones-fight-wildfires.html": {
-    "title": "Fire departments are testing autonomous drones that fight wildfires before crews even arrive",
-    "fingerprint": "977575d9ae9f7b432b0690a04bea70c1",
-    "timestamp": 1784717402.531102,
-    "date": "2026-07-22T10:50:02.531102"
-  },
-  "https://www.techspot.com/news/113185-amid-dlss-5-backlash-nvidia-shows-off-controls.html": {
-    "title": "Nvidia is giving developers more control over DLSS 5, after accusations it turns games into \"AI slop\"",
-    "fingerprint": "c2eb2bdaeed16abb66321ca483da8ec0",
-    "timestamp": 1784717402.531196,
-    "date": "2026-07-22T10:50:02.531196"
-  },
-  "https://www.techspot.com/news/113181-sony-digital-only-future-angers-fans-but-physical.html": {
-    "title": "Sony's digital-only future angers fans, but physical PlayStation games are barely selling",
-    "fingerprint": "d60f37a86ebde79d47d0f254e5da09bd",
-    "timestamp": 1784717402.531288,
-    "date": "2026-07-22T10:50:02.531288"
-  },
-  "https://www.techspot.com/trivia/31-what-world-first-digital-programmable-robot/": {
-    "title": "What was the world's first digital and programmable robot?",
-    "fingerprint": "440781693078d2ca348f60354b43803d",
-    "timestamp": 1784717402.531385,
-    "date": "2026-07-22T10:50:02.531385"
-  },
   "https://www.tomshardware.com/desktops/gaming-pcs/this-astonishing-usd850-gaming-pc-contains-well-over-usd1-200-worth-of-parts-including-usd400-of-32gb-ddr5-alone-get-a-potent-steam-machine-rival-thanks-to-this-budget-intel-arc-desktop": {
     "title": "This astonishing $850 gaming PC contains well over $1,200 worth of parts, including $400 of 32GB DDR5 alone get a potent Steam Machine rival thanks to this budget Intel Arc desktop",
     "fingerprint": "34e246a279681a6ad28f6e26075c4b7a",
@@ -5692,5 +5482,221 @@
     "fingerprint": "4c288d28613eaa071a51a578767c0142",
     "timestamp": 1787303915.059031,
     "date": "2026-08-21T09:18:35.059031"
+  },
+  "https://www.tomshardware.com/pc-components/external-ssds/sandisk-expansion-cards-for-xbox-series-x-s-now-available-on-amazon-alternative-storage-solution-to-seagate-wd-arrives-on-the-market-five-years-after-the-launch-of-the-consoles": {
+    "title": "SanDisk expansion cards for Xbox Series X|S now available on Amazon alternative storage solution to Seagate, WD arrives on the market five years after the launch of the consoles",
+    "fingerprint": "ebd690568ec7c5e6f3e0fd844a8149fa",
+    "timestamp": 1787389340.555653,
+    "date": "2026-08-22T09:02:20.555657"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-fights-to-keep-chatgpt-lawsuit-away-from-a-state-jury": {
+    "title": "Florida seeks court ruling to officially classify Sam Altman and ChatGPT as a 'public nuisance' OpenAI fights to keep lawsuit away from a state jury",
+    "fingerprint": "b7391900676385c8350d2676f7c808ee",
+    "timestamp": 1787389340.555778,
+    "date": "2026-08-22T09:02:20.555778"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/worlds-largest-open-library-calls-for-volunteers-to-scan-and-preserve-physical-books-as-ai-companies-buy-scan-and-destroy-them-annas-archive-says-time-is-running-out-as-knowledge-is-permanently-monopolized-on-private-servers": {
+    "title": "World's largest open library calls for volunteers to scan and preserve physical books as AI companies buy, scan, and destroy them Anna's Archive says time is running out as knowledge is permanently monopolized on private servers ",
+    "fingerprint": "f1a57759790f3520fb1651edd39263e2",
+    "timestamp": 1787389340.555951,
+    "date": "2026-08-22T09:02:20.555952"
+  },
+  "https://www.tomshardware.com/3d-printing/elegoo-centauri-2-combo-review": {
+    "title": "Elegoo Centauri 2 Combo review: A budget-friendly printer made even more budget-friendly",
+    "fingerprint": "7be37b4fe8bb91094f718e523233f9bb",
+    "timestamp": 1787389340.556054,
+    "date": "2026-08-22T09:02:20.556054"
+  },
+  "https://www.tomshardware.com/pc-components/toms-hardware-innovation-awards-2026-progress-amid-turmoil": {
+    "title": "Tom s Hardware Innovation Awards 2026: Progress amid turmoil",
+    "fingerprint": "2988f485aa37c03f817618aa83dfd0a1",
+    "timestamp": 1787389340.556153,
+    "date": "2026-08-22T09:02:20.556153"
+  },
+  "https://www.tomshardware.com/tech-industry/semiconductors/lg-enters-chip-packaging-arena-with-laser-direct-imaging-machine-as-tsmcs-cowos-remains-constrained-maskless-machine-is-designed-to-pattern-fine-interconnects-trading-resolution-for-higher-throughput": {
+    "title": "LG enters chip packaging arena with Laser Direct Imaging machine, as TSMC's CoWoS remains constrained maskless machine is designed to pattern fine interconnects, trading resolution for higher throughput",
+    "fingerprint": "ab7c014d767befc49ab39782152d2676",
+    "timestamp": 1787389340.556265,
+    "date": "2026-08-22T09:02:20.556266"
+  },
+  "https://www.tomshardware.com/tech-industry/unlock-toms-hardware-premiums-hot-chips-2026-coverage-for-free-sign-up-for-an-account-to-read-technical-breakdowns-from-the-show": {
+    "title": "Unlock Tom's Hardware Premium's Hot Chips 2026 coverage for free sign up for an account to read technical breakdowns from the show",
+    "fingerprint": "7abc2f85cf8bac0825c69180523603f1",
+    "timestamp": 1787389340.556368,
+    "date": "2026-08-22T09:02:20.556369"
+  },
+  "https://www.tomshardware.com/monitors/lg-display-introduces-new-oled-deposition-technique-that-uses-lithography-instead-of-metal-masks-flipp-photolithography-delivers-1-6x-brightness-and-2-4x-longer-lifespan": {
+    "title": "LG Display introduces new OLED deposition technique that uses lithography instead of metal masks \"FLiPP\" photolithography delivers 1.6x brightness and 2.4x longer lifespan",
+    "fingerprint": "b73f988da89c0a6901f5bba25bf7eece",
+    "timestamp": 1787389340.556482,
+    "date": "2026-08-22T09:02:20.556483"
+  },
+  "https://www.tomshardware.com/tech-industry/big-tech/supermicro-fires-several-employees-following-investigation-into-usd2-5-billion-china-ai-chip-smuggling-claims-that-senior-management-had-no-knowledge-of-illicit-transactions": {
+    "title": "Supermicro fires several employees following investigation into $2.5 billion China AI chip smuggling claims that senior management had no knowledge of illicit transactions",
+    "fingerprint": "5c7494e6876ecb75d4dbf09d3c7d21b4",
+    "timestamp": 1787389340.556616,
+    "date": "2026-08-22T09:02:20.556616"
+  },
+  "https://www.tomshardware.com/software/applications/cpu-z-gets-biggest-update-since-2001-with-v3-100-health-checks-built-in-stress-testing-and-xoc-effective-clock-tracking": {
+    "title": "CPU-Z gets biggest update since 2001 with V3 100+ health checks, built-in stress testing, and XOC effective clock tracking",
+    "fingerprint": "15a282bb82f6d5b5c2bb1c8d7dfeb07f",
+    "timestamp": 1787389340.556715,
+    "date": "2026-08-22T09:02:20.556716"
+  },
+  "https://www.tomshardware.com/tech-industry/micron-commits-usd10-billion-to-new-us-based-research-labs-boise-hub-to-target-post-dram-and-nand-technologies-and-packaging": {
+    "title": "Micron commits $10 billion to new US-based Research Labs Boise hub to target post-DRAM and NAND technologies and packaging",
+    "fingerprint": "06773aa850d220483b13e93e3d6b51b8",
+    "timestamp": 1787389340.556833,
+    "date": "2026-08-22T09:02:20.556833"
+  },
+  "https://www.tomshardware.com/pc-components/gpus/china-approves-first-nvidia-h200-deliveries-to-bytedance-and-tencent-under-case-by-case-import-licenses": {
+    "title": "H200 AI GPUs finally reach China under case-by-case import licenses, but it's already too late for Nvidia homemade chips corner the China market as country seeks semiconductor independence",
+    "fingerprint": "9fca3e5954a0f557fea206c915dc8c56",
+    "timestamp": 1787389340.556944,
+    "date": "2026-08-22T09:02:20.556945"
+  },
+  "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-denies-report-it-will-ship-groq-based-lpus-to-china-by-year-end": {
+    "title": "Nvidia denies report it will ship Groq-based LPUs to China by year-end says there is 'no China-specific LPU product in our roadmap'",
+    "fingerprint": "43052e3a72924363e2f9840dd47fd076",
+    "timestamp": 1787389340.557047,
+    "date": "2026-08-22T09:02:20.557047"
+  },
+  "https://www.tomshardware.com/pc-components/ssds/sandisks-new-nas-ssd-lets-you-fill-the-drive-every-day-for-five-years-7-68tb-m-2-flaunts-eye-popping-14-000-tbw-rating": {
+    "title": "Sandisk's new $2,200 NAS SSD lets you fill the drive every day for five years 7.68TB M.2 flaunts eye-popping 14,000 TBW rating",
+    "fingerprint": "9b3eb7009b4a7dc0d4ed8d4f78726951",
+    "timestamp": 1787389340.557144,
+    "date": "2026-08-22T09:02:20.557144"
+  },
+  "https://www.tomshardware.com/tech-industry/cyber-security/slovakia-discovers-russian-backdoors-in-279-new-traffic-cameras-national-security-service-deactivates-offending-units": {
+    "title": "Slovakia discovers Russian backdoors in 279 new traffic cameras SMS-triggered shell access and passwordless live feeds found in EU-funded rollout",
+    "fingerprint": "c219935e98e4de1a2d9ab4c7d9bea397",
+    "timestamp": 1787389340.557242,
+    "date": "2026-08-22T09:02:20.557243"
+  },
+  "https://www.tomshardware.com/pc-components/ssds/enterprise-ssds-now-cost-18-times-more-than-hard-drives-per-terabyte": {
+    "title": "Enterprise SSDs cost 18.6 times more than HDDs as 30TB drives hit $22,600 hard drive supply is sold out through 2027",
+    "fingerprint": "ff1dbb00f5650cd9bfb4b89ce8f242b0",
+    "timestamp": 1787389340.557331,
+    "date": "2026-08-22T09:02:20.557331"
+  },
+  "https://www.tomshardware.com/laptops/gaming-laptops/save-usd900-on-this-2-in-1-asus-rog-touchscreen-gaming-laptop-with-64gb-ram-the-14-inch-flow-z13-machine-ships-with-a-16-core-amd-strix-halo-cpu-and-a-1tb-ssd-perfect-for-games-and-ai": {
+    "title": "Save $900 on this 2-in-1 Asus ROG touchscreen gaming laptop with 64GB RAM the 14-inch Flow Z13 machine ships with a 16-core AMD Strix Halo CPU and a 1TB SSD, perfect for games and AI",
+    "fingerprint": "0b4c5be7d5d1315256cbe0fab882f01d",
+    "timestamp": 1787389340.557432,
+    "date": "2026-08-22T09:02:20.557432"
+  },
+  "https://www.tomshardware.com/pc-components/ddr5/scalper-bots-now-outnumber-human-shoppers-10-to-1-on-one-retailers-ddr5-pages": {
+    "title": "DDR5 scalper bots now outnumber shoppers 10 to 1 automated scraping hits listings every 6.5 seconds as 32GB kits surge from $72 to $392, DataDome researcher says",
+    "fingerprint": "32fe74017e2b67bf9df0170ba7ff0c6f",
+    "timestamp": 1787389340.557535,
+    "date": "2026-08-22T09:02:20.557535"
+  },
+  "https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/": {
+    "title": "Espressif Systems releases a Linux BSP developer preview for ESP32-S31 RISC-V microprocessor",
+    "fingerprint": "5d55c3b2a84bf4f2df448c1f8d04f07c",
+    "timestamp": 1787389340.558088,
+    "date": "2026-08-22T09:02:20.558089"
+  },
+  "https://www.cnx-software.com/2026/08/21/aaeon-ucom-q6490-a-smarc-2-1-qualcomm-dragonwing-qcs6490-som/": {
+    "title": "AAEON uCOM-Q6490 A SMARC 2.1-compliant SoM powered by Qualcomm Dragonwing QCS6490 SoC",
+    "fingerprint": "e1e1164a92921983cc5bb9b0ad848adb",
+    "timestamp": 1787389340.558262,
+    "date": "2026-08-22T09:02:20.558263"
+  },
+  "https://www.cnx-software.com/2026/08/21/m5stack-paper-mono-an-esp32-s3-e-paper-development-board-with-3-97-inch-touchscreen-lora-and-nfc/": {
+    "title": "M5Stack Paper Mono An ESP32-S3 e-paper development board with 3.97-inch touchscreen, LoRa, and NFC",
+    "fingerprint": "d78d452ad30d833a2e4039872416159e",
+    "timestamp": 1787389340.558435,
+    "date": "2026-08-22T09:02:20.558436"
+  },
+  "https://www.fiercesensors.com/embedded/companies-worry-about-robot-safety-also-see-potential": {
+    "title": "Companies worry about robot safety, but also see potential",
+    "fingerprint": "46f35a63be5c00fc217c89e39933dbb5",
+    "timestamp": 1787389340.55948,
+    "date": "2026-08-22T09:02:20.559481"
+  },
+  "https://www.fiercesensors.com/sensors-fusion/robots-news-whats-bigger-now-focus-sensory-bots": {
+    "title": "Robots in the news: What s bigger now is focus on sensory bots",
+    "fingerprint": "6ff81af2542973adec3ff9f1c4a45f5b",
+    "timestamp": 1787389340.55989,
+    "date": "2026-08-22T09:02:20.559892"
+  },
+  "https://www.fiercesensors.com/sensors-fusion/best-sensors-qa-st-named-company-year": {
+    "title": "Best of Sensors Q&A: ST named Company of the Year",
+    "fingerprint": "280e4828028062e68ac93d6b6d5f053a",
+    "timestamp": 1787389340.560046,
+    "date": "2026-08-22T09:02:20.560047"
+  },
+  "https://www.techspot.com/news/113577-what-most-used-keyboard-shortcut-copy-paste-dont.html": {
+    "title": "Open Forum: What's your most-used keyboard shortcut?",
+    "fingerprint": "4cde80817fcc10c111847bee7ea621e6",
+    "timestamp": 1787389340.560232,
+    "date": "2026-08-22T09:02:20.560233"
+  },
+  "https://www.techspot.com/news/113572-sennheiser-momentum-true-wireless-5-earbuds-feature-new.html": {
+    "title": "Sennheiser Momentum True Wireless 5 add user-replaceable batteries, Bluetooth 6.0",
+    "fingerprint": "cbc0d65c748a3ab94d7ca9a77ed3c21f",
+    "timestamp": 1787389340.560406,
+    "date": "2026-08-22T09:02:20.560407"
+  },
+  "https://www.techspot.com/news/113574-fully-walkable-3d-city-built-entirely-out-ascii.html": {
+    "title": "This fully walkable 3D city was built entirely out of ASCII art",
+    "fingerprint": "c22d824526edfc3fb9d7eefb8081aca7",
+    "timestamp": 1787389340.560562,
+    "date": "2026-08-22T09:02:20.560562"
+  },
+  "https://www.techspot.com/news/113567-someone-got-doom-running-2009-canon-dslr-camera.html": {
+    "title": "Someone got Doom running on a 2009 Canon DSLR camera, and it's surprisingly playable",
+    "fingerprint": "3d354debddc776b7e0710676fc47186f",
+    "timestamp": 1787389340.560714,
+    "date": "2026-08-22T09:02:20.560714"
+  },
+  "https://www.techspot.com/news/113568-chinese-memory-firm-cxmt-relied-leaked-samsung-technology.html": {
+    "title": "Chinese memory firm CXMT relied on leaked Samsung technology to skip years of R&D, court testimony claims",
+    "fingerprint": "b799c875cb61700e89b15a924ab3dd8e",
+    "timestamp": 1787389340.560904,
+    "date": "2026-08-22T09:02:20.560905"
+  },
+  "https://www.techspot.com/trivia/48-if-one-pc-creates-noise-level-20db-another/": {
+    "title": "If one PC creates 20dB of noise and another makes 40dB, how louder is the second PC?",
+    "fingerprint": "b342b4b1cfdf8257b5cf58fa141e2a4a",
+    "timestamp": 1787389340.561051,
+    "date": "2026-08-22T09:02:20.561052"
+  },
+  "https://www.techspot.com/news/113563-sony-horizon-live-service-spinoff-could-dead-december.html": {
+    "title": "Sony's Horizon live service spinoff could be dead by December",
+    "fingerprint": "c73e2beb60f7cb83b2fb847ce40760b7",
+    "timestamp": 1787389340.561216,
+    "date": "2026-08-22T09:02:20.561217"
+  },
+  "https://www.techspot.com/news/113571-drones-could-banned-over-most-public-spaces-colorado.html": {
+    "title": "Drones could be banned over most public spaces in this Colorado city, but the FAA may stand in the way",
+    "fingerprint": "74b9cae3e600b91cec6695eaeabebfe1",
+    "timestamp": 1787389340.561377,
+    "date": "2026-08-22T09:02:20.561378"
+  },
+  "https://www.techspot.com/news/113565-youtube-may-paying-creators-millions-not-post-netflix.html": {
+    "title": "YouTube may be paying creators millions not to post on Netflix",
+    "fingerprint": "4ab12d9f2fbff69cabe6c9240eac4c3a",
+    "timestamp": 1787389340.561538,
+    "date": "2026-08-22T09:02:20.561539"
+  },
+  "https://www.techspot.com/news/113569-amd-crosses-30-client-cpu-market-share-against.html": {
+    "title": "AMD now ships more than 30% of x86 PC CPUs as Intel's long-held lead keeps shrinking",
+    "fingerprint": "ab8adbd8d8565fe425b6af3b2471dedc",
+    "timestamp": 1787389340.561695,
+    "date": "2026-08-22T09:02:20.561696"
+  },
+  "https://www.techspot.com/news/113566-gta-6-leaker-may-have-access-playable-build.html": {
+    "title": "GTA 6 leaker may have access to a playable build as fake downloads spread malware",
+    "fingerprint": "b37c8000af095246e13341b81502fcd5",
+    "timestamp": 1787389340.561877,
+    "date": "2026-08-22T09:02:20.561878"
+  },
+  "https://www.techspot.com/news/113570-dave-bautista-takes-over-kratos-amazon-god-war.html": {
+    "title": "Dave Bautista takes over as Kratos in Amazon's God of War series",
+    "fingerprint": "06d8a9449bef3ad09c29f4a95c78c602",
+    "timestamp": 1787389340.562035,
+    "date": "2026-08-22T09:02:20.562036"
   }
 }
