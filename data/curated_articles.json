@@ -1,227 +1,248 @@
 [
   {
-    "title": "The world's first webcam was switched off 25 years ago today 128x128 grayscale feed predated the World Wide Web to monitor a Cambridge coffee pot",
-    "summary": "It has been a quarter century since the world s first webcam was turned off for good. The Trojan Room Coffee Pot was retired on Wednesday, August 22, 2001, after 10 years of service at Cambridge University.",
-    "link": "https://www.tomshardware.com/peripherals/webcams/the-worlds-first-webcam-was-switched-off-25-years-ago-today-128x128-grayscale-feed-predated-the-world-wide-web-to-monitor-a-cambridge-coffee-pot",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-23T09:02:12.855646"
-  },
-  {
-    "title": "Microsoft blames RGB peripherals for crashing Windows 11 RGB software is causing blue screens, crashes, and game freezes",
-    "summary": "RGB software is reportedly wreaking havoc on Windows PCs. The drivers used by these applications can trip up anti-cheat software, causing your games or entire system to crash. For now, the only solution is to disable the driver until an official update.",
-    "link": "https://www.tomshardware.com/software/windows/microsoft-blames-rgb-peripherals-for-crashing-windows-11-rgb-software-is-causing-blue-screens-crashes-and-game-freezes",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-23T09:02:12.855771"
-  },
-  {
-    "title": "25 years after the death of 3dfx, the Voodoo 3 gets a Linux driver update classic Voodoo GPUs can now boot without a PC BIOS",
-    "summary": "It's been a quarter-century since the firm folded, but the graphics chips still have utility in esoteric use cases.",
-    "link": "https://www.tomshardware.com/software/linux/25-years-after-the-death-of-3dfx-the-voodoo-3-gets-a-linux-driver-update-classic-voodoo-gpus-can-now-boot-without-a-pc-bios",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-23T09:02:12.855882"
-  },
-  {
-    "title": "Snap-on LCD brings mini displays to any 120mm PC fan Thermalright's Fan Frame Vision-1 lets you display information and custom themes on your case fans",
-    "summary": "The Thermalright Fan Frame Vision-1 is a clip-on 3.69-inch screen that snaps directly in front of your PC case fans. These accessories let you display temperature, fan speed, and other information across your case, and even create a unified theme across all the screens in your PC.",
-    "link": "https://www.tomshardware.com/pc-components/case-fans/snap-on-lcd-brings-mini-displays-to-any-120mm-pc-fan-thermalrights-fan-frame-vision-1-lets-you-display-information-and-custom-themes-on-your-case-fans",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-23T09:02:12.856040"
-  },
-  {
-    "title": "Walk through a 3D cyberpunk city built purely from ASCII characters a text-based metropolis runs on a 283KB Rust WebAssembly engine feeding a WebGL renderer",
-    "summary": "Solo developer Grow Now! Games has put a playable browser build of its walkable ASCII cyberpunk city online, powered by a 283KB Rust WebAssembly engine and rendered in WebGL.",
-    "link": "https://www.tomshardware.com/tech-industry/ascii-cyberpunk-city-prototype-runs-on-rust-webassembly-engine-and-webgl-shaders",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-23T09:02:12.856154"
-  },
-  {
-    "title": "Logitech faces lawsuit for withholding $61M in tariff refunds from customers lawsuit claims company extracted up to $97M from consumers in 2026 through tariff-justified price increases",
-    "summary": "Consumers who bought products from Logitech after it increased its prices due to tariffs still haven't received their refunds, even after the U.S. government returned $61 million to the company. Now they're suing for their refunds, saying that 'Company extracted approximately $73 million to $97 million from consumers.'",
-    "link": "https://www.tomshardware.com/peripherals/logitech-faces-lawsuit-for-withholding-usd61m-in-tariff-refunds-from-customers-lawsuit-claims-company-extracted-up-to-usd97m-from-consumers-in-2026-through-tariff-justified-price-increases",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-23T09:02:12.856280"
-  },
-  {
-    "title": "Razer HyperFlux V2 Review: The best wireless charging mat for Razer mice",
-    "summary": "Razer's HyperFlux V2 is a wireless charging mouse pad that works with current mice from Razer's Basilisk, Cobra, and Naga lines.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-mice/razer-hyperflux-v2-review-the-best-wireless-charging-mat-for-razer-mice",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-23T09:02:12.856386"
-  },
-  {
-    "title": "US authorities say Siemens controllers used for water and other infrastructure are being targeted by hackers agencies claim threat actors use AI tools to generate exploitation scripts",
-    "summary": "Siemens S7 PLCs, commonly used in critical infrastructure, are reportedly being targeted by hackers and could potentially lead to disruption of industrial processes, safety incidents, downtime or equipment damage, and more. U.S. agencies are telling operators to protect these systems by keeping them updated and ensuring that they're off the internet if possible.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/us-authorities-say-siemens-controllers-used-for-water-and-other-infrastructure-are-being-targeted-by-hackers-agencies-claim-threat-actors-use-ai-tools-to-generate-exploitation-scripts",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-23T09:02:12.856517"
-  },
-  {
-    "title": "This week on Tom's Hardware Premium: August 22, 2026 foundries, supercomputers, China, and how to not overpay on a motherboard",
-    "summary": "We recap this week's Tom's Hardware Premium articles, including our latest advice on your next motherboard purchase, a look inside Samsung's Fab roadmaps, and much more.",
-    "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-august-22-2026-foundries-supercomputers-china-and-how-to-not-overpay-on-a-motherboard",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-23T09:02:12.856644"
-  },
-  {
-    "title": "Desktop CPU shipments crater 20% amid high component costs, but AMD gains record share despite 'ugly' desktop processor market Intel floods laptop market with millions of CPUs, but AMD still sets all-time share records",
-    "summary": "As Intel boosts output of data center and notebook CPUs, AMD manages to outgrow it and keep capturing market share from its arch-rival.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/desktop-cpu-shipments-crater-20-percent-amid-high-component-costs-but-amd-gains-record-share-despite-ugly-desktop-processor-market-intel-floods-laptop-market-with-millions-of-cpus-but-amd-still-sets-all-time-share-records",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-23T09:02:12.856761"
-  },
-  {
-    "title": "Storage unit auction winner finds retro Pentium 4 PC with a see-through, UV-reactive PSU Y2K time capsule discovered among 100 laptops and hundreds of RAM sticks",
-    "summary": "This vintage PC build looks like it came straight out of the 90s with a bold, in-your-face look that make sure you can't mistake it for anything but a gamer's lifeline. What you're looking at is an Apevia X-SuperAlien case with a 500W Apevia PSU.",
-    "link": "https://www.tomshardware.com/pc-components/storage-unit-auction-winner-finds-retro-pentium-4-pc-with-a-see-through-uv-reactive-psu-y2k-time-capsule-discovered-among-100-laptops-and-hundreds-of-ram-sticks",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-23T09:02:12.856880"
-  },
-  {
-    "title": "Gamer uncovers factory plastic left on RTX 3070 VRM pads after five years, causing overheating claims removal and repasting dropped GPU hotspot temperatures by 30 C",
-    "summary": "A Gigabyte RTX 3070 owner discovered protective films covering its VRM thermal pads, after nearly five years of use potentially causing excessive temperatures and frequent black screens.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/gigabyte-rtx-3070-owner-discovers-protective-film-on-vrm-thermal-pads-after-nearly-five-years-claims-removal-and-repasting-dropped-gpu-hotspot-temperatures-by-30-c",
+    "title": "Grab the Asus Prime Radeon RX 9070 OC for $629.99 save $120 on this 16GB gaming GPU for reliable 1440p and 4K gaming",
+    "summary": "The Asus Prime Radeon RX 9070 OC is available for just $629.99 on Amazon, delivering strong 1440p performance, 16GB of VRAM, a 2,610MHz boost clock, and a triple-fan cooling system at a $120 discount.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/grab-the-asus-prime-radeon-rx-9070-oc-for-usd629-99-save-usd120-on-this-16gb-gaming-gpu-for-reliable-1440p-and-4k-gaming",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-08-23T09:02:12.857025"
+    "quality_score": 0,
+    "processed_date": "2026-08-24T09:28:49.122891"
   },
   {
-    "title": "ASRock Steel Legend SL-1200P power supply review: A winning combination of genuine Platinum efficiency and a stand-out design",
-    "summary": "The ASRock Steel Legend SL-1200P is a visually distinct, technically capable 1200W unit with genuine Platinum efficiency, dual 12V-2x6 outputs, and a few thoughtful engineering touches that set it apart.",
-    "link": "https://www.tomshardware.com/pc-components/power-supplies/asrock-steel-legend-sl-1200p-power-supply-review",
+    "title": "Self-driving Ford F-250 truck with shotgun-equipped drone-killing turret tested by US Army autonomous system designed to blast fast-moving drones at between 10 and 100 meters range",
+    "summary": "The US Army tested an autonomous breaching vehicle with an onboard counter-UAS turret during a live-fire exercise at Fort Bragg on August 18.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/self-driving-ford-f-250-truck-with-shotgun-equipped-drone-killing-turret-tested-by-us-army-autonomous-system-designed-to-blast-fast-moving-drones-at-between-10-and-100-meters-range",
     "categories": [
-      "Hardware",
+      "Semiconductors",
       "Tech News"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-08-23T09:02:12.857140"
+    "quality_score": 5,
+    "processed_date": "2026-08-24T09:28:49.123008"
   },
   {
-    "title": "GTA 6 leaks prompt Take-Two to subpoena Microsoft for Windows device IDs of everyone in three Discord servers daily gameplay leaks shatter cloud of secrecy around the much-hyped game",
-    "summary": "Take-Two Interactive filed two DMCA subpoenas demanding that Microsoft and Discord identify the person or people behind the \"CyberLeek\" persona.",
-    "link": "https://www.tomshardware.com/video-games/console-gaming/take-two-subpoenas-microsoft-for-windows-device-ids-of-everyone-in-three-discord-servers-in-gta-6-leak-hunt",
+    "title": "Nvidia reportedly warns biggest customers of 15% price hikes on AI servers memory costs continue to soar",
+    "summary": "The increases will take effect on Grace Blackwell and Vera Rubin systems shipping early next year.",
+    "link": "https://www.tomshardware.com/pc-components/dram/nvidia-reportedly-warns-biggest-customers-of-15-percent-price-hikes-on-ai-servers",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-23T09:02:12.857247"
+    "processed_date": "2026-08-24T09:28:49.123095"
   },
   {
-    "title": "Back-to-back Amazon CPU scam delivers empty Ryzen 5 9600X boxes in 72 hours $ 10,000-a-month business customer captures fraud on camera",
-    "summary": "A PC shop that spends over $10,000 a month on Amazon hardware says two AMD Ryzen 5 9600X orders arrived with the CPUs missing.",
-    "link": "https://www.tomshardware.com/desktops/pc-building/alleged-amazon-cpu-scam-hits-pc-shop-twice-in-three-days-ryzen-5-9600x-orders-arrive-with-empty-retail-boxes",
+    "title": "Nvidia s GB300-powered DGX Station desktop tower listed for nearly $100,000 online Enterprise AI powerhouse now available to buy for mere mortals with lots of cash",
+    "summary": "Nvidia's most powerful desktop offering, the GB300 DGX Station, is available to buy starting from just $94,930 and you can spec it up to $108,350. It offers 748GB of unified memory shared across the 72-core Grace CPU and Blackwell Ultra GPU, and it can be yours in a pretty standard-looking desktop chassis today.",
+    "link": "https://www.tomshardware.com/desktops/nvidias-gb300-powered-dgx-station-desktop-tower-listed-for-nearly-usd100-000-online-enterprise-ai-powerhouse-now-available-to-buy-for-mere-mortals-with-lots-of-cash",
     "categories": [
       "Hardware",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-23T09:02:12.857354"
+    "processed_date": "2026-08-24T09:28:49.123201"
   },
   {
-    "title": "Framework Laptop 12 repairable, convertible laptop gets Wildcat Lake motherboard, ships with Fedora 44 or Windows 11",
-    "summary": "First introduced in 2025, the Framework Laptop 12 upgradable and repairable laptop has just gotten a new motherboard offered with a choice of Wildcat Lake (Intel Core Series 3) processors from the Core 3 304 up to the Core 7 350. The Wildcat Lake-based convertible Laptop 12 features a 12.2-inch display with 1920 x 1200 resolution, a SO-DIMM slot supporting up to 64GB DDR5, an M.2 2230 NVMe SSD slot, and high-speed connectivity with Thunderbolt 4, WiFi 7, and more. Framework Laptop 12 (Intel Core Series 3) specifications: Wildcat Lake SoC (one or the other) Intel Core 3 304 5-core CPU 1x P-cores @ 1.5/4.3 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) GPU 1-core Intel Xe3 Graphics @ 2.3 GHz (9 TOPS) NPU 15 TOPS Intel Core 5 320 6-core CPU 2x P-cores @ 1.5/4.6 GHz (Turbo) + 4x LPE-cores @ 1.4/3.4 GHz (Turbo) [...] The post Framework Laptop 12 repairable, convertible laptop gets Wildcat Lake motherboard, ships with Fedora 44 or Windows 11 appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/23/framework-laptop-12-repairable-convertible-laptop-gets-wildcat-lake-motherboard-ships-with-fedora-44-or-windows-11/",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-23T09:02:12.857913"
-  },
-  {
-    "title": "Argonaut will use lidar to dodge lunar boulders, rough terrain",
-    "summary": "MDA Space announced it won preliminary approval for use of its LEIA lidar in the inaugural Argonaut mission",
-    "link": "https://www.fiercesensors.com/embedded/argonaut-will-use-lidar-dodge-lunar-boulders-rough-terrain",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-23T09:02:12.859280"
-  },
-  {
-    "title": "Oura is facing a lawsuit over whether its $300 ring can actually track sleep",
-    "summary": "The lawsuit takes aim at a core feature of the product: its ability to turn data collected from a wearer's finger into scores for sleep, readiness, and activity. Oura rings track measures like heart activity and skin temperature, then run that data through software to generate sleep reports. Read Entire Article",
-    "link": "https://www.techspot.com/news/113576-oura-facing-lawsuit-over-whether-300-ring-can.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-23T09:02:12.859507"
-  },
-  {
-    "title": "Bilibili wants to be YouTube's rival everywhere, not just in China",
-    "summary": "The international Bilibili app is currently available on Android, with an iOS version expected soon. The company is also reportedly working on an English-language website that will offer content from popular creators. Read Entire Article",
-    "link": "https://www.techspot.com/news/113573-bilibili-wants-youtube-rival-everywhere-not-china.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-23T09:02:12.859671"
-  },
-  {
-    "title": "A cracked version of Marvel Tokon: Fighting Souls runs better than the original game, and players are fuming",
-    "summary": "The DRM Sony uses to lock down Marvel Tokon: Fighting Souls on PC is so aggressive that people with massively capable gaming machines are complaining about performance and network instability. The developers have already released a patch to fix some of the issues, but the number of people playing the... Read Entire Article",
-    "link": "https://www.techspot.com/news/113575-cracked-version-marvel-tokon-fighting-souls-runs-better.html",
+    "title": "Fake GTA VI ISO circulates on the internet a few days after leak, internet sleuths claim 113GB download is padded malware testers claim file is 99.99% empty zeroes with 50KB virus embedded",
+    "summary": "A 113GB GTA VI ISO file is circulating on the internet, with its file name making it seem like it was the game build that Cyberleek is allegedly in possession of. But upon further investigation, it appears to just be a 50KB virus padded with zeroes to make it look like the real thing.",
+    "link": "https://www.tomshardware.com/video-games/fake-gta-vi-iso-circulates-on-the-internet-a-few-days-after-leak-internet-sleuths-claim-113gb-download-is-padded-malware-testers-claim-file-is-99-99-percent-empty-zeroes-with-50kb-virus-embedded",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-08-23T09:02:12.859850"
+    "quality_score": 5,
+    "processed_date": "2026-08-24T09:28:49.123305"
   },
   {
-    "title": "Walmart will finally accept Apple Pay and Google Pay starting August 24",
-    "summary": "Walmart has finally ended its years-long battle against contactless payments from tech giants like Apple and Google. The company recently announced that some stores and Sam's Club locations will begin supporting Apple Pay and Google Pay starting August 24. Read Entire Article",
-    "link": "https://www.techspot.com/news/113578-walmart-finally-support-apple-pay-google-pay-after.html",
+    "title": "Modular pocket gimbal camera that transforms into a self-flying drone retroactively banned by FCC, certification revoked Agency closes foreign UAS loophole on 230g HoverAir Versa",
+    "summary": "The Versa, a 230g pocket gimbal camera that snaps into a separate propeller chassis for flight, raised more than $230,000 at its debut.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/fcc-pulls-hoverair-versa-certification-three-days-after-launch",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-24T09:28:49.123391"
+  },
+  {
+    "title": "TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but average performance",
+    "summary": "The Deco 7 Pro BE13000 is attractively priced on the hardware front, but a subscription is needed to enable many features of the mesh system.",
+    "link": "https://www.tomshardware.com/networking/routers/tp-link-deco-7-pro-be13000-wi-fi-7-mesh-router-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-08-24T09:28:49.123471"
+  },
+  {
+    "title": "Group plans one-week PlayStation blackout to protest Sony s plan to end physical game production calls for players to turn off their consoles or log out of PSN from August 23 to 30",
+    "summary": "A game preservation group is asking PlayStation users to stay away from their consoles for a week in protest of Sony's plan to axe physical game disc production. However, others say this is too soft, and a more concrete move would be to cancel PSN subscriptions en masse or refund purchases of pre-sold games.",
+    "link": "https://www.tomshardware.com/video-games/playstation/group-plans-one-week-playstation-blackout-to-protest-sonys-plan-to-end-physical-game-production-calls-for-players-to-turn-off-their-consoles-or-log-out-of-psn-from-august-23-to-30",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-24T09:28:49.123571"
+  },
+  {
+    "title": "Humanoid robots shatter Usain Bolt's 100m record, hits 23.8 mph before crashing into foam pads video shows Tiangong Ultra logging 9.39-second sprint before colliding with padded wall",
+    "summary": "Two robots at the 2026 World Humanoid Robot Games in Beijing beat Usain Bolt's 2009 100-meter dash world record. The Tiangong Ultra set a record of 9.39 seconds, while the Honor Lightning achieved a 9.47 record time, breaking the Jamaican runner's 9.58-second record.",
+    "link": "https://www.tomshardware.com/tech-industry/robotics/humanoid-robots-shatter-usain-bolts-100m-record-hits-23-8-mph-before-crashing-into-foam-pads-video-shows-tiangong-ultra-logging-9-39-second-sprint-before-colliding-with-padded-wall",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-24T09:28:49.123671"
+  },
+  {
+    "title": "Startup to use drones to keep clouds away from solar farms, 'Our ultimate goal is to reduce the intensity of severe storms and hurricanes' chemical-free tech promises up to 30% power boost for $30 to $60 an hour",
+    "summary": "Meteoric plans to deploy drones and use mechanical action to dissipate low and mid-altitude clouds covering solar power plants. The startup says that it already has a working prototype that cut artificial clouds by 13%, and that its drones are far more economical to fly compared to traditional techniques.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/startup-to-use-drones-to-keep-clouds-away-from-solar-farms-our-ultimate-goal-is-to-reduce-the-intensity-of-severe-storms-and-hurricanes-chemical-free-tech-promises-up-to-30-percent-power-boost-for-usd30-to-usd60-an-hour",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-24T09:28:49.123777"
+  },
+  {
+    "title": "Asus ROG Strix XG32UQWMS 4K OLED gaming monitor review: Fast and flexible performance",
+    "summary": "Asus ROG Strix XG32UQWMS delivers speed and flexibility with a 32-inch 4K Tandem OLED panel, dual-refresh modes, 240 Hz and 480 Hz in FHD resolution, plus wide-gamut color, HDR 500 True Black and Adaptive-Sync.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-strix-xg32uqwms-32-inch-4k-oled-gaming-monitor-review",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-08-24T09:28:49.123858"
+  },
+  {
+    "title": "Lucky shopper finds RTX 5080 for just $702 at Walmart saves almost $800 compared to current retail prices",
+    "summary": "Walmart s clearance aisle delivers another remarkable GPU bargain, with a shopper finding a PNY RTX 5080 for nearly half its current retail price.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/lucky-shopper-finds-pny-rtx-5080-for-just-usd702-at-walmart-saves-almost-usd800-compared-to-current-retail-prices",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-24T09:28:49.123940"
+  },
+  {
+    "title": "Officials nationwide face death threats and gunfire over AI data center projects More than 500 towns restrict builds as councils shutter public comment",
+    "summary": "Recent data published in the Soufan Center's July IntelBrief found hundreds of posts with threat language between July 2025 and July 2026, and a volume surge beginning in April.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/death-threats-hit-data-center-opponents-as-towns-cancel-votes-and-close-public-comment",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-24T09:28:49.124022"
+  },
+  {
+    "title": "Enthusiast mods GTX 1080 Ti with a dual-tower CPU cooler, sees up to 32 C reduction in temps Mod yields 30W power savings and 9% higher FPS",
+    "summary": "What if you could have twice the CPU cooler in your computer? If that's a question that piques your interest, then TrashBench has answered your curiosity in droves with an experiment that ended up working incredibly well.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/enthusiast-mods-gtx-1080-ti-with-a-dual-tower-cpu-cooler-sees-up-to-32-c-reduction-in-temps-mod-yields-30w-power-savings-and-9-percent-higher-fps",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-24T09:28:49.124098"
+  },
+  {
+    "title": "Maxell brings back classic 1970s cassette tapes 1970s ferric formula is custom-made for vintage PC data drives",
+    "summary": "Maxell and Disk Union collaborate to release special edition UD-60U cassette tapes in Japan.",
+    "link": "https://www.tomshardware.com/pc-components/storage/maxell-partners-with-disk-union-to-release-ud-60u-special-edition-cassettes-black-and-red-ud-tapes-could-be-ideal-for-use-in-your-c64-datassette",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-24T09:28:49.124168"
+  },
+  {
+    "title": "MNT Station fanless, modular open-hardware computer supports a choice of 10+ Arm CPU or FPGA modules (Crowdfunding)",
+    "summary": "MNT Research, the Berlin-based team behind the MNT Reform, MNT Pocket Reform, Reform 2, and MNT Reform Next, has launched the MNT Station, a fanless, open-hardware modular computer designed for use as a desktop PC, home server, NAS, router, edge device, or low-power media center. The MNT Station is built around the MNT Reform mainboard ecosystem and designed for those who want to reuse an existing MNT Reform mainboard (versions 2.0, 2.5, or 3.0) as a stationary computer, as well as those building a modular Arm (or FPGA-based) desktop from scratch using the new MNT Reform Mainboard 3.0. Like other MNT systems, it s fully open-source hardware, and the 200-pin processor module connector supports different processor modules, including the Rockchip RK3588, NXP Layerscape LS1028A, and Raspberry Pi CM4, among others. MNT Station specifications: SoC/Processor and Memory options (via 200-pin module) Rockchip RK3588 (MNT RCORE V2) 4 Cortex-A76 + 4 Cortex-A55 [...] The post MNT Station fanless, modular open-hardware computer supports a choice of 10+ Arm CPU or FPGA modules (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/24/mnt-station-fanless-modular-open-hardware-computer-supports-a-choice-of-10-arm-cpu-or-fpga-modules/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-08-24T09:28:49.124666"
+  },
+  {
+    "title": "$60+ Nordic Semi nRF93M1 Development Kit (DK) targets LTE Cat 1 bis IoT applications",
+    "summary": "Nordic Semiconductor has launched the nRF93M1 DK (Development Kit) based on the nRF93M1-LABA LTE Cat 1 bis with Wi-Fi and cellular location and a Nordic Semi nRF54L15 host microcontroller. The nRF93M1 module was first introduced at Embedded World 2026 last March, and the company has now announced general availability of the nRF93M1-LABA smart modem module for Europe, Asia, the Middle East, Africa, and sampling of the nRF93M1-LACA module for global markets, scheduled to become available in Q3 2026. The announcement also covers the launch of the nRF93M1 Development Kit, which was teased last March with limited details. Time to have a closer look. nRF93M1 DK specifications: Host MCU Nordic Semiconductor nRF54L15 MCU cores Arm Cortex-M33 with Arm TrustZone @ 128MHz RISC-V coprocessor for software-defined peripheral Memory 256KB SRAM Storage 1.5MB non-volatile memory Wireless Bluetooth 6.0 Data rates 2Mbps, 1Mbps, 500kbps, 125kbps Features (TBC in built-in firmware) AoA [...] The post $60+ Nordic Semi nRF93M1 Development Kit (DK) targets LTE Cat 1 bis IoT applications appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/24/60-nordic-semi-nrf93m1-development-kit-dk-targets-lte-cat-1-bis-iot-applications/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 25,
+    "processed_date": "2026-08-24T09:28:49.124807"
+  },
+  {
+    "title": "Rockchip RV1126B-based Forlinx FCU3101 fanless edge AI system targets IIoT and smart security applications",
+    "summary": "Forlinx has just introduced the FCU3101, a fanless Edge AI system based on the Rockchip RV1126B/RV1126BJ SoC and designed for Industrial IoT (IIoT) and smart security applications, such as video surveillance, license plate recognition, intrusion detection, industrial inspection, and material counting. It ships with up to 4GB of DDR4, up to 64GB of eMMC storage, and includes dual Ethernet, Wi-Fi 4, Bluetooth 4.2, optional 4G LTE, RS485, RS232, digital I/O, relay outputs, HDMI, and USB ports. It supports up to 9 36V DC input and operates in the -40 C to +85 C temperature range in its industrial configuration. Forlinx FCU3101 specifications: SoC Rockchip RV1126B or RV1126BJ (industrial-grade version) CPU Quad-core Arm Cortex-A53 up to 1.6 GHz with 32KB L1 I-Cache and 32KB L1 D-Cache, unified 512KB L2 Cache GPU 2D Graphics Engine VPU Video Decoder H.265/H.264 up to 3840 2160 @ 30fps Video Encoder H.265, H.264, JPEG up to [...] The post Rockchip RV1126B-based Forlinx FCU3101 fanless edge AI system targets IIoT and smart security applications appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/24/rockchip-rv1126b-based-forlinx-fcu3101-fanless-edge-ai-system-targets-iiot-and-smart-security-applications/",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-24T09:28:49.124958"
+  },
+  {
+    "title": "Openterface KeyMod turns your smartphone into a USB keyboard, mouse, gamepad, or SSH client (Crowdfunding)",
+    "summary": "After successfully launching the Openterface Mini-KVM and Openterface KVM-GO, TechxArtisan has just introduced the Openterface KeyMod pocket-sized USB multi-tool that turns an Android or iOS smartphone into a wireless keyboard, mouse, gamepad, presentation remote, or an SSH terminal for controlling PCs, servers, kiosks, Raspberry Pi boards, and other USB hosts. It comes in two variants: the KeyMod Mini with a USB-C port, and the KeyMod Plus with a USB-A port. KeyMod Mini connects to the phone through Bluetooth 5.3, while KeyMod Plus relies on a wired USB connection for higher bandwidth. It provides USB HID keyboard and mouse functions that work even in BIOS, along with a USB CDC-ECM network bridge for SSH, VNC, SCP, rsync, and other TCP-based tools. The hardware uses a CH32V208 HID controller and USB composite architecture and is powered directly from the target s USB port. It is designed for IT support, server administration, embedded development, [...] The post Openterface KeyMod turns your smartphone into a USB keyboard, mouse, gamepad, or SSH client (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/24/openterface-keymod-turns-your-smartphone-into-a-usb-keyboard-mouse-gamepad-or-ssh-client/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-08-24T09:28:49.125102"
+  },
+  {
+    "title": "Intel lays off some data center group workers amid unit revenue growth",
+    "summary": "An unspecified number of Data Center Group workers laid off continues a multi-year reduction in force at Intel as the company puts stronger focus on Edge AI and data center inference.",
+    "link": "https://www.fiercesensors.com/electronics/intel-lays-some-data-center-group-workers-amid-unit-revenue-growth",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-24T09:28:49.126199"
+  },
+  {
+    "title": "AliExpress was silently running audio in your browser to fingerprint and track your device",
+    "summary": "The issue only surfaced after a developer had trouble using multipoint Bluetooth headphones while an AliExpress tab was open: the headphones wouldn't switch properly from the computer to a phone. Once the tab was closed, the problem disappeared. Read Entire Article",
+    "link": "https://www.techspot.com/news/113581-aliexpress-silently-running-audio-browser-fingerprint-track-device.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-24T09:28:49.126370"
+  },
+  {
+    "title": "People have clicked the \"Seems like AI slop\" button on LinkedIn over a million times already",
+    "summary": "The tool lets members flag posts they believe were generated with AI or appear to be low-effort automated content, and it's available through the three-dot menu on any post. LinkedIn Chief Product Officer Hari Srinivasan said the reports, combined with changes to the company's detection systems, have cut views of... Read Entire Article",
+    "link": "https://www.techspot.com/news/113580-people-have-clicked-like-ai-slop-button-linkedin.html",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-08-23T09:02:12.860031"
+    "quality_score": 5,
+    "processed_date": "2026-08-24T09:28:49.126477"
+  },
+  {
+    "title": "Windows could soon let you control how your PC splits memory for gaming and AI",
+    "summary": "A recent experimental Windows 11 build hides evidence that Microsoft is preparing to let users control the split between system and video memory in unified pools. The feature could give users more flexibility when juggling gaming and AI workloads, especially on upcoming unified-memory devices like Nvidia's RTX Spark platform. Read Entire Article",
+    "link": "https://www.techspot.com/news/113579-windows-could-soon-you-control-how-pc-splits.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-24T09:28:49.126568"
   }
 ]

@@ -1,208 +1,4 @@
 {
-  "https://www.tomshardware.com/pc-components/gpus/amd-confirmed-usd5-4-billion-ati-acquisition-20-years-ago-today-deal-to-reinvent-our-industry-paved-the-way-for-radeon-gpu-innovation-apus-and-games-console-domination": {
-    "title": "AMD confirmed $5.4 billion ATI acquisition 20 years ago today deal to 'reinvent our industry' paved the way for Radeon GPU innovation, APUs, and games console domination",
-    "fingerprint": "25ca6207c1b571d95f912cf869e92284",
-    "timestamp": 1784890002.491556,
-    "date": "2026-07-24T10:46:42.491560"
-  },
-  "https://www.tomshardware.com/pc-components/cpus/amd-reveals-cpu-architecture-roadmap-through-2028-following-zen-6-venice-launch-zen-7-florence-to-debut-in-2028-alongside-diversified-product-family-confirms-zen-8-ravenna-in-development": {
-    "title": "AMD reveals CPU architecture roadmap through 2028, following Zen 6 'Venice' launch Zen 7 'Florence' to debut in 2028 alongside diversified product family, confirms Zen 8 'Ravenna' in development",
-    "fingerprint": "2cb4fbb1e7da9fad74cafce8b3e4a0ab",
-    "timestamp": 1784890002.49173,
-    "date": "2026-07-24T10:46:42.491731"
-  },
-  "https://www.tomshardware.com/pc-components/cpus/amds-new-x100-chip-lineup-puts-strix-halo-into-robots-apus-for-physical-ai-bring-zen-5-cpu-rdna-3-5-gpu-cores-to-compete-with-intels-panther-lake": {
-    "title": "AMD s new X100 chip lineup puts embedded Ryzen AI 'Strix Halo' chips into robots APUs for physical AI bring Zen 5 CPU, RDNA 3.5 GPU cores to compete with Intel s Panther Lake",
-    "fingerprint": "af0099dd00eff9fd2c486ba96212ca19",
-    "timestamp": 1784890002.491866,
-    "date": "2026-07-24T10:46:42.491867"
-  },
-  "https://www.tomshardware.com/pc-components/gpus/amd-takes-the-wraps-off-its-instinct-mi455x-ai-accelerator-cdna-5-and-helios-rack-scale-architecture-combine-to-take-the-fight-to-nvidia-in-the-data-center": {
-    "title": "AMD takes the wraps off its Instinct MI455X AI accelerator CDNA 5 and Helios rack-scale architecture combine to take the fight to Nvidia in the data center",
-    "fingerprint": "8a108873fd7544df53beef1959202a05",
-    "timestamp": 1784890002.491998,
-    "date": "2026-07-24T10:46:42.491998"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-and-cerebras-partner-on-low-latency-high-throughput-ai-inference-epyc-processors-in-helios-rack-scale-infrastructure-paired-with-cerebras-wafer-scale-engine-wse-solutions": {
-    "title": "AMD and Cerebras partner on low-latency, high-throughput AI inference EPYC processors in Helios rack-scale infrastructure paired with Cerebras' Wafer-Scale Engine (WSE) solutions",
-    "fingerprint": "ef62cb35f4579a17d32a3d4be25ec0d7",
-    "timestamp": 1784890002.492119,
-    "date": "2026-07-24T10:46:42.492121"
-  },
-  "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-3090-and-rtx-3050-team-up-to-hit-144-fps-at-4k-lossless-scaling-turns-old-ampere-gpus-into-a-gaming-powerhouse": {
-    "title": "Nvidia RTX 3090 and RTX 3050 team up to hit 144 FPS at 4K Lossless Scaling turns old Ampere GPUs into a gaming powerhouse",
-    "fingerprint": "2c0ebfc7ecf01df05f23f81945368dbf",
-    "timestamp": 1784890002.492307,
-    "date": "2026-07-24T10:46:42.492308"
-  },
-  "https://www.tomshardware.com/tech-industry/semiconductors/new-semiconductor-firm-breaks-cover-backed-by-usd43-million-in-early-stage-funding-tylsemi-aims-to-deliver-custom-silicon-to-customers-without-breaking-the-bank": {
-    "title": "New semiconductor firm breaks cover, backed by $43 million in early-stage funding TYLsemi aims to deliver custom silicon to customers without breaking the bank",
-    "fingerprint": "12f2ccf61f98f50c1e076c9cf50108bc",
-    "timestamp": 1784890002.492502,
-    "date": "2026-07-24T10:46:42.492503"
-  },
-  "https://www.tomshardware.com/pc-components/cpus/amds-256-core-epyc-9996-venice-claims-up-to-a-3-4x-jump-over-intel-xeon-competition-20-percent-over-nvidia-vera-zen-6-comes-with-up-to-1024mb-of-l3-16-channel-memory-and-5ghz-clock-speeds": {
-    "title": "AMD s 256-core Epyc 9996 Venice claims up to a 3.4x jump over Intel Xeon competition, 20% over Nvidia Vera Zen 6 comes with up to 1024MB of L3, 16-channel memory, and 5GHz+ clock speeds",
-    "fingerprint": "6757ac03e48d7e43c3bf4c165592cff2",
-    "timestamp": 1784890002.492701,
-    "date": "2026-07-24T10:46:42.492703"
-  },
-  "https://www.tomshardware.com/pc-components/cpus/amds-venice-x-cpu-launches-in-2027-with-1152-mb-of-3d-v-cache-96-cores-and-5-15-ghz-boost-clock-zen-6-cpu-for-high-performance-computing-comes-with-major-pillars-of-venice": {
-    "title": "AMD s Venice-X CPU launches in 2027 with 1152 MB of 3D V-Cache, 96 cores, and 5.15 GHz boost clock Zen 6 CPU for high-performance computing comes with major pillars of Venice",
-    "fingerprint": "93de4add7a9aa2111d0c4c759d7f4520",
-    "timestamp": 1784890002.492817,
-    "date": "2026-07-24T10:46:42.492818"
-  },
-  "https://www.tomshardware.com/software/geekbench-7-introduces-biggest-overhaul-yet-real-world-cpu-testing-new-media-workloads-ai-benchmarks-and-cuda-support": {
-    "title": "Geekbench 7 introduces biggest overhaul yet real-world CPU testing, new media workloads, AI benchmarks, and CUDA support",
-    "fingerprint": "39a6975734b8b84c2ec94a7d726a0cfc",
-    "timestamp": 1784890002.492947,
-    "date": "2026-07-24T10:46:42.492948"
-  },
-  "https://www.tomshardware.com/pc-components/ram/ai-memory-shortage-is-now-increasing-the-price-of-cars-gm-warns-of-vast-cost-increases-byd-hikes-driver-assistance-prices-20-percent": {
-    "title": "AI memory shortage is now increasing the price of cars GM warns of vast cost increases, BYD hikes driver assistance prices 20%",
-    "fingerprint": "4eddb37ddf2ee2cd4a7e31b24380b15d",
-    "timestamp": 1784890002.493071,
-    "date": "2026-07-24T10:46:42.493072"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/bipartisan-bill-would-require-kill-switches-on-the-most-powerful-ai-models": {
-    "title": "Kill switches for most powerful AI models proposed by Bipartisan bill DHS could order throttling or full shutdown, with fines up to $20 million per day",
-    "fingerprint": "6eb6ce412963c1b365b91c7e6e3fa798",
-    "timestamp": 1784890002.493252,
-    "date": "2026-07-24T10:46:42.493253"
-  },
-  "https://www.tomshardware.com/tech-industry/inside-optical-and-the-battle-for-scale-how-the-ai-industry-is-racing-to-integrate-photonic-interconnects": {
-    "title": "Inside optical and the battle for scale how the AI industry is racing to integrate photonic interconnects",
-    "fingerprint": "3394a6fc07f3fa625859bda7efc29032",
-    "timestamp": 1784890002.493368,
-    "date": "2026-07-24T10:46:42.493368"
-  },
-  "https://www.tomshardware.com/desktops/mini-pcs/arctic-senza-ai-370-fanless-mini-pc-review": {
-    "title": "Arctic Senza AI 370 review: Strix Point in a stealthy under-desk fanless design",
-    "fingerprint": "cec217b1023761ff80448bcd1dab3a9a",
-    "timestamp": 1784890002.493492,
-    "date": "2026-07-24T10:46:42.493493"
-  },
-  "https://www.tomshardware.com/tech-industry/policy/142-ai-data-center-protests-staged-in-42-states-as-public-opposition-increases-organizers-brand-unaccountable-buildouts-as-an-unacceptable-infringement-on-our-liberty": {
-    "title": "142 AI data center protests staged in 42 states as public opposition increases organizers brand 'unaccountable' buildouts as an 'unacceptable infringement on our liberty'",
-    "fingerprint": "7a3b13b64e614b80b84b2cb3cd9ff557",
-    "timestamp": 1784890002.493642,
-    "date": "2026-07-24T10:46:42.493643"
-  },
-  "https://www.cnx-software.com/2026/07/24/379-99-bosgame-e6-eco-mini-pc-features-intel-core-3-304-wildcat-lake-cpu-12gb-lpddr5x-512gb-nvme-ssd/": {
-    "title": "$379.99 BOSGAME E6 ECO mini PC features Intel Core 3 304 Wildcat Lake CPU, 12GB LPDDR5X, 512GB NVMe SSD",
-    "fingerprint": "7c7b0340effab5bdf39ab02ec7bb1eb9",
-    "timestamp": 1784890002.49415,
-    "date": "2026-07-24T10:46:42.494151"
-  },
-  "https://www.cnx-software.com/2026/07/24/cirkitscape-top-hat-adds-extra-gpios-rs-485-3-channel-adc-four-usb-2-0-ports-to-raspberry-pi-sbcs/": {
-    "title": "CirkitScape Top HAT adds extra GPIOs, RS-485, 3-channel ADC, four USB 2.0 ports to Raspberry Pi SBCs",
-    "fingerprint": "f678da5518dc734564bcbadf15beac65",
-    "timestamp": 1784890002.494317,
-    "date": "2026-07-24T10:46:42.494317"
-  },
-  "https://www.cnx-software.com/2026/07/24/amd-launches-ryzen-ai-embedded-x100-processors-kria-ai-som-and-physical-ai-robotics-developer-platform/": {
-    "title": "AMD launches Ryzen AI Embedded X100 processors, Kria AI SoM, and physical AI/robotics developer platform",
-    "fingerprint": "cb70e040afa0e6fc07ecda0d234cb492",
-    "timestamp": 1784890002.494478,
-    "date": "2026-07-24T10:46:42.494479"
-  },
-  "https://www.cnx-software.com/2026/07/23/augmental-mouthpad-tongue-controlled-touchpad-trackpad/": {
-    "title": "Augmental MouthPad is a tongue-controlled touchpad/trackpad",
-    "fingerprint": "30d28ecb9980e25f53d96f4a9cb3188a",
-    "timestamp": 1784890002.494661,
-    "date": "2026-07-24T10:46:42.494663"
-  },
-  "https://www.fiercesensors.com/sensors/best-sensors-stathera-wins-best-mems-solution-sensors-converge": {
-    "title": "Best of Sensors: Stathera wins Best MEMS Solution at Sensors Converge",
-    "fingerprint": "2fe6d4e421f03b68a9f5ea7c14941344",
-    "timestamp": 1784890002.495809,
-    "date": "2026-07-24T10:46:42.495810"
-  },
-  "https://www.techspot.com/guides/3144-amd-software/": {
-    "title": "The AMD Radeon Settings You Should Actually Be Using",
-    "fingerprint": "c7a679da385b8a5f663482f439970f04",
-    "timestamp": 1784890002.49597,
-    "date": "2026-07-24T10:46:42.495971"
-  },
-  "https://www.techspot.com/news/113222-299-flip-phone-anti-smartphone-promises-save-you.html": {
-    "title": "This $299 flip phone is the anti-smartphone, promises to save you from doomscrolling hell",
-    "fingerprint": "e95d5614561d5d0238ebfc34e6e82363",
-    "timestamp": 1784890002.49612,
-    "date": "2026-07-24T10:46:42.496122"
-  },
-  "https://www.techspot.com/downloads/3943-geekbench.html": {
-    "title": "Geekbench 7 debuts with a smarter multi-core benchmark and CUDA support",
-    "fingerprint": "a56ad46e060d06d9c439522e22a5b3d0",
-    "timestamp": 1784890002.496258,
-    "date": "2026-07-24T10:46:42.496259"
-  },
-  "https://www.techspot.com/downloads/6518-tails.html": {
-    "title": "Tails 7.10 improves shutdown reliability, upgrades Tor Browser",
-    "fingerprint": "8c6ff9decf3f2e407f44cd65554f5c0d",
-    "timestamp": 1784890002.496368,
-    "date": "2026-07-24T10:46:42.496369"
-  },
-  "https://www.techspot.com/news/113213-apple-app-store-inundated-low-quality-vibecoded-apps.html": {
-    "title": "Apple's App Store is on pace to add 1 million new apps this year, most are AI slop",
-    "fingerprint": "b3109eaf9ef61ee89525fd009e1264c9",
-    "timestamp": 1784890002.496485,
-    "date": "2026-07-24T10:46:42.496486"
-  },
-  "https://www.techspot.com/news/113217-eu-fined-google-1-billion-favoring-own-services.html": {
-    "title": "The EU just fined Google $1 billion for favoring its own services in search and Play Store",
-    "fingerprint": "af79d03d1fdecf6ee08ea2f9f8d5add8",
-    "timestamp": 1784890002.496624,
-    "date": "2026-07-24T10:46:42.496625"
-  },
-  "https://www.techspot.com/news/113219-lego-brings-x-files-life-1478-piece-set.html": {
-    "title": "Lego brings The X-Files to life with a 1,478-piece set including Mulder and Scully minifigs",
-    "fingerprint": "63c54d026b9d47d8060221f2b9d98a7c",
-    "timestamp": 1784890002.496759,
-    "date": "2026-07-24T10:46:42.496760"
-  },
-  "https://www.techspot.com/news/113218-apple-leasing-plan-could-restrict-apps-block-resets.html": {
-    "title": "Apple's rumored leasing program could restrict apps, lock down iPhones if you miss payments",
-    "fingerprint": "3453884a86ba3d42252d13075cc81fa4",
-    "timestamp": 1784890002.496874,
-    "date": "2026-07-24T10:46:42.496874"
-  },
-  "https://www.techspot.com/news/113211-sight-restoring-retinal-implant-approved-launch-30-european.html": {
-    "title": "A new brain-computer implant is helping blind seniors see again, and it just got approved in Europe",
-    "fingerprint": "e8339ba46e314dee4162bc3a6a035a83",
-    "timestamp": 1784890002.497044,
-    "date": "2026-07-24T10:46:42.497044"
-  },
-  "https://www.techspot.com/news/113208-xbox-backwards-compatibility-now-available-pc-starting-four.html": {
-    "title": "Xbox backwards compatibility now available on PC, starting with four original Xbox games",
-    "fingerprint": "042b6d54d2d10c6f4181ea42b947a0bf",
-    "timestamp": 1784890002.49715,
-    "date": "2026-07-24T10:46:42.497150"
-  },
-  "https://www.techspot.com/news/113216-framework-nearly-doubles-laptop-13-pro-memory-prices.html": {
-    "title": "Framework nearly doubles Laptop 13 Pro memory prices overnight after suppliers demand more than twice as much",
-    "fingerprint": "ec904f61457442bf7e6a227c3068cec0",
-    "timestamp": 1784890002.497262,
-    "date": "2026-07-24T10:46:42.497262"
-  },
-  "https://www.techspot.com/news/113212-openai-ai-models-went-rogue-hacked-another-company.html": {
-    "title": "OpenAI says its AI models went rogue and hacked another company",
-    "fingerprint": "61b03f3af092902a19469b696cf30f68",
-    "timestamp": 1784890002.497367,
-    "date": "2026-07-24T10:46:42.497367"
-  },
-  "https://www.techspot.com/news/113214-google-records-first-negative-free-cash-flow-since.html": {
-    "title": "Google records its first negative free cash flow since going public as its AI spending explodes",
-    "fingerprint": "a09405eabdb14fe6cab845c062ba3530",
-    "timestamp": 1784890002.497477,
-    "date": "2026-07-24T10:46:42.497478"
-  },
-  "https://www.techspot.com/news/113209-nvidia-reveals-vera-cpu-details-claims-custom-olympus.html": {
-    "title": "Nvidia reveals Vera CPU details, claims its custom Olympus cores outperform AMD Epyc Turin",
-    "fingerprint": "8134782bdd103791e8dba97683d38ac1",
-    "timestamp": 1784890002.497612,
-    "date": "2026-07-24T10:46:42.497613"
-  },
   "https://www.tomshardware.com/tech-industry/drones/lockheed-martin-unveils-counter-drone-system-that-can-neutralize-up-to-50-enemy-drones-in-a-single-mission-sensor-agnostic-system-uses-high-power-microwave-to-purge-enemies-from-the-sky": {
     "title": "Lockheed Martin unveils counter-drone system that can neutralize up to 50 enemy drones in a single mission sensor-agnostic system uses High Power Microwave to purge enemies from the sky",
     "fingerprint": "18469cd9a47a6333d4cad6e683473e62",
@@ -5614,5 +5410,143 @@
     "fingerprint": "567be0a7d52b07d8f3794adf1fced871",
     "timestamp": 1787475732.860028,
     "date": "2026-08-23T09:02:12.860029"
+  },
+  "https://www.tomshardware.com/pc-components/gpus/grab-the-asus-prime-radeon-rx-9070-oc-for-usd629-99-save-usd120-on-this-16gb-gaming-gpu-for-reliable-1440p-and-4k-gaming": {
+    "title": "Grab the Asus Prime Radeon RX 9070 OC for $629.99 save $120 on this 16GB gaming GPU for reliable 1440p and 4K gaming",
+    "fingerprint": "194e5d6764c57a35beecc31061000a80",
+    "timestamp": 1787563729.12288,
+    "date": "2026-08-24T09:28:49.122885"
+  },
+  "https://www.tomshardware.com/tech-industry/drones/self-driving-ford-f-250-truck-with-shotgun-equipped-drone-killing-turret-tested-by-us-army-autonomous-system-designed-to-blast-fast-moving-drones-at-between-10-and-100-meters-range": {
+    "title": "Self-driving Ford F-250 truck with shotgun-equipped drone-killing turret tested by US Army autonomous system designed to blast fast-moving drones at between 10 and 100 meters range",
+    "fingerprint": "c69d1776291fc0bc49b0969789ecf31d",
+    "timestamp": 1787563729.123005,
+    "date": "2026-08-24T09:28:49.123006"
+  },
+  "https://www.tomshardware.com/pc-components/dram/nvidia-reportedly-warns-biggest-customers-of-15-percent-price-hikes-on-ai-servers": {
+    "title": "Nvidia reportedly warns biggest customers of 15% price hikes on AI servers memory costs continue to soar",
+    "fingerprint": "f6c4782f7c1061266d857b881a4fa388",
+    "timestamp": 1787563729.123093,
+    "date": "2026-08-24T09:28:49.123094"
+  },
+  "https://www.tomshardware.com/desktops/nvidias-gb300-powered-dgx-station-desktop-tower-listed-for-nearly-usd100-000-online-enterprise-ai-powerhouse-now-available-to-buy-for-mere-mortals-with-lots-of-cash": {
+    "title": "Nvidia s GB300-powered DGX Station desktop tower listed for nearly $100,000 online Enterprise AI powerhouse now available to buy for mere mortals with lots of cash",
+    "fingerprint": "fb952f591ea7b266a5747c92d602e556",
+    "timestamp": 1787563729.123199,
+    "date": "2026-08-24T09:28:49.123200"
+  },
+  "https://www.tomshardware.com/video-games/fake-gta-vi-iso-circulates-on-the-internet-a-few-days-after-leak-internet-sleuths-claim-113gb-download-is-padded-malware-testers-claim-file-is-99-99-percent-empty-zeroes-with-50kb-virus-embedded": {
+    "title": "Fake GTA VI ISO circulates on the internet a few days after leak, internet sleuths claim 113GB download is padded malware testers claim file is 99.99% empty zeroes with 50KB virus embedded",
+    "fingerprint": "025ae0246882fbf6af71d89c95fe1a1b",
+    "timestamp": 1787563729.123303,
+    "date": "2026-08-24T09:28:49.123304"
+  },
+  "https://www.tomshardware.com/tech-industry/drones/fcc-pulls-hoverair-versa-certification-three-days-after-launch": {
+    "title": "Modular pocket gimbal camera that transforms into a self-flying drone retroactively banned by FCC, certification revoked Agency closes foreign UAS loophole on 230g HoverAir Versa",
+    "fingerprint": "092f5d5e7797fa003a499cbbf7773b19",
+    "timestamp": 1787563729.123389,
+    "date": "2026-08-24T09:28:49.123390"
+  },
+  "https://www.tomshardware.com/networking/routers/tp-link-deco-7-pro-be13000-wi-fi-7-mesh-router-review": {
+    "title": "TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but average performance",
+    "fingerprint": "9e9579ceebcae8ad1f11e29ef0b8929e",
+    "timestamp": 1787563729.123469,
+    "date": "2026-08-24T09:28:49.123470"
+  },
+  "https://www.tomshardware.com/video-games/playstation/group-plans-one-week-playstation-blackout-to-protest-sonys-plan-to-end-physical-game-production-calls-for-players-to-turn-off-their-consoles-or-log-out-of-psn-from-august-23-to-30": {
+    "title": "Group plans one-week PlayStation blackout to protest Sony s plan to end physical game production calls for players to turn off their consoles or log out of PSN from August 23 to 30",
+    "fingerprint": "3f3a3899d62817f3a97d7965e07289b4",
+    "timestamp": 1787563729.123569,
+    "date": "2026-08-24T09:28:49.123569"
+  },
+  "https://www.tomshardware.com/tech-industry/robotics/humanoid-robots-shatter-usain-bolts-100m-record-hits-23-8-mph-before-crashing-into-foam-pads-video-shows-tiangong-ultra-logging-9-39-second-sprint-before-colliding-with-padded-wall": {
+    "title": "Humanoid robots shatter Usain Bolt's 100m record, hits 23.8 mph before crashing into foam pads video shows Tiangong Ultra logging 9.39-second sprint before colliding with padded wall",
+    "fingerprint": "607e15c7ea97f6cf990449a1ba2cc44d",
+    "timestamp": 1787563729.123669,
+    "date": "2026-08-24T09:28:49.123670"
+  },
+  "https://www.tomshardware.com/tech-industry/drones/startup-to-use-drones-to-keep-clouds-away-from-solar-farms-our-ultimate-goal-is-to-reduce-the-intensity-of-severe-storms-and-hurricanes-chemical-free-tech-promises-up-to-30-percent-power-boost-for-usd30-to-usd60-an-hour": {
+    "title": "Startup to use drones to keep clouds away from solar farms, 'Our ultimate goal is to reduce the intensity of severe storms and hurricanes' chemical-free tech promises up to 30% power boost for $30 to $60 an hour",
+    "fingerprint": "033e53e5ba21e652dd3e7ae1c3c03ee3",
+    "timestamp": 1787563729.123776,
+    "date": "2026-08-24T09:28:49.123776"
+  },
+  "https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-strix-xg32uqwms-32-inch-4k-oled-gaming-monitor-review": {
+    "title": "Asus ROG Strix XG32UQWMS 4K OLED gaming monitor review: Fast and flexible performance",
+    "fingerprint": "f6effc2d704d626f91d0fd6fc4975514",
+    "timestamp": 1787563729.123856,
+    "date": "2026-08-24T09:28:49.123856"
+  },
+  "https://www.tomshardware.com/pc-components/gpus/lucky-shopper-finds-pny-rtx-5080-for-just-usd702-at-walmart-saves-almost-usd800-compared-to-current-retail-prices": {
+    "title": "Lucky shopper finds RTX 5080 for just $702 at Walmart saves almost $800 compared to current retail prices",
+    "fingerprint": "a2c63d2eceeaaaa7c466b5dd8db04a26",
+    "timestamp": 1787563729.123939,
+    "date": "2026-08-24T09:28:49.123939"
+  },
+  "https://www.tomshardware.com/tech-industry/data-centers/death-threats-hit-data-center-opponents-as-towns-cancel-votes-and-close-public-comment": {
+    "title": "Officials nationwide face death threats and gunfire over AI data center projects More than 500 towns restrict builds as councils shutter public comment",
+    "fingerprint": "7d018632ba2306fe21b1c34c36c2b63e",
+    "timestamp": 1787563729.12402,
+    "date": "2026-08-24T09:28:49.124021"
+  },
+  "https://www.tomshardware.com/pc-components/gpus/enthusiast-mods-gtx-1080-ti-with-a-dual-tower-cpu-cooler-sees-up-to-32-c-reduction-in-temps-mod-yields-30w-power-savings-and-9-percent-higher-fps": {
+    "title": "Enthusiast mods GTX 1080 Ti with a dual-tower CPU cooler, sees up to 32 C reduction in temps Mod yields 30W power savings and 9% higher FPS",
+    "fingerprint": "e59b2a3c557e8d2a9d4d1758cff8131f",
+    "timestamp": 1787563729.124097,
+    "date": "2026-08-24T09:28:49.124097"
+  },
+  "https://www.tomshardware.com/pc-components/storage/maxell-partners-with-disk-union-to-release-ud-60u-special-edition-cassettes-black-and-red-ud-tapes-could-be-ideal-for-use-in-your-c64-datassette": {
+    "title": "Maxell brings back classic 1970s cassette tapes 1970s ferric formula is custom-made for vintage PC data drives",
+    "fingerprint": "14909b8f9e6345cbbf7228ac55f88c1f",
+    "timestamp": 1787563729.124167,
+    "date": "2026-08-24T09:28:49.124167"
+  },
+  "https://www.cnx-software.com/2026/08/24/mnt-station-fanless-modular-open-hardware-computer-supports-a-choice-of-10-arm-cpu-or-fpga-modules/": {
+    "title": "MNT Station fanless, modular open-hardware computer supports a choice of 10+ Arm CPU or FPGA modules (Crowdfunding)",
+    "fingerprint": "d34201d439808fc707e033f4e891bed6",
+    "timestamp": 1787563729.124663,
+    "date": "2026-08-24T09:28:49.124664"
+  },
+  "https://www.cnx-software.com/2026/08/24/60-nordic-semi-nrf93m1-development-kit-dk-targets-lte-cat-1-bis-iot-applications/": {
+    "title": "$60+ Nordic Semi nRF93M1 Development Kit (DK) targets LTE Cat 1 bis IoT applications",
+    "fingerprint": "2ac9142d279e257850a788cde481f101",
+    "timestamp": 1787563729.124805,
+    "date": "2026-08-24T09:28:49.124806"
+  },
+  "https://www.cnx-software.com/2026/08/24/rockchip-rv1126b-based-forlinx-fcu3101-fanless-edge-ai-system-targets-iiot-and-smart-security-applications/": {
+    "title": "Rockchip RV1126B-based Forlinx FCU3101 fanless edge AI system targets IIoT and smart security applications",
+    "fingerprint": "7df552db71b597cec9f18a4e555386cc",
+    "timestamp": 1787563729.124956,
+    "date": "2026-08-24T09:28:49.124957"
+  },
+  "https://www.cnx-software.com/2026/08/24/openterface-keymod-turns-your-smartphone-into-a-usb-keyboard-mouse-gamepad-or-ssh-client/": {
+    "title": "Openterface KeyMod turns your smartphone into a USB keyboard, mouse, gamepad, or SSH client (Crowdfunding)",
+    "fingerprint": "fce650407a9efb686b5df6015ef87207",
+    "timestamp": 1787563729.1251,
+    "date": "2026-08-24T09:28:49.125101"
+  },
+  "https://www.fiercesensors.com/electronics/intel-lays-some-data-center-group-workers-amid-unit-revenue-growth": {
+    "title": "Intel lays off some data center group workers amid unit revenue growth",
+    "fingerprint": "72370a9b314ae389030a44076d650496",
+    "timestamp": 1787563729.126192,
+    "date": "2026-08-24T09:28:49.126195"
+  },
+  "https://www.techspot.com/news/113581-aliexpress-silently-running-audio-browser-fingerprint-track-device.html": {
+    "title": "AliExpress was silently running audio in your browser to fingerprint and track your device",
+    "fingerprint": "42f7a6b2d6e6bc0873960e7ab76c042a",
+    "timestamp": 1787563729.126367,
+    "date": "2026-08-24T09:28:49.126368"
+  },
+  "https://www.techspot.com/news/113580-people-have-clicked-like-ai-slop-button-linkedin.html": {
+    "title": "People have clicked the \"Seems like AI slop\" button on LinkedIn over a million times already",
+    "fingerprint": "254f91b36b6527bed6b7792194913aa4",
+    "timestamp": 1787563729.126475,
+    "date": "2026-08-24T09:28:49.126476"
+  },
+  "https://www.techspot.com/news/113579-windows-could-soon-you-control-how-pc-splits.html": {
+    "title": "Windows could soon let you control how your PC splits memory for gaming and AI",
+    "fingerprint": "f7c9a77c2190adedcaf2f7ccbdc9e137",
+    "timestamp": 1787563729.126567,
+    "date": "2026-08-24T09:28:49.126567"
   }
 }
