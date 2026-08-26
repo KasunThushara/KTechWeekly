@@ -1,367 +1,450 @@
 [
   {
-    "title": "Hot Chips 2026: Intel Xeon 7 'Diamond Rapids' comes with up to 256 P-cores, 1.28 GB of last-level cache next-gen 18A-P CPU also brings AVX 10.2 and uses UCIe-S instead of EMIB",
-    "summary": "Intel has pulled back the curtain on its next-gen Diamond Rapids Xeon CPUs, packing up to 256 P-cores and 1.28 TB of last-level cache.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-xeon-7-diamond-rapids-comes-with-up-to-256-p-cores-1-28-gb-of-last-level-cache-next-gen-18a-p-cpu-also-brings-avx-10-2-and-uses-ucie-s-instead-of-emib",
+    "title": "Commodore unveils striking Cyberpunk 2077 version of its C64U made in partnership with CD Projekt Red Commodore 77 special edition uses more powerful AMD Artix XC7A100T processor",
+    "summary": "A special edition of the Commodore 64 Ultimate made in collaboration with CD Projekt Red has been announced today. The new Commodore 77 takes its stylish inspiration from Cyberpunk 77, and is skillfully melded into the game's universe.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/nda-5pm-et-tuesday-commodore-77-special-edition-c64u-uses-more-powerful-amd-artix-xc7a100t-processor-preorders-for-cyberpunk-2077-inspired-design-open-today-at-usd377",
     "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-25T09:18:38.227175"
-  },
-  {
-    "title": "Hot Chips 2026: SK hynix pushes hybrid bonding to HBM5 as AI memory hits 775-micron ceiling firm extends MR-MUF through Nvidia Rubin",
-    "summary": "The problem, per SK, is that HBM cubes are capped at a total thickness of 775 microns, the standard thickness of a 300mm logic wafer.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-25T09:18:38.227304"
-  },
-  {
-    "title": "Hot Chips 2026: IBM's first dual-ISA core natively executes ARM and z/Architecture in the same core; all cores run at 5.7 GHz base frequency next-gen mainframe AI processor is built on 2nm node with 11 cores",
-    "summary": "IBM is vastly expanding softwarte support on its mainframes with its first dual-ISA CPU core that natively supports z/Architecture and ARM instructions.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/ibms-first-dual-isa-core-natively-executes-arm-and-z-architecture-in-the-same-core-all-cores-run-at-5-7-ghz-base-frequency-next-gen-mainframe-ai-processor-is-built-on-2nm-node-with-11-cores",
-    "categories": [
-      "Semiconductors",
+      "Tech News",
       "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-08-25T09:18:38.227432"
+    "processed_date": "2026-08-26T09:23:51.868523"
   },
   {
-    "title": "LG's native 1,000 Hz 1080p gaming monitor has a matching $1,000 price tag preorders open for the 25-inch UltraGear 25G590B",
-    "summary": "The UltraGear 25G590B is the first 1,000 Hz gaming monitor with a native 1080p resolution",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/lgs-native-1-000-hz-1080p-gaming-monitor-has-a-matching-usd1-000-price-tag-preorders-open-for-the-25-inch-ultragear-25g590b",
-    "categories": [
-      "GPUs",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-25T09:18:38.227542"
-  },
-  {
-    "title": "Cooler Master Q300L v3 MicroATX case review: Sub-$45 MSRP offers incredible value for MicroATX chassis with included fans",
-    "summary": "Cooler Master s Q300L V3 offers more airflow, bigger clearances, and a 20 Gbps USB-C for under $45",
-    "link": "https://www.tomshardware.com/pc-components/pc-cases/cooler-master-q300l-v3-microatx-case-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-25T09:18:38.227652"
-  },
-  {
-    "title": "32GB of DDR5 6000 RAM now costs $400 the latest price hike puts DIY PC building further out of reach than ever before",
-    "summary": "32GB of DDR5 6000 RAM now costs more than $400.",
-    "link": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-6000-ram-now-costs-usd400-the-latest-price-hike-puts-diy-pc-building-further-out-of-reach-than-ever-before",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-08-25T09:18:38.227774"
-  },
-  {
-    "title": "Nine indicted by Taiwan over illegal export of Nvidia B300 GPUs to China details reveal five-point strategy to exploit and avoid customs controls",
-    "summary": "A new report claims nine people have been indicted over the illegal smuggling of Nvidia B300 servers to China.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nine-indicted-by-taiwan-over-illegal-export-of-nvidia-b300-gpus-to-china-details-reveal-five-point-strategy-to-exploit-and-avoid-customs-controls",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-25T09:18:38.227886"
-  },
-  {
-    "title": "Two Intel chips break Amazon's top 10 CPUs for the first time in months Core Ultra 7 270K and Core i7-14700K finally challenge AMD desktop dominance",
-    "summary": "AMD has dominated the DIY space so thoroughly over the last few years that an Intel chip appearing in the top 10 at all is notable, but it's not really that surprising if you look at the details.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/two-intel-chips-break-amazons-top-10-cpus-for-the-first-time-in-months-core-ultra-7-270k-and-core-i7-14700k-finally-challenge-amd-desktop-dominance",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-25T09:18:38.228010"
-  },
-  {
-    "title": "Marvell VP pushes for DDR4 recycling for use in CXL memory, amid the worst DRAM shortage in years company introduces three-tier AI memory infrastructure",
-    "summary": "Marvell has introduced a three-tier \"AI memory infrastructure\" portfolio, announced at FMS 2026 in Santa Clara on August 4.",
-    "link": "https://www.tomshardware.com/pc-components/dram/marvell-sells-cxl-memory-recycling-into-the-worst-dram-shortage-in-years",
+    "title": "Hot Chips 2026: Samsung makes LPDDR5X smart with logic unit in memory LPDDR5X-PIM is 3.01x faster than LPDDR5X in AI inference with 8x the bandwidth",
+    "summary": "Samsung detailed the industry's first LPDDR5X-PIM at Hot Chips 2026, adding logic directly to memory to speed up data-intensive workloads like AI inference.",
+    "link": "https://www.tomshardware.com/pc-components/dram/hot-chips-2026-samsung-makes-lpddr5x-smart-with-logic-unit-in-memory-lpddr5x-pim-is-3-01x-faster-than-lpddr5x-in-ai-inference-with-8x-the-bandwidth",
     "categories": [
       "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-25T09:18:38.228122"
-  },
-  {
-    "title": "Asus ROG Gjallar Review: It looks better than it sounds",
-    "summary": "Asus' first-ever gaming soundbar, the ROG Gjallar, is blocky and uninspired, with decent sound and a completely unnecessary audio control hub with built-in beamforming mics.",
-    "link": "https://www.tomshardware.com/speakers/asus-rog-gjallar-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-25T09:18:38.228229"
-  },
-  {
-    "title": "Undersea cable to Antarctica through Drake Passage is viable, researchers find 1,600km route to Chile could spell an end to research data leaving in 'suitcases full of hard drives'",
-    "summary": "Antarctic research data still leaves the continent physically, on hard drives ferried out by ship and plane \"in suitcases full of hard drives.\"",
-    "link": "https://www.tomshardware.com/networking/researcgers-find-a-drake-passage-cable-to-antarctica-is-buildable",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-25T09:18:38.228337"
-  },
-  {
-    "title": "Asus ZenScreen OLED (MQ16FC) portable monitor review: A great all-around performer",
-    "summary": "The Asus ZenScreen OLED (MQ16FC) excels on several fronts, including pricing.",
-    "link": "https://www.tomshardware.com/monitors/portable-monitors/asus-zenscreen-oled-mq16fc-portable-monitor-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-25T09:18:38.228438"
-  },
-  {
-    "title": "Valve was founded 30 years ago today changed PC gaming forever with Half-Life, then Steam",
-    "summary": "Today marks Valve s 30th birthday. The company was founded on August 24, 1996, by Gabe Newell and Mike Harrington, both Microsoft veterans.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/valve-was-founded-30-years-ago-today-changed-pc-gaming-forever-with-half-life-then-steam",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-25T09:18:38.228541"
-  },
-  {
-    "title": "Kyoto University builds transistor that survives 600C temperatures, compatible with standard fabs Standard ion implantation and bottom-gate design fix leakage and voltage drift",
-    "summary": "A research team at Kyoto University has built a silicon carbide transistor that operates at 600 C (873 K) using ion implantation.",
-    "link": "https://www.tomshardware.com/tech-industry/kyoto-university-demonstrates-a-sic-transistor-that-runs-at-600c-using-standard-ion-implantation",
-    "categories": [
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-08-25T09:18:38.228651"
+    "quality_score": 5,
+    "processed_date": "2026-08-26T09:23:51.868648"
   },
   {
-    "title": "Nintendo takes down over 400 GitHub repositories for Switch emulators in one go Relentless DMCA strikes tied to piracy concerns over illegal cryptographic keys",
-    "summary": "Nintendo is doing Nintendo things again as it goes after 7 different master repos containing Switch emulators, which total out to 401 repos wiped in a single day. Most of these belonged to Yuzu forks, such as Suyu, but there was one exception.",
-    "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-takes-down-over-400-github-repositories-for-switch-emulators-in-one-go-relentless-dmca-strikes-tied-to-piracy-concerns-over-illegal-cryptographic-keys",
+    "title": "OpenAI s 700W Jalape o ASIC outpaces 1,400W Nvidia flagship GPU claims up to 1.9x throughput per kilowatt and 3.6x lower latency, co-developed with Broadcom",
+    "summary": "OpenAI arrived at Hot Chips on Tuesday with benchmarks claiming its first in-house chip beats Nvidia's GB300.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/openai-says-its-jalapeno-chip-beats-nvidias-gb300-in-first-published-benchmarks",
     "categories": [
+      "GPUs",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-08-25T09:18:38.228803"
-  },
-  {
-    "title": "$299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU",
-    "summary": "The Arduino Ventuno Q is a single board computer pairing a Qualcomm Dragonwing IQ8 (IQ-8275) octa-core Edge AI SoC with an STM32H5F5 Arm Cortex-M33 microcontroller for real-time I/Os. First introduced at Embedded World 2026, the Ventuno Q is the second Qualcomm-based Arduino board after the Arduino UNO Q launched in October 2025. It s quite a different beast with a larger design featuring 16GB LPDDR5, 64GB eMMC flash, an M.2 socket for NVMe storage, 2.5GbE and Wi-Fi 6 networking, a 4K-capable HDMI output, and two USB 3.2 ports, while still offloading real-time I/O to a Cortex-M33 microcontroller. Arduino Ventuno Q (ABX00181) specifications: SoC Qualcomm Dragonwing IQ8 (IQ-8275, also known as QCS8275): CPU Octa-core Kryo Gen 6 (Arm Cortex-A78/A55) processor GPU Adreno A623 AI accelerator -Hexagon Tensor AI Processor (NPU) up to 40 dense TOPS ISP Qualcomm Spectra 692/690 ISP Microcontroller (MCU) STMicro STM32H5F5 CPU core [...] The post $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/25/299-arduino-ventuno-q-sbc-combines-qualcomm-dragonwing-iq8-soc-and-stm32h5-mcu/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-08-25T09:18:38.229326"
-  },
-  {
-    "title": "Firehat is an open-source FireWire DV capture HAT for SBCs with Raspberry Pi PCIe FFC connector (Crowdfunding)",
-    "summary": "Computer Equipment Group has launched the Firehat, an open-source FireWire HAT that adds a native IEEE 1394 / i.LINK / DV port to SBCs with a Raspberry Pi PCIe FFC connector like the Pi 5 or the Radxa ROCK 2F. Built around a VIA VT6315N controller, the Firehat provides a modern way to capture footage from MiniDV, Digital8, DVCAM, DVCPRO, and HDV camcorders. It lets users connect compatible cameras or decks to an SBC and record the original digital DV stream directly to local storage, without legacy computers or discontinued FireWire capture cards. Firehat specifications: Compatibility Radxa ROCK 2F, Raspberry Pi 5, and other SBCs that expose PCIe over an FPC connector (or via adapter) Controller VIA VT6315N FireWire / IEEE 1394 controller Display 1.3-inch monochrome OLED display onboard Camera input port 6-pin FireWire/i.LINK/DV port Host interface PCIe 2.0 FFC connector for video 40-pin Raspberry Pi [...] The post Firehat is an open-source FireWire DV capture HAT for SBCs with Raspberry Pi PCIe FFC connector (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/25/firehat-open-source-firewire-dv-capture-hat-pcie-sbc-raspberry-pi-5-radxa-rock-2f/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-08-25T09:18:38.229501"
-  },
-  {
-    "title": "Advantech AOM-6741 AI Vision SMARC module features 100 TOPS Qualcomm IQ-9075 SoC, up to 36 GB LPDDR5",
-    "summary": "Advantech AOM-6741 is a SMARC 2.2 Full Size module powered by a Qualcomm Dragonwing IQ-9075 octa-core SoC with up to 100 TOPS (INT8) of AI performance, up to 36 GB LPDDR5 memory, and 128GB UFS storage. The module also features two MIPI DSI connectors, at least one MIPI CSI connector, and exposes all I/Os through a standard 314-pin MXM 3.0 edge connector, including four DisplayPort interfaces, dual 2.5GbE, two USB 3.2 Gen2, PCIe Gen3 x2 and x4 interfaces, and more. With support for up to 16 concurrent cameras, the OAM-06741 SoM mainly targets industrial-grade vision intelligence applications. Advantech AOM-6741 specifications: SoC Qualcomm DragonWing IQ-9075 CPU Octa-core Kryo Gen 6 (Cortex-A78C-based) application cores @ up to 3.2 GHz (according to Advantech, conflicts with earlier announcements mentioning up to 2.36 GHz) Quad-core Cortex-R52 real-time cores @ up to 1.85GHz GPU Adreno 663 GPU delivering up to 1.2 TFLOPS FP32 with secure [...] The post Advantech AOM-6741 AI Vision SMARC module features 100 TOPS Qualcomm IQ-9075 SoC, up to 36 GB LPDDR5 appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/25/advantech-aom-6741-qualcomm-iq-9075-smarc-module/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-08-25T09:18:38.229690"
-  },
-  {
-    "title": "Jetway PIC-TWL1 Intel N150 Pico-ITX motherboard is made for industrial automation and embedded systems",
-    "summary": "Jetway PIC-TWL1 is a compact (100 72 mm) fanless Pico-ITX motherboard powered by an Intel N150 Twin Lake processor and engineered for industrial control, factory automation, facial recognition, and edge embedded systems. The board supports up to 32GB DDR5 SO-DIMM memory and NVMe SSD storage, and features HDMI and LVDS/eDP display interfaces, two USB 3.2 ports, two Gigabit Ethernet ports, an M.2 E-Key socket for WiFi and Bluetooth, and several headers for GPIOs, RS232/RS485, USB 2.0, audio, SMBUs, and front panel connections. It takes 12V DC power and can operate in a -20 C ~ 60 C temperature range. Jetway PIC-TWL1 specifications: SoC Intel Processor N150 CPU Quad-core Twin Lake processor @ 800 MHz / 3.6 GHz (Turbo) with 6MB cache GPU 24EU Intel UHD graphics @ 1.0 GHz TDP 6W System Memory Up to 32GB DDR5 4800 MT/s via single-channel SO-DIMM slot Storage NVMe SSD via M.2 [...] The post Jetway PIC-TWL1 Intel N150 Pico-ITX motherboard is made for industrial automation and embedded systems appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/25/jetway-pic-twl1-intel-n150-pico-itx-motherboard-is-made-for-industrial-automation-and-embedded-systems/",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
     "quality_score": 10,
-    "processed_date": "2026-08-25T09:18:38.229863"
+    "processed_date": "2026-08-26T09:23:51.868759"
   },
   {
-    "title": "Messy world emerges for humanoids, with safety role for sensors",
-    "summary": "Record track runs (and crashes) by humanoids beckon safety standards",
-    "link": "https://www.fiercesensors.com/ai/messy-world-emerges-humanoids-safety-role-sensors",
+    "title": "Hands-on with Hyte s Y50 RGB case: Premium looks at an affordable price",
+    "summary": "Hyte s Y50 RGB is an affordable option for anyone looking to get a glass chassis with included ARGB fans.",
+    "link": "https://www.tomshardware.com/pc-components/pc-cases/hands-on-with-hytes-y50-rgb-case-premium-looks-at-an-affordable-price",
     "categories": [
       "Tech News"
     ],
     "quality_score": 0,
-    "processed_date": "2026-08-25T09:18:38.230830"
+    "processed_date": "2026-08-26T09:23:51.868852"
   },
   {
-    "title": "IBM is building a dual-architecture mainframe chip that will run Arm and Z software on the same cores",
-    "summary": "The processor was showcased at Hot Chips 2026 and is expected to use 11 IBM Z cores built on a 2-nanometer process. IBM said the cores will operate above 5.7 GHz and support native execution of both z/Architecture and AArch64 instructions. Read Entire Article",
-    "link": "https://www.techspot.com/news/113600-ibm-building-dual-architecture-mainframe-chip-run-arm.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-25T09:18:38.231267"
-  },
-  {
-    "title": "Intel re-enters Amazon's top-10 best-selling CPUs after over a year, but AMD still dominates",
-    "summary": "Intel's Core Ultra 7 270K Plus and Core i7-14700K rank #6 and #9, respectively, surrounded by an array of Ryzen chips spanning multiple generations. Both are mid-range parts, priced at $255 and $312, respectively. The 270K Plus belongs to Intel's Arrow Lake Refresh series, while the 14700K comes from the... Read Entire Article",
-    "link": "https://www.techspot.com/news/113596-intel-re-enters-amazon-top-10-best-selling.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-25T09:18:38.231455"
-  },
-  {
-    "title": "Windows NT 4.0 turns 30: when Microsoft brought the Windows 95 look to the enterprise",
-    "summary": "Microsoft released Windows NT 3.1, its first true 32-bit operating system, in 1993. The \"New Technology\" platform initially adopted the traditional user interface of the DOS-based Windows 3.x operating environment, but things began to change exactly 30 years ago. Read Entire Article",
-    "link": "https://www.techspot.com/news/113594-windows-nt-40-30-release-brought-windows-95.html",
-    "categories": [
-      "Semiconductors",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-25T09:18:38.231631"
-  },
-  {
-    "title": "Trump says data center protesters are \"making a mistake,\" but his allies disagree",
-    "summary": "Explaining the reason for his support despite strong opposition from members of his own party, Trump insisted that data centers are beneficial because they create \"tremendous amounts of jobs and money.\" He added that people opposed to new data centers are making a mistake because the original concerns about excessive... Read Entire Article",
-    "link": "https://www.techspot.com/news/113588-trump-data-center-protesters-making-mistake-but-allies.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-25T09:18:38.231863"
-  },
-  {
-    "title": "A hidden Windows cleanup routine is quietly deleting Asus laptop GPU drivers",
-    "summary": "The Eco mode feature available on Asus gaming laptops can cause Windows to remove the GPU driver installed on the system. A user who owns a ROG Zephyrus G14 laptop discovered the unpleasant issue after spending \"months\" investigating why the system's discrete GeForce RTX 5070 Ti GPU would suddenly disappear.... Read Entire Article",
-    "link": "https://www.techspot.com/news/113590-hidden-windows-cleanup-routine-quietly-deleting-asus-laptop.html",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-25T09:18:38.232047"
-  },
-  {
-    "title": "Which of these companies once owned meaningful chunks of TSMC, ASML, and NXP and today owns none of them?",
-    "summary": "Imagine owning stakes in three companies now worth a combined $2.6 trillion... and selling all of them before it mattered. Read Entire Article",
-    "link": "https://www.techspot.com/trivia/181-which-company-once-owned-tsmc-asml-nxp/",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-25T09:18:38.232213"
-  },
-  {
-    "title": "Happy 35th anniversary to the Super Nintendo, one of gaming's greatest consoles",
-    "summary": "The Super Nintendo debuted in North America on August 23, 1991, after having launched as the Super Famicom in Japan a full nine months earlier. Nintendo was technically late to the 16-bit fight considering Sega's next-gen gaming machine had been around since the tail end of the 80s, but made... Read Entire Article",
-    "link": "https://www.techspot.com/news/113591-happy-35th-anniversary-super-nintendo-one-gaming-greatest.html",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-08-25T09:18:38.232392"
-  },
-  {
-    "title": "CPU-Z version 3 adds PC health checks to the classic system information tool",
-    "summary": "CPU-Z remains a favorite for checking processor, memory, and motherboard details, but version 3.01 makes it more useful for troubleshooting. The new Validator V3 can quickly scan for more than 100 potential issues, including overheating, outdated drivers, hardware problems, and bloatware. Read Entire Article",
-    "link": "https://www.techspot.com/news/113592-cpu-z-version-3-adds-pc-health-checks.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-25T09:18:38.232568"
-  },
-  {
-    "title": "Four former police employees arrested over alleged misuse of Flock license plate cameras",
-    "summary": "The Georgia Bureau of Investigation (GBI) announced last Friday that three former Savannah Police Department officers and one former civilian staff member have been arrested over accusations they accessed the Flock Safety system for non-law-enforcement purposes. Read Entire Article",
-    "link": "https://www.techspot.com/news/113589-new-halloween-video-game-has-banned-australia-not.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-25T09:18:38.232762"
-  },
-  {
-    "title": "A developer is using AI to bring 26-year-old Voodoo3 cards back to life on Linux",
-    "summary": "A series of new patches is improving support for 3dfx Voodoo3 cards in Linux. Daniel Palmer, the developer behind the code contribution, designed an AI-assisted solution to let the open-source kernel initialize the video cards even on machines with no standard BIOS on the motherboard. Read Entire Article",
-    "link": "https://www.techspot.com/news/113587-new-linux-patch-old-non-x86-home-computers.html",
+    "title": "Get 16GB of DDR5 RAM for $70 and start your AM5 gaming rig with this bundle $568 for Ryzen 7 7700X3D, 16GB G.Skill DDR5 RAM, Asus TUF B650-E motherboard, and free AIO",
+    "summary": "568.99 ($200/26% off) gets you a 3-item Newegg combo: a Ryzen 7 7700X3D, Asus B650 board, 16GB of G.Skill DDR5-6000, and a free 240mm AIO thrown in a inexpensive avenue into AM5.",
+    "link": "https://www.tomshardware.com/pc-components/get-16gb-of-ddr5-ram-for-usd70-and-start-your-am5-gaming-rig-with-this-bundle-usd568-for-ryzen-7-7700x3d-16gb-g-skill-ddr5-ram-asus-tuf-b650-e-motherboard-and-free-aio",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-25T09:18:38.232942"
+    "processed_date": "2026-08-26T09:23:51.868962"
   },
   {
-    "title": "Startup wants to use autonomous drone swarms to clear clouds and boost solar farm output",
-    "summary": "Meteoric Technologies Inc., the creation of two engineers from the University of Cambridge, announced its plan to use drones as a way of increasing the efficiency of solar farms. Read Entire Article",
-    "link": "https://www.techspot.com/news/113586-startup-wants-use-autonomous-drone-swarms-clear-clouds.html",
+    "title": "Hot Chips 2026: Intel details cutting-edge tech in entry-level Wildcat Lake value-focused 18A chips necessitated UCIe integration",
+    "summary": "Intel's Wildcat Lake is competing in the budget laptop market, but it takes a very different approach, leveraging a UCIe interconnect and Intel's latest 18A node.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/hot-chips-2026-intel-details-cutting-edge-tech-in-entry-level-wildcat-lake-value-focused-18a-chips-necessitated-ucie-integration",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-26T09:23:51.869072"
+  },
+  {
+    "title": "Hot Chips 2026: Intel dives deep on Crescent Island AI accelerator larger caches and deeper XMX engines target maximum AI FLOPS per watt",
+    "summary": "At Hot Chips 2026, Intel detailed more about its Crescent Island AI accelerator, which uses the Xe3P architecture. The accelerator will use liquid-cooled chips and HBM4 memory to serve inference workloads in data centers.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/hot-chips-2026-intel-dives-deep-on-crescent-island-ai-accelerator-larger-caches-and-deeper-xmx-engines-target-maximum-ai-flops-per-watt",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-26T09:23:51.869198"
+  },
+  {
+    "title": "Apple price hikes continue as Mac mini with 16GB RAM and 256GB is now $899 1TB storage option adds $500 to entry-level headless system",
+    "summary": "Apple's Mac mini and Mac Studio see price hikes, while memory and storage upgrades get even more expensive",
+    "link": "https://www.tomshardware.com/desktops/mini-pcs/apple-price-hikes-continue-as-mac-mini-with-16gb-ram-and-256gb-is-now-usd899-1tb-storage-option-adds-usd500-to-entry-level-headless-system",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-26T09:23:51.869295"
+  },
+  {
+    "title": "Apple launches new M6 and M5 Ultra Apple silicon chips debuting in new Mac Mini and Mac Studio",
+    "summary": "Apple has announced new M6 and M5 Ultra chips, a new Mac mini, and a new Mac Studio.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/apple-launches-new-m6-and-m5-ultra-apple-silicon-chips-debuting-in-new-mac-mini-and-mac-studio",
     "categories": [
       "Tech News",
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-08-25T09:18:38.233109"
+    "quality_score": 5,
+    "processed_date": "2026-08-26T09:23:51.869387"
   },
   {
-    "title": "Valve is 30 years old today, and it all began with two former Microsoft employees and a risky bet on games",
-    "summary": "Interestingly, both Newell and Harrington had just quit Microsoft before they started Valve. Newell had been there for thirteen years by that point, working on early versions of Windows. The job had also made him rich enough to fund a startup himself, since he left with more than a million... Read Entire Article",
-    "link": "https://www.techspot.com/news/113582-valve-30-years-old-today-all-began-two.html",
+    "title": "China strategically slows exports of critical materials used in semiconductor fabrication to Taiwan germanium and quartz exports to the region also threaten optical and robotics supply chain",
+    "summary": "China slows exports of germanium, quartz-based materials, and magnets. The move potentially disrupts the optical connectivity, semiconductor, and robotics industries.",
+    "link": "https://www.tomshardware.com/tech-industry/china-strategically-slows-exports-of-critical-materials-used-in-semiconductor-fabrication-to-taiwan-germanium-and-quartz-exports-to-the-region-also-threaten-optical-and-robotics-supply-chain",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-26T09:23:51.869523"
+  },
+  {
+    "title": "Nvidia Jetson Orin-guided Russian AI drone killed three civilians in Ukraine, forensic teams say first documented case of civilian deaths caused by a Russian drone using fully autonomous targeting",
+    "summary": "A Russian Molniya drone carrying an Nvidia Jetson Orin module killed three civilians at a gas station in Zaporizhzhia last month.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/nvidia-jetson-orin-guided-the-russian-ai-drone-that-killed-three-civilians-in-ukraine-forensic-teams-say",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-26T09:23:51.869634"
+  },
+  {
+    "title": "Asus ROG Xbox Ally X20 with OLED screen available October 15, pre-orders start now standalone system for $1,299.99, or an AR bundle for $2,499.99",
+    "summary": "At gamescom, Asus finally announced the pricing for the Asus ROG Xbox Ally X20, either as a standalone handheld or a bundle with AR glasses.",
+    "link": "https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-x20-with-oled-screen-available-october-15-pre-orders-start-now-standalone-system-for-usd1-299-99-or-an-ar-bundle-for-usd2-499-99",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-26T09:23:51.869735"
+  },
+  {
+    "title": "Linux was announced by Linus Torvalds 35 years ago today humble OS started with 10,000 lines of code but has now grown to 40 million, dominates global infrastructure",
+    "summary": "The development of Linux, a free hobby operating system, was announced by Linus Torvalds 35 years ago today.",
+    "link": "https://www.tomshardware.com/software/linux/linux-was-announced-by-linus-torvalds-35-years-ago-today-humble-os-started-with-10-000-lines-of-code-but-has-now-grown-to-40-million-dominates-global-infrastructure",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-08-26T09:23:51.869831"
+  },
+  {
+    "title": "Hot Chips 2026: Micron warns HBM wafer penalty is widening with every generation AI memory uses 3x more silicon than DDR5, company says memory wall is 'getting worse' as prices rise",
+    "summary": "Micron Fellow Raghu Sreeramaneni told the Hot Chips 2026 conference that the silicon penalty HBM carries against DDR5 is growing with every generation.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/micron-says-the-silicon-gap-between-hbm-and-ddr5-is-widening-with-every-generation",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-26T09:23:51.869937"
+  },
+  {
+    "title": "Hot Chips 2026: Nvidia breaks down 88-core Vera CPU spatial multithreading benchmarked, 1.2 TB/s SOCAMM2 memory, agentic workloads detailed, and more",
+    "summary": "Nvidia has provided more color on its Vera CPU for agentic data centers at Hot Chips 2026, showcasing the benefits of spatial multithreading and the power benefits of the LPDDR5X memory system.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/hot-chips-2026-nvidia-breaks-down-88-core-vera-cpu-spatial-multithreading-benchmarked-1-2-tb-s-socamm2-memory-agentic-workloads-detailed-and-more",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-26T09:23:51.870048"
+  },
+  {
+    "title": "Stock up on Seagate hard drives with $30 off the 8TB Barracuda HDD Its lowest price at Best Buy since April",
+    "summary": "Save $30 on an 8TB Seagate Barracuda HDD at Best Buy. The lowest price since April.",
+    "link": "https://www.tomshardware.com/pc-components/hdds/stack-up-on-seagate-hard-drives-with-usd30-off-the-8tb-barracuda-hdd-its-lowest-price-at-best-buy-since-april",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-08-26T09:23:51.870138"
+  },
+  {
+    "title": "AI coder gets Doom running on a custom CPU designed by GPT-5.6 Sol game viewport is overlaid on a pulsing schematic of the CPU in Turing Complete's sandbox environment",
+    "summary": "An AI computing enthusiast has demonstrated Doom running on a custom CPU designed by GPT-5.6 Sol.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-coder-gets-doom-running-on-a-custom-cpu-designed-by-gpt-5-6-sol-game-viewport-is-overlaid-on-a-pulsing-schematic-of-the-cpu-in-turing-completes-sandbox-environment",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-26T09:23:51.870242"
+  },
+  {
+    "title": "Asus ROG Strix B850-F Gaming Wifi Neo motherboard review: Pricey proposition for B850, but packed with features",
+    "summary": "Maxsun s Terminator B850M Pro II is a decent budget option in the Micro ATX form factor, but only if you can find it for the $199.99 MSRP.",
+    "link": "https://www.tomshardware.com/pc-components/motherboards/asus-rog-strix-b850-f-gaming-wifi-neo-motherboard-review",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-26T09:23:51.870343"
+  },
+  {
+    "title": "One gigabyte of RAM cost as much as a house back in 1995 $64,000 price tag resurfaced in 31-year-old press release, equivalent to $140,000 today",
+    "summary": "One gigabyte of RAM could cost you a house back in 1995 PCs were brutally expensive were back then, and we're heading back in that direction",
+    "link": "https://www.tomshardware.com/pc-components/ram/one-gigabyte-of-ram-cost-as-much-as-a-house-back-in-1995-pcs-were-brutally-expensive-back-then-and-were-heading-back-in-that-direction",
+    "categories": [
+      "Tech News",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-26T09:23:51.870470"
+  },
+  {
+    "title": "Save $500 on this 1440p-ready gaming PC with an Nvidia GeForce RTX 5070 right now MSI Codex R2 pre-built drops below $1,500 with a 20-core Intel CPU, 16GB DDR5, and a 1TB SSD",
+    "summary": "This $1,499 MSI Codex R2 gaming PC comes with a $500 saving for a PC with an Nvidia GeForce RTX 5070, 16GB of DDR5 RAM, and a 1TB SSD.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd500-on-this-1440p-ready-gaming-pc-with-an-nvidia-geforce-rtx-5070-right-now-msi-codex-r2-pre-built-drops-below-usd1-500-with-a-20-core-intel-cpu-16gb-ddr5-and-a-1tb-ssd",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-26T09:23:51.870578"
+  },
+  {
+    "title": "SpaceXAI will deploy standalone Nvidia Vera CPUs for Grok's agentic workloads will use optimized Vera Rubin NVL72 in space with Starmind satellite",
+    "summary": "Nvidia claims the chip completes agentic, reinforcement learning, and data processing tasks up to 1.8 times faster than x86 processors.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/spacexai-will-deploy-standalone-nvidia-vera-cpus-for-groks-agentic-workloads",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-26T09:23:51.870689"
+  },
+  {
+    "title": "Windows veteran's vibe-coded Task Manager now also runs on Mac and Linux downloadable app is the result of a 107-page spec fed to Claude Code",
+    "summary": "Legendary Windows developer Dave Plummer has been busy finessing his revamped Task Manager, now dubbed TMOG.",
+    "link": "https://www.tomshardware.com/software/windows/windows-veterans-vibe-coded-task-manager-now-also-runs-on-mac-and-linux-downloadable-app-is-the-result-of-a-107-page-spec-fed-to-claude-code",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-25T09:18:38.233286"
+    "processed_date": "2026-08-26T09:23:51.870785"
   },
   {
-    "title": "Uber hit with near-$1 billion fine after algorithms suspended drivers without human review",
-    "summary": "The Dutch Data Protection Authority found that between 2018 and 2022, Uber's systems temporarily blocked drivers suspected of fraud, including those flagged for allegedly taking unnecessary detours to increase fares or accepting trips they did not intend to complete. Read Entire Article",
-    "link": "https://www.techspot.com/news/113585-uber-faces-fine-nearly-1b-over-automated-driver.html",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-25T09:18:38.233467"
-  },
-  {
-    "title": "Amazon raises Kindle, eero, Fire TV, and Echo prices by up to 60%",
-    "summary": "Amazon's price hikes include an increase in the base Echo Dot from $50 to $80. Elsewhere, the Echo Show 11 now costs $250, a $30 jump from its previous $220 price. Read Entire Article",
-    "link": "https://www.techspot.com/news/113584-amazon-raises-echo-kindle-fire-tv-eero-prices.html",
+    "title": "Decades-long Linux ownership dispute effectively dead after Xinuos appeal rejected US Court of Appeals halts the legal wrangling over IBM s and Red Hat s use of Project Monterey UNIX code",
+    "summary": "A decades-long dispute over the ownership of Linux looks like it is over. Earlier this month the United States Court of Appeals for the Second Circuit rejected Xinuos continued claims that IBM and Red Hat improperly contributed jointly developed Project Monterey UNIX code to Linux.",
+    "link": "https://www.tomshardware.com/software/linux/decades-long-linux-ownership-dispute-effectively-dead-after-xinuos-appeal-rejected-us-court-of-appeals-halts-the-legal-wrangling-over-ibms-and-red-hats-use-of-project-monterey-unix-code",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-25T09:18:38.233624"
+    "processed_date": "2026-08-26T09:23:51.870898"
+  },
+  {
+    "title": "AliExpress allegedly uses your browser's audio system to fingerprint your PC hidden code runs even when no sound is playing",
+    "summary": "A developer's investigation into a Bluetooth headphone issue uncovered hidden Web Audio processing on AliExpress that allegedly fingerprints browsers and collects detailed device information.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/aliexpress-allegedly-uses-your-browsers-audio-system-to-fingerprint-your-pc-hidden-code-runs-even-when-no-sound-is-playing",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-26T09:23:51.871001"
+  },
+  {
+    "title": "Lantronix Open-M 720G/520G Ultra-compact LGA system-on-modules based on MediaTek Genio 720 and Genio 520 SoCs",
+    "summary": "Lantronix Open-M 720G and 520G are compact (43x44mm) LGA system-on-modules (SoM) powered by 6nm MediaTek Genio 720 and Genio 520 SoCs, offering an AI performance of 10 TOPS, and designed for Edge IoT applications running low-power Vision AI and GenAI tasks. The Genio 720 dual-camera module ships with 8GB LPDDR5 and the Genio 520 single-camera module with 4GB LPDDR5. Both offer 128GB UFS storage, Gigabit Ethernet, optional WiFi 6 and Bluetooth 5.3 connectivity, dual display support, audio inputs/outputs, USB 3.2/2.0 interfaces, PCIe Gen2 x1, and more. Lantronix Open-M 720G/520G specifications: SoC (one or the other) MediaTek Genio 520 (MT8371) CPU 2x Cortex-A78 up to 2.2GHz, 6x Cortex-A55 up to 2.0 GHz GPU Arm Mali-G57 MC2 up to 880 MHz VPU Video Decode Up to 1920 x 1200 @ 60fps Video Encode Up to 1920 x 1200 @ 60fps ISP 1x ISP NPU NPU850 AI accelerator [...] The post Lantronix Open-M 720G/520G Ultra-compact LGA system-on-modules based on MediaTek Genio 720 and Genio 520 SoCs appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/26/lantronix-open-m-720g-520g-ultra-compact-lga-system-on-module-based-on-mediatek-genio-720-and-genio-520-socs/",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-08-26T09:23:51.871442"
+  },
+  {
+    "title": "AMD goes big on robots, physical AI with X100 SoC, open software and partnerships",
+    "summary": "From robot body to robot brain: new AMD SoC combines CPU, GPU, NPU and company names robot sensing partners",
+    "link": "https://www.fiercesensors.com/embedded/amd-goes-big-robots-physical-ai-x100-soc-open-software-and-partnerships",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-08-26T09:23:51.872765"
+  },
+  {
+    "title": "The Witcher 3 is getting a major free remaster in September, new expansion arrives in 2027",
+    "summary": "The Witcher 3 Remastered appears to go considerably further than simply sharpening up the visuals of the 2015 RPG. CD Projekt Red says the new edition will update graphics, performance, combat, movement, progression, and several other parts of the game. Read Entire Article",
+    "link": "https://www.techspot.com/news/113605-witcher-3-free-remaster-witcher-4-targeting-2028-release.html",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-26T09:23:51.872984"
+  },
+  {
+    "title": "Qualcomm details next-gen Oryon CPU, targets 5GHz with heterogeneous cache design",
+    "summary": "Qualcomm is pushing its Oryon CPU up to 5GHz, which should provide a significant performance uplift on the next generation of mobile flagship devices. The company said the upcoming Oryon architecture will be the world's fastest mobile CPU, although it will require some additional silicon magic to truly shine in... Read Entire Article",
+    "link": "https://www.techspot.com/news/113614-qualcomm-introduces-5ghz-oryon-cpu-new-heterogeneous-cache.html",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-08-26T09:23:51.873140"
+  },
+  {
+    "title": "Xiaomi takes another shot at Qualcomm and MediaTek with its 3nm flagship Xring O3 chip",
+    "summary": "Built on a 3-nanometer process, the chip is designed for flagship devices, with a focus on AI workloads, graphics performance, and camera processing. The manufacturing technology puts Xiaomi closer to Apple's latest A19 Pro chips and ahead of Huawei's current in-house smartphone processors. Read Entire Article",
+    "link": "https://www.techspot.com/news/113608-xiaomi-takes-another-shot-qualcomm-mediatek-xring-o3.html",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-26T09:23:51.873267"
+  },
+  {
+    "title": "Interpol's latest crackdown targeted the global network behind West African cyber-scams",
+    "summary": "From November 2025 to June 2026, Interpol worked to dismantle a massive network assisting cybercrime gangs based in West African nations. After the eight-month investigation, \"Operation Jackal IV\" led to 58 arrests and the identification of 263 alleged criminals. The operation will likely provide enough information to further expand Interpol's... Read Entire Article",
+    "link": "https://www.techspot.com/news/113597-interpol-latest-crackdown-targeted-global-network-behind-west.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-26T09:23:51.873381"
+  },
+  {
+    "title": "Apple built its new M6 and M5 Ultra desktops for the people daisy-chaining Macs to run AI",
+    "summary": "The new M6 chip moves to TSMC's 2nm process and is the first Apple SoC to combine all three core types at once. The CPU has 12 cores: two \"super cores,\" four performance cores, and six efficiency cores. Super cores themselves aren't new. Apple introduced them with the M5 Pro... Read Entire Article",
+    "link": "https://www.techspot.com/news/113612-apple-built-new-m6-m5-ultra-desktops-people.html",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-26T09:23:51.873525"
+  },
+  {
+    "title": "Intel confirms Crescent Island GPU will pack 32 Xe3P cores and up to 480GB of memory",
+    "summary": "At the Hot Chips 2026 symposium in Palo Alto this week, Intel revealed that Crescent Island will feature 32 Xe3P cores, 256 XMX engines, 32MB of unified L2 cache, a PCIe Gen5 x16 interface, and a 350W TDP for the air-cooled model. Intel will ship Crescent Island accelerators with 160GB... Read Entire Article",
+    "link": "https://www.techspot.com/news/113611-intel-confirms-crescent-island-gpu-pack-32-xe3p.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-26T09:23:51.873645"
+  },
+  {
+    "title": "Nvidia releases DLSS 4.5 Ray Reconstruction, available now in 30 games",
+    "summary": "Nvidia has released DLSS 4.5 Ray Reconstruction , bringing its 2nd-gen Transformer model to all RTX GPUs. The upgrade promises improved lighting, temporal stability, and detail in motion, while reducing artifacts such as ghosting. An early access update to the Nvidia App lets users enable this in 30 supported games, including Cyberpunk 2077, Alan Wake 2, and Resident Evil Requiem, with a wider release coming in September. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7608-nvidia-app.html",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-26T09:23:51.873764"
+  },
+  {
+    "title": "A British gearhead built a road-legal sports car in his shed for $7,000",
+    "summary": "Called the Gasolini AR1, the car is powered by a 2017 Honda CBR500 twin-cylinder motorcycle engine and rides on wheels taken from a Ford Ka hatchback. Ely estimates the project cost about $7,000. He designed it around low weight, modest running costs, and a parts list that other enthusiasts could realistically source. Read Entire Article",
+    "link": "https://www.techspot.com/news/113604-british-youtuber-built-street-legal-sports-car-using.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-26T09:23:51.873872"
+  },
+  {
+    "title": "Business schools are charging $28,000 to teach executives how to be \"chief AI officer\"",
+    "summary": "The University of Chicago's Booth School of Business is one of the leading business schools to have launched a program for prospective chief AI officers. According to the institution's official website, the course is designed to prepare executives to \"lead AI initiatives, build scalable infrastructure, and drive transformative AI adoption.\" Read Entire Article",
+    "link": "https://www.techspot.com/news/113598-universities-charging-up-28000-train-executives-become-chief.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-26T09:23:51.873984"
+  },
+  {
+    "title": "Tesla just killed Solar Roof after years of complaints and price hikes",
+    "summary": "The company told its certified third-party installers that Solar Roof is no longer available for new projects. Tesla will continue selling standard solar panels and home battery systems instead. Its former Solar Roof web address now sends visitors to the company's solar-panel page. Read Entire Article",
+    "link": "https://www.techspot.com/news/113602-tesla-kills-solar-roof-after-years-high-costs.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-26T09:23:51.874096"
+  },
+  {
+    "title": "AI music can no longer chart in Australia, unless a human actually made it",
+    "summary": "The Australian Recording Industry Association (ARIA) has updated its Charts Code of Practice to distinguish between AI-generated and AI-assisted music. The changes apply to the chart dated Monday, August 31, which will be published on Friday, August 28. Read Entire Article",
+    "link": "https://www.techspot.com/news/113609-wholly-ai-generated-music-excluded-australian-charts.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-26T09:23:51.874201"
+  },
+  {
+    "title": "Sony reminds players they don't actually own the PlayStation games they purchased",
+    "summary": "The company began emailing copies of the PlayStation Terms of Service and other legal documents earlier this month. Notably, the messages contain a section from the PlayStation End User License Agreement stating that software on the platform is licensed, not sold. Read Entire Article",
+    "link": "https://www.techspot.com/news/113603-sony-reminds-players-they-dont-actually-own-playstation.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-26T09:23:51.874306"
+  },
+  {
+    "title": "Russian tech giant VK wants Apple to pay $696,000 every day until its apps return to the App Store",
+    "summary": "VK, which was known as Mail.ru Group until 2021, filed the suit against Apple in a Moscow arbitration court after the US firm removed its apps from the App Store in June. Read Entire Article",
+    "link": "https://www.techspot.com/news/113606-russian-tech-giant-vk-wants-apple-pay-696000.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-26T09:23:51.874403"
+  },
+  {
+    "title": "This 98-qubit quantum computer moves ions around to compute more efficiently",
+    "summary": "Helios is the largest trapped-ion quantum computer demonstrated so far. Quantinuum, which is based in Cambridge, UK, and Broomfield, Colorado, previously demonstrated machines with 32 qubits in 2023 and 56 qubits in 2025. Read Entire Article",
+    "link": "https://www.techspot.com/news/113599-quantinuum-helios-largest-trapped-ion-quantum-computer-demonstrated.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-26T09:23:51.874541"
+  },
+  {
+    "title": "\"We've all been too ambitious\": Sam Altman says our old habits are delaying the great AI transition",
+    "summary": "A recent survey found that almost 49% of US adults now use AI chatbots. While that is up from 33% two years ago, it's not as all-encompassing as, say, the number of people who use the internet every day. Read Entire Article",
+    "link": "https://www.techspot.com/news/113607-weve-all-ambitious-sam-altman-our-old-habits.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-26T09:23:51.874707"
+  },
+  {
+    "title": "AMD Radeon RX 9070 vs. 9070 XT: Which Should You Buy?",
+    "summary": "We compare the Radeon RX 9070 and 9070 XT across 52 games at 1440p and 4K, test how each responds to undervolting, and determine whether the XT model is worth its price premium. Read Entire Article",
+    "link": "https://www.techspot.com/review/3161-amd-radeon-rx-9070-vs-9070-xt/",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-26T09:23:51.874862"
   }
 ]
