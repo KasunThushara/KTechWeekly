@@ -1,404 +1,65 @@
 [
   {
-    "title": "MSI brings DDR4 back to gaming laptops amidst DRAM crisis Katana 15 HX C14 available with up to Core i9-14900HX and RTX 5070",
-    "summary": "With 32GB DDR4 SO-DIMM memory kits costing roughly half as much as comparable DDR5 kits, MSI s new Katana 15 HX C14 could help reduce the impact of soaring memory prices.",
-    "link": "https://www.tomshardware.com/pc-components/ddr4/msi-brings-ddr4-back-to-gaming-laptops-amidst-dram-crisis-katana-15-hx-c14-available-with-up-to-core-i9-14900hx-and-rtx-5070",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-28T20:21:52.946646"
-  },
-  {
-    "title": "New US export controls reportedly target Chinese access to remote AI servers Trump admin's cut-down AI diffusion rule could be shared with industry as soon as September",
-    "summary": "The Trump administration is reportedly drafting a rule to close a loophole around remote access to advanced AI compute, and it could be shared with trade groups as early as September.",
-    "link": "https://www.tomshardware.com/tech-industry/policy/new-us-export-controls-reportedly-target-chinese-access-to-remote-ai-servers-trump-admins-cut-down-ai-diffusion-rule-could-be-shared-with-industry-as-soon-as-september",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-28T20:21:52.946722"
-  },
-  {
-    "title": "Nvidia gears up its influence in Washington, forming PAC tells employees that decisions Congress makes over the coming years could have substantial consequences for the AI industry, according to report",
-    "summary": "Nvidia establishes its employees federal political action committee (PAC) to fund politicians whose positions are favorable to Nvidia's interests.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-gears-up-its-influence-in-washington-forming-pac-tells-employees-that-decisions-congress-makes-over-the-coming-years-could-have-substantial-consequences-for-the-ai-industry-according-to-report",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-28T20:21:52.946791"
-  },
-  {
-    "title": "Security researchers find surveillance implants in Chinese-made routers sold worldwide three different backdoor-like implants hidden in firmware",
-    "summary": "Security researchers at Vulncheck discovered intentionally masked surveillance implants embedded in the firmware of numerous devices from Shenzhen Zhibotong Electronics.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/security-researchers-find-surveillance-implants-in-chinese-made-routers-sold-worldwide-three-different-backdoor-like-implants-hidden-in-firmware",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-28T20:21:52.946854"
-  },
-  {
-    "title": "DLSS 5 has already been ported to work on RTX 4000 Series graphics cards incompatible CUDA instructions get patched to work on previous-gen hardware",
-    "summary": "One modder has reverse-engineered DLSS 5 to function on RTX 4000 series Ada Lovelace-based GPUs, porting incompatible CUDA instructions within the Neural Rendering DLL, enabling them to be read on previous-gen hardware.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/exclusive-dlss-5-has-already-been-ported-to-work-on-rtx-4000-series-graphics-cards-incompatible-cuda-instructions-get-patched-to-work-on-previous-gen-hardware",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-28T20:21:52.946927"
-  },
-  {
-    "title": "Cloudflare frees up 100TB of RAM by shrinking 1.1.1.1's DNS cache entries 250 billion cached DNS entries at any given time means one wasted byte costs 250GB",
-    "summary": "Cloudflare says that it has freed up roughly 100TB of RAM across its global fleet without reconfiguring any physical RAM modules in its servers.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/cloudflare-frees-100tb-of-ram-by-shrinking-dns-cache-entries",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-28T20:21:52.946995"
-  },
-  {
-    "title": "Save a ridiculous 76% on this 7-in-1 Hyper Dual Monitor Thunderbolt 4 Dock just $24 buys a dual 4K60Hz HyperDrive docking station for pennies on the dollar",
-    "summary": "Grab the HyperDrive Thunderbolt 4 7-in-1 dock for under $25 with code WOOTDOCK (76% off) - run two 4K60Hz monitors or one 8K30Hz display and additional connectivity for a pittance",
-    "link": "https://www.tomshardware.com/peripherals/docking-stations-hubs/save-a-ridiculous-76-percent-on-this-7-in-1-hyper-dual-monitor-thunderbolt-4-dock-just-usd24-buys-a-dual-4k60hz-hyperdrive-docking-station-for-pennies-on-the-dollar",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-28T20:21:52.947076"
-  },
-  {
-    "title": "X busts 200,000-strong Chinese bot farm, including accounts making claims about AI data centers and electricity suspect accounts posted claims about pricing and grid strain to 'manipulate' debate",
-    "summary": "The X Safety Team said that at least 200 bot accounts have been making posts to influence public opinion data centers and energy policy. The accounts share links to legitimate news stories and then add their own spin designed to inflame emotions.",
-    "link": "https://www.tomshardware.com/tech-industry/policy/x-busts-200-000-strong-chinese-bot-farm-including-accounts-making-claims-about-ai-data-centers-and-electricity-suspect-accounts-posted-claims-about-pricing-and-grid-strain-to-manipulate-debate",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-28T20:21:52.947145"
-  },
-  {
-    "title": "MSI MPG Ai1600TS PCIE5 1600W power supply review: GPU Safeguard+ protection with Titanium effeciency",
-    "summary": "MSI's flagship 1600W unit delivers confirmed Titanium efficiency, an all-Japanese component selection, and a genuinely novel approach to GPU power management, but the price tag demands serious justification.",
-    "link": "https://www.tomshardware.com/pc-components/power-supplies/msi-mpg-ai1600ts-pcie5-1600w-power-supply-review",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-28T20:21:52.947206"
-  },
-  {
-    "title": "Google clamps down on Android app RAM usage amid AI memory crisis developers have until February 2027 to adapt to new memory-optimizing rules",
-    "summary": "Google implements stricter memory limits and introduces new performance standards for Android apps.",
-    "link": "https://www.tomshardware.com/phones/android/google-clamps-down-on-android-app-ram-usage-amid-ai-memory-crisis-developers-have-until-february-2027-to-adapt-to-new-memory-optimizing-rules",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-28T20:21:52.947260"
-  },
-  {
-    "title": "Samsung's new 2TB 990 SSD is 36% off at Amazon nearly $200 off this Gen 4 all-rounder",
-    "summary": "Get 36% off the new Samsung 990 2TB SSD, a $190 saving.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/samsungs-new-2tb-990-ssd-is-36-percent-off-at-amazon-nearly-usd200-off-this-gen-4-all-rounder",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-08-28T20:21:52.947305"
-  },
-  {
-    "title": "Intel 14A defect density is dropping faster than the company expected 'we have not seen this performance since 22nm,' says CFO",
-    "summary": "Intel says defect density of 14A process technology is declining rapidly as internal teams are already developing 14A-based products, while external clients are now wondering about capacity that Intel can provide them.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-14a-defect-density-is-dropping-faster-than-the-company-expected-we-have-not-seen-this-performance-since-22nm-says-cfo",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-28T20:21:52.947365"
-  },
-  {
-    "title": "Modders get leaked DLSS 5 running in Control early Blackwell test drops RTX 5070 Ti from 71 to 35 FPS at 4K",
-    "summary": "DLSS 5 has apparently leaked, originating from inside a new game.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/modders-get-leaked-dlss-5-running-in-control-early-blackwell-test-drops-rtx-5070-ti-from-71-to-35-fps-at-4k",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-08-28T20:21:52.947413"
-  },
-  {
-    "title": "SK hynix breaks ground on the first HBM plant in the US, bringing key AI component production to the States says production starts in 2029",
-    "summary": "SK hynix breaks ground on HBM assembly plant in the U.S. that will form a connection between DRAM wafers produced in South Korea and their consumers among AI companies in the U.S.",
-    "link": "https://www.tomshardware.com/pc-components/dram/sk-hynix-breaks-ground-on-the-first-hbm-plant-in-the-us-bringing-key-ai-component-production-to-the-states-says-production-starts-in-2029",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-28T20:21:52.947473"
-  },
-  {
-    "title": "Indiana power provider proposes $59 million rate cut for state, says data centers and other large customers are driving increased revenue move could potentially save residential users $100 annually",
-    "summary": "I&M, which serves part of Indiana, says that it plans to cut electricity prices for the state, resulting in savings of about $59 million for residential users. This translates to about $100 a year for each home, with the savings coming from increased revenue from larger consumers like data centers.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/indiana-power-provider-proposes-usd59-million-rate-cut-for-state-says-data-centers-and-other-large-customers-are-driving-increased-revenue-move-could-potentially-save-residential-users-usd100-annually",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-28T20:21:52.947542"
-  },
-  {
-    "title": "Claude nukes a developer's 700 GB home directory while testing deletion safeguards; automatic model safety downgrade may have contributed to the screw-up Anthropic safety harness downgraded model to Opus 4.8 before fatal variable collision",
-    "summary": "Claude nuked a developer's 700 GB home directory while testing a script to ensure that wouldn't happen, and it's possible that an automatic model downgrade likely contributed to the screw-up",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-nukes-a-developers-700-gb-home-directory-while-testing-a-script-to-ensure-it-wouldnt-do-so-automatic-model-downgrade-may-have-contributed-to-the-screw-up",
+    "title": "Get up to $175 back for your pre-installed Windows 11 license new portal provides legal forms, but warns buyers not to wipe storage first",
+    "summary": "The Refund4Freedom site was put together by the Italian Linux Society and the Free Software Foundation Europe to help address the unfairness of unwanted OS bundling.",
+    "link": "https://www.tomshardware.com/software/windows/site-provides-instructions-to-get-up-to-usd175-back-for-your-pre-installed-windows-11-license-new-portal-provides-legal-forms-but-warns-buyers-not-to-wipe-storage-first",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-28T20:21:52.947606"
+    "processed_date": "2026-08-29T14:02:00.914673"
   },
   {
-    "title": "Fanless AMD Ryzen Embedded 8840U/8640U Edge AI Computer supports up to 256GB DDR5 SO-DIMM memory",
-    "summary": "IBASE AA400-N is an ultra-compact fanless edge AI computer powered by an AMD Ryzen Embedded 8840U/8640U processor with up to 8 cores, 16 threads, and a combined 39 TOPS of AI performance for machine and robotic vision, autonomous inspection, smart retail, industrial automation, and other data-intensive, space-constrained applications. The most intriguing part of the specs and announcement is the claim of up to 256GB DDR5 capacity through two SO-DIMM modules, implying availability of 128GB DDR5 SO-DIMM memory modules. The system also comes with a 256GB M.2 NVMe SSD, features 8K-capable HDMI and DisplayPort video interfaces, two 2.5GbE jacks, M.2 sockets for optional WiFi, Bluetooth and 4G/5G cellular connectivity, a few USB ports and a COM port. IBASE AA400-N specifications: AMD Ryzen Embedded 8000 Series processors AA400-NM AMD Ryzen Embedded 8840U CPU 8-core/16-thread Zen4 Hawk Point processor up to 3.3 GHz / 5.1 GHz (Turbo) GPU AMD [...] The post Fanless AMD Ryzen Embedded 8840U/8640U Edge AI Computer supports up to 256GB DDR5 SO-DIMM memory appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/28/fanless-amd-ryzen-embedded-8840u-8640u-edge-ai-computer-supports-up-to-256gb-ddr5-so-dimm-memory/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-08-28T20:21:52.947954"
-  },
-  {
-    "title": "Spark Solder one-handed USB-C soldering iron supports TS100 tips, integrates solder feeder (Crowdfunding)",
-    "summary": "Spark Solder is a compact, USB-C-powered one-handed soldering iron with a built-in motorized solder feeder for convenient one-handed operation. It supports standard TS100 tips, delivers up to 45W of heating power, and features a 1-inch LCD for adjusting the temperature and solder feed speed. While smart, portable soldering irons are very common these days, using one can still be tricky when you have to handle the iron, solder wire, and components at the same time. Spark Solder solves this by adding a replaceable solder capsule and a two-axis motorized feeding system to the handle, leaving one hand free for easier assembly, prototyping, and repairs. Spark Solder specifications: Display 1-inch TFT display for adjusting temperature, solder extrusion speed, and tip profiles Soldering Power output Up to 45W Temperature Range 200 C to 450 C Heat-Up Time Reaches 300 C in 6 seconds Temperature Stability 2 C (via PID control) Tip [...] The post Spark Solder one-handed USB-C soldering iron supports TS100 tips, integrates solder feeder (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/28/spark-solder-one-handed-usb-c-soldering-iron-ts100-tips-automated-solder-feeder/",
+    "title": "Grand Theft Auto 6 will run at only 30 FPS on consoles at launch, no performance mode promised even the souped-up PS5 Pro might not get 60 FPS support",
+    "summary": "GTA 6 is currently running at 30 FPS at Rockstar internally with no confirmation on a 60 FPS mode being available at launch, or even later.",
+    "link": "https://www.tomshardware.com/video-games/grand-theft-auto-6-will-run-at-only-30-fps-on-consoles-at-launch-no-performance-mode-promised-even-the-souped-up-ps5-pro-might-not-get-60-fps-support",
     "categories": [
       "Tech News",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-08-28T20:21:52.948068"
+    "processed_date": "2026-08-29T14:02:00.914796"
   },
   {
-    "title": "Microduck A duck-like biped robot designed for physical AI experimentation and fun",
-    "summary": "Pollen Robotics and Hugging Face have unveiled the Microduck, a 25 cm tall biped robot with 15 motors, a camera, a depth sensor, two motion sensors, and an articulated beak that can pick up objects. This follows the launch of the Reachy Mini desktop robot earlier this year that featured a Raspberry Pi CM4 module or could interface to a computer instead. In some ways, we may think of the Microduck as a Reachy Mini with legs, but the company says both are different products. The Reachy Mini targets human-robot interaction, while the Microduck focuses on motion/action, although it also features a microphone and a speaker for audio interaction. Microduck specifications: SoC Rockchip RK3566 CPU Quad-core Cortex-A55 processor @ up to 1.8 GHz GPU Arm Mali-G52 NPU 0.8 TOPS AI accelerator VPU 4Kp60 H.265/H.264/VP9 video decoder 1080p60 H.264/H.265 video encoder System Memory 1GB RAM Storage [...] The post Microduck A duck-like biped robot designed for physical AI experimentation and fun appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/28/microduck-a-duck-like-biped-robot-designed-for-physical-ai-experimentation-and-fun/",
+    "title": "Deco Gear DG49OLED240 49-inch 32:9 OLED gaming monitor review: Two 27-inch QHD screens without the dividing line",
+    "summary": "You can replace two 27-inch QHD monitors with one Deco Gear DG49OLED240. This 49-inch 32:9 QD-OLED panel has an 1800R curve, 240 Hz, 5120x1440 pixels, HDR10, DisplayHDR 400, wide gamut color, and Adaptive-Sync.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/deco-gear-dg49oled240-49-inch-32-9-oled-gaming-monitor-review",
     "categories": [
       "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-08-28T20:21:52.948173"
-  },
-  {
-    "title": "Siemens boosts its EDA with Nvidia AI tools and hardware for agentic engineering of PCBs, semis",
-    "summary": "Edge applications with sensors rely on circuits built with Siemens EDA tools that are being combined with Nvidia infrastructure and software",
-    "link": "https://www.fiercesensors.com/ai/siemens-boosts-its-eda-nvidia-ai-tools-and-hardware-agentic-engineering-pcbssemis",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-28T20:21:52.949000"
-  },
-  {
-    "title": "Quantum sensors are: emerging commercially, expensive, need standards",
-    "summary": "Researcher notes that quantum sensors can cost thousands but offer greater stability in measurements of natural forces like gravity",
-    "link": "https://www.fiercesensors.com/electronics/quantum-sensors-are-emerging-commercially-expensive-need-standards",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-28T20:21:52.949084"
-  },
-  {
-    "title": "HP strikes deal with blacklisted Huawei to license essential Wi-Fi patents",
-    "summary": "HP Inc. recently announced a new patent deal with Huawei, a company that is unable to sell or import products in the US after being banned by the FCC. The agreement is essential for keeping the US company in the technology business, but HP felt compelled to provide an official... Read Entire Article",
-    "link": "https://www.techspot.com/news/113661-hp-strikes-deal-blacklisted-huawei-license-essential-wi.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-08-28T20:21:52.949211"
-  },
-  {
-    "title": "Star Citizen spinoff Squadron 42 delayed to Q2 2027 to avoid GTA 6",
-    "summary": "In a message posted on the official Roberts Space Industries website, game director Chris Roberts said the decision is intended to avoid competing with GTA 6, which is scheduled to launch this November on PlayStation 5 and Xbox Series X|S after an extended development cycle and multiple delays over the... Read Entire Article",
-    "link": "https://www.techspot.com/news/113660-star-citizen-spinoff-squadron-42-delayed-q2-2027.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-28T20:21:52.949303"
-  },
-  {
-    "title": "Samsung's new portable SSDs are blazing fast over USB4, but will torch your wallet",
-    "summary": "Samsung unveiled the company's new offering for portable storage enthusiasts at Gamescom 2026 in Germany. The \"P\" Series of external SSDs uses USB4 connectivity to raise the performance bar considerably while offering some truly spacious units for both professional and consumer use. Read Entire Article",
-    "link": "https://www.techspot.com/news/113646-samsung-new-portable-ssds-blazing-fast-over-usb4.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-08-28T20:21:52.949392"
-  },
-  {
-    "title": "Data center backlash isn't about AI, it's about who pays the bills (and the noise)",
-    "summary": "Researcher Andy Masley reviewed polling data on the backlash and concluded that its main drivers are not simply distrust of Big Tech, skepticism about AI, or concerns about China. Instead, he found that people are responding to \"object-level local environmental and economic harms\" associated with proposed projects. Read Entire Article",
-    "link": "https://www.techspot.com/news/113652-data-center-backlash-isnt-about-ai-about-who.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-08-28T20:21:52.949486"
-  },
-  {
-    "title": "Affinity is a free creative suite for photo editing, vector design, and page layout",
-    "summary": "Affinity combines professional photo editing, vector graphics, and publishing tools in one free app for Windows and macOS. Owned by Canva, it supports formats such as PSD, AI, PDF, SVG, and IDML, and is also featured in our Essential Apps selection . Read Entire Article",
-    "link": "https://www.techspot.com/downloads/7804-canva-affinity.html",
-    "categories": [
-      "AI & ML",
       "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-08-28T20:21:52.949574"
-  },
-  {
-    "title": "Judge strikes down Anthropic blacklist, says government retaliated over Pentagon criticism",
-    "summary": "US District Judge Rita F. Lin ruled late Thursday that the government failed to show Anthropic posed a national-security threat. Instead, she found that officials acted against the company after it publicly challenged the Pentagon's plans for using AI. Read Entire Article",
-    "link": "https://www.techspot.com/news/113655-judge-strikes-down-anthropic-blacklist-government-retaliated-over.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-28T20:21:52.949663"
-  },
-  {
-    "title": "Developer auctions off sticker space on a MacBook he hasn't even bought yet, and it worked",
-    "summary": "The developer here is Vincent, who posts on X as @VynseDev and works out of Bordeaux. Read Entire Article",
-    "link": "https://www.techspot.com/news/113653-developer-auctions-off-sticker-space-macbook-doesnt-own.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-08-28T20:21:52.949737"
-  },
-  {
-    "title": "The $700 Galaxy S26 FE brings Samsung's latest AI features to a cheaper phone with few hardware upgrades",
-    "summary": "The price is $50 higher than the Galaxy S25 FE's starting price. Samsung has pointed to ongoing pressure on RAM supply, which has also contributed to price increases across other recent Galaxy devices. Read Entire Article",
-    "link": "https://www.techspot.com/news/113648-700-galaxy-s26-fe-brings-samsung-latest-ai.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-28T20:21:52.949823"
-  },
-  {
-    "title": "X says China used hundreds of bot accounts to amplify fears about AI data centers that many Americans already share",
-    "summary": "X's Global Government Affairs writes that the 200 accounts were posting \"in a manner that could manipulate a legitimate debate about American AI and energy policy.\" Read Entire Article",
-    "link": "https://www.techspot.com/news/113658-x-busts-200000-strong-chinese-bot-farm-including.html",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-28T20:21:52.949908"
-  },
-  {
-    "title": "New US tariffs threaten to make PCs, game consoles, and data centers more expensive, again",
-    "summary": "Sources told Politico that the US is considering a fresh round of tariffs on semiconductors, representing another attempt to boost domestic chip manufacturing. The tariffs threaten to raise the prices of numerous electronics, many of which are already impacted by memory shortages. Read Entire Article",
-    "link": "https://www.techspot.com/news/113650-new-us-tariffs-threaten-make-pcs-game-consoles.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-28T20:21:52.950014"
-  },
-  {
-    "title": "Windows 10 users have just weeks left before Nvidia ends Game Ready driver updates",
-    "summary": "The cutoff comes one year after Microsoft officially retired Windows 10 on October 14, 2025. Nvidia granted the aging operating system an extra 12 months of full Game Ready and Studio Driver coverage, allowing owners of supported GeForce cards to continue receiving optimizations for new games. Read Entire Article",
-    "link": "https://www.techspot.com/news/113656-windows-10-users-have-weeks-left-before-nvidia.html",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-28T20:21:52.950106"
-  },
-  {
-    "title": "An iPhone 17 Pro gets dropped from 100,000 feet and survives",
-    "summary": "The companies launched the phone from Kiruna, Sweden, on June 24 using a high-altitude balloon, releasing it at 30,607 meters more than three times the typical cruising altitude of a commercial airliner. There was no parachute or protective container around the device, no heating system during the flight, and... Read Entire Article",
-    "link": "https://www.techspot.com/news/113651-iphone-17-pro-fell-100000-feet-survived-intact.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
     "quality_score": 10,
-    "processed_date": "2026-08-28T20:21:52.950197"
+    "processed_date": "2026-08-29T14:02:00.914919"
   },
   {
-    "title": "AI is driving an \"expertise recession\" as people increasingly question professional advice",
-    "summary": "It used to be that most people would blindly accept the advice of professionals without questioning it. But new research by Use.AI shows how doctors, teachers, managers, and others are being challenged by AI. Read Entire Article",
-    "link": "https://www.techspot.com/news/113654-ai-eroding-trust-doctors-other-professionals-people-turn.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-28T20:21:52.950282"
-  },
-  {
-    "title": "Modders got Nvidia's controversial DLSS 5 running early, and it's a huge performance hit",
-    "summary": "Data miners discovered what appears to be a DLL for Nvidia's upcoming DLSS 5 tech in NBA 2K27's installation files soon after the game's early access period started this week. While the basketball simulator does not yet officially support DLSS 5, modders have already begun testing its AI-generated \"photorealism\" filter... Read Entire Article",
-    "link": "https://www.techspot.com/news/113649-nvidia-dlss-5-dll-leak-suggests-imminent-launch.html",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-28T20:21:52.950375"
-  },
-  {
-    "title": "This is GTA 6: an 80-hour story, 3x bigger map than Red Dead 2, and cops that remember your face",
-    "summary": "After three years of trailers and delays, Rockstar finally showed Grand Theft Auto VI actually being played. The unusual 26-minute \"Extended Look\" premiered on Netflix hours before it landed on YouTube (or watch Rockstar's embed below). Read Entire Article",
-    "link": "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html",
+    "title": "Microsoft-backed AI data center faces backlash over 62 unpermitted gas turbines and 1.5M-gallon LNG tank issues with $19.4B facility range from illegal construction to noise pollution",
+    "summary": "The community surrounding the DataOne data center in Vineland, New Jersey, are complaining about the Microsoft-linked project. The company's deployment of several unpermitted gas turbines is just one of the issues that has been hounding the project, with potential water issues also surfacing in recent weeks.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-backed-ai-data-center-faces-multiple-complaints-from-community-issues-range-from-unpermitted-gas-turbines-to-illegal-construction-and-noise-pollution",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-28T20:21:52.950465"
+    "processed_date": "2026-08-29T14:02:00.915048"
   },
   {
-    "title": "Transmission keeps torrent downloads simple and lightweight",
-    "summary": "Transmission is a free BitTorrent client known for its low resource usage and simple interface. Available for Windows, macOS, and Linux, it supports the core features expected from a modern torrent client while keeping the application lightweight and straightforward. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/4648-transmission-bittorrent.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-28T20:21:52.950557"
-  },
-  {
-    "title": "Amazon is shutting down Mechanical Turk after more than 20 years",
-    "summary": "After being in the crowdsourcing market for more than two decades, Amazon Mechanical Turk (MTurk) will permanently shut down on September 30, 2026. Amazon said it regularly evaluates its tools, programs, and services, and MTurk is clearly being left behind as other ventures have emerged as AI-focused training initiatives. Read Entire Article",
-    "link": "https://www.techspot.com/news/113643-amazon-shutting-down-mechanical-turk-after-more-than.html",
+    "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
+    "summary": "The person or group behind nine days of Grand Theft Auto VI gameplay leaks cashed out of the $CYBERLEEK memecoin on Thursday, hours before Rockstar's Extended Look premiered on Netflix.",
+    "link": "https://www.tomshardware.com/video-games/console-gaming/gta-6-leaker-cyberleek-cashes-out-roughly-250000-hours-before-rockstars-official-reveal",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-28T20:21:52.950647"
+    "processed_date": "2026-08-29T14:02:00.915165"
+  },
+  {
+    "title": "US Navy launches missiles from its first drone sailboat Saildrone Surveyor launches dual JAGM missiles, carrier strike group tests armed USV and electronic warfare",
+    "summary": "The U.S. Navy successfully tested a sail-powered autonomous drone in live-fire exercises in the Pacific.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/us-navy-launches-missiles-from-its-first-drone-sailboat-saildrone-surveyor-launches-dual-jagm-missiles-carrier-strike-group-tests-armed-usv-and-electronic-warfare",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-29T14:02:00.915278"
   }
 ]
