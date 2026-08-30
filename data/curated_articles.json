@@ -1,65 +1,228 @@
 [
   {
-    "title": "Get up to $175 back for your pre-installed Windows 11 license new portal provides legal forms, but warns buyers not to wipe storage first",
-    "summary": "The Refund4Freedom site was put together by the Italian Linux Society and the Free Software Foundation Europe to help address the unfairness of unwanted OS bundling.",
-    "link": "https://www.tomshardware.com/software/windows/site-provides-instructions-to-get-up-to-usd175-back-for-your-pre-installed-windows-11-license-new-portal-provides-legal-forms-but-warns-buyers-not-to-wipe-storage-first",
+    "title": "Massive 12TB Steam leak reveals decades of unreleased games archived files include unseen Half-Life 2: Episode 3 builds and assets",
+    "summary": "Early builds of Valve games from 2003 to 2013 have been found in a 12TB archive pulled from the company's old servers. These pre-release versions act like time capsules, preserving the state of the game from before it underwent massive changes.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/massive-12tb-steam-leak-reveals-decades-of-unreleased-games-archived-files-include-unseen-half-life-2-episode-3-builds-and-assets",
     "categories": [
+      "Tech News",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-30T13:59:31.665885"
+  },
+  {
+    "title": "At least three exhibitors got robbed at Gamescom 2026 laptops and handhelds with unfinished game builds stolen from locked cabinets",
+    "summary": "Several developers, publishers, and studios have had their laptops and handheld consoles stolen at Gamescom 2026. However, the organizers said that it's only responsible for general security, and exhibitors can book individual booth security separately.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/at-least-three-exhibitors-got-robbed-at-gamescom-2026-laptops-and-handhelds-with-unfinished-game-builds-stolen-from-locked-cabinets",
+    "categories": [
+      "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-29T14:02:00.914673"
+    "processed_date": "2026-08-30T13:59:31.666014"
   },
   {
-    "title": "Grand Theft Auto 6 will run at only 30 FPS on consoles at launch, no performance mode promised even the souped-up PS5 Pro might not get 60 FPS support",
-    "summary": "GTA 6 is currently running at 30 FPS at Rockstar internally with no confirmation on a 60 FPS mode being available at launch, or even later.",
-    "link": "https://www.tomshardware.com/video-games/grand-theft-auto-6-will-run-at-only-30-fps-on-consoles-at-launch-no-performance-mode-promised-even-the-souped-up-ps5-pro-might-not-get-60-fps-support",
+    "title": "Adata Urban Tapsafe 2TB review: Solid-state storage you unlock with your phone",
+    "summary": "Adata's Urban Tapsafe portable SSD sports magnetic face plates, a metal mounting clip, the ability to unlock the drive with your phone, and share selective access with others via an app.",
+    "link": "https://www.tomshardware.com/pc-components/external-ssds/adata-urban-tapsafe-2tb-review",
     "categories": [
-      "Tech News",
-      "AI & ML"
+      "Hardware",
+      "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-08-29T14:02:00.914796"
+    "processed_date": "2026-08-30T13:59:31.666121"
   },
   {
-    "title": "Deco Gear DG49OLED240 49-inch 32:9 OLED gaming monitor review: Two 27-inch QHD screens without the dividing line",
-    "summary": "You can replace two 27-inch QHD monitors with one Deco Gear DG49OLED240. This 49-inch 32:9 QD-OLED panel has an 1800R curve, 240 Hz, 5120x1440 pixels, HDR10, DisplayHDR 400, wide gamut color, and Adaptive-Sync.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/deco-gear-dg49oled240-49-inch-32-9-oled-gaming-monitor-review",
+    "title": "DIY archivists push budget Nikons to 902,000 clicks to save 1,800 rare books team trains neural net on Photoshop edits to process 526,000 scans",
+    "summary": "An epic book preservation effort.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/diy-archivists-push-budget-nikons-to-902-000-clicks-to-save-1-800-rare-books-team-trains-neural-net-on-photoshop-edits-to-process-526-000-scans",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-08-30T13:59:31.666215"
+  },
+  {
+    "title": "China's top DRAM maker CXMT sues Pentagon over its blacklisting argues chips are standard civilian JEDEC spec, not defense hardware",
+    "summary": "Chinese DRAM maker CXMT wants the US Department of Defense to remove it from the list of companies linked to the Chinese military.",
+    "link": "https://www.tomshardware.com/pc-components/dram/chinas-top-dram-maker-cxmt-sues-pentagon-over-its-blacklisting-argues-chips-are-standard-civilian-jedec-spec-not-defense-hardware",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-30T13:59:31.666343"
+  },
+  {
+    "title": "Corsair RM1000e (2026) ThermalProtect power supply review: Temperature-sensing 12V-2x6 cable shuts the GPU down before a connector can melt",
+    "summary": "Corsair's mainstream RMe series returns for 2026 with Platinum-class efficiency, a 500W fanless window, and a temperature-sensing 12V-2x6 cable that shuts the GPU down before a connector can melt.",
+    "link": "https://www.tomshardware.com/pc-components/power-supplies/corsair-rm1000e-2026-thermalprotect-power-supply-review",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-30T13:59:31.666464"
+  },
+  {
+    "title": "Poor liquid metal application almost destroys Asus Zephyrus M16 laptop, eats through the processor lid paste replacement triples framerates, drops temps, and eliminates hard crashes",
+    "summary": "A user on Reddit shared their story about how the factory-applied liquid metal on their Asus Zephyrus M16 gaming laptop corroded the heatsink and lid of their CPU. It got so bad that the corrosion was about to eat away and seep onto the silicon itself, but thankfully a simple re-paste job averted catastrophe.",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/poor-liquid-metal-application-almost-destroys-asus-zephyrus-m16-laptop-eats-through-the-processor-lid-paste-replacement-triples-framerates-drops-temps-and-eliminates-hard-crashes",
     "categories": [
       "Hardware",
       "GPUs"
     ],
+    "quality_score": 5,
+    "processed_date": "2026-08-30T13:59:31.666588"
+  },
+  {
+    "title": "Modders solder power cables directly to RTX 5090 PCB to eliminate notorious melting 16-pin connector bare-board Galax HOF card pulls 600W under chiller cooling",
+    "summary": "TecLab, a Brazilian YouTuber, has just shown the most dangerous method of bypassing the 16-pin connector on an RTX 5090 by soldering wires directly to the card's PCB. In an attempt to save the GPU from melting, they've created perhaps an even bigger fire hazard.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/modders-solder-power-cables-directly-to-rtx-5090-pcb-to-eliminate-notorious-melting-16-pin-connector-bare-board-galax-hof-card-pulls-600w-under-chiller-cooling",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-30T13:59:31.666709"
+  },
+  {
+    "title": "US military uses high-energy lasers to shoot down three Mexican cartel drones over the southern border narcos suspected of using UAVs for surveillance and reconnaissance to support illegal activities",
+    "summary": "The US military has successfully deployed a laser defense system on the southern border of the country and shot down alleged Mexican cartel drones. These UAVs are suspected of spotting U.S. law enforcement operations and help the criminal organizations traffic humans and goods into the United States.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/us-military-uses-high-energy-lasers-to-shoot-down-three-mexican-cartel-drones-over-the-southern-border-narcos-suspected-of-using-uavs-for-surveillance-and-reconnaissance-to-support-illegal-activities",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-30T13:59:31.666829"
+  },
+  {
+    "title": "California lawmakers unanimously pass Linux exemption from age-verification law software distributed under the GPL, MIT, BSD, and Apache licenses are exempt",
+    "summary": "California s legislature has passed Assembly Bill 1856, exempting open-source operating systems from the State s Digital Age Assurance Act months before the law is due to take effect on January 1, 2027.",
+    "link": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-30T13:59:31.666934"
+  },
+  {
+    "title": "Magnetic core memory USB drive transfers files in sneakernet first text and image files get moved between PCs via hugely constrained archaic memory tech",
+    "summary": "A dinner plate-sized magnetic core memory homebrew USB device has been used to transfer a text file from one PC to another for the first time.",
+    "link": "https://www.tomshardware.com/pc-components/usb-flash-drives/magnetic-core-memory-usb-drive-transfers-files-in-sneakernet-first-text-and-image-files-get-moved-between-pcs-via-hugely-constrained-archaic-memory-tech",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-30T13:59:31.667038"
+  },
+  {
+    "title": "Startup raises $7 million to build backpack-portable 8.8-ounce drone interceptors Mara claims 20x cost advantage over other interceptors, priced one-for-one against attack drones",
+    "summary": "San Francisco defense startup Mara has secured $7 million in a pre-seed round to produce what it calls Spike, a portable counter-drone system housed inside a backpack.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/startup-raises-usd7-million-to-build-backpack-portable-8-8-ounce-drone-interceptors-mara-claims-20x-cost-advantage-over-other-interceptors-priced-one-for-one-against-attack-drones",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-30T13:59:31.667157"
+  },
+  {
+    "title": "Radxa Linkr A USB drive-sized IP KVM with USB-C, Ethernet, and WiFi support",
+    "summary": "Radxa Linkr is a compact, USB flash drive-sized IP KVM that connects to the target through HDMI and USB for video, keyboard, and mouse emulation. The user can control it over USB-C, Ethernet, or WiFi client/access point, even before the OS is booted. The device does not require any specific apps, since all you need is a web browser. The company also highlights support for Tailscale VPN, two-factor authentication, and AI agents such as OpenClaw and Hermes. Radxa Linkr specifications: SoC Rockchip RV1106G3 CPU Arm Cortex A7 @ 1.2GHz with an integrated RISC-V co-processor. NPU 1 TOPS 4th-gen Rockchip NPU with hybrid quantization (int4, int8, int16) ISP 3rd-gen 5MP high-performance ISP VPU 3072 1728 (5MP) @ 30fps H.265/H.264 encoding, 16MP @ 60FPS JPEG snapshot System Memory 256MB DDR3L on-chip memory Storage for OS and virtual media images Optional 16 GB eMMC flash MicroSD card slot Display Input [...] The post Radxa Linkr A USB drive-sized IP KVM with USB-C, Ethernet, and WiFi support appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/30/radxa-linkr-a-usb-drive-sized-ip-kvm-with-usb-c-ethernet-and-wifi-support/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-08-30T13:59:31.667773"
+  },
+  {
+    "title": "ACEMAGIC Kron Mini K5 (Core 3 304) review Part 1: Specifications, unboxing, teardown, and first boot",
+    "summary": "ACEMAGIC sent us a sample of the Kron Mini K5 Wildcat Lake mini PC for review. The computer is offered with either an Intel Core 3 304 or Core 5 320 CPU, and features triple display output, 2.5GbE and WiFi 6 networking, and several USB ports, but, interestingly, no Thunderbolt/USB4 ports. The company provided us with the entry-level variant pairing an Intel Core 3 304 penta-core processor with 12GB of RAM and 512GB of storage. In this first part of the review, we ll list the mini PC s specifications, go through an unboxing and a teardown, before booting it into Windows 11. In the next parts, we ll review it using Windows 11 and Ubuntu 26.04 in depth with feature testing and benchmarks. ACEMAGIC Kron Mini K5 (Intel Core 3 304) specifications The company hasn t put up a product page for this exact model just yet, so we gathered specifications from our [...] The post ACEMAGIC Kron Mini K5 (Core 3 304) review Part 1: Specifications, unboxing, teardown, and first boot appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/08/29/acemagic-kron-mini-k5-core-3-304-review-part-1-specifications-unboxing-teardown-and-first-boot/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-08-30T13:59:31.667942"
+  },
+  {
+    "title": "Startup sells AI sensing robots for smart warehouses",
+    "summary": "Rainbow Dynamics boasts four large customers and sees no impact from newest US sanctions on humanoids from China",
+    "link": "https://www.fiercesensors.com/sensors-fusion/startup-rainbow-dynamics-sells-ai-sensing-robots-warehouse-productivity",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-08-30T13:59:31.669207"
+  },
+  {
+    "title": "Fable PC requirements show it can run on an RTX 2060, but you'll need an RTX 5080 for 4K at 60 fps",
+    "summary": "For those who want the basic low-preset experience of 1080p at 30fps, at least an RTX 5050 or RTX 2060, AMD RX 6600, or Intel Arc A580 is required. The minimum CPU is a Ryzen 5 2600 or Intel i7 6850K, while the minimum RAM requirement is 12GB. Read Entire Article",
+    "link": "https://www.techspot.com/news/113670-fable-system-requirements.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-30T13:59:31.669484"
+  },
+  {
+    "title": "Scientists built a battery that charges almost instantly, but there's a catch",
+    "summary": "The device, developed by a team led by CSIRO quantum science researcher James Quach, is designed to take advantage of a quantum effect called superabsorption. In simple terms, the more molecules involved, the faster the system can absorb energy. Read Entire Article",
+    "link": "https://www.techspot.com/news/113657-scientists-build-quantum-battery-charges-quadrillionths-second-can.html",
+    "categories": [
+      "Tech News"
+    ],
     "quality_score": 10,
-    "processed_date": "2026-08-29T14:02:00.914919"
+    "processed_date": "2026-08-30T13:59:31.669654"
   },
   {
-    "title": "Microsoft-backed AI data center faces backlash over 62 unpermitted gas turbines and 1.5M-gallon LNG tank issues with $19.4B facility range from illegal construction to noise pollution",
-    "summary": "The community surrounding the DataOne data center in Vineland, New Jersey, are complaining about the Microsoft-linked project. The company's deployment of several unpermitted gas turbines is just one of the issues that has been hounding the project, with potential water issues also surfacing in recent weeks.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-backed-ai-data-center-faces-multiple-complaints-from-community-issues-range-from-unpermitted-gas-turbines-to-illegal-construction-and-noise-pollution",
+    "title": "Nvidia DLSS 5 is getting modded into just about every game, often with hilarious results",
+    "summary": "A new version of the RenoDX modding tool, available through the developer's Discord server, allows users to apply a leaked build of Nvidia's upcoming DLSS 5 to any game that supports high-quality upscaling. The mod's rapid spread effectively amounts to an early release of arguably Nvidia's most ambitious and polarizing... Read Entire Article",
+    "link": "https://www.techspot.com/news/113662-nvidia-dlss-5-getting-modded-about-every-game.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-08-30T13:59:31.669834"
+  },
+  {
+    "title": "Cloudflare freed up 100TB of RAM behind its 1.1.1.1 DNS without adding a single server",
+    "summary": "The optimization work was centered on Big Pineapple, Cloudflare's DNS caching platform behind the popular 1.1.1.1 resolver, DNS Firewall, and several other DNS services they offer. In a technical blog post, systems engineer Sebastiaan Neuteboom detailed five changes to the Rust codebase that shrank a typical cache entry from 953... Read Entire Article",
+    "link": "https://www.techspot.com/news/113665-cloudflare-freed-up-100tb-ram-behind-1111-dns.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-08-30T13:59:31.670007"
+  },
+  {
+    "title": "Micron's workers want the AI boom bonuses SK Hynix and Samsung already gave theirs",
+    "summary": "Taiwan-based media recently reported that Micron's two primary unions are dissatisfied with worker compensation amid the company's ballooning profits. The unions could threaten to strike, potentially disrupting an already strained global memory supply and worsening technology-related price increases. Read Entire Article",
+    "link": "https://www.techspot.com/news/113663-micron-workers-want-ai-boom-bonuses-sk-hynix.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-29T14:02:00.915048"
+    "processed_date": "2026-08-30T13:59:31.670173"
   },
   {
-    "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
-    "summary": "The person or group behind nine days of Grand Theft Auto VI gameplay leaks cashed out of the $CYBERLEEK memecoin on Thursday, hours before Rockstar's Extended Look premiered on Netflix.",
-    "link": "https://www.tomshardware.com/video-games/console-gaming/gta-6-leaker-cyberleek-cashes-out-roughly-250000-hours-before-rockstars-official-reveal",
+    "title": "South Korea is giving its entire population free access to AI, no token limits",
+    "summary": "The government's \"AI for All\" program will begin beta testing in September, followed by a broader launch later this year. On Friday, Seoul named three technology consortia to provide the services. They include groups led by the country's two largest telecom companies and the operator of Kakao, one of South... Read Entire Article",
+    "link": "https://www.techspot.com/news/113664-south-korea-giving-entire-population-free-access-ai.html",
     "categories": [
-      "AI & ML"
+      "AI & ML",
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-29T14:02:00.915165"
-  },
-  {
-    "title": "US Navy launches missiles from its first drone sailboat Saildrone Surveyor launches dual JAGM missiles, carrier strike group tests armed USV and electronic warfare",
-    "summary": "The U.S. Navy successfully tested a sail-powered autonomous drone in live-fire exercises in the Pacific.",
-    "link": "https://www.tomshardware.com/tech-industry/drones/us-navy-launches-missiles-from-its-first-drone-sailboat-saildrone-surveyor-launches-dual-jagm-missiles-carrier-strike-group-tests-armed-usv-and-electronic-warfare",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-29T14:02:00.915278"
+    "processed_date": "2026-08-30T13:59:31.670358"
   }
 ]
