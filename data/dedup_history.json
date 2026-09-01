@@ -1,64 +1,4 @@
 {
-  "https://www.tomshardware.com/tech-industry/dell-founder-shows-how-a-usd100-billion-empire-started-42-years-ago-ceo-says-this-one-page-changed-my-life": {
-    "title": "Dell founder shows how a $100 billion empire started 42 years ago CEO says This one page changed my life ",
-    "fingerprint": "607515a6843118192f50a66546bcce94",
-    "timestamp": 1785665975.861998,
-    "date": "2026-08-02T10:19:35.862001"
-  },
-  "https://www.tomshardware.com/software/windows/microsoft-vows-to-make-windows-11-fly-on-8gb-ram-amid-memory-shortage-optimizations-to-reduce-os-memory-footprint-have-begun": {
-    "title": "Microsoft vows to make Windows 11 fly on 8GB RAM amid memory shortage optimizations to reduce OS memory footprint have begun",
-    "fingerprint": "ba24dd18313fccaf3a036f723c14d653",
-    "timestamp": 1785665975.862143,
-    "date": "2026-08-02T10:19:35.862144"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-claude-hacked-three-real-life-companies-during-security-capabilities-test-test-environment-with-internet-access-and-unwitting-targets-lax-cybersecurity-practices-led-to-bots-running-rampant": {
-    "title": "Anthropic's Claude hacked three real-life companies during security capabilities test test environment with internet access and unwitting targets' lax cybersecurity practices led to bots running rampant",
-    "fingerprint": "a9abc5ef5a4c354a6a061845259e366d",
-    "timestamp": 1785665975.862265,
-    "date": "2026-08-02T10:19:35.862266"
-  },
-  "https://www.tomshardware.com/3d-printing/nozzlegate-erupts-as-prusa-core-one-3d-ptinter-kits-arrive-with-soft-steel-nozzles-bondtech-admits-machining-flaws-with-no-quick-fix": {
-    "title": "'Nozzlegate' erupts as Prusa CORE One 3D printer kits arrive with soft steel nozzles Bondtech admits machining flaws with no quick fix",
-    "fingerprint": "dde0cf43153ca816776027ed03674e4c",
-    "timestamp": 1785665975.862381,
-    "date": "2026-08-02T10:19:35.862382"
-  },
-  "https://www.tomshardware.com/video-games/playstation/sony-doubles-down-on-axing-physical-game-discs-cfo-reiterates-were-going-to-cautiously-move-this-forward": {
-    "title": "Sony doubles down on axing physical game discs CFO reiterates 'we re going to cautiously move this forward'",
-    "fingerprint": "73f4e1bedc4cddbe740cdc75d753d6f7",
-    "timestamp": 1785665975.862483,
-    "date": "2026-08-02T10:19:35.862483"
-  },
-  "https://www.cnx-software.com/2026/08/02/play-games-with-your-brain-signals-using-octopus-16-wireless-eeg-device/": {
-    "title": "Play games with your brain signals using Octopus 16 wireless EEG device",
-    "fingerprint": "b725f44a0e90e4d8dc8d1ddaba949ffc",
-    "timestamp": 1785665975.863125,
-    "date": "2026-08-02T10:19:35.863126"
-  },
-  "https://www.techspot.com/news/113319-bundle-support-laid-off-game-devs-offers-over.html": {
-    "title": "This $10 bundle of 100+ DRM-free games means to support laid-off game developers",
-    "fingerprint": "218dd112005ac96e247bbcadb474b9af",
-    "timestamp": 1785665975.864411,
-    "date": "2026-08-02T10:19:35.864413"
-  },
-  "https://www.techspot.com/news/113314-scientists-built-night-vision-shows-full-color-instead.html": {
-    "title": "Scientists built night vision that shows full color instead of just green",
-    "fingerprint": "a50a3900ff8c9266f675ef09e8b22ad6",
-    "timestamp": 1785665975.864619,
-    "date": "2026-08-02T10:19:35.864622"
-  },
-  "https://www.techspot.com/news/113318-new-york-suing-prediction-market-kalshi-calling-illegal.html": {
-    "title": "New York is suing prediction market Kalshi, calling it an illegal gambling operation",
-    "fingerprint": "3eee06254cfd43f472a80777df3f788c",
-    "timestamp": 1785665975.864815,
-    "date": "2026-08-02T10:19:35.864817"
-  },
-  "https://www.techspot.com/news/113320-one-california-town-found-flock-license-plate-cameras.html": {
-    "title": "One California town found Flock's license plate cameras were wrong 71% of the time",
-    "fingerprint": "ed2d95204cd721c0037ab9759132f528",
-    "timestamp": 1785665975.864986,
-    "date": "2026-08-02T10:19:35.864988"
-  },
   "https://www.tomshardware.com/laptops/ai-enthusiast-mods-bios-with-claude-code-ai-defeats-rsa-2048-signature-checks-and-unlocks-55-hidden-settings": {
     "title": "AI enthusiast mods BIOS with Claude Code AI defeats RSA-2048 signature checks and unlocks 55 hidden settings",
     "fingerprint": "eb020b377aa2a5d62cf374a8789f170f",
@@ -5608,5 +5548,179 @@
     "fingerprint": "79fc2e1bbf8dbf7f39723917f1e86a85",
     "timestamp": 1788193348.821129,
     "date": "2026-08-31T16:22:28.821130"
+  },
+  "https://www.tomshardware.com/pc-components/gpus/nvidias-controversial-dlss-5-will-launch-september-3-with-nba2k27-available-on-all-rtx-50-series-gpus-laptops-and-geforce-now": {
+    "title": "Nvidia's controversial DLSS 5 will launch September 3 with NBA2K27, company shares first benchmarks available on all RTX 50 series GPUs, laptops, and GeForce NOW",
+    "fingerprint": "b67d446d4cd8fdb5cf6459aa1f960dd6",
+    "timestamp": 1788270071.048674,
+    "date": "2026-09-01T13:41:11.048679"
+  },
+  "https://www.tomshardware.com/pc-components/gpus/nvidias-top-end-rtx-5090-gaming-gpu-now-costs-at-least-usd5-000-blackwell-cards-continue-to-endure-drastic-price-hikes": {
+    "title": "Nvidia's top-end RTX 5090 gaming GPU now costs at least $5,000 Blackwell cards continue to endure drastic price hikes",
+    "fingerprint": "0d09cc7436825c991b784ee30aa4f56d",
+    "timestamp": 1788270071.048782,
+    "date": "2026-09-01T13:41:11.048782"
+  },
+  "https://www.tomshardware.com/networking/national-telecoms-provider-to-make-usd2-7-billion-selling-old-copper-in-ai-boom-bt-to-strip-200-000-tons-from-legacy-network": {
+    "title": "National telecoms provider could make $2.7 billion selling recycled copper in AI boom BT to strip 200,000 tons from legacy network",
+    "fingerprint": "83e8547380a586b29d52033ecadb54ff",
+    "timestamp": 1788270071.048874,
+    "date": "2026-09-01T13:41:11.048874"
+  },
+  "https://www.tomshardware.com/tech-industry/cyber-security/blindlock-hides-your-password-manager-and-secure-vault-in-a-png-image-also-offers-secure-notes-2fa-and-a-crypto-address-book-with-optional-hardware-security-keys": {
+    "title": "BlindLock hides your password manager and secure vault in a PNG image also offers secure notes, 2FA, and a crypto address book, with optional hardware security keys",
+    "fingerprint": "af7f9ca1a98d00c2311f1cef0f1f99d6",
+    "timestamp": 1788270071.048977,
+    "date": "2026-09-01T13:41:11.048977"
+  },
+  "https://www.tomshardware.com/laptops/gaming-laptops/save-usd300-on-this-240hz-oled-gaming-laptop-with-an-rtx-5070-ti-now-just-usd1-899-acer-predator-helios-rig-ships-with-a-24-core-intel-cpu-32gb-ddr5-and-a-1tb-ssd": {
+    "title": "Save $300 on this 240Hz OLED gaming laptop with an RTX 5070 Ti, now just $1,899 Acer Predator Helios rig ships with a 24-core Intel CPU, 32GB DDR5 and a 1TB SSD",
+    "fingerprint": "be48c5c7efb3e2421d2a0f9d58fded40",
+    "timestamp": 1788270071.049063,
+    "date": "2026-09-01T13:41:11.049064"
+  },
+  "https://www.tomshardware.com/tech-industry/semiconductors/hot-chips-2026-samsung-reveals-a-three-phase-hbm-roadmap-that-puts-logic-and-compute-inside-memory-zhbm-ultimately-stacks-dram-directly-on-top-of-the-processor": {
+    "title": "Hot Chips 2026: Samsung reveals a three-phase HBM roadmap that puts logic and compute inside memory zHBM ultimately stacks DRAM directly on top of the processor",
+    "fingerprint": "6c8be89a576bf598ea34a3594c857214",
+    "timestamp": 1788270071.049162,
+    "date": "2026-09-01T13:41:11.049163"
+  },
+  "https://www.tomshardware.com/pc-components/dram/cxmt-reportedly-begins-risk-production-of-hbm3e-memory-in-breakthrough-for-chinese-dram-production-company-could-be-in-mass-production-in-2027": {
+    "title": "CXMT reportedly begins risk production of HBM3E memory in breakthrough for Chinese DRAM production company could be in mass production in 2027",
+    "fingerprint": "8458e1840ebdcc419a27d9c81bf2bf27",
+    "timestamp": 1788270071.049237,
+    "date": "2026-09-01T13:41:11.049237"
+  },
+  "https://www.tomshardware.com/video-games/console-gaming/playstation-store-buy-button-class-action-may-never-reach-a-courtroom": {
+    "title": "Sony argues reasonable consumers would not be misled into believing they own digital games in class action motion PlayStation Store buy button lawsuit may never reach a courtroom",
+    "fingerprint": "a645f60bff16c0b63976d581fd1d2591",
+    "timestamp": 1788270071.049332,
+    "date": "2026-09-01T13:41:11.049333"
+  },
+  "https://www.tomshardware.com/tech-industry/big-tech/arm-faces-potential-shareholder-revolt-over-ceos-excessive-usd800-million-pay-package-huge-stock-award-would-only-be-fully-realised-if-chip-designer-hits-usd2-trillion-valuation": {
+    "title": "Arm faces potential shareholder revolt over CEO's 'excessive' $800 million pay package huge stock award would only be fully realised if chip designer hits $2 trillion valuation",
+    "fingerprint": "5264f1f59b5915f252f6db65682fdb29",
+    "timestamp": 1788270071.049421,
+    "date": "2026-09-01T13:41:11.049421"
+  },
+  "https://www.tomshardware.com/software/linux/linux-kernel-nears-2-000-cves-per-release-as-ai-bug-hunters-scour-40-million-lines-of-code-maintainers-say-they-are-completely-overwhelmed": {
+    "title": "Linux kernel nears record 2,000 vulnerabilities per release as AI bug hunters scour 40 million lines of code maintainers say they are 'completely overwhelmed' by CVE finds",
+    "fingerprint": "dcd5088865c7d64846bf8851d7f768bd",
+    "timestamp": 1788270071.049506,
+    "date": "2026-09-01T13:41:11.049507"
+  },
+  "https://www.tomshardware.com/networking/routers/tp-link-announces-its-first-consumer-wi-fi-8-routers-archer-8-ultra-preorder-commences-september-30-in-select-regions": {
+    "title": "TP-Link announces its first consumer Wi-Fi 8 routers Archer 8 Ultra preorder commences September 30, in select regions",
+    "fingerprint": "6d2e38579183d9840f99f71627bfba62",
+    "timestamp": 1788270071.049581,
+    "date": "2026-09-01T13:41:11.049581"
+  },
+  "https://www.tomshardware.com/pc-components/ssds/kingstons-nv3-1tb-pcie-4-0-ssd-drops-to-usd156-99-at-newegg-27-percent-off-brings-it-down-to-just-15-7-cents-per-gb": {
+    "title": "Kingston's NV3 1TB PCIe 4.0 SSD drops to $156.99 at Newegg 27% off brings it down to just 15.7 cents per GB",
+    "fingerprint": "3a731465e12b9be6134820afd4a5f065",
+    "timestamp": 1788270071.049657,
+    "date": "2026-09-01T13:41:11.049657"
+  },
+  "https://www.tomshardware.com/pc-components/ram/g-skill-drops-new-amd-expo-ull-ram-for-ryzen-cpus-flare-x5x-brings-new-ull-optimized-subtimings-but-pricing-remains-a-mystery": {
+    "title": "G.Skill drops new AMD EXPO ULL RAM for Ryzen CPUs Flare X5X brings new ULL optimized subtimings, but pricing remains a mystery",
+    "fingerprint": "51d416725f1341c7a2863ed4343b430b",
+    "timestamp": 1788270071.049735,
+    "date": "2026-09-01T13:41:11.049735"
+  },
+  "https://www.tomshardware.com/tech-industry/data-centers/trump-says-communities-that-reject-data-centers-want-to-end-up-being-backwards-and-poor-president-claims-china-could-not-be-happier-with-ai-data-center-backlash-in-the-us": {
+    "title": "Trump says communities that reject data centers 'want to end up being backwards and poor' President claims China 'could not be happier' with AI data center backlash in the US",
+    "fingerprint": "a7c17ee4e26aae03a65954f9edfc69dc",
+    "timestamp": 1788270071.049812,
+    "date": "2026-09-01T13:41:11.049813"
+  },
+  "https://www.cnx-software.com/2026/09/01/makera-z1-desktop-cnc-review-smart-milling-4-axis-module-and-5w-laser-engraving/": {
+    "title": "Makera Z1 Desktop CNC Review Smart milling, 4-axis module, and 5W laser engraving",
+    "fingerprint": "92b53d192ce0b4f83234a6eb7a017ece",
+    "timestamp": 1788270071.05026,
+    "date": "2026-09-01T13:41:11.050261"
+  },
+  "https://www.cnx-software.com/2026/09/01/armsom-sige6-allwinner-a733-sbc-features-up-to-128gb-soldered-on-emmc-flash-16gb-lpddr5/": {
+    "title": "ArmSoM Sige6 Allwinner A733 SBC features up to 128GB soldered-on eMMC flash, 16GB LPDDR5",
+    "fingerprint": "c887b0a233c5dbec8c6324e2cbef2bae",
+    "timestamp": 1788270071.050415,
+    "date": "2026-09-01T13:41:11.050416"
+  },
+  "https://www.fiercesensors.com/sensors-fusion/sensors-are-more-valuable-ai-and-qualcomm-knows-it": {
+    "title": "Sensors are more valuable with AI and Qualcomm knows it",
+    "fingerprint": "3bafa459a33840628dfdb2f683649a30",
+    "timestamp": 1788270071.051232,
+    "date": "2026-09-01T13:41:11.051233"
+  },
+  "https://www.fiercesensors.com/electronics/cook-considered-genius-execution-his-ceo-era-ends-apple": {
+    "title": "Cook considered genius of execution as his CEO era ends at Apple",
+    "fingerprint": "d2c7a03ef3e74fd1c9e4e3f8e4ceeda1",
+    "timestamp": 1788270071.051363,
+    "date": "2026-09-01T13:41:11.051364"
+  },
+  "https://www.fiercesensors.com/sensors-fusion/fcc-robot-ban-poses-huge-challenges-amid-potential-security-plus": {
+    "title": "FCC robot ban poses huge challenges amid potential security plus",
+    "fingerprint": "02c1475749d8015483505f2700c5654c",
+    "timestamp": 1788270071.051611,
+    "date": "2026-09-01T13:41:11.051613"
+  },
+  "https://www.techspot.com/news/113695-instagram-cracks-down-ai-accounts-pretending-human.html": {
+    "title": "Instagram is making it harder for AI-generated personas to pass themselves off as real people",
+    "fingerprint": "7e4ef0f321fd9bf034b6697628b60c4b",
+    "timestamp": 1788270071.051804,
+    "date": "2026-09-01T13:41:11.051805"
+  },
+  "https://www.techspot.com/news/113687-sony-added-free-ad-supported-live-tv-every.html": {
+    "title": "Sony just added free, ad-supported live TV to every PS5",
+    "fingerprint": "0212a5fac4ae05cfdc048d8f8c67ab6f",
+    "timestamp": 1788270071.051897,
+    "date": "2026-09-01T13:41:11.051897"
+  },
+  "https://www.techspot.com/news/113694-amazon-seller-sends-1400-rtx-5080-customer-cheap.html": {
+    "title": "Amazon seller sends $1,400 RTX 5080 customer a cheap \"gift\" and fake instructions claiming the GPU is still coming",
+    "fingerprint": "3f534aabf74fe79591a58d5b5880a126",
+    "timestamp": 1788270071.051988,
+    "date": "2026-09-01T13:41:11.051988"
+  },
+  "https://www.techspot.com/news/113688-claims-adjusters-ai-making-insurance-process-harder-not.html": {
+    "title": "Claims adjusters say AI is making the insurance process harder, not easier",
+    "fingerprint": "c2eb56c5628f1be1e3eb173e390f0696",
+    "timestamp": 1788270071.052073,
+    "date": "2026-09-01T13:41:11.052074"
+  },
+  "https://www.techspot.com/news/113692-tp-link-announces-first-consumer-wi-fi-8.html": {
+    "title": "TP-Link's first consumer Wi-Fi 8 router opens for pre-orders September 30, but its US launch remains uncertain",
+    "fingerprint": "203172ddfffb092c27515e83f1920ee1",
+    "timestamp": 1788270071.052163,
+    "date": "2026-09-01T13:41:11.052164"
+  },
+  "https://www.techspot.com/news/113686-openclaw-20-lands-easier-setup-rebuilt-browser-app.html": {
+    "title": "OpenClaw 2.0 lands with an easier setup and a rebuilt browser app",
+    "fingerprint": "eaf4ead528446c831f5d92a7353161ea",
+    "timestamp": 1788270071.05225,
+    "date": "2026-09-01T13:41:11.052251"
+  },
+  "https://www.techspot.com/news/113680-youtubers-fix-melting-rtx-5090-power-connector-soldering.html": {
+    "title": "YouTubers \"fix\" melting RTX 5090 power connector by soldering cables directly to PCB",
+    "fingerprint": "a55819f9d6cae51cff30f24ee7e8309d",
+    "timestamp": 1788270071.052358,
+    "date": "2026-09-01T13:41:11.052358"
+  },
+  "https://www.techspot.com/news/113684-chip-manufacturer-cxmt-asks-pentagon-remove-list-chinese.html": {
+    "title": "Chip manufacturer CXMT asks Pentagon to remove it from list of Chinese military-linked companies",
+    "fingerprint": "ca52a514b093839d6c0cbc3534efd2f0",
+    "timestamp": 1788270071.052455,
+    "date": "2026-09-01T13:41:11.052455"
+  },
+  "https://www.techspot.com/news/113682-grand-theft-auto-vi-could-cause-massive-workplace.html": {
+    "title": "Grand Theft Auto VI could cause a massive workplace productivity crisis",
+    "fingerprint": "d151aa6c744775d87978d5aa10604a62",
+    "timestamp": 1788270071.05254,
+    "date": "2026-09-01T13:41:11.052541"
+  },
+  "https://www.techspot.com/news/113671-massive-valve-leak-exposed-12tb-old-steam-data.html": {
+    "title": "A massive Valve leak just exposed 12TB of old Steam data, no hacking required",
+    "fingerprint": "39eea966647fca544536ae97ae6cfaa6",
+    "timestamp": 1788270071.052626,
+    "date": "2026-09-01T13:41:11.052626"
   }
 }

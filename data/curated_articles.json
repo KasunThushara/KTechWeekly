@@ -1,318 +1,315 @@
 [
   {
-    "title": "Motorless solid-state cooler uses heat to cool itself; could recycle processor heat into cooling shape-memory alloy films could turn data center exhaust into refrigeration",
-    "summary": "German and Japanese researchers demonstrate a heat-driven elastocaloric cooler that uses shape-memory alloys to turn waste heat into cooling.",
-    "link": "https://www.tomshardware.com/tech-industry/manufacturing/motorless-solid-state-cooler-uses-heat-to-cool-itself-could-recycle-processor-heat-into-cooling-shape-memory-alloy-films-could-turn-data-center-exhaust-into-refrigeration",
+    "title": "Nvidia's controversial DLSS 5 will launch September 3 with NBA2K27, company shares first benchmarks available on all RTX 50 series GPUs, laptops, and GeForce NOW",
+    "summary": "Nvidia has confirmed DLSS 5 will launch on September 3 in NBA2K27. It will be supported on all RTX 50 series GPUs, laptops, and GeForce NOW.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-controversial-dlss-5-will-launch-september-3-with-nba2k27-available-on-all-rtx-50-series-gpus-laptops-and-geforce-now",
     "categories": [
-      "Hardware"
+      "GPUs",
+      "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-08-31T16:22:28.815863"
+    "processed_date": "2026-09-01T13:41:11.048684"
   },
   {
-    "title": "Jensen Huang and Lisa Su snubbed by TIME s 2026 list of top 100 AI leaders Paris Hilton and Ben Affleck, among others, make the list as Architects of AI inexplicably not listed",
-    "summary": "Nvidia s sole representative on the fourth annual TIME100 AI is its head of sustainability, who sits alongside Paris Hilton and Ben Affleck.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-and-lisa-su-snubbed-by-times-2026-ai-list-paris-hilton-and-ben-affleck-among-others-make-the-list-as-architects-of-ai-are-totally-absent",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-31T16:22:28.816017"
-  },
-  {
-    "title": "Nvidia's latest driver update breaks mVolt+ overclocking functionality Nifty, open-source app allowed users to increase the power limit to 700W on their RTX 50-series GPUs without hardware mods",
-    "summary": "Overclocking utility mVolt+ seems to have been blocked by the latest Nvidia driver update, hard crashing the moment you try to adjust the core power limit. However, it seems like a driver conflict more than a deliberate blacklist since another app, Hydra 2.3B Pro, is working just fine.",
-    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/nvidias-latest-driver-update-breaks-mvolt-overclocking-functionality-nifty-open-source-app-allowed-users-to-increase-the-power-limit-to-700w-on-their-rtx-50-series-gpus-without-hardware-mods",
+    "title": "Nvidia's top-end RTX 5090 gaming GPU now costs at least $5,000 Blackwell cards continue to endure drastic price hikes",
+    "summary": "The entire PC hardware industry is in shambles when it comes to consumer products, and GPUs are one of the most affected components. Everything from budget options to high-end models is now significantly more expensive than what it could be had for a year ago.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-top-end-rtx-5090-gaming-gpu-now-costs-at-least-usd5-000-blackwell-cards-continue-to-endure-drastic-price-hikes",
     "categories": [
       "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-31T16:22:28.816150"
+    "processed_date": "2026-09-01T13:41:11.048784"
   },
   {
-    "title": "xTool F2 Ultra UV dual laser engraver review: So cool it s hot",
-    "summary": "xTool s new F2 Ultra UV cuts and engraves with cold UV light.",
-    "link": "https://www.tomshardware.com/maker-stem/xtool-f2-ultra-uv-dual-laser-engraver-review",
+    "title": "National telecoms provider could make $2.7 billion selling recycled copper in AI boom BT to strip 200,000 tons from legacy network",
+    "summary": "The UK's largest telecommunications company, BT, could potentially make $2.7 billion as it recycles all the old copper in its network as it upgrades to fiber optic. The massive amount is driven by the AI boom, as data center operators require more and more copper wires for power.",
+    "link": "https://www.tomshardware.com/networking/national-telecoms-provider-to-make-usd2-7-billion-selling-old-copper-in-ai-boom-bt-to-strip-200-000-tons-from-legacy-network",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-01T13:41:11.048876"
+  },
+  {
+    "title": "BlindLock hides your password manager and secure vault in a PNG image also offers secure notes, 2FA, and a crypto address book, with optional hardware security keys",
+    "summary": "A new local only password manager, notes app, and secure vault that hides your secrets in an ordinary-looking .PNG image file is now available.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/blindlock-hides-your-password-manager-and-secure-vault-in-a-png-image-also-offers-secure-notes-2fa-and-a-crypto-address-book-with-optional-hardware-security-keys",
     "categories": [
       "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-01T13:41:11.048978"
+  },
+  {
+    "title": "Save $300 on this 240Hz OLED gaming laptop with an RTX 5070 Ti, now just $1,899 Acer Predator Helios rig ships with a 24-core Intel CPU, 32GB DDR5 and a 1TB SSD",
+    "summary": "This Acer Predator Helios Neo 16S AI gaming laptop has dropped to just $1,899.99, giving you a high-end rig with an RTX 5070 Ti, 32GB DDR5 and a 1TB SSD.",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/save-usd300-on-this-240hz-oled-gaming-laptop-with-an-rtx-5070-ti-now-just-usd1-899-acer-predator-helios-rig-ships-with-a-24-core-intel-cpu-32gb-ddr5-and-a-1tb-ssd",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-01T13:41:11.049065"
+  },
+  {
+    "title": "Hot Chips 2026: Samsung reveals a three-phase HBM roadmap that puts logic and compute inside memory zHBM ultimately stacks DRAM directly on top of the processor",
+    "summary": "Samsung detailed a three-phase HBM roadmap at Hot Chips 2026 that progressively moves logic into the base die and ultimately stacks DRAM directly on the processor.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/hot-chips-2026-samsung-reveals-a-three-phase-hbm-roadmap-that-puts-logic-and-compute-inside-memory-zhbm-ultimately-stacks-dram-directly-on-top-of-the-processor",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-01T13:41:11.049164"
+  },
+  {
+    "title": "CXMT reportedly begins risk production of HBM3E memory in breakthrough for Chinese DRAM production company could be in mass production in 2027",
+    "summary": "CXMT is reportedly sampling its HBM3E memory with Alibaba Group's T-Head and Cambricon Technologies.",
+    "link": "https://www.tomshardware.com/pc-components/dram/cxmt-reportedly-begins-risk-production-of-hbm3e-memory-in-breakthrough-for-chinese-dram-production-company-could-be-in-mass-production-in-2027",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-01T13:41:11.049238"
+  },
+  {
+    "title": "Sony argues reasonable consumers would not be misled into believing they own digital games in class action motion PlayStation Store buy button lawsuit may never reach a courtroom",
+    "summary": "Sony Interactive Entertainment asked a federal judge to push a proposed class action lawsuit over the PlayStation Store s buy and purchase labels out of court and into individual arbitration.",
+    "link": "https://www.tomshardware.com/video-games/console-gaming/playstation-store-buy-button-class-action-may-never-reach-a-courtroom",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-01T13:41:11.049334"
+  },
+  {
+    "title": "Arm faces potential shareholder revolt over CEO's 'excessive' $800 million pay package huge stock award would only be fully realised if chip designer hits $2 trillion valuation",
+    "summary": "Proxy advisers kick against Arm's proposal to approve a performance pay plan that could award CEO Rene Haas about $800 million if the chip designer reaches a $2 trillion valuation.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/arm-faces-potential-shareholder-revolt-over-ceos-excessive-usd800-million-pay-package-huge-stock-award-would-only-be-fully-realised-if-chip-designer-hits-usd2-trillion-valuation",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-01T13:41:11.049422"
+  },
+  {
+    "title": "Linux kernel nears record 2,000 vulnerabilities per release as AI bug hunters scour 40 million lines of code maintainers say they are 'completely overwhelmed' by CVE finds",
+    "summary": "AI-assisted bug hunting is driving Linux toward 2,000 CVEs per release, surfacing real flaws and mountains of low-priority work for overwhelmed maintainers.",
+    "link": "https://www.tomshardware.com/software/linux/linux-kernel-nears-2-000-cves-per-release-as-ai-bug-hunters-scour-40-million-lines-of-code-maintainers-say-they-are-completely-overwhelmed",
+    "categories": [
+      "AI & ML",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-31T16:22:28.816247"
+    "processed_date": "2026-09-01T13:41:11.049508"
   },
   {
-    "title": "Key Nvidia and Intel supplier raided over alleged China origin fraud Unimicron faces probe over PCB origin washing, risk of 40% U.S. tariff penalty",
-    "summary": "Taiwanese prosecutors are investigating Unimicron, one of the world s largest PCB and chip substrate makers and a key supplier to Nvidia, Intel, Google, and Amazon, over allegations that it shipped China-made PCBs back to Taiwan and relabeled them as Taiwanese products.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/key-nvidia-and-intel-supplier-raided-over-alleged-china-origin-fraud-unimicron-faces-probe-over-pcb-origin-washing-risk-of-40-percent-u-s-tariff-penalty",
+    "title": "TP-Link announces its first consumer Wi-Fi 8 routers Archer 8 Ultra preorder commences September 30, in select regions",
+    "summary": "TP-Link s Wi-Fi 8 launch remains complicated in the US due to ongoing FCC restrictions",
+    "link": "https://www.tomshardware.com/networking/routers/tp-link-announces-its-first-consumer-wi-fi-8-routers-archer-8-ultra-preorder-commences-september-30-in-select-regions",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-01T13:41:11.049582"
+  },
+  {
+    "title": "Kingston's NV3 1TB PCIe 4.0 SSD drops to $156.99 at Newegg 27% off brings it down to just 15.7 cents per GB",
+    "summary": "The Kingston NV3 may not be built for heavy workloads, but its respectable gaming performance and low power consumption make this PCIe 4.0 SSD a compelling secondary storage upgrade.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/kingstons-nv3-1tb-pcie-4-0-ssd-drops-to-usd156-99-at-newegg-27-percent-off-brings-it-down-to-just-15-7-cents-per-gb",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-01T13:41:11.049658"
+  },
+  {
+    "title": "G.Skill drops new AMD EXPO ULL RAM for Ryzen CPUs Flare X5X brings new ULL optimized subtimings, but pricing remains a mystery",
+    "summary": "G.Skill launches new Flare X5X DDR5 memory kits with AMD EXPO ULL technology for Ryzen processors.",
+    "link": "https://www.tomshardware.com/pc-components/ram/g-skill-drops-new-amd-expo-ull-ram-for-ryzen-cpus-flare-x5x-brings-new-ull-optimized-subtimings-but-pricing-remains-a-mystery",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-01T13:41:11.049736"
+  },
+  {
+    "title": "Trump says communities that reject data centers 'want to end up being backwards and poor' President claims China 'could not be happier' with AI data center backlash in the US",
+    "summary": "President Donald Trump claims that communities rejecting AI data center constructions \"want to end up being backwards and poor.\"",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/trump-says-communities-that-reject-data-centers-want-to-end-up-being-backwards-and-poor-president-claims-china-could-not-be-happier-with-ai-data-center-backlash-in-the-us",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-01T13:41:11.049814"
+  },
+  {
+    "title": "Makera Z1 Desktop CNC Review Smart milling, 4-axis module, and 5W laser engraving",
+    "summary": "The Makera Z1 Desktop CNC is a desktop CNC machine designed for milling and engraving work that requires precision. The fully enclosed machine features an aluminum structure, offers a 200 200 100 mm work volume, and is suitable for wood, plastic, acrylic, PCB boards, carbon fiber, as well as non-ferrous metals such as aluminum, brass, and copper. The standout feature of this model is its fairly complete set of assistive functions, including a quick tool change system for swapping milling bits, auto probing & leveling for detecting position and leveling the workpiece, the AeroDust system for blowing and managing chips/dust, and a built-in camera for monitoring operation. In addition, optional accessories such as a 4th-axis rotary module, a 5W laser head, a workholding kit, and a 3D probe can also be installed. This model relies on a linear rail system featuring Acme lead screws and NEMA 17 stepper [...] The post Makera Z1 Desktop CNC Review Smart milling, 4-axis module, and 5W laser engraving appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/01/makera-z1-desktop-cnc-review-smart-milling-4-axis-module-and-5w-laser-engraving/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-01T13:41:11.050262"
+  },
+  {
+    "title": "ArmSoM Sige6 Allwinner A733 SBC features up to 128GB soldered-on eMMC flash, 16GB LPDDR5",
+    "summary": "ArmSoM Sige6 is yet another SBC powered by the Allwinner A733 octa-core SoC, offered in a credit card form factor with up to 128GB soldered-on eMMC flash and up to 16GB LPDDR5. The single board computer features a microSD card slot and an M.2 M-key PCIe 3.0 x2 slot for storage, Gigabit Ethernet (with optional PoE), WiFi 6, and Bluetooth 5.4 connectivity, HDMI 2.0 and MIPI DSI display interfaces, a MIPI CSI camera interface, USB 3.0/2.0 ports, a 3.5mm audio jack, a 40-pin GPIO header, and more. ArmSom Sige6 specifications: SoC Allwinner A733-HN3 CPU Dual-core Arm Cortex-A76 @ up to 2.00 GHz Hexa-core Arm Cortex-A55 @ up to 1.80 GHz Single-core RISC-V E902 real-time core GPU Imagination Technologies BXM-4-64 MC1 GPU with support for OpenGL ES 3.2, Vulkan 1.3, and OpenCL 3.0 VPU 4Kp60/8Kp24 H.265/VP9/AVS2 decoding, 4Kp30 H.264 decoding 4Kp30 H.265/H.264 encoding AI accelerator 3 TOPS NPU Process [...] The post ArmSoM Sige6 Allwinner A733 SBC features up to 128GB soldered-on eMMC flash, 16GB LPDDR5 appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/01/armsom-sige6-allwinner-a733-sbc-features-up-to-128gb-soldered-on-emmc-flash-16gb-lpddr5/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-01T13:41:11.050417"
+  },
+  {
+    "title": "Sensors are more valuable with AI and Qualcomm knows it",
+    "summary": "Qualcomm at IFA introduces two Dragonwing processors for edge devices supporting AI, vision, connectivity and security",
+    "link": "https://www.fiercesensors.com/sensors-fusion/sensors-are-more-valuable-ai-and-qualcomm-knows-it",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-09-01T13:41:11.051236"
+  },
+  {
+    "title": "Cook considered genius of execution as his CEO era ends at Apple",
+    "summary": "Apple designs in-house silicon across its products, creating an ecosystem for sensors and other components",
+    "link": "https://www.fiercesensors.com/electronics/cook-considered-genius-execution-his-ceo-era-ends-apple",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-09-01T13:41:11.051367"
+  },
+  {
+    "title": "FCC robot ban poses huge challenges amid potential security plus",
+    "summary": "IDC analyst believes security threat posed by Chinese robots is very real",
+    "link": "https://www.fiercesensors.com/sensors-fusion/fcc-robot-ban-poses-huge-challenges-amid-potential-security-plus",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-09-01T13:41:11.051616"
+  },
+  {
+    "title": "Instagram is making it harder for AI-generated personas to pass themselves off as real people",
+    "summary": "It's not just AI-generated slop content sweeping across Instagram these days. There are also countless personas that are entirely AI-generated many of which appear to be influencer-style accounts and not all of them make it clear that the person isn't real. Read Entire Article",
+    "link": "https://www.techspot.com/news/113695-instagram-cracks-down-ai-accounts-pretending-human.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-01T13:41:11.051807"
+  },
+  {
+    "title": "Sony just added free, ad-supported live TV to every PS5",
+    "summary": "PlayStation 5 owners in the US can now watch over 100 live TV channels from the PS5's main menu. Available content includes various ad-supported movies, TV shows, sports events, and news broadcasts at no extra cost. Read Entire Article",
+    "link": "https://www.techspot.com/news/113687-sony-added-free-ad-supported-live-tv-every.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-01T13:41:11.051898"
+  },
+  {
+    "title": "Amazon seller sends $1,400 RTX 5080 customer a cheap \"gift\" and fake instructions claiming the GPU is still coming",
+    "summary": "Reddit user BransonArsen wrote that they bought an MSI Gaming RTX 5080 16G SUPRIM Liquid SOC edition from Amazon for nearly $1,400. They later explained that the seller was a third party with a Chinese name, which even they admit was a warning sign. The lower-case \"msi\" in the product... Read Entire Article",
+    "link": "https://www.techspot.com/news/113694-amazon-seller-sends-1400-rtx-5080-customer-cheap.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-01T13:41:11.051989"
+  },
+  {
+    "title": "Claims adjusters say AI is making the insurance process harder, not easier",
+    "summary": "A Glassdoor analysis found that 98% of claims-adjuster reviews mentioning AI were negative the highest rate of criticism among the occupations reviewed. Workers often complained that company leaders were pushing AI tools that did not work well and were making it harder to serve policyholders. Read Entire Article",
+    "link": "https://www.techspot.com/news/113688-claims-adjusters-ai-making-insurance-process-harder-not.html",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-08-31T16:22:28.816371"
+    "quality_score": 15,
+    "processed_date": "2026-09-01T13:41:11.052075"
   },
   {
-    "title": "China's CXMT beats Western chipmakers to announcement of LPDDR6 mass production Xiaomi smartphones to debut industry s first LPDDR6 chips",
-    "summary": "CXMT claims to be the first to mass-produce LPDDR6 memory. Yet, for a niche phone.",
-    "link": "https://www.tomshardware.com/pc-components/dram/chinas-cxmt-beats-western-chipmakers-to-announcement-of-lpddr6-mass-production-xiaomi-smartphones-to-debut-industrys-first-lpddr6-chips",
+    "title": "TP-Link's first consumer Wi-Fi 8 router opens for pre-orders September 30, but its US launch remains uncertain",
+    "summary": "Unveiled at IFA 2026, the Archer 8 Ultra BN19000 is a tri-band router rated for aggregate wireless speeds of 19Gbps. It packs 18 internal antennas, 10Gbps wired connectivity, and claimed coverage of a 3,600-square-foot home. Its redesigned enclosure is intended to be shown off on a shelf, rather than being... Read Entire Article",
+    "link": "https://www.techspot.com/news/113692-tp-link-announces-first-consumer-wi-fi-8.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-01T13:41:11.052165"
+  },
+  {
+    "title": "OpenClaw 2.0 lands with an easier setup and a rebuilt browser app",
+    "summary": "Community manager Hannes Rudolph's blog post for the release was titled \"OpenClaw 2.0, Accidentally,\" explaining that the team set out to simplify installation and rebuild the browser app, but then discovered it couldn't be done in isolation, and ended up reworking the codebase and the full release at the same time. Read Entire Article",
+    "link": "https://www.techspot.com/news/113686-openclaw-20-lands-easier-setup-rebuilt-browser-app.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-01T13:41:11.052252"
+  },
+  {
+    "title": "YouTubers \"fix\" melting RTX 5090 power connector by soldering cables directly to PCB",
+    "summary": "TecLab recently demonstrated a workaround for the RTX 5090 thermal failures by modifying a 5090 to bypass the problematic 16-pin power connectors and route the power wiring directly to the GPU's PCB instead. For the experiment, they used a Galax GeForce RTX 5090 D HOF OC LAB XOC, which comes... Read Entire Article",
+    "link": "https://www.techspot.com/news/113680-youtubers-fix-melting-rtx-5090-power-connector-soldering.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-01T13:41:11.052360"
+  },
+  {
+    "title": "Chip manufacturer CXMT asks Pentagon to remove it from list of Chinese military-linked companies",
+    "summary": "The Pentagon recently confirmed CXMT's designation as a company directly linked to Beijing's Communist Party military operations, and the chipmaker is now suing the DoD to have this \"baseless\" classification removed. The semiconductor manufacturer claims its memory products are designed for civilian applications, meaning there should be no need to... Read Entire Article",
+    "link": "https://www.techspot.com/news/113684-chip-manufacturer-cxmt-asks-pentagon-remove-list-chinese.html",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-31T16:22:28.816474"
+    "processed_date": "2026-09-01T13:41:11.052456"
   },
   {
-    "title": "Diehard Asus customer gets RMA denied for a cheap 2.4 GHz headset receiver despite spending more than $30,000 with the brand firm refuses to send a cheap dongle, then relents after social media backlash",
-    "summary": "Asus refused to replace a loyal customer's wireless headset receiver because accessories are apparently not covered under warranty. The customer was not happy to see his dedication be put into question like this, brining receipts of past purchases to express their disappointment over this betrayal.",
-    "link": "https://www.tomshardware.com/peripherals/diehard-asus-customer-gets-rma-denied-for-a-cheap-2-4-ghz-headset-receiver-despite-spending-more-than-usd30-000-with-the-brand-firm-refuses-to-send-a-cheap-dongle-then-relents-after-social-media-backlash",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-31T16:22:28.816603"
-  },
-  {
-    "title": "Man uses robot vacuum to covertly record his wife's affair, wins divorce settlement but gets sentenced to prison for making an illegal recording Husband lands behind bars after counter-suit over privacy rights",
-    "summary": "A Taiwanese man sued his wife for having an affair using recordings from a robot vacuum to prove his case. He won, but got sued by the wife for infringing on her personal privacy and was fined the equivalent of 30% of what he earned as compensation previously.",
-    "link": "https://www.tomshardware.com/tech-industry/man-uses-robot-vacuum-to-covertly-record-his-wifes-affair-wins-divorce-settlement-but-gets-sentenced-to-prison-for-making-an-illegal-recording-husband-lands-behind-bars-after-counter-suit-over-privacy-rights",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-31T16:22:28.816721"
-  },
-  {
-    "title": "Speedy 34-inch 240 Hz ultrawide OLED monitor now $600 off LG UltraGear 34GX900A-B only $599.99",
-    "summary": "The LG UltraGear 34GX900A-B packs a fast 240 Hz OLED panel and 3440 x 1440 resolution into an immersive 800R curved display, now available for 50% off.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/speedy-34-inch-240-hz-ultrawide-oled-monitor-now-usd600-off-lg-ultragear-34gx900a-b-only-usd599-99",
+    "title": "Grand Theft Auto VI could cause a massive workplace productivity crisis",
+    "summary": "Hardcore gamers and casuals alike have had November 19 circled on their calendars for months, and for good reason. On the third Thursday of the month, Rockstar is scheduled to launch Grand Theft Auto 6 on PlayStation 5 and Xbox Series. Fans have been waiting over a decade for a... Read Entire Article",
+    "link": "https://www.techspot.com/news/113682-grand-theft-auto-vi-could-cause-massive-workplace.html",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-08-31T16:22:28.816821"
+    "processed_date": "2026-09-01T13:41:11.052542"
   },
   {
-    "title": "DLSS 5 mod brings next-gen tech to old Ampere GPUs, but frame rates are horrible most games tank to single digits, high-end GPUs can hit up to 40 FPS in some cases",
-    "summary": "DLSS 5 now runs on Ampere GPUs thanks to a patched DLL, but performance is expectedly poor for the most part. You can get up to 30-40 FPS in edge cases with minimum in-game settings, but newer titles can tank FPS to single digits.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/dlss-5-mod-brings-next-gen-tech-to-old-ampere-gpus-but-frame-rates-are-horrible-most-games-tank-to-single-digits-high-end-gpus-can-hit-up-to-40-fps-in-some-cases",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-31T16:22:28.816931"
-  },
-  {
-    "title": "SpaceX starts in-house turbine blade manufacturing to boost gas-powered generator output for Elon's AI data centers new manufacturing strategy cuts generator delays by 18 months",
-    "summary": "Turbine blades and vanes are among the most complicated turbine engine parts to build, with processes taking as long as 60 to 90 weeks. Because of this, Musk wants to bring their manufacturing in-house at SpaceX.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/spacex-starts-in-house-turbine-blade-manufacturing-to-boost-gas-powered-generator-output-for-elons-ai-data-centers-new-manufacturing-strategy-cuts-generator-delays-by-18-months",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-31T16:22:28.817056"
-  },
-  {
-    "title": "Donkey Kong 64 finally gets a fully native PC port written in C DK64 ReKONGpiled brings ultrawide support, uncapped framerates, and zero AI code",
-    "summary": "A team of veteran developers has recompiled Donkey Kong 64 in C, so it runs natively on Windows, Linux, and Mac. The entire project is free, uses no generative AI, but still includes more features than any vibecoded retro revival slop you can find online. You do need to bring your own ROM, though.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/donkey-kong-64-finally-gets-a-fully-native-pc-port-written-in-c-dk64-rekongpiled-brings-ultrawide-support-uncapped-framerates-and-zero-ai-code",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-31T16:22:28.817171"
-  },
-  {
-    "title": "ARK Just A Pi A tiny NDAA-compliant Raspberry Pi CM5 carrier board for drones and robots",
-    "summary": "ARK Just A Pi is a tiny NDAA-compliant carrier board for the Raspberry Pi CM5 designed for drones, robots, or other space-constrained embedded applications that s about the size of the Compute Module itself. This follows ARK Electronics NDAA-compliant ARK Jetson Orin NX/Nano bundles introduced in 2024. The new Just A Pi is much smaller and lighter, features a built-in 100 Mbps Ethernet switch with two JST-GH Ethernet ports, a micro HDMI port, two MIPI CSI camera connectors, a microSD card slot, a PCIe FFC connector, a USB 3.0 Type-C dual role connector, and a range of small connectors for UART, SPI, PWM, GPIO, and fan. It also features a power connector for the company s PAB power modules. ARK Just A Pi specifications: Supported SoM Raspberry Pi Compute Module 5 Full support Raspberry Pi Compute Module 4 The following interfaces are not supported: CSI1/CAM1, UART2, USB-C, PCIe, and fan [...] The post ARK Just A Pi A tiny NDAA-compliant Raspberry Pi CM5 carrier board for drones and robots appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/31/ark-just-a-pi-a-tiny-ndaa-compliant-raspberry-pi-cm5-carrier-board-for-drones-and-robots/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-31T16:22:28.817778"
-  },
-  {
-    "title": "D-Robotics RDK S100P A 128 TOPS alternative to NVIDIA Jetson Orin NX 16GB with Cortex-A78AE/R52+ cores",
-    "summary": "D-Robotics RDK S100P development kit is a robotics SBC built around an S100P-based module providing an alternative to NVIDIA Jetson Orin NX 16GB with a 6-core Cortex-A78AE application cluster, a 4-core Cortex-R52+ MCU domain, a Nash BPU rated at 128 TOPS INT8, a Mali-G78AE GPU, and 24 GB of LPDDR5. The four R52+ cores can be configured for reliable real-time control: two cores run in lockstep for safety, and the other two support split-lock operation. In practice, the A78AE CPU and BPU can handle Linux and vision processing, while the MCU handles time-critical tasks such as motor and sensor I/O. This can reduce the need for a separate real-time controller, although whether it eliminates one depends on the robot and its requirements. RDK S100P specifications: SoC D-Robotics S100P CPU 6x Arm Cortex-A78AE @ 2.0 GHz (safety-capable AE cores) MCU 4x Arm Cortex-R52+ @ 1.2 GHz (1x DCLS [...] The post D-Robotics RDK S100P A 128 TOPS alternative to NVIDIA Jetson Orin NX 16GB with Cortex-A78AE/R52+ cores appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/31/d-robotics-rdk-s100p-a-128-tops-alternative-to-nvidia-jetson-orin-nx-16gb-with-cortex-a78ae-r52-cores/",
+    "title": "A massive Valve leak just exposed 12TB of old Steam data, no hacking required",
+    "summary": "From September 2003 to early 2013, Valve employed a \"Steam2\" server architecture to manage data flowing through its PC gaming store. Now, a substantial portion of that data is being shared through the BitTorrent network after someone uploaded the content over the weekend. The Steam2 content server dump, also known... Read Entire Article",
+    "link": "https://www.techspot.com/news/113671-massive-valve-leak-exposed-12tb-old-steam-data.html",
     "categories": [
       "Hardware",
       "GPUs"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-08-31T16:22:28.817972"
-  },
-  {
-    "title": "Orange Pi Zero 4 Compact Allwinner A733 SBC offers HDMI, USB-C DP, GbE, WiFI 6, PCIe FFC connector for $26.5 and up",
-    "summary": "Orange Pi Zero 4 is an affordable yet feature-rich Allwinner A733 single board computer (SBC) with up to 8GB RAM, eMMC/UFS storage footprint, a microSD card slot, and plenty of I/Os. The board packs mini HDMI and USB-C DisplayPort, Gigabit Ethernet, WiFi 6 and Bluetooth 5.4, two MIPI CSI camera connectors, a Raspberry Pi-style PCIe FFC connector, and two GPIO headers into a compact 55x50mm form factor. Orange Pi Zero 4 specifications: SoC Allwinner A733 CPU Dual-core Arm Cortex-A76 @ up to 2.00 GHz Hexa-core Arm Cortex-A55 @ up to 1.79 GHz Single-core RISC-V E902 real-time core up to 200 MHz GPU Imagination Technologies BXM-4-64 MC1 GPU with support for OpenGL ES 3.2, Vulkan 1.3, OpenCL 3.0 VPU 8Kp24 H.265/VP9/AVS2 decoding 4Kp30 H.265/H.264 encoding AI accelerator 3 TOPS NPU System Memory 1GB, 2GB, 4GB, 6GB, or 8GB LPDDR5/LPDDR4/LPDDR4x; note: 16GB is also listed in the specs, [...] The post Orange Pi Zero 4 Compact Allwinner A733 SBC offers HDMI, USB-C DP, GbE, WiFI 6, PCIe FFC connector for $26.5 and up appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/08/31/orange-pi-zero-4-allwinner-a733-sbc-offers-hdmi-usb-c-dp-gbe-wifi-6-pcie-ffc-connector/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
     "quality_score": 10,
-    "processed_date": "2026-08-31T16:22:28.818153"
-  },
-  {
-    "title": "FCC ban on new robot imports hits Toborlife AI amid China debate",
-    "summary": "Toborlife AI plans US manufacturing for robot hardware, currently from Unitree in China.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/fcc-ban-new-robot-imports-hits-toborlife-ai-amid-china-debate",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-08-31T16:22:28.819320"
-  },
-  {
-    "title": "Volvo drops lidar on its EX90 and ES90 cars after Luminar liquidation",
-    "summary": "Customers will be compensated for a non-functional bump of hardware on the roof",
-    "link": "https://www.fiercesensors.com/sensors-fusion/volvo-drops-lidar-its-ex90-and-es90-cars-after-luminar-liquidation",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-08-31T16:22:28.819416"
-  },
-  {
-    "title": "Calibre can now generate custom book covers with AI",
-    "summary": "Calibre remains one of the best free tools for managing, converting, and organizing ebook libraries . Version 9.14 adds AI-generated book covers in several styles from sci-fi and romance to pulp fiction, plus improved tag searches, and support for Anthropic and Grok backends. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/5411-calibre.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-31T16:22:28.819591"
-  },
-  {
-    "title": "Windows may finally take no for an answer, adding a permanent opt-out for OneDrive backup nags",
-    "summary": "As reported by Windows Latest, Windows 11's full-screen backup prompt is now appearing with an \"Opt out of backup\" button. Read Entire Article",
-    "link": "https://www.techspot.com/news/113679-windows-11-may-finally-take-no-answer-permanent.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-31T16:22:28.819688"
-  },
-  {
-    "title": "Apple prototyped and tested a Pencil accessory for its foldable iPhone",
-    "summary": "According to Bloomberg's Mark Gurman, Apple has internally prototyped and tested a version of the Apple Pencil for its forthcoming foldable. The accessory is said to be stubbier than the version for the iPad due to the phone's height, and attaches using magnets for storage and charging. Read Entire Article",
-    "link": "https://www.techspot.com/news/113681-apple-prototyped-tested-pencil-accessory-foldable-iphone.html",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-31T16:22:28.819799"
-  },
-  {
-    "title": "ICE seeks to purchase up to $2 million in Boston Dynamics Spot robots",
-    "summary": "A new Department of Homeland Security procurement notice describes the possible purchase of Boston Dynamics SPOT robots and accessories valued at between $1 million and $2 million. Read Entire Article",
-    "link": "https://www.techspot.com/news/113676-boston-dynamics-spot-robot-dogs-could-soon-working.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-31T16:22:28.819896"
-  },
-  {
-    "title": "Nvidia and Intel supplier Unimicron under investigation over alleged relabeling of Chinese parts",
-    "summary": "Investigators from the Taoyuan District Prosecutors Office searched Unimicron's headquarters in Guishan District and a manufacturing plant in Zhongli District on Friday. Fourteen executives and employees were questioned. Prosecutors have not announced charges, and the investigation is continuing. Read Entire Article",
-    "link": "https://www.techspot.com/news/113674-taiwan-investigates-major-nvidia-intel-supplier-unimicron-over.html",
-    "categories": [
-      "GPUs",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-31T16:22:28.820033"
-  },
-  {
-    "title": "Man uses robot vacuum to catch cheating wife, wins $16,000 affair case, then gets jailed for secretly filming her",
-    "summary": "The man in Taiwan used the robot vacuum to gather evidence of his wife's extramarital affair for a civil lawsuit against her, writes the South China Morning Post. Read Entire Article",
-    "link": "https://www.techspot.com/news/113677-man-uses-robot-vacuum-covertly-record-wife-affair.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-31T16:22:28.820139"
-  },
-  {
-    "title": "A federal court just ruled Kalshi's sports markets are basically sports betting",
-    "summary": "The Ninth Circuit Court of Appeals found that Kalshi's sports contracts amount to sports betting, even though the company offers them through a federally regulated exchange. The decision could have implications well beyond Nevada, particularly in states that have been trying to limit or block sports-related prediction markets. Read Entire Article",
-    "link": "https://www.techspot.com/news/113669-federal-appeals-court-rules-kalshi-sports-prediction-markets.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-31T16:22:28.820251"
-  },
-  {
-    "title": "Activision posts video showing Call of Duty cheat seller getting served at his home",
-    "summary": "In the one-minute video, posted to the official Call of Duty account, a legal representative films himself arriving at Elocarry's house in Ohio with the cease-and-desist paperwork. Read Entire Article",
-    "link": "https://www.techspot.com/news/113675-activision-sends-legal-rep-call-duty-cheat-seller.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-31T16:22:28.820357"
-  },
-  {
-    "title": "Graphics Card Prices Are Rising Fast (Again), and GeForce Is Taking the Biggest Hit",
-    "summary": "GPU prices are rising sharply again, with GeForce cards taking the biggest hit. We tracked prices across 10 countries to see which GPUs are getting more expensive and where value remains, if any. Read Entire Article",
-    "link": "https://www.techspot.com/article/3167-gpu-pricing-q3-2026/",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-31T16:22:28.820485"
-  },
-  {
-    "title": "Your ChatGPT conversations could end up in court, and they're not protected",
-    "summary": "ChatGPT and similar tools are often used for personal questions, legal worries, health concerns, and emotional support. Those conversations can feel private, but they may be accessible through a phone search, a subpoena, discovery in a lawsuit, or a report by the AI company itself. Read Entire Article",
-    "link": "https://www.techspot.com/news/113667-chatgpt-conversations-could-end-up-court-theyre-not.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-31T16:22:28.820646"
-  },
-  {
-    "title": "Nvidia's $63 billion stock portfolio is a map of its own supply chain",
-    "summary": "Nvidia's earnings this week gave the market the growth story it wanted. But a separate SEC filing gives us an additional perspective on what Nvidia is also doing with all those billions. Read Entire Article",
-    "link": "https://www.techspot.com/news/113672-nvidia-63-billion-stock-portfolio-map-own-supply.html",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-31T16:22:28.820816"
-  },
-  {
-    "title": "Cities are dropping Flock's surveillance cameras at a record pace",
-    "summary": "Secure Justice, an Oakland-based anti-surveillance group, says 214 cities and counties have dropped Flock since 2021. Ninety jurisdictions ended contracts in August alone, a fourfold increase from July, according to the group's latest update. That works out to about three cancellations a day during the month. Read Entire Article",
-    "link": "https://www.techspot.com/news/113668-cities-dropping-flock-surveillance-cameras-record-pace.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-08-31T16:22:28.820966"
-  },
-  {
-    "title": "NASA launched a space telescope on Sunday that will give astronomers a much wider view of the universe",
-    "summary": "The telescope carries a 2.4-meter primary mirror, the same size as Hubble's. But its Wide Field Instrument is designed for a different kind of work. The 300-megapixel camera uses 18 detectors to capture a much broader image, giving Roman a field of view at least 100 times larger than Hubble's... Read Entire Article",
-    "link": "https://www.techspot.com/news/113666-nasa-launched-space-telescope-sunday-give-astronomers-much.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-08-31T16:22:28.821132"
+    "processed_date": "2026-09-01T13:41:11.052627"
   }
 ]
