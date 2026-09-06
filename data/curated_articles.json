@@ -1,226 +1,142 @@
 [
   {
-    "title": "Modder gets Nvidia's DLSS 5 working on AMD's RDNA 4 GPUs RX 9070 XT only manages 30 FPS at 1080p right now, but 5070 Ti-level performance is the eventual goal",
-    "summary": "If you have an RX 9000 series GPU, you can try out DLSS 5 on your PC right now and absolutely destroy the stable performance you were getting before.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/modder-gets-nvidias-dlss-5-working-on-amds-rdna-4-gpus-rx-9070-xt-only-manages-30-fps-at-1080p-right-now-but-5070-ti-level-performance-is-the-eventual-goal",
+    "title": "PS5 emulator can now run the console version of GTA V at up to 60 FPS on PC, but quickly crashes as tweakers continue to optimize PS5 emulation advancing at an astronomical pace leading up to GTA VI launch",
+    "summary": "A spark was lit under the PS5 emulation scene a couple of months ago and instead of fading over time, it seems to be burning brighter than ever. GTA V now runs between 40-60 FPS for a few minutes before crashing, along with several other games being rendered smoothly.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/ps5-emulator-can-now-run-the-console-version-of-gta-v-at-up-to-60-fps-on-pc-but-quickly-crashes-as-tweakers-continue-to-optimize-ps5-emulation-advancing-at-an-astronomical-pace-leading-up-to-gta-vi-launch",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-06T12:19:29.131273"
+  },
+  {
+    "title": "Former Old School RuneScape dev gets jail time for stealing $400,000 from players virtual gold stolen and sold on the black market before Jagex caught the culprit using hidden firewall tweaks",
+    "summary": "A former Jagex employee stole over $400,000 worth of in-game items and virtual currency from OSRS players and sold them on the black market. He was eventually arrested and sentenced to a three-year prison sentence, with one investigator saying, \"Just because it's virtual, doesn't mean he shouldn't face the full force of the law.\"",
+    "link": "https://www.tomshardware.com/video-games/former-old-school-runescape-dev-gets-jail-time-for-stealing-usd400-000-from-players-virtual-gold-stolen-and-sold-on-the-black-market-before-jagex-caught-the-culprit-using-hidden-firewall-tweaks",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-06T12:19:29.131401"
+  },
+  {
+    "title": "This 246TB SSD media server is built for millionaire cinephiles Kaleidescape's newest home theater vault supports 25 simultaneous 4K streams, stores up to 2,300 4K cinematic movies",
+    "summary": "Kaleidescape, a maker of luxury home theater equipment, has revealed its latest media server, the \"Compact Terra Prime 246TB SSD.\"",
+    "link": "https://www.tomshardware.com/pc-components/storage/this-246tb-ssd-media-server-is-built-for-millionaire-cinephiles-kaleidescapes-newest-home-theater-vault-supports-25-simultaneous-4k-streams-stores-up-to-2-300-4k-cinematic-movies",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-06T12:19:29.131512"
+  },
+  {
+    "title": "Stripped-down Windows 11 for AI developers demands 64GB RAM and insane 250 GB/s bandwidth Project Zenith will debut on AMD's flagship Ryzen AI Halo platform",
+    "summary": "Project Zenith is a version of Windows 11 that lets developers work right out of the box. It comes pre-installed with developer tools like Visual Studio Code, GitHub Copilot, and WSL 2+ Ubuntu, among others, and includes features that make developing and running AI agents more secure.",
+    "link": "https://www.tomshardware.com/software/windows/stripped-down-windows-11-for-ai-developers-demands-64gb-ram-and-insane-250-gb-s-bandwidth-project-zenith-will-debut-on-amds-flagship-ryzen-ai-halo-platform",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-06T12:19:29.131638"
+  },
+  {
+    "title": "Gamescom apologizes after backlash over callous response to indie dev hardware thefts pledges security overhaul and invites devs to the roundtable",
+    "summary": "The Gamescom organizers apologized for their initial response and outlined plans to prevent future incidents. They also praised the community for supporting the affected developers.",
+    "link": "https://www.tomshardware.com/video-games/gamescom-apologizes-after-backlash-over-callous-response-to-indie-dev-hardware-thefts-pledges-security-overhaul-and-invites-devs-to-the-roundtable",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-06T12:19:29.131751"
+  },
+  {
+    "title": "Nvidia returns to selling Founder's Edition RTX 50-series GPUs at MSRP in person at PAX West Verified Priority Access has RTX 5090, RTX 5080, and RTX 5070 at list price",
+    "summary": "Nvidia is offering its RTX 5090, RTX 5080, and RTX 5070 Founder's Edition models at MSRP at PAX West.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-returns-to-selling-founders-edition-rtx-50-series-gpus-at-msrp-in-person-at-pax-west-verified-priority-access-has-rtx-5090-rtx-5080-and-rtx-5070-at-list-price",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-06T12:19:29.131838"
+  },
+  {
+    "title": "AMD reportedly prepping Ryzen 5 7500 (non-F) CPU with integrated graphics at double the price Six-core Zen 4 chip rumored to share identical specs with its F-moniker cousin",
+    "summary": "A new report suggests AMD is preparing a non-F version of the Ryzen 5 7500F with integrated graphics. It would cost 230 Euros, or $267, which would put it above even the 7600X3D in terms of pricing, despite sharing identical specs with the 7500F.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-reportedly-prepping-ryzen-5-7500-non-f-cpu-with-integrated-graphics-at-double-the-price-six-core-zen-4-chip-rumored-to-share-identical-specs-with-its-f-moniker-cousin",
     "categories": [
       "GPUs",
       "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-09-05T12:03:55.153604"
-  },
-  {
-    "title": "Xbox Game Pass imposes monthly cloud gaming limits, just 15 hours per month for Ultimate subscribers and non-subscribers can buy more hours to keep gaming",
-    "summary": "Microsoft has added monthly limits to its Xbox Game Pass cloud gaming service, where subscribers and non-subscribers can purchase extra playtime when they surpass their limits.",
-    "link": "https://www.tomshardware.com/video-games/cloud-gaming/xbox-game-pass-adds-monthly-time-limits-subscribers-and-non-subcribers-can-buy-more-hours-to-keep-gaming",
-    "categories": [
-      "GPUs"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-09-05T12:03:55.153692"
+    "processed_date": "2026-09-06T12:19:29.131946"
   },
   {
-    "title": " World s first fully transparent video game console is on its way to Kickstarter Arduview handheld s shell, PCB, and display are all transparent",
-    "summary": "The first units of the world s first fully transparent video game console are shipping to founders, and now the Arduview project is on its way to Kickstarter.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/worlds-first-fully-transparent-video-game-console-is-on-its-way-to-kickstarter-arduview-handhelds-shell-pcb-and-display-are-all-transparent",
+    "title": "Best of IFA 2026: MacBook Neo competitors, monitors, and wild laptop concepts",
+    "summary": "This year in Berlin, IFA exhibitors showed off several affordable, colorful new laptops, some wild concept devices, and a surprising number of monitors that run the gamut from budget to high-refresh OLED.",
+    "link": "https://www.tomshardware.com/tech-industry/best-of-ifa-2026",
     "categories": [
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-05T12:03:55.153793"
+    "processed_date": "2026-09-06T12:19:29.132036"
   },
   {
-    "title": "We tested DLSS 5 in NBA 2K27 with every RTX 50-series GPU first official release comes with a big performance hit, but almost every Blackwell card can run it at 1080p",
-    "summary": "We tested Nvidia's DLSS 5 in NBA 2K27 across every RTX 50-series graphics card at 1080p, 1440p, and 4K to see just how much performance it costs to explore the frontiers of neural rendering.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/we-tested-dlss-5-in-nba-2k27-with-every-rtx-50-series-gpu-first-official-release-comes-with-a-big-performance-hit-but-almost-every-blackwell-card-can-run-it-at-1080p",
+    "title": "ACEMAGIC Kron Mini K5 Review Part 2: A $400 Intel Core 3 304 Wildcat Lake mini PC tested with Windows 11 Pro",
+    "summary": "After checking out the hardware of the ACEMAGIC Kron Mini K5 with an unboxing and a teardown in the first part of the review, we ve now had time to test the Intel Core 3 304 Wildcat Lake mini PC in more depth with Windows 11 Pro. So in this article, we ll report our experience with the penta-core mini PC, testing features, running system and AI benchmarks, playing 4K and 8K YouTube videos on Firefox, measuring network throughput (2.5GbE and WiFi 6), evaluating thermal performance, and measuring fan noise and power consumption. Software overview and feature testing The System > About window confirms we have a 1.5 GHz (base frequency) Intel Core 3 304 computer paired with 12GB of RAM and 477GB of storage, running Windows 11 Pro 25H2 build 26200.9168. HWiNFO 64 provides additional details about the 15W Intel Core 3 304 penta-core (1P+4E) Wildcat Lake-U processor, the motherboard with [...] The post ACEMAGIC Kron Mini K5 Review Part 2: A $400 Intel Core 3 304 Wildcat Lake mini PC tested with Windows 11 Pro appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/06/acemagic-kron-mini-k5-review-part-2-a-400-intel-core-3-304-wildcat-lake-mini-pc-tested-with-windows-11-pro/",
     "categories": [
-      "GPUs",
+      "Hardware",
       "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-09-05T12:03:55.153881"
+    "quality_score": 20,
+    "processed_date": "2026-09-06T12:19:29.132662"
   },
   {
-    "title": "Taiwan cracks down on tech businesses with illegal Chinese ownership 166 investigations and at least 36 convictions since 2020",
-    "summary": "Taiwan's top investigative agency has been tracking Chinese businesses operating on the island without proper authority and shutting them down. These companies have been hiring Taiwanese experts to help with their semiconductor research and development.",
-    "link": "https://www.tomshardware.com/tech-industry/policy/taiwan-cracks-down-on-tech-businesses-with-illegal-chinese-ownership-166-investigations-and-at-least-36-convictions-since-2020",
+    "title": "GPU shipments surged 12% despite weaker PC demand and higher memory costs",
+    "summary": "Standalone GPU shipments climbed 12.2% from the first quarter and 14.1% from a year earlier, according to Jon Peddie Research. The increase came as the broader client CPU market declined 1.1% year over year and desktop PC demand weakened. Read Entire Article",
+    "link": "https://www.techspot.com/news/113751-discrete-gpu-shipments-surged-122-despite-weaker-pc.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-06T12:19:29.134081"
+  },
+  {
+    "title": "CERN is moving more than 2,200 specialized computers from RHEL to Debian",
+    "summary": "During a recent conference held in Winterthur, Switzerland, engineers working at the European Organization for Nuclear Research (CERN) confirmed that the laboratory is going to move from Red Hat Enterprise Linux to Debian. The switch will affect more than 2,200 computers, many of which cannot be upgraded to newer RHEL... Read Entire Article",
+    "link": "https://www.techspot.com/news/113745-cern-moving-more-than-2200-specialized-computers-rhel.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-06T12:19:29.134183"
+  },
+  {
+    "title": "Starlink is offering half-price internet near xAI data centers, but critics want the pollution fixed",
+    "summary": "With roughly 2,000 reported subscribers since the offer was announced in July, compared with more than 250,000 households across Memphis, the discount appears unlikely to ease broader concerns about the company's unpermitted power generation and its environmental impact. Read Entire Article",
+    "link": "https://www.techspot.com/news/113749-spacexai-half-price-starlink-deal-memphis-has-signed.html",
     "categories": [
       "AI & ML",
       "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-09-05T12:03:55.153967"
-  },
-  {
-    "title": "Trump slaps up to 100% tariffs on imported drones and critical components in latest move against China's proliferation of U.S. drone market, citing national security products from allied nation face 10-15% rates",
-    "summary": "The Trump administration has imposed tariffs of up to 100% on imported drones and key components, as Washington intensifies its push to reduce reliance on Chinese drone technology and rebuild a domestic supply chain.",
-    "link": "https://www.tomshardware.com/tech-industry/drones/trump-slaps-up-to-100-percent-tariffs-on-imported-drones-and-critical-components-in-latest-move-against-chinas-proliferation-of-u-s-drone-market-citing-national-security-products-from-allied-nation-face-10-15-percent-rates",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-05T12:03:55.154055"
-  },
-  {
-    "title": "Japan to mass-procure 3D-printed rocket-powered drone interceptor Terra B1 capable of countering one-way attack platforms",
-    "summary": "Japan s military has decided to mass-procure Terra B1 interceptor drones. These drones are made using 3D printers and are based on the tried and tested A1 model from Terra Drone, which began to be deployed by Ukraine earlier this year.",
-    "link": "https://www.tomshardware.com/tech-industry/drones/japan-to-mass-procure-3d-printed-rocket-powered-drone-interceptor-terra-b1-capable-of-countering-one-way-attack-platforms",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-05T12:03:55.154142"
-  },
-  {
-    "title": "DLSS 5 officially launches inside NBA 2K27, limited to RTX 50-series GPUs for now Nvidia promises to bring neutral rendering tech to RTX 40-series soon",
-    "summary": "Nvidia's controversial neural-rendering tech, DLSS 5, is now officially available in NBA 2K27, marking the start of a new era for the company. DLSS 5 will also come to RTX 40-series soon after current work on optimizing it for the RTX 50-series has reached a satisfactory state.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/dlss-5-officially-launches-inside-nba-2k27-limited-to-rtx-50-series-gpus-for-now-nvidia-promises-to-bring-neutral-rendering-tech-to-rtx-40-series-soon",
-    "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-05T12:03:55.154232"
-  },
-  {
-    "title": "Minisforum launches local AI solutions at IFA 2026 AI Agent NAS N5 and AI Mini Workstation MS-S1 use AMD Ryzen AI Max+ Pro 495 processors designed to run models locally",
-    "summary": "Minisforum unveiled the NAS N5 Max-P495 and MS-S1 Max-P945 at IFA 2026. The NAS and mini-PC are powered by the AMD Ryzen AI Max+ Pro 495, which can be configured with up to 192GB of unified memory and packs a Radeon 8065S integrated GPU.",
-    "link": "https://www.tomshardware.com/pc-components/nas/minisforum-launches-local-ai-solutions-at-ifa-2026-ai-agent-nas-n5-and-ai-mini-workstation-ms-s1-use-amd-ryzen-ai-max-pro-495-processors-designed-to-run-models-locally",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-05T12:03:55.154330"
-  },
-  {
-    "title": "Frontier AI faces pricing reckoning as token volume explodes 25-fold mid-tier models deliver 90% of flagship capability at one-sixth the cost",
-    "summary": "As frontier AI developers push for cost savings as much as intelligence enhancements, new models push the boundaries of the pareto frontier, with even small advantages crowning new kings.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/frontier-ai-faces-pricing-reckoning-as-token-volume-explodes-25-fold-mid-tier-models-deliver-90-percent-of-flagship-capability-at-one-sixth-the-cost",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-05T12:03:55.154415"
-  },
-  {
-    "title": "Nvidia app update fails to block unofficial DLSS multi-frame generation mod on RTX 40 series gaming GPUs modders restore support across multiple games within hours",
-    "summary": "When NVIDIA launched the GeForce RTX 50 series, a major part of the hype surrounding the new GPU family was its support for DLSS Multi-Frame Generation. This feature was officially locked to the new RTX 50 \"Blackwell\" GPUs, but modders have been working on unlocking it for RTX 40-series cards for a while now.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/nvidia-app-update-fails-to-block-unofficial-dlss-multi-frame-generation-on-rtx-40-series-modders-restore-support-across-multiple-games-within-hours",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-05T12:03:55.154502"
-  },
-  {
-    "title": "HyperX Omen 15 review: Strong gaming performance and colorful OLED display, with obvious cost-cutting measures",
-    "summary": "While gaming performance is strong, there are some signs of cost-cutting.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/hyperx-omen-15-review",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-05T12:03:55.154580"
-  },
-  {
-    "title": "Denver data center continuously waters its lawn even after city announced drought restrictions, enraging residents it s unclear if site is breaking the law or using its own recycled water",
-    "summary": "An AI data center is reportedly watering its lawn despite the area suffering from a drought. One resident said that we can't water our lawns until next summer, but you better believe that they are watering their entire green with so many sprinklers.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/denver-data-center-continuously-waters-its-lawn-even-after-city-announced-drought-restrictions-enraging-residents-its-unclear-if-site-is-breaking-the-law-or-using-its-own-recycled-water",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-05T12:03:55.154666"
-  },
-  {
-    "title": "AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores and dual liquid-cooled MI350P accelerators 'the most powerful workstation in the world' can run trillion-parameter models, says AMD",
-    "summary": "AMD's Threadripper Halo Station packs a 96-core Zen 5 Threadripper, dual MI350P accelerators with support for four, and 2TB of DDR5.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-05T12:03:55.154757"
-  },
-  {
-    "title": "OpenTrailPaper transforms LILYGO T5 E-Paper S3 Pro devkit into a DIY e paper bike computer",
-    "summary": "OpenTrailPaper is an open-source, DIY e-paper bike computer project comprised of firmware for the ESP32-S3-based T5 E-Paper S3 Pro devkit and Android and iOS companion apps for maps, routes, and settings. It shows ride data and offline maps, follows standard GPX (GPS Exchange Format) routes, records FIT (Flexible and Interoperable Data Transfer used in Garmin devices) files, and connects to Bluetooth (and soon ANT/ANT+) heart rate, power, and cadence sensors. Before looking into the project s details, let s check out the LILYGO T5 E-Paper S3 Pro specifications: ESP32-S3-WROOM-1 wireless module SoC ESP32-S3N16R8 dual-core Tensilica LX7 microcontroller @ up to 240 MHz with 2.4 GHz 802.11n WiFi 4 and Bluetooth 5.0 LE connectivity Memory 8MB PSRAM Storage 16MB SPI flash PCB antenna Storage MicroSD card slot Display 4.7-inch e-Paper display with 960 540 resolution, 16 shades of gray, capacitive touch (GT911); ED047TC1 drive IC Wireless 2.4 GHz 802.11n [...] The post OpenTrailPaper transforms LILYGO T5 E-Paper S3 Pro devkit into a DIY e paper bike computer appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/09/05/opentrailpaper-transforms-lilygo-t5-e-paper-s3-pro-devkit-into-a-diy-e-paper-bike-computer/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-05T12:03:55.155186"
-  },
-  {
-    "title": "The lidar robotaxi debate continues, updated by Waymo s Dolgov",
-    "summary": "Waymo co-CEO Dolgov didn t name Tesla, but defended camera, lidar and radar as a requirement for its robotaxis",
-    "link": "https://www.fiercesensors.com/sensors-fusion/lidar-robotaxi-debate-continues-updated-waymos-dolgov",
-    "categories": [
-      "Tech News"
     ],
     "quality_score": 0,
-    "processed_date": "2026-09-05T12:03:55.156249"
+    "processed_date": "2026-09-06T12:19:29.134288"
   },
   {
-    "title": "Microsoft unveils distraction-free Windows for developers, but anyone can replicate it",
-    "summary": "As part of its push to promote AI-driven development, Microsoft and its hardware partners will begin selling high-end PCs with a clutter-free version of Windows later this year. However, instead of a separate Windows SKU, the machines will ship with pre-configured developer-friendly settings for Windows 11 Pro. Read Entire Article",
-    "link": "https://www.techspot.com/news/113747-microsoft-unveils-distraction-free-windows-developers-but-anyone.html",
+    "title": "Acer's new DualPlay Mini is a handheld gaming PC that flips open into a mini laptop",
+    "summary": "While unveiling its latest standard handheld gaming PC at IFA last week, Acer also offered an early look at its DualPlay Mini concept, which aims to offer a gaming handheld and a mini laptop in one product. If the device ever receives a proper launch, Acer might have one of... Read Entire Article",
+    "link": "https://www.techspot.com/news/113748-acer-unveils-prototype-convertible-hybrid-handheld-gaming-laptop.html",
     "categories": [
       "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-05T12:03:55.156434"
-  },
-  {
-    "title": "AMD's next-gen RDNA 5 GPUs could hit 3.4GHz, but they're not coming anytime soon",
-    "summary": "According to a post on the AnandTech Forums by the generally reliable leaker Kepler_L2, internal AMD documentation points to a 3.1 to 3.4 GHz target frequency range for RDNA 5. The comment came in response to another forum member questioning whether the integrated graphics in AMD's next-generation APUs could clock... Read Entire Article",
-    "link": "https://www.techspot.com/news/113744-amd-next-gen-rdna-5-gpus-could-hit.html",
-    "categories": [
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-05T12:03:55.156559"
-  },
-  {
-    "title": "Nvidia's PAIR software turns idle home computers into a local AI cluster",
-    "summary": "Nvidia has introduced a new software tool for jumpstarting an explosion in local inferencing infrastructure. The Personal AI Router (PAIR) project is open-source software designed to link different computer systems, even different computer operating systems, into a custom AI cluster where chatbots, AI agents, and other compatible LLM applications share... Read Entire Article",
-    "link": "https://www.techspot.com/news/113742-nvidia-pair-software-turns-idle-home-computers-local.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-05T12:03:55.156696"
-  },
-  {
-    "title": "OpenAI agents turned an obscure German wiki into a message board where they could talk to each other",
-    "summary": "Reuters reports that a swarm of agents commandeered DseWiki, an obscure German-language programming wiki, and turned it into a bulletin board where they shared answers and evasion tactics with other AI agents. Despite some descriptions of the incident, this was not German Wikipedia; DseWiki merely allows collaborative editing in a... Read Entire Article",
-    "link": "https://www.techspot.com/news/113743-openai-agents-turned-obscure-german-wiki-message-board.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-05T12:03:55.156845"
-  },
-  {
-    "title": "Lexar Muse claims world's thinnest portable SSD at 3.8mm, it can't fit a USB-C port",
-    "summary": "The new Lexar Muse Ultra-Slim Portable SSD, to give it its full name, has almost credit-card-like dimensions of 80 48 3.8 mm (3.15 x 1.89 x 0.15 inches). Read Entire Article",
-    "link": "https://www.techspot.com/news/113741-lexar-38-mm-muse-world-thinnest-portable-ssd.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-05T12:03:55.156950"
+    "processed_date": "2026-09-06T12:19:29.134390"
   }
 ]
