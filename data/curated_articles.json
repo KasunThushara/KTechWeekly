@@ -1,267 +1,241 @@
 [
   {
-    "title": "xTool reveals its next generation of lasers modular X1 supports CO2, Diode, UV, Fiber, and MOPA lasers",
-    "summary": "The X1 will combine gantry and galvo technology in one machine.",
-    "link": "https://www.tomshardware.com/maker-stem/xtool-reveals-its-next-generation-of-lasers-modular-x1-supports-co2-diode-uv-fiber-and-mopa-lasers",
+    "title": "Super Smash Bros Melee gets fully decompiled after over six years of effort ambitious and technically impressive project delivers GameCube classic as C code",
+    "summary": "A Super Smash Bros Melee decompilation project hit its key long-standing goal a few hours ago.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/super-smash-bros-melee-gets-fully-decompiled-after-over-six-years-of-effort-ambitious-and-technically-impressive-project-delivers-gamecube-classic-as-c-code",
     "categories": [
       "Tech News"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-09-07T14:26:47.998050"
+    "quality_score": 10,
+    "processed_date": "2026-09-08T13:03:31.451735"
   },
   {
-    "title": "OpenAI s GPT-6 Astra model autonomously completes Portal in 24 hours feat cost just $571 in tokens",
-    "summary": "An AI enthusiast has conducted an experiment where OpenAI's new GPT-6 Astra played through the entirety of Valve's Portal 3D puzzler game on its own.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-gpt-6-astra-model-autonomously-completes-portal-in-24-hours-feat-cost-just-usd571-in-tokens",
+    "title": "Sony threatens to cut off customer support and pursue legal action over harassment as backlash to PlayStation s physical-disc phaseout intensifies company to move forward with no disc decision despite several lawsuits",
+    "summary": "Sony Japan has introduced a customer-harassment policy as anger continues over PlayStation s plan to phase out physical game discs by 2028.",
+    "link": "https://www.tomshardware.com/video-games/playstation/sony-threatens-to-cut-off-customer-support-and-pursue-legal-action-over-harassment-as-backlash-to-playstations-physical-disc-phaseout-intensifies-company-to-move-forward-with-no-disc-decision-despite-several-lawsuits",
     "categories": [
-      "AI & ML"
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-07T14:26:47.998170"
+    "processed_date": "2026-09-08T13:03:31.451831"
   },
   {
-    "title": "Astonishing mod runs DLSS 5 on a second GPU to boost neural-rendered FPS up to 127% game renders on one card, neural post-processing runs on the other, much like dedicated PhysX GPUs",
-    "summary": "A modder has created a ReShade add-on that runs Nvidia's DLSS 5 Neural Rendering on a second GPU, rendering the game on the first GPU to share the performance load.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/astonishing-mod-runs-nvidia-dlss-5-on-a-second-gpu-using-a-reshade-add-on-to-reduce-performance-impact-boosts-neural-rendered-fps-up-to-127-percent-game-renders-on-one-card-neural-post-processing-runs-on-the-other-much-like-dedicated-physx-gpus",
+    "title": "All-in-one 'DLSS Unlocked' mod brings DLSS 5 and multi-frame gen to RTX 20, 30, and 40 series hybrid tool taps AMD FSR 3.1 to boost frame rates up to 6X",
+    "summary": "Performance for the mod remains untested but just the sheer utility of DLSS Unlocked easily puts it at the top of the RTX GPUs mod list. It combines OptiScaler_DLSSNR with DLSS Enabled to bring neural rendering and multi-frame gen to all RTX GPUs.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/all-in-one-dlss-unlocked-mod-brings-dlss-5-and-multi-frame-gen-to-rtx-20-30-and-40-series-hybrid-tool-taps-amd-fsr-3-1-to-boost-frame-rates-up-to-6x",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-09-07T14:26:47.998298"
+    "processed_date": "2026-09-08T13:03:31.451926"
   },
   {
-    "title": "Montech Century II Gold 850W ATX 3.1 power supply review: Excellent budget-friendly Gold-tier ATX 3.1 unit with Cybenetics Platinum efficiency",
-    "summary": "At $90, the Montech Century II Gold 850W ATX 3.1 is a low-cost Gold-tier ATX 3.1 unit with a native 12V-2x6 connector, Cybenetics Platinum efficiency at both 115V and 230V input, and a matte silver chassis.",
-    "link": "https://www.tomshardware.com/pc-components/power-supplies/montech-century-ii-gold-850w-atx-3-1-power-supply-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-07T14:26:47.998428"
-  },
-  {
-    "title": "GTA Vice City and GTA III return to web browsers after a DMCA takedown Open-source reverse engineering brings the classics to the web with over 100 FPS performance",
-    "summary": "You can play GTA: Vice City and GTA III in your browser right now across pretty much any modern device. The projects are compiled from source codes of the original games and are available on either DOS Zone, where you're required to upload or torrent a few assets, or Quenq.",
-    "link": "https://www.tomshardware.com/video-games/gta-vice-city-and-gta-iii-return-to-web-browsers-after-a-dmca-takedown-open-source-reverse-engineering-brings-the-classics-to-the-web-with-over-100-fps-performance",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-07T14:26:47.998558"
-  },
-  {
-    "title": "Anycubic Photon P1 MAX review: bigger, better, and tech-packed",
-    "summary": "Anycubic s Photon P1 MAX is the latest large resin printer, with new tech alongside its little brother, the P1. It sports a heated vat, Wave Release Technology, and a large, locking build plate and vat.",
-    "link": "https://www.tomshardware.com/3d-printing/anycubic-photon-p1-max-review",
-    "categories": [
-      "Tech News",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-07T14:26:47.998672"
-  },
-  {
-    "title": "This 10-inch 4:3 television hides your retro consoles in a secret rear compartment Unico's Traveller ULW10 trades composite video for RGB SCART and HDMI",
-    "summary": "The ULW10 Traveller offers retro gamers a compact alternative to modern widescreen TVs, complete with a 4:3 display and CRT-style visuals",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/this-10-inch-4-3-television-hides-your-retro-consoles-in-a-secret-rear-compartment-unicos-traveller-ulw10-trades-composite-video-for-rgb-scart-and-hdmi",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-07T14:26:47.998798"
-  },
-  {
-    "title": "RPCS3 emulator can now run PS3 games on PC directly from a disc drive in landmark development unlocks 20 years of physical titles on Windows, Linux, and macOS",
-    "summary": "The developers of the Sony PlayStation 3 emulator RPCS3 have told their social media followers that it is now possible to play games straight from discs.",
-    "link": "https://www.tomshardware.com/video-games/playstation/rpcs3-emulator-can-now-run-games-on-pc-directly-from-a-disc-drive-in-landmark-development-unlocks-20-years-of-physical-ps3-games-on-windows-linux-and-macos",
+    "title": "NEC has quietly quit quantum computing hardware development, report claims company says it will continue to evaluate practical applications and industrialization of quantum technologies",
+    "summary": "NEC reportedly quits development of quantum computers, but plans to explore practical applications for such systems.",
+    "link": "https://www.tomshardware.com/tech-industry/quantum-computing/nec-has-quietly-quit-quantum-computing-hardware-development-report-claims-company-says-it-will-continue-to-evaluate-practical-applications-and-industrialization-of-quantum-technologies",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-09-07T14:26:47.998936"
+    "processed_date": "2026-09-08T13:03:31.452017"
   },
   {
-    "title": "Flea market shopper uncovers $1,500 worth of Samsung SSDs inside a $30 expansion card Three 2TB 980 Pro drives were hidden beneath an Asus Hyper M.2 heatsink",
-    "summary": "An extremely fortunate bargain hunter in Kuwait found three Samsung 980 Pro 2TB SSDs slotted inside a $30 PCIe expansion card. Each of those drives is worth between $400 and $500, so it's clear to say the thrifter struck gold during an AI rush.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/flea-market-shopper-uncovers-usd1-500-worth-of-samsung-ssds-inside-a-usd30-expansion-card-three-2tb-980-pro-drives-were-hidden-beneath-an-asus-hyper-m-2-heatsink",
+    "title": "Vintage Emulator Studio recreates 44 legendary synths down to the chip level free MAME-powered component-level emulation should offer exceedingly accurate sound",
+    "summary": "Vintage Emulator Studio brings iconic vintage synths and samplers to life MAME-powered component-level emulation should offer exceedingly accurate sound",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/vintage-emulator-studio-recreates-44-legendary-synths-down-to-the-chip-level-free-mame-powered-component-level-emulation-should-offer-exceedingly-accurate-sound",
     "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-07T14:26:47.999057"
-  },
-  {
-    "title": "This price-hike-busting RTX 5080 gaming PC is cheaper than it was in April save $500 on a 9800X3D beast with 32GB of DDR5, 2TB SSD",
-    "summary": "Get an RTX 5080 gaming PC with a 9800X3D CPU for less than $3,000.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/this-price-hike-busting-rtx-5080-gaming-pc-is-cheaper-than-it-was-in-april-save-usd500-on-a-9800x3d-beast-with-32gb-of-ddr5-2tb-ssd",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-09-07T14:26:47.999163"
-  },
-  {
-    "title": "Enthusiast says DLSS 5 pushed RTX 5090 past 600W and melted the 16-pin connector Nvidia's neural rendering tech adds up to 50% more power draw in testing",
-    "summary": "Another RTX 5090 has gone down but this time it has something else to blame other than its own 16-pin connector. The connector is still what melted but potentially because of DLSS 5 pulling way too much power at the back end.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/enthusiast-says-dlss-5-pushed-rtx-5090-past-600w-and-melted-the-16-pin-connector-nvidias-neural-rendering-tech-adds-up-to-50-percent-more-power-draw-in-testing",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-07T14:26:47.999321"
-  },
-  {
-    "title": "Single-slot low-profile 75W RTX 3060 with no power connectors disappoints in tests GPU runs entirely off the PCIe slot, but offers severely crippled performance and frightening thermals",
-    "summary": "If you want to cut your 12GB RTX 3060's performance in half while worsening its thermals, this might be the perfect product for you.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/single-slot-low-profile-75w-rtx-3060-with-no-power-connectors-disappoints-in-tests-gpu-runs-entirely-off-the-pcie-slot-but-offers-severely-crippled-performance-and-frightening-thermals",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-07T14:26:47.999456"
-  },
-  {
-    "title": "OpenAI admits to 'wiki incident' after its agents were discovered using a programming hub to communicate says more transparency is needed regarding misalignments",
-    "summary": "OpenAI has admitted that its experimental AI agents used an open German programming wiki to communicate.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-admits-to-wiki-incident-after-its-agents-were-discovered-using-a-programming-hub-to-communicate-says-more-transparency-is-needed-regarding-misalignments",
-    "categories": [
-      "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-07T14:26:47.999571"
+    "processed_date": "2026-09-08T13:03:31.452100"
   },
   {
-    "title": "FSP Mega GM 1200W power supply review: An in-house FSP platform that quietly overshoots its own Gold label",
-    "summary": "The FSP Mega GM 1200W power supply features Platinum-grade efficiency, an all-Japanese capacitor set, and a compact footprint that is rare on a 1200W unit.",
-    "link": "https://www.tomshardware.com/pc-components/power-supplies/fsp-mega-gm-1200w-power-supply-review",
+    "title": "Hackers drain $320 million in Bitcoin from Liquid Network, emptying roughly 95% of federation wallet attackers claim they re the good guys and will return funds after the vulnerability is fixed",
+    "summary": "Hackers claiming to be white hats drained about $320 million in Bitcoin from Liquid Network s federation wallet, promising to return the funds after the platform fixes the underlying bug",
+    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/hackers-drain-usd320-million-in-bitcoin-from-liquid-network-emptying-roughly-95-percent-of-federation-wallet-attackers-claim-theyre-the-good-guys-and-will-return-funds-after-the-vulnerability-is-fixed",
     "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-07T14:26:47.999680"
-  },
-  {
-    "title": "Bitcoin mining data center condemned after leaking 3 million gallons of water and forcing school closures facility operated for years under a city stop-work order",
-    "summary": "A Bitcoin mining data center in El Reno, Oklahoma has been condemned after it leaked 3 million gallons of water.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order",
-    "categories": [
-      "Tech News"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-07T14:26:47.999807"
+    "processed_date": "2026-09-08T13:03:31.452198"
   },
   {
-    "title": "MSI MEG CoreLiquid E15 360 AIO Review: Bold and stunning, with market-leading performance",
-    "summary": "MSI s MEG CoreLiquid E15 360 AIO is a luxury cooling product, with a stunning 6.7-inch screen and industry-leading thermal performance.",
-    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/msi-meg-coreliquid-e15-360-aio-review-bold-and-stunning-with-market-leading-performance",
+    "title": "Google maps entire brain and central nervous system of adult male fruit fly, software engineers immediately make it run Doom AI-powered 3D model of over 166,000 neurons can also play Super Mario 64",
+    "summary": "Scientists mapped the complete brain and central nervous system of an adult male fruit fly for the first time. Days later the full MaleCNS v1.0 fruit fly connectome was being trained to play Doom and Mario 64.",
+    "link": "https://www.tomshardware.com/software/programming/google-maps-entire-brain-and-central-nervous-system-of-adult-male-fruit-fly-software-engineers-immediately-make-it-run-doom-ai-powered-3d-model-of-over-166-000-neurons-can-also-play-super-mario-64",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "AI & ML"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-09-07T14:26:47.999929"
+    "quality_score": 5,
+    "processed_date": "2026-09-08T13:03:31.452286"
   },
   {
-    "title": "XIAO SAMD21 Plus and RP2040 Plus USB-C boards get additional GPIO pins, integrated Li-ion battery management",
-    "summary": "Seeed Studio has expanded its XIAO Plus Series introduced in 2025, with the XIAO SAMD21 Plus and XIAO RP2040 Plus USB-C boards adding several GPIOs and integrated Li-ion battery management to the XIAO (SAMD21) and XIAO RP2040, launched in 2020 and 2021, respectively, while keeping the same form factor. XIAO SAMD21 Plus Specifications: MCU Microchip SAMD21G18 Arm Cortex-M0+ microcontroller at up to 48MHz with 256KB Flash,32KB SRAM USB 1x USB Type-C port for power and programming Expansion I/Os 2x 7-pin legacy headers with 11x analog inputs, 11x digital I/Os, 1x DAC, SPI, UART, and I2C Castellated holes and pads with 16x digital I/Os, I2C,and I2S 3.3V I/O voltage (not 5V tolerant) Misc Reset and Boot buttons RGB LED Charge LED Power Supply 5V via USB-C port Pads for battery On-board PMIC Dimensions 23.5 17.5 mm Temperature Range -40 C ~ 85 C The upgraded variant of the XIAO SAMD21 [...] The post XIAO SAMD21 Plus and RP2040 Plus USB-C boards get additional GPIO pins, integrated Li-ion battery management appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/09/07/xiao-samd21-plus-and-rp2040-plus-usb-c-boards-get-additional-gpio-pins-integrated-li-ion-battery-management/",
+    "title": "Thailand asks data center operators to suspend 49 buildouts until legal framework is complete new legislation is supposed to create 'airtight' requirements for large-scale data centers",
+    "summary": "Thailand asks datacenter operators to suspend buildouts until legal framework is complete new legislation is supposed to create \"airtight\" requirements for large-scale datacenters",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/thailand-asks-datacenter-operators-to-suspend-buildouts-until-legal-framework-is-complete-new-legislation-is-supposed-to-create-airtight-requirements-for-large-scale-datacenters",
     "categories": [
-      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-08T13:03:31.452388"
+  },
+  {
+    "title": "German scammer dupes two different buyers into spending thousands on hollow RTX 5090 GPUs stripped-out cards netted fraudster $5,000 despite being worthless",
+    "summary": "Graphics card scams without the core and memory chips are spreading worldwide, with the latest report coming from Germany.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/german-scammer-dupes-two-different-buyers-into-spending-thousands-on-hollow-rtx-5090-gpus-stripped-out-cards-netted-fraudster-usd5-000-despite-being-worthless",
+    "categories": [
+      "GPUs",
       "Semiconductors"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-09-07T14:26:48.000479"
-  },
-  {
-    "title": "Roger Grace MEMS report validates the rising role of AI",
-    "summary": "Dozens of thought leaders in the 2025 Roger Grace MEMS Commercialization Report Card described the dramatically increasing role of AI as MEMS technology has reached mature status after years of growth. The experts' aggregate grade was B-minus, the same as the prior three years.",
-    "link": "https://www.fiercesensors.com/ai/mems-report-validates-rising-role-ai",
-    "categories": [
-      "AI & ML"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-09-07T14:26:48.001706"
+    "processed_date": "2026-09-08T13:03:31.452472"
   },
   {
-    "title": "Elon Musk's xAI fails to block Minnesota law banning AI-generated nudify apps",
-    "summary": "On August 1, Minnesota banned apps and websites that allow users to generate non-consensual sexualized imagery. The companies behind these services can be fined $500,000 for each unlawful access or download of images that were altered to make someone appear naked or worse, which could add up to the hundreds... Read Entire Article",
-    "link": "https://www.techspot.com/news/113760-xai-loses-legal-battle-against-minnesota-nudification-law.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-07T14:26:48.002007"
-  },
-  {
-    "title": "Japan is launching a mission to bring back the first samples from a Martian moon",
-    "summary": "MMX is expected to take about a year to reach Mars. It will then spend three years operating around the planet and its moons before beginning a roughly one-year trip back to Earth. The sample return is expected in 2031. Read Entire Article",
-    "link": "https://www.techspot.com/news/113757-japan-mmx-mission-attempt-land-phobos-bring-martian.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-07T14:26:48.002186"
-  },
-  {
-    "title": "Humanoid robots are being prepared for combat as China moves them from labs to military training grounds",
-    "summary": "August saw the World Humanoid Robot Games take place in China, where robots took parts in several events. The same month, Unitree claimed its Superman robot can run faster than Usain Bolt, although the figure has not been independently verified. Read Entire Article",
-    "link": "https://www.techspot.com/news/113758-china-turns-humanoid-robots-showpiece-potential-battlefield-force.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-07T14:26:48.002397"
-  },
-  {
-    "title": "A Microsoft engineer says \"typing code is absolutely over,\" here's what he means",
-    "summary": "Fowler was not suggesting that software engineers are becoming unnecessary. But as AI handles more routine coding work, developers may spend less time writing individual lines and more time on system design, requirements, dependencies, and the review needed to make sure software is secure and works as intended. Read Entire Article",
-    "link": "https://www.techspot.com/news/113752-microsoft-engineer-typing-code-absolutely-over-github-copilot.html",
+    "title": "One-slot, low-profile Nvidia RTX 3060 12 GB with two monitor outputs breaks cover at Newegg for $496 bus-powered model looking for a use case in local LLM work",
+    "summary": "Small-form-factor, low-profile Nvidia RTX 3060 12 GB with two monitor outputs breaks cover at Newegg for $496 bus-powered model looking for a use case in local LLM work",
+    "link": "https://www.tomshardware.com/pc-components/gpus/one-slot-low-profile-nvidia-rtx-3060-12-gb-with-two-monitor-outputs-breaks-cover-at-newegg-for-usd496-bus-powered-model-looking-for-a-use-case-in-local-llm-work",
     "categories": [
       "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-07T14:26:48.002582"
-  },
-  {
-    "title": "GeForce RTX 5070 vs. Radeon RX 9070 XT: 2026 Update",
-    "summary": "This is a big test: across 52 games at 1440p and 4K , the Radeon RX 9070 XT is ~25% faster than the RTX 5070, while also costing less and offering 16GB of VRAM. Let's take a closer look. Read Entire Article",
-    "link": "https://www.techspot.com/review/3168-geforce-rtx-5070-vs-radeon-rx-9070-xt/",
-    "categories": [
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-07T14:26:48.002755"
+    "processed_date": "2026-09-08T13:03:31.452558"
   },
   {
-    "title": "AMD's new workstation pairs a 96-core Threadripper with 576GB of GPU memory",
-    "summary": "The system pairs the 96-core Ryzen Threadripper PRO 9995WX processor with up to four Instinct MI350P accelerators. AMD demonstrated a two-card version at IFA, while a fully configured model with four accelerators would provide 576 GB of HBM3E memory enough, the company said, to hold a trillion-parameter model on... Read Entire Article",
-    "link": "https://www.techspot.com/news/113750-amd-new-workstation-pairs-96-core-threadripper-576gb.html",
+    "title": "Tech enthusiast finds $12,000 stack of RAM in their garage work let them keep an old server stuffed with 1,920GB of DDR4",
+    "summary": "A computing enthusiast found a fat stack of DDR4 RAM sticks that might be worth $10,000 in their garage.",
+    "link": "https://www.tomshardware.com/pc-components/ddr4/tech-enthusiast-finds-usd12-000-stack-of-ram-in-their-garage-work-let-them-keep-an-old-server-stuffed-with-1-920gb-of-ddr4",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-08T13:03:31.452634"
+  },
+  {
+    "title": "Belgian-Chinese semiconductor researcher arrested over alleged GaN trade-secret theft prosecutors suspect BelGaN insiders transferred chip IP to China before the company collapsed",
+    "summary": "Belgian authorities have arrested a former BelGaN researcher on suspicion of industrial espionage, alleging that proprietary gallium nitride semiconductor technology was transferred to a Chinese rival as the Belgian chipmaker headed toward bankruptcy.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/belgian-chinese-semiconductor-researcher-arrested-over-alleged-gan-trade-secret-theft-prosecutors-suspect-belgan-insiders-transferred-chip-ip-to-china-before-the-company-collapsed",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-08T13:03:31.452723"
+  },
+  {
+    "title": "Intel surpasses one million High-NA EUV wafers processed, outpaces the rest of the industry combined company also trailblazing giant 6 12 photomasks to speed production and lower costs",
+    "summary": "Intel is leading the semiconductor industry with High-NA fleet and process-maturity milestone as it reaches 1 million wafers processed using High-NA tools, moves forward with 6 12 photomask effort.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-surpasses-one-million-high-na-euv-wafers-processed-outpaces-the-rest-of-the-industry-combined-company-also-trailblazing-giant-6-12-photomasks-to-speed-production-and-lower-costs1",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-08T13:03:31.452810"
+  },
+  {
+    "title": "Arm debuts next-gen semi-custom Neoverse CSS N4 Ranger platform compute subsystem packs up to 128 cores per die on TSMC N3P",
+    "summary": "Arm s new Neoverse CSS N4 platform can pack up to 128 cores per die and 256 MB of L3 cache, representing a large increase in support over the previous Neoverse CSS N2 platform.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/arm-debuts-next-gen-semi-custom-neoverse-css-n4-ranger-platform-compute-subsystem-packs-up-to-128-cores-per-die-on-tsmc-n3p",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-08T13:03:31.452887"
+  },
+  {
+    "title": "Arm CSS for Mobile 2 AI-Native platform: Arm C2-Ultra and C2-Pro CPU cores, Mali G2-Ultra NX GPU",
+    "summary": "Arm has introduced the CSS for Mobile 2 platform as an AI-native compute foundation comprised of the Arm C2-Ultra and C2-Pro CPUs with SME2 (Scalable Matrix Extension 2) units and the Mali G2-Ultra NX GPU with dedicated neural accelerators that enable neural graphics to run natively on the GPU. Arm C2-Ultra and C2-Pro CPUs Arm C2-Ultra specifications: Architecture Armv9.3-A Extensions Armv9.4-A (Some key features) SME2 Extensions SVE2 Extensions Cryptography Extensions RAS Extensions ISA support AArch64 Microarchitecture Pipeline Out-of-order Superscalar Neon and SVE2 Optional Cryptography Unit Up to 14x CPUs in cluster 40-bit Physical Addressing Memory System and External Interfaces 64KB (I-Cache), 128KB (D-Cache) 2MB or 3MB L2 Cache Optional, 256KB to 32MB L3 Cache ECC Support Bus interfaces AMBA AXI5 or CHI.E Optional ACP Optional Peripheral Port Security TrustZone, Secure-EL2 Interrupts GIC interface, GICv4.1 PMU PMUv3 CoreSight CoreSightv3 Embedded Trace Extension [...] The post Arm CSS for Mobile 2 AI-Native platform: Arm C2-Ultra and C2-Pro CPU cores, Mali G2-Ultra NX GPU appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/08/arm-css-for-mobile-2-ai-native-platform-arm-c2-ultra-and-c2-pro-cpu-cores-mali-g2-ultra-nx-gpu/",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-09-07T14:26:48.002964"
+    "quality_score": 15,
+    "processed_date": "2026-09-08T13:03:31.453331"
   },
   {
-    "title": "Miami wants to turn parts of the city into a real-life GTA Vice City, but sheriff opposes the plan",
-    "summary": "A public records request last week revealed that Miami-Dade Mayor Daniella Levine Cava put forward the idea of a \"GTA VI MDC\" marketing collaboration to Rockstar Games in June. Read Entire Article",
-    "link": "https://www.techspot.com/news/113753-miami-dade-wants-turn-parts-city-real-life.html",
+    "title": "YuzukiNeko A Linux-capable Allwinner F101 RISC-V SBC with Raspberry Pi Pico form factor",
+    "summary": "YuzukiHD has made another open-source hardware Linux SBC. YuzukiNeko is a Raspberry Pi Pico-sized single board computer powered by a new Allwinner F101 RISC-V SoC. The Allwinner F101 processor features a single 1.008 GHz C907 RISC-V core, 8MB or 16 MB PSRAM, and support for various display interfaces such as MIPI DSI, 24-bit RGB, and LVDS. The YuzukiNeko board itself features the F101 SoC, an SPI NOR flash, a microSD card for storage, a USB-C port, and two 20-pin GPIO headers. YuzukiNeko specifications: SoC Allwinner F101 CPU T-head C907 RISC-V core up to 1.008 GHz Memory 8MB or 16MB PSRAM @ 252 MHz Package QFN-68 Storage 128 Mbit NOR flash (PY25Q128HA-SUH-IT) MicroSD card slot USB USB Type-C port for data, power, and programming Expansion 2x 20-pin expansion headers with GPIOs, ADC, 5V, 3.3V, and GND 5x pads with HP out (analog speaker output) and four [...] The post YuzukiNeko A Linux-capable Allwinner F101 RISC-V SBC with Raspberry Pi Pico form factor appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/08/yuzukineko-a-linux-capable-allwinner-f101-64-bit-risc-v-sbc-with-raspberry-pi-pico-form-factor/",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-08T13:03:31.453458"
+  },
+  {
+    "title": "Bet you can t fully define a robot. Arm agrees.",
+    "summary": "Sensors function in a world of fragmentation across robots and physical AI models and systems. Arm is spearheading an effort to change that.",
+    "link": "https://www.fiercesensors.com/ai/bet-you-cant-fully-define-robot-arm-agrees",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-09-08T13:03:31.454345"
+  },
+  {
+    "title": "How Humble Robotics validates camera, lidar and radar systems without millions of road miles",
+    "summary": "The autonomous freight startup's camera-first approach relies on lidar and radar redundancy, while photorealistic simulations help test edge cases before deployment.",
+    "link": "https://www.fiercesensors.com/electronics/how-humble-robotics-validates-camera-lidar-and-radar-systems-without-millions-road",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-07T14:26:48.003135"
+    "processed_date": "2026-09-08T13:03:31.454608"
+  },
+  {
+    "title": "Old School RuneScape developer sentenced for stealing and selling in-game virtual gold",
+    "summary": "Stealing virtual gold coins can earn some real-world money, even in retro-focused experiences such as Old School RuneScape. A developer named Andrew Lakeman tried to abuse his privileged position as a content creator working at Jagex, but a years-long investigation has illustrated that crime does not pay no matter... Read Entire Article",
+    "link": "https://www.techspot.com/news/113762-old-school-runescape-developer-sentenced-stealing-selling-game.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-08T13:03:31.454805"
+  },
+  {
+    "title": "An AI-developed drug appeared to make patients biologically younger in a clinical trial",
+    "summary": "The experimental drug, rentosertib, comes from Insilico Medicine and was developed to treat idiopathic pulmonary fibrosis, a disease that progressively scars the lungs. Read Entire Article",
+    "link": "https://www.techspot.com/news/113767-ai-developed-drug-appeared-make-patients-biologically-younger.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-08T13:03:31.454930"
+  },
+  {
+    "title": "Jeep, Ram, Hyundai, and Ford are turning to gas backup engines to save the electric truck",
+    "summary": "The approach could make electric trucks and larger SUVs more practical, though its success will depend on whether consumers see enough value in the added technology to pay more for it. Read Entire Article",
+    "link": "https://www.techspot.com/news/113759-jeep-ram-ford-hyundai-turn-extended-range-evs.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-08T13:03:31.455044"
+  },
+  {
+    "title": "You can now play PS3 games straight from the disc, without owning a PS3",
+    "summary": "The RPCS3 team recently unveiled a major upgrade for the emulator: PS3 games can now run directly from their original Blu-ray discs, giving retro gaming enthusiasts a new way to use their physical collections. The developers are billing it as a \"plug & play\" solution, though users will still need... Read Entire Article",
+    "link": "https://www.techspot.com/news/113754-you-can-now-play-ps3-games-straight-disc.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-08T13:03:31.455190"
+  },
+  {
+    "title": "Microsoft promises faster Windows 11 boot times and better performance on 8GB PCs",
+    "summary": "As reported by Windows Latest, Mark Linton, Corporate Vice President of Windows & Devices at Microsoft, spoke about the improvements being made to Windows 11, including \"significant gains on things like boot time, Windows Hello responsiveness...\" Read Entire Article",
+    "link": "https://www.techspot.com/news/113761-microsoft-confirms-windows-11-boot-faster-run-great.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-08T13:03:31.455308"
   }
 ]
