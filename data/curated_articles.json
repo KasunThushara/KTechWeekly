@@ -1,241 +1,319 @@
 [
   {
-    "title": "Super Smash Bros Melee gets fully decompiled after over six years of effort ambitious and technically impressive project delivers GameCube classic as C code",
-    "summary": "A Super Smash Bros Melee decompilation project hit its key long-standing goal a few hours ago.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/super-smash-bros-melee-gets-fully-decompiled-after-over-six-years-of-effort-ambitious-and-technically-impressive-project-delivers-gamecube-classic-as-c-code",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-08T13:03:31.451735"
-  },
-  {
-    "title": "Sony threatens to cut off customer support and pursue legal action over harassment as backlash to PlayStation s physical-disc phaseout intensifies company to move forward with no disc decision despite several lawsuits",
-    "summary": "Sony Japan has introduced a customer-harassment policy as anger continues over PlayStation s plan to phase out physical game discs by 2028.",
-    "link": "https://www.tomshardware.com/video-games/playstation/sony-threatens-to-cut-off-customer-support-and-pursue-legal-action-over-harassment-as-backlash-to-playstations-physical-disc-phaseout-intensifies-company-to-move-forward-with-no-disc-decision-despite-several-lawsuits",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-08T13:03:31.451831"
-  },
-  {
-    "title": "All-in-one 'DLSS Unlocked' mod brings DLSS 5 and multi-frame gen to RTX 20, 30, and 40 series hybrid tool taps AMD FSR 3.1 to boost frame rates up to 6X",
-    "summary": "Performance for the mod remains untested but just the sheer utility of DLSS Unlocked easily puts it at the top of the RTX GPUs mod list. It combines OptiScaler_DLSSNR with DLSS Enabled to bring neural rendering and multi-frame gen to all RTX GPUs.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/all-in-one-dlss-unlocked-mod-brings-dlss-5-and-multi-frame-gen-to-rtx-20-30-and-40-series-hybrid-tool-taps-amd-fsr-3-1-to-boost-frame-rates-up-to-6x",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-08T13:03:31.451926"
-  },
-  {
-    "title": "NEC has quietly quit quantum computing hardware development, report claims company says it will continue to evaluate practical applications and industrialization of quantum technologies",
-    "summary": "NEC reportedly quits development of quantum computers, but plans to explore practical applications for such systems.",
-    "link": "https://www.tomshardware.com/tech-industry/quantum-computing/nec-has-quietly-quit-quantum-computing-hardware-development-report-claims-company-says-it-will-continue-to-evaluate-practical-applications-and-industrialization-of-quantum-technologies",
+    "title": "Goodram PX700 2TB SSD Review High-end punch on a budget core",
+    "summary": "The Goodram PX700 matches good all-around performance with high power-efficiency in a cool-running package. It performs mostly like a premium drive, although pricing remains a concern.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/goodram-px700-2tb-ssd-review",
     "categories": [
       "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-09-09T13:09:06.597016"
+  },
+  {
+    "title": "OpenAI's breakthrough solution for the elusive Navier-Stokes problem overshadowed by plagiarism controversy researcher says OpenAI scraped Codex session and issued career threats",
+    "summary": "OpenAI announced that a team using one of its internal frontier models has solved the Navier-Stokes problem. However, the announcement has been mired in controversy.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-breakthrough-solution-for-the-elusive-navier-stokes-problem-overshadowed-by-plagiarism-controversy-researcher-says-openai-scraped-codex-session-and-issued-career-threats",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-09-09T13:09:06.597151"
+  },
+  {
+    "title": "LG strongly denies TV spying claims, says tracking and snooping concerns 'not true' online investigation claims 216,000,000 TVs spy and record audio",
+    "summary": "LG has strongly denied recent security and privacy concerns raised regarding its smart TVs.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-09T13:09:06.597266"
+  },
+  {
+    "title": "Nintendo unveils The Legend of Zelda 40th Anniversary Switch 2 for $520 First-ever special-edition Switch 2 drops October 19, alongside $100 Pro Controller, pre-orders live",
+    "summary": "Nintendo is releasing its first-ever limited-edition Switch 2 to commemorate Zelda's 40th anniversary and it will cost $520. It does not come with Ocarina of Time, but you can purchase a similarly-themed Pro Controller for $100.",
+    "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-unveils-the-legend-of-zelda-40th-anniversary-switch-2-for-usd520-first-ever-special-edition-switch-2-drops-october-19-alongside-usd100-pro-controller-pre-orders-live",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-09T13:09:06.597387"
+  },
+  {
+    "title": "OpenAI claims GPT-6 Astra is an ethereal 'Alien Mind' with AGI-like qualities company warns of alignment challenges as new frontier leader emerges",
+    "summary": "OpenAI has made bold claims with its new GPT-6 Astra AI model, and it's certainly capable, but benchmarks suggest it has many of the usual weaknesses alongside the strengths, while cost and accessibility are still the biggest factors in widespread usage.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-claims-gpt-6-astra-is-an-ethereal-alien-mind-with-agi-like-qualities-company-warns-of-alignment-challenges-as-new-frontier-leader-emerges",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-09T13:09:06.597511"
+  },
+  {
+    "title": "This $502 4TB Crucial T705 is the cheapest Gen 5 SSD you can buy right now for just 12.5 cents per GB ultra-fast storage upgrade with unreal 14,500 MB/s speeds is $181 less than a month ago, hitting its lowest price since February",
+    "summary": "Save 10% on this 4TB Crucial T705 SSD, the cheapest Gen 5 4TB SSD on the market by some distance at the moment, now just $502.51.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/this-usd502-4tb-crucial-t705-is-the-cheapest-gen-5-ssd-you-can-buy-right-now-for-just-12-5-cents-per-gb-ultra-fast-storage-upgrade-with-unreal-14-500-mb-s-speeds-is-usd181-less-than-a-month-ago-hitting-its-lowest-price-since-february",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-09T13:09:06.597623"
+  },
+  {
+    "title": "Phanteks AMP GH 750W power supply review: Great buy at sub-$90 street pricing, but comes with a 450W cap on its 12V-2x6 connector",
+    "summary": "Phanteks' mainstream ATX 3.1 line, with Japanese capacitors, an 8-year warranty, and street pricing under $90, but with a 450W cap on its 12V-2x6 connector.",
+    "link": "https://www.tomshardware.com/pc-components/power-supplies/phanteks-amp-gh-750w-power-supply-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-09T13:09:06.597742"
+  },
+  {
+    "title": "Nvidia's unreleased RTX 3070 Ti 16GB comes to life thanks to a modder's crazy GDDR6 swap Frankenstein card combines RTX 3070 PCB and new VRAM with RTX 3070 Ti GPU",
+    "summary": "A modder has recreated the never-released RTX 3070 Ti with 16GB of VRAM using GDDR6 chips instead of the GDDR6X the retail 3070 Ti actually shipped with.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-unreleased-rtx-3070-ti-16gb-comes-to-life-thanks-to-a-modders-crazy-gddr6-swap-frankenstein-card-combines-rtx-3070-pcb-and-new-vram-with-rtx-3070-ti-gpu",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-09T13:09:06.597897"
+  },
+  {
+    "title": "Researcher reverse-engineers infamous Stuxnet malware source code, publishes it on Github for all attack targeted Iranian nuclear facilities and was the first software of its type to cause physical damage",
+    "summary": "An anonymous security researcher has reconstructed the source code of the infamous Stuxnet worm, which was built to subtly interfere with Iranian uranium enrichment during the Bush and Obama administrations.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/researcher-reconstructs-infamous-stuxnet-malware-source-code-attack-targeted-iranian-nuclear-facilities-and-was-the-first-software-of-its-type-to-cause-physical-damage",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-09T13:09:06.598019"
+  },
+  {
+    "title": "Big Tech eyes glacier-strewn Patagonia for building mega AI data centers region offers 17,300 glaciers, coldness, and cheap energy, but fiber lines are scarce",
+    "summary": "Patagonia, a region of Argentina with 17,300 glaciers has the potential to turn into a data center hotspot.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/glacier-strewn-patagonia-pitches-for-mega-data-center-business-coldness-and-energy-resources-a-plus-but-poor-connectivity-issues-need-to-be-resolved",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-09T13:09:06.598127"
+  },
+  {
+    "title": "More than 10% chance AI 'could kill all humans' in the next 10 years, Anthropic safety researcher says departing employee says AI companies are 'gambling with our lives'",
+    "summary": "Anthropic AI safety researcher has warned there's a more than 10% chance AI could kill all humans.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/more-than-10-percent-chance-ai-could-kill-all-humans-in-the-next-10-years-anthropic-safety-researcher-says-departing-employee-says-ai-companies-are-gambling-with-our-lives",
+    "categories": [
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-09-08T13:03:31.452017"
+    "processed_date": "2026-09-09T13:09:06.598236"
   },
   {
-    "title": "Vintage Emulator Studio recreates 44 legendary synths down to the chip level free MAME-powered component-level emulation should offer exceedingly accurate sound",
-    "summary": "Vintage Emulator Studio brings iconic vintage synths and samplers to life MAME-powered component-level emulation should offer exceedingly accurate sound",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/vintage-emulator-studio-recreates-44-legendary-synths-down-to-the-chip-level-free-mame-powered-component-level-emulation-should-offer-exceedingly-accurate-sound",
+    "title": "TSMC to start using High-NA EUV lithography in 2030 A10 or A11 technology prime candidates for use",
+    "summary": "TSMC discloses plans to use High-NA EUV lithography in 2030, 6 12-inch photomasks with new scanners in 2033.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-to-start-using-high-na-euv-lithography-in-2030-a10-or-a11-technology-prime-candidates-for-use",
     "categories": [
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-08T13:03:31.452100"
+    "processed_date": "2026-09-09T13:09:06.598336"
   },
   {
-    "title": "Hackers drain $320 million in Bitcoin from Liquid Network, emptying roughly 95% of federation wallet attackers claim they re the good guys and will return funds after the vulnerability is fixed",
-    "summary": "Hackers claiming to be white hats drained about $320 million in Bitcoin from Liquid Network s federation wallet, promising to return the funds after the platform fixes the underlying bug",
-    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/hackers-drain-usd320-million-in-bitcoin-from-liquid-network-emptying-roughly-95-percent-of-federation-wallet-attackers-claim-theyre-the-good-guys-and-will-return-funds-after-the-vulnerability-is-fixed",
+    "title": "Intel reportedly set to hike CPU prices by 10% ahead of 'major annual product' launch in March 2027 report says AMD will follow up between June and July",
+    "summary": "Intel is reportedly set to raise CPU prices by 10%, following two other price increases, as it prepares for a major product launch in March 2027.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-reportedly-set-to-hike-cpu-prices-by-10-percent-ahead-of-major-annual-product-launch-in-march-2027-report-says-amd-will-follow-up-between-june-and-july",
     "categories": [
-      "AI & ML"
+      "Hardware",
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-08T13:03:31.452198"
+    "processed_date": "2026-09-09T13:09:06.598451"
   },
   {
-    "title": "Google maps entire brain and central nervous system of adult male fruit fly, software engineers immediately make it run Doom AI-powered 3D model of over 166,000 neurons can also play Super Mario 64",
-    "summary": "Scientists mapped the complete brain and central nervous system of an adult male fruit fly for the first time. Days later the full MaleCNS v1.0 fruit fly connectome was being trained to play Doom and Mario 64.",
-    "link": "https://www.tomshardware.com/software/programming/google-maps-entire-brain-and-central-nervous-system-of-adult-male-fruit-fly-software-engineers-immediately-make-it-run-doom-ai-powered-3d-model-of-over-166-000-neurons-can-also-play-super-mario-64",
+    "title": "Benchmarking Qwen 3.8 27B on RTX 5090 and beyond VRAM capacity alone can't overcome severe software and inference engine bottlenecks",
+    "summary": "Following the release of Qwen 3.8 27B, we put our trusty hardware to the test to see which hardware might be best suited for running this open-weight AI model.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/benchmarking-qwen-3-8-27b-on-rtx-5090-and-beyond-vram-capacity-alone-cant-overcome-severe-software-and-inference-engine-bottlenecks",
     "categories": [
-      "AI & ML"
+      "AI & ML",
+      "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-09-08T13:03:31.452286"
+    "quality_score": 10,
+    "processed_date": "2026-09-09T13:09:06.598567"
   },
   {
-    "title": "Thailand asks data center operators to suspend 49 buildouts until legal framework is complete new legislation is supposed to create 'airtight' requirements for large-scale data centers",
-    "summary": "Thailand asks datacenter operators to suspend buildouts until legal framework is complete new legislation is supposed to create \"airtight\" requirements for large-scale datacenters",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/thailand-asks-datacenter-operators-to-suspend-buildouts-until-legal-framework-is-complete-new-legislation-is-supposed-to-create-airtight-requirements-for-large-scale-datacenters",
+    "title": "ESP32-C5 Pico board follows Raspberry Pi Pico form factor, ships with on-board or external antenna",
+    "summary": "Waveshare ESP32-C5 Pico board brings the ESP32-C5 dual-band WiFi 6, Bluetooth LE, and 802.15.4 (Zigbee/Thread) SoC to the Raspberry Pi Pico form factor. The board features an ESP32-C5-MINI-1 Series module with PCB or external antenna, two 20-pin GPIO headers, a USB-C port for power and programming, Reset and Boot buttons, and a few LEDs. It also supports Li-Ion battery charging and discharging. Waveshare ESP32-C5 Pico specifications: Wireless module ESP32-C5-MINI-1 or ESP32-C5-MINI-1U Wireless MCU Espressif Systems ESP32-C5HF4 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 48 MHz acting as the main processor for power-sensitive applications Memory 384 KB SRAM on-chip Storage 320 KB ROM, 4MB SPI flash Wireless Dual-band (2.4/5 GHz) 802.11ax WiFi 6, 802.11b/g/n WiFi 4 backward compatibility WiFi modes: Station mode, SoftAP mode, SoftAP + Station mode, and promiscuous mode Bluetooth 5.0 Low Energy (LE) with Mesh support, up [...] The post ESP32-C5 Pico board follows Raspberry Pi Pico form factor, ships with on-board or external antenna appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/09/esp32-c5-pico-board-follows-raspberry-pi-pico-form-factor-ships-with-on-board-or-external-antenna/",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-08T13:03:31.452388"
-  },
-  {
-    "title": "German scammer dupes two different buyers into spending thousands on hollow RTX 5090 GPUs stripped-out cards netted fraudster $5,000 despite being worthless",
-    "summary": "Graphics card scams without the core and memory chips are spreading worldwide, with the latest report coming from Germany.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/german-scammer-dupes-two-different-buyers-into-spending-thousands-on-hollow-rtx-5090-gpus-stripped-out-cards-netted-fraudster-usd5-000-despite-being-worthless",
-    "categories": [
-      "GPUs",
+      "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-09-08T13:03:31.452472"
+    "quality_score": 10,
+    "processed_date": "2026-09-09T13:09:06.599151"
   },
   {
-    "title": "One-slot, low-profile Nvidia RTX 3060 12 GB with two monitor outputs breaks cover at Newegg for $496 bus-powered model looking for a use case in local LLM work",
-    "summary": "Small-form-factor, low-profile Nvidia RTX 3060 12 GB with two monitor outputs breaks cover at Newegg for $496 bus-powered model looking for a use case in local LLM work",
-    "link": "https://www.tomshardware.com/pc-components/gpus/one-slot-low-profile-nvidia-rtx-3060-12-gb-with-two-monitor-outputs-breaks-cover-at-newegg-for-usd496-bus-powered-model-looking-for-a-use-case-in-local-llm-work",
+    "title": "FREE-WILi 2 portable hacking multitool features two RP2350 MCUs, ESP32-C5, ICE40 FPGA, and Raspberry Pi CM0",
+    "summary": "The FREE-WILi 2 (Founder Edition) is an open-hardware, portable hacking multitool and lab designed for hardware hackers, pentesters, and embedded system developers. Designed as an open electronics multitool, it combines a range of chips and modules into a handheld device, including two Raspberry Pi RP2350 MCUs, an ESP32-C5 for wireless connectivity, a Lattice ICE40UP5K FPGA, and a Raspberry Pi CM0 for running a full Linux OS. The device also features a 3.5-inch capacitive touchscreen, a 14-button physical interface, and modular Orca headers for hardware expansion. Its wireless features include 2.4/5GHz Wi-Fi, Bluetooth, LoRa, sub-GHz RF, NFC, 125kHz RFID, and IR. These features make it very suitable for wireless testing, embedded hardware debugging, real-time control, electronics development, and retro gaming, with support for Adafruit Fruit Jam, PICO-8, and Doom. FREE-WILi 2 specifications: Compute Main MCUs 2x Raspberry Pi RP2350B (One for main controls, one dedicated to display) SoM Raspberry [...] The post FREE-WILi 2 portable hacking multitool features two RP2350 MCUs, ESP32-C5, ICE40 FPGA, and Raspberry Pi CM0 appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/09/free-wili-2-portable-hacking-multitool-features-two-rp2350-mcus-esp32-c5-ice40-fpga-and-raspberry-pi-cm0/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-09-09T13:09:06.599344"
+  },
+  {
+    "title": "Jensen Huang declares AGI has arrived, again, and again he's selling GPUs",
+    "summary": "Nvidia CEO Jensen Huang has declared the arrival of AGI for the second time this year. Last time, he cited the popularity of AI agents such as OpenClaw; this time, he made the declaration in response to the launch of GPT-6 Astra. In both cases, he sounds like he's just... Read Entire Article",
+    "link": "https://www.techspot.com/news/113778-jensen-huang-declares-agi-has-arrived-again-again.html",
     "categories": [
       "AI & ML",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-08T13:03:31.452558"
+    "processed_date": "2026-09-09T13:09:06.600676"
   },
   {
-    "title": "Tech enthusiast finds $12,000 stack of RAM in their garage work let them keep an old server stuffed with 1,920GB of DDR4",
-    "summary": "A computing enthusiast found a fat stack of DDR4 RAM sticks that might be worth $10,000 in their garage.",
-    "link": "https://www.tomshardware.com/pc-components/ddr4/tech-enthusiast-finds-usd12-000-stack-of-ram-in-their-garage-work-let-them-keep-an-old-server-stuffed-with-1-920gb-of-ddr4",
+    "title": "Windows users are getting Harry Potter ads as their Bing Wallpaper, and they aren't happy",
+    "summary": "For those unfamiliar, the optional Bing Wallpaper app gives users a new wallpaper each day and lets them browse previous Bing images and themed collections. It usually consists of nature photos, animals, space, gaming, sports, and seasonal wallpapers. Read Entire Article",
+    "link": "https://www.techspot.com/news/113786-windows-users-getting-harry-potter-ads-their-bing.html",
     "categories": [
-      "Hardware"
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-08T13:03:31.452634"
+    "processed_date": "2026-09-09T13:09:06.600880"
   },
   {
-    "title": "Belgian-Chinese semiconductor researcher arrested over alleged GaN trade-secret theft prosecutors suspect BelGaN insiders transferred chip IP to China before the company collapsed",
-    "summary": "Belgian authorities have arrested a former BelGaN researcher on suspicion of industrial espionage, alleging that proprietary gallium nitride semiconductor technology was transferred to a Chinese rival as the Belgian chipmaker headed toward bankruptcy.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/belgian-chinese-semiconductor-researcher-arrested-over-alleged-gan-trade-secret-theft-prosecutors-suspect-belgan-insiders-transferred-chip-ip-to-china-before-the-company-collapsed",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-08T13:03:31.452723"
-  },
-  {
-    "title": "Intel surpasses one million High-NA EUV wafers processed, outpaces the rest of the industry combined company also trailblazing giant 6 12 photomasks to speed production and lower costs",
-    "summary": "Intel is leading the semiconductor industry with High-NA fleet and process-maturity milestone as it reaches 1 million wafers processed using High-NA tools, moves forward with 6 12 photomask effort.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-surpasses-one-million-high-na-euv-wafers-processed-outpaces-the-rest-of-the-industry-combined-company-also-trailblazing-giant-6-12-photomasks-to-speed-production-and-lower-costs1",
+    "title": "ASML targets 2033 for High-NA EUV with larger masks, promising a 40% productivity gain",
+    "summary": "High-NA EUV is ASML's next major lithography platform. It can print finer features than today's EUV tools, which could help chipmakers build denser designs at advanced nodes. But its smaller mask limits the die area that can be printed in one exposure. Read Entire Article",
+    "link": "https://www.techspot.com/news/113770-asml-targets-2033-high-na-euv-larger-masks.html",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-08T13:03:31.452810"
+    "processed_date": "2026-09-09T13:09:06.601059"
   },
   {
-    "title": "Arm debuts next-gen semi-custom Neoverse CSS N4 Ranger platform compute subsystem packs up to 128 cores per die on TSMC N3P",
-    "summary": "Arm s new Neoverse CSS N4 platform can pack up to 128 cores per die and 256 MB of L3 cache, representing a large increase in support over the previous Neoverse CSS N2 platform.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/arm-debuts-next-gen-semi-custom-neoverse-css-n4-ranger-platform-compute-subsystem-packs-up-to-128-cores-per-die-on-tsmc-n3p",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-08T13:03:31.452887"
-  },
-  {
-    "title": "Arm CSS for Mobile 2 AI-Native platform: Arm C2-Ultra and C2-Pro CPU cores, Mali G2-Ultra NX GPU",
-    "summary": "Arm has introduced the CSS for Mobile 2 platform as an AI-native compute foundation comprised of the Arm C2-Ultra and C2-Pro CPUs with SME2 (Scalable Matrix Extension 2) units and the Mali G2-Ultra NX GPU with dedicated neural accelerators that enable neural graphics to run natively on the GPU. Arm C2-Ultra and C2-Pro CPUs Arm C2-Ultra specifications: Architecture Armv9.3-A Extensions Armv9.4-A (Some key features) SME2 Extensions SVE2 Extensions Cryptography Extensions RAS Extensions ISA support AArch64 Microarchitecture Pipeline Out-of-order Superscalar Neon and SVE2 Optional Cryptography Unit Up to 14x CPUs in cluster 40-bit Physical Addressing Memory System and External Interfaces 64KB (I-Cache), 128KB (D-Cache) 2MB or 3MB L2 Cache Optional, 256KB to 32MB L3 Cache ECC Support Bus interfaces AMBA AXI5 or CHI.E Optional ACP Optional Peripheral Port Security TrustZone, Secure-EL2 Interrupts GIC interface, GICv4.1 PMU PMUv3 CoreSight CoreSightv3 Embedded Trace Extension [...] The post Arm CSS for Mobile 2 AI-Native platform: Arm C2-Ultra and C2-Pro CPU cores, Mali G2-Ultra NX GPU appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/09/08/arm-css-for-mobile-2-ai-native-platform-arm-c2-ultra-and-c2-pro-cpu-cores-mali-g2-ultra-nx-gpu/",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-09-08T13:03:31.453331"
-  },
-  {
-    "title": "YuzukiNeko A Linux-capable Allwinner F101 RISC-V SBC with Raspberry Pi Pico form factor",
-    "summary": "YuzukiHD has made another open-source hardware Linux SBC. YuzukiNeko is a Raspberry Pi Pico-sized single board computer powered by a new Allwinner F101 RISC-V SoC. The Allwinner F101 processor features a single 1.008 GHz C907 RISC-V core, 8MB or 16 MB PSRAM, and support for various display interfaces such as MIPI DSI, 24-bit RGB, and LVDS. The YuzukiNeko board itself features the F101 SoC, an SPI NOR flash, a microSD card for storage, a USB-C port, and two 20-pin GPIO headers. YuzukiNeko specifications: SoC Allwinner F101 CPU T-head C907 RISC-V core up to 1.008 GHz Memory 8MB or 16MB PSRAM @ 252 MHz Package QFN-68 Storage 128 Mbit NOR flash (PY25Q128HA-SUH-IT) MicroSD card slot USB USB Type-C port for data, power, and programming Expansion 2x 20-pin expansion headers with GPIOs, ADC, 5V, 3.3V, and GND 5x pads with HP out (analog speaker output) and four [...] The post YuzukiNeko A Linux-capable Allwinner F101 RISC-V SBC with Raspberry Pi Pico form factor appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/09/08/yuzukineko-a-linux-capable-allwinner-f101-64-bit-risc-v-sbc-with-raspberry-pi-pico-form-factor/",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-08T13:03:31.453458"
-  },
-  {
-    "title": "Bet you can t fully define a robot. Arm agrees.",
-    "summary": "Sensors function in a world of fragmentation across robots and physical AI models and systems. Arm is spearheading an effort to change that.",
-    "link": "https://www.fiercesensors.com/ai/bet-you-cant-fully-define-robot-arm-agrees",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-09-08T13:03:31.454345"
-  },
-  {
-    "title": "How Humble Robotics validates camera, lidar and radar systems without millions of road miles",
-    "summary": "The autonomous freight startup's camera-first approach relies on lidar and radar redundancy, while photorealistic simulations help test edge cases before deployment.",
-    "link": "https://www.fiercesensors.com/electronics/how-humble-robotics-validates-camera-lidar-and-radar-systems-without-millions-road",
+    "title": "The foldable iPhone Duo is expected to headline Apple's event today watch it here at 1pm ET / 10am PT",
+    "summary": "Given that many phone reveals consist of showcasing a new device that's barely distinguishable from the last one, it's understandable why people are losing interest in these events. But Apple is showing off more than the iPhone 18. Read Entire Article",
+    "link": "https://www.techspot.com/news/113783-foldable-iphone-duo-expected-headline-apple-event-today.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-08T13:03:31.454608"
+    "processed_date": "2026-09-09T13:09:06.601229"
   },
   {
-    "title": "Old School RuneScape developer sentenced for stealing and selling in-game virtual gold",
-    "summary": "Stealing virtual gold coins can earn some real-world money, even in retro-focused experiences such as Old School RuneScape. A developer named Andrew Lakeman tried to abuse his privileged position as a content creator working at Jagex, but a years-long investigation has illustrated that crime does not pay no matter... Read Entire Article",
-    "link": "https://www.techspot.com/news/113762-old-school-runescape-developer-sentenced-stealing-selling-game.html",
+    "title": "Dell Alienware AW3926QW Review: The 39-Inch OLED to Buy",
+    "summary": "The Alienware AW3926QW pairs a 39-inch 5K2K OLED with RGB stripe clarity, strong HDR, and a price that makes LG's rival look far less appealing. Read Entire Article",
+    "link": "https://www.techspot.com/review/3166-dell-alienware-aw3926qw/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-09T13:09:06.601392"
+  },
+  {
+    "title": "Modders have already found two ways to make DLSS 5 playable, and neither one is Nvidia's",
+    "summary": "When we benchmarked DLSS 5 across the entire RTX 50 series last week with no frame generation inflating the charts, the numbers were bleak enough on their own. An RTX 5090 fell from 192 FPS to 76 FPS at 4K. An RTX 5060 Ti dropped from 129 FPS to 46 FPS at 1440p. Read Entire Article",
+    "link": "https://www.techspot.com/news/113775-modders-have-already-found-two-ways-make-dlss.html",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-09T13:09:06.601562"
+  },
+  {
+    "title": "The Legend Of Zelda: Ocarina Of Time remake arrives on Switch 2 November 5",
+    "summary": "The remake brings one of Nintendo's most beloved games into the modern era. The original arrived on the Nintendo 64 in late 1998 and was unlike anything seen up to that point. The 3D action adventure game was initially planned for the 64DD, but was eventually moved to cartridge when... Read Entire Article",
+    "link": "https://www.techspot.com/news/113773-legend-zelda-ocarina-time-remake-arrives-switch-2.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-08T13:03:31.454805"
+    "processed_date": "2026-09-09T13:09:06.601733"
   },
   {
-    "title": "An AI-developed drug appeared to make patients biologically younger in a clinical trial",
-    "summary": "The experimental drug, rentosertib, comes from Insilico Medicine and was developed to treat idiopathic pulmonary fibrosis, a disease that progressively scars the lungs. Read Entire Article",
-    "link": "https://www.techspot.com/news/113767-ai-developed-drug-appeared-make-patients-biologically-younger.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-08T13:03:31.454930"
-  },
-  {
-    "title": "Jeep, Ram, Hyundai, and Ford are turning to gas backup engines to save the electric truck",
-    "summary": "The approach could make electric trucks and larger SUVs more practical, though its success will depend on whether consumers see enough value in the added technology to pay more for it. Read Entire Article",
-    "link": "https://www.techspot.com/news/113759-jeep-ram-ford-hyundai-turn-extended-range-evs.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-08T13:03:31.455044"
-  },
-  {
-    "title": "You can now play PS3 games straight from the disc, without owning a PS3",
-    "summary": "The RPCS3 team recently unveiled a major upgrade for the emulator: PS3 games can now run directly from their original Blu-ray discs, giving retro gaming enthusiasts a new way to use their physical collections. The developers are billing it as a \"plug & play\" solution, though users will still need... Read Entire Article",
-    "link": "https://www.techspot.com/news/113754-you-can-now-play-ps3-games-straight-disc.html",
+    "title": "Lucky enthusiast found $12,000 worth of RAM sitting in his garage",
+    "summary": "According to Redditor VastOption875, the old server, which had been collecting dust in their garage, contained 30 64GB DDR4-2666 memory modules, totaling nearly 2TB. Read Entire Article",
+    "link": "https://www.techspot.com/news/113772-lucky-enthusiast-found-12000-worth-ram-sitting-garage.html",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-09-08T13:03:31.455190"
+    "quality_score": 5,
+    "processed_date": "2026-09-09T13:09:06.601924"
   },
   {
-    "title": "Microsoft promises faster Windows 11 boot times and better performance on 8GB PCs",
-    "summary": "As reported by Windows Latest, Mark Linton, Corporate Vice President of Windows & Devices at Microsoft, spoke about the improvements being made to Windows 11, including \"significant gains on things like boot time, Windows Hello responsiveness...\" Read Entire Article",
-    "link": "https://www.techspot.com/news/113761-microsoft-confirms-windows-11-boot-faster-run-great.html",
+    "title": "HWiNFO lets you see exactly what your PC hardware is doing",
+    "summary": "HWiNFO combines detailed system information with extensive sensor monitoring, making it useful for checking temperatures, power usage, clock speeds, and other hardware behavior in real time. It can also help troubleshoot performance issues. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/5245-hwinfo64.html",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-09-08T13:03:31.455308"
+    "processed_date": "2026-09-09T13:09:06.602100"
+  },
+  {
+    "title": "PC shipments are falling, but manufacturers are making more money selling pricier AI PCs",
+    "summary": "The pressure is originating in the AI infrastructure market, where demand for memory chips has driven up component costs and limited supply for other hardware categories. Read Entire Article",
+    "link": "https://www.techspot.com/news/113768-pc-shipments-falling-but-manufacturers-making-more-money.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-09T13:09:06.602274"
+  },
+  {
+    "title": "Intel's CPUs could get 10% more expensive next month",
+    "summary": "According to DigiTimes, supply-chain sources say Intel is prioritizing profit margins as CEO Lip-Bu Tan reviews CPU pricing, manufacturing costs, and its product lineup. Read Entire Article",
+    "link": "https://www.techspot.com/news/113771-sources-another-10-price-increase-intel-cpus-job.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-09T13:09:06.602446"
+  },
+  {
+    "title": "Apple is reportedly exploring a Chinese memory supplier, and it's politically loaded",
+    "summary": "For Apple, the prospect underscores how China's domestic chip industry is beginning to create new supply-chain choices and new political complications for the world's biggest technology companies. Read Entire Article",
+    "link": "https://www.techspot.com/news/113764-apple-reportedly-exploring-chinese-memory-supplier-politically-loaded.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-09T13:09:06.602621"
+  },
+  {
+    "title": "California city canceled Flock, removed its cameras, then found the company had put some of them back",
+    "summary": "Grass Valley, California, is one of the many cities that have dropped Flock license plate cameras. It comes as the company faces criticism over the extent of its devices' surveillance network, the sharing of data with other agencies, the cost, and, most controversially, their misuse by police officers. Read Entire Article",
+    "link": "https://www.techspot.com/news/113769-california-city-canceled-flock-removed-cameras-found-company.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-09T13:09:06.602821"
+  },
+  {
+    "title": "Xiaomi 18 Fold takes on the foldable iPhone with a 200MP camera and 6,000mAh battery",
+    "summary": "The phone has a 5.38-inch cover display and a 7.58-inch internal display. Both use 120Hz LTPO panels and can reach 4,000 nits of peak brightness, according to Xiaomi. The folding display is protected by a new double-layer ultra-thin glass structure. Read Entire Article",
+    "link": "https://www.techspot.com/news/113766-xiaomi-launches-18-fold-ahead-apple-expected-reveal.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-09T13:09:06.602997"
   }
 ]
