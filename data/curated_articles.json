@@ -1,329 +1,267 @@
 [
   {
-    "title": "GameStop is reopening recently closed stores despite massive retail cuts select locations return nationwide starting September 11",
-    "summary": "After shutting down hundreds of locations and dramatically shrinking its physical retail footprint, GameStop is bringing select stores back as its business continues to evolve beyond physical games.",
-    "link": "https://www.tomshardware.com/tech-industry/gamestop-is-reopening-recently-closed-stores-despite-massive-retail-cuts-select-locations-return-nationwide-starting-september-11",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-11T13:00:36.865030"
-  },
-  {
-    "title": "At IFA 2026, computing chased the high and low ends AI and budget-focused machines left little for the rest of us",
-    "summary": "At IFA 2026, a bifurcated computing landscape widened as more companies chased Apple's MacBook Neo while also keeping one foot firmly planted in the AI space.",
-    "link": "https://www.tomshardware.com/laptops/at-ifa-2026-computing-chased-the-high-and-low-ends-ai-and-budget-focused-machines-left-little-for-the-rest-of-us",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-11T13:00:36.865162"
-  },
-  {
-    "title": "Hardware-accurate NeoGeo AES+ delayed to late 2027 due to memory shortage decision driven by surging demand and AI-driven RAM crunch",
-    "summary": "NeoGeo AES+ console remake delayed for nearly a year decision driven by RAM shortage and unexpected popularity",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/neogeo-aes-console-remake-delayed-for-nearly-a-year-decision-driven-by-ram-shortage-and-unexpected-popularity",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-11T13:00:36.865283"
-  },
-  {
-    "title": "Thermalright TR-KG750 750W power supply review: HKC-built KG unit with a Thermalright badge for $91",
-    "summary": "Thermalright's HKC-built KG series brings ATX 3.1, a native 12V-2x6 connector and a five-year warranty at a low price point, with the compromises visible inside.",
-    "link": "https://www.tomshardware.com/pc-components/power-supplies/thermalright-tr-kg750-750w-power-supply-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-11T13:00:36.865403"
-  },
-  {
-    "title": "Hands On: Sharge's Disk Pro 2 Ultra is a compact, magnetic DIY SSD dock with active cooling, 80W passthrough charging, and HDMI 2.1 that supports up to 8TB drives",
-    "summary": "One of our favorite external SSDs gets an upgrade as a compact DIY hub with an M.2 slot, active cooling, USB ports, up to HDMI 2.1, and a removable cable.",
-    "link": "https://www.tomshardware.com/pc-components/external-ssds/hands-on-sharges-disk-pro-2-ultra",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-11T13:00:36.865536"
-  },
-  {
-    "title": "Desktop graphics card shipments hit four-year high of 12.5 million despite increasing prices Nvidia takes 90% share as gamers rush to beat looming price spikes",
-    "summary": "Shipments of desktop add-in-boards in Q2 were the highest since Q1 2022 despite rising prices and dropping sales of desktop PCs, according to new numbers from Jon Peddie Research.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/desktop-graphics-card-shipments-hit-four-year-high-of-12-5-million-despite-increasing-prices-nvidia-takes-90-percent-share-as-gamers-rush-to-beat-looming-price-spikes",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-09-11T13:00:36.865663"
-  },
-  {
-    "title": "Snag a huge $1,000 saving on this RTX 5090 OLED gaming laptop from HP, now $3,699 16-inch HyperX rig delivers 1600p gaming with ultra-fast 240Hz refresh rate, coupled with 32GB DDR5 RAM and a 2TB SSD",
-    "summary": "The HyperX Omen Max 16, featuring the powerful Nvidia GeForce RTX 5090 GPU, is down to $3,699.99 right now, saving you $1,000.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/snag-a-huge-usd1-000-saving-on-this-rtx-5090-oled-gaming-laptop-from-hp-now-usd3-699-16-inch-hyperx-rig-delivers-1600p-gaming-with-ultra-fast-240hz-refresh-rate-coupled-with-32gb-ddr5-ram-and-a-2tb-ssd",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-11T13:00:36.865782"
-  },
-  {
-    "title": "Windows 11 can now reinstall itself from the cloud Cloud Rebuild revives dead systems without secondary boot media, wipes broken installation and downloads a fresh copy of the OS",
-    "summary": "Windows 11 users can soon recover from serious installation problems without relying on a USB drive or a custom recovery image.",
-    "link": "https://www.tomshardware.com/software/windows/windows-11-can-now-reinstall-itself-from-the-cloud-cloud-rebuild-revives-dead-systems-without-secondary-boot-media-wipes-broken-installation-and-downloads-a-fresh-copy-of-the-os",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-11T13:00:36.865899"
-  },
-  {
-    "title": "Anthropic says Claude thwarted bioweapon research from state-sponsored actors covert accounts used U.S. proxies to attempt to engineer deadlier viruses, tried to evade identification and regional blocks",
-    "summary": "Anthropic claims Claude refused instructions to potentially develop biological weapons alleged state-linked accounts tried to evade identification and regional blocks",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-thwarted-bioweapon-research-from-state-sponsored-actors-covert-accounts-used-u-s-proxies-to-attempt-to-engineer-deadlier-viruses-tried-to-evade-identification-and-regional-blocks",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-09-11T13:00:36.866021"
-  },
-  {
-    "title": "Russian plot to sabotage undersea cables with 'secret weapon' foiled by NATO clandestine op uncovers training exercise simulating deployment against infrastructure in Norway",
-    "summary": "NATO foiled a Russian training exercise simulating the deployment of a secret weapon against Norwegian undersea cables.",
-    "link": "https://www.tomshardware.com/tech-industry/russian-plot-to-sabotage-undersea-cables-with-secret-weapon-foiled-by-nato-clandestine-op-uncovers-training-exercise-simulating-deployment-against-infrastructure-in-norway",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-11T13:00:36.866140"
-  },
-  {
-    "title": "AMD releases new Ryzen 5 5500F and Ryzen 5 7500 for budget PC builders new budget Zen 3 and Zen 4 CPUs soften the blow from high RAM prices",
-    "summary": "AMD has officially launched the Ryzen 5 5500F and Ryzen 5 7500 processors with six Zen 3 and Zen 4 cores, respectively.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-releases-new-ryzen-5-5500f-and-ryzen-5-7500-to-save-budget-pc-building-new-budget-zen-3-and-zen-4-cpus-to-soften-the-blow-from-high-ram-prices",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-11T13:00:36.866275"
-  },
-  {
-    "title": "Apple s new A20 Pro smartphone chip around 25% faster than its predecessor in leaked benchmark the 2nm CPU in the iPhone Duo and 18 Pro hits nearly 5 GHz clocks",
-    "summary": "The first Apple A20 Geekbench 6 benchmark results are starting to pop up online and the single-core score is very impressive.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/apples-new-a20-pro-smartphone-chip-around-25-percent-faster-than-its-predecessor-in-leaked-benchmark-the-2nm-cpu-in-the-iphone-duo-and-18-pro-hits-nearly-5-ghz-clocks",
-    "categories": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-11T13:00:36.866391"
-  },
-  {
-    "title": "Minecraft-spawned crypto kingpin faces 20 years for $245 million heist mastermind's role in hacking campaign fueled their supercar, bodyguards, and private jet habit",
-    "summary": "The ringleader of a cybercrime gang, which reportedly formed after meetups in Minecraft online, has plead guilty to a racketeering charge and now faces up to 20 years in jail.",
-    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/minecraft-spawned-crypto-kingpin-faces-20-years-for-usd245-million-heist-masterminds-role-in-hacking-campaign-fueled-their-supercar-bodyguards-and-private-jet-habit",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-11T13:00:36.866533"
-  },
-  {
-    "title": "OpenAI's rogue AI agents accessed more websites to communicate than originally believed defiant LLMs accessed old wikis and abandoned websites to co-ordinate in a bid to dupe assessors",
-    "summary": "Rogue OpenAI agents used dozens of website to exchange information, new investigations have found. However, the real impact is yet to be determined.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-rogue-ai-agents-accessed-more-websites-to-communicate-than-originally-believed-defiant-llms-accessed-old-wikis-and-abandoned-websites-to-co-ordinate-in-a-bid-to-dupe-assessors",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-11T13:00:36.866652"
-  },
-  {
-    "title": "Libernovo Omni Pro Review: Cooler than you think",
-    "summary": "Libernovo's Omni Pro is a dynamic, ergonomic gaming chair with motorized lumbar support and a ventilation fan that works surprisingly well.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-chairs/libernovo-omni-pro-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-11T13:00:36.866765"
-  },
-  {
-    "title": "Amlogic A123X and C305X2 Arm Cortex-A320 SoCs target industrial and low-power AIoT applications",
-    "summary": "Amlogic has unveiled the A123X quad-core and C305X2 dual-core Arm Cortex-A320 SoCs for industrial and battery-powered Edge AI and IoT applications such as robots, dashcams, IP cameras, video conferencing equipment, and so on. The Arm Cortex-A320 low-power Armv9 CPU core was introduced in February 2025, and Amlogic is the first silicon vendor to announce Cortex-A320 SoCs. Details are sparse, with no full specifications or block diagrams and limited software information, but let s see what we know so far. Amlogic A123X Amlogic A123X specifications: CPU Quad-core Arm Cortex-A320 processor (Armv9.2-A, SVE2) GPU None or not disclosed VPU H.264/H.265 encoding at 4K @ 60fps H.264/H.265 decoding at 4K @ 30fps AI 4 TOPS ADLA2 NPU for object detection and tracking CNN models 8 TOPS ADLA3 NPU supporting hardware-accelerated Transformer operations for ViT, LLM, etc. Neural network-based hardware SED engine for low-power audio event identification ISP Low-light HDR ISP Supports [...] The post Amlogic A123X and C305X2 Arm Cortex-A320 SoCs target industrial and low-power AIoT applications appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/09/11/amlogic-a123x-and-c305x2-arm-cortex-a320-socs-target-industrial-and-low-power-aiot-applications/",
+    "title": "This week on Tom's Hardware Premium: September 12, 2026 Benchmarking Qwen 3.8, the splintered compute economy and AI breakthroughs",
+    "summary": "This week on Tom's Hardware Premium, we benchmarked Qwen 3.8 on a slew of different hardware, ruminated on the state of modern computing after returning from IFA 2026, and broke down everything",
+    "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-september-12-2026-benchmarking-qwen-3-8-the-splintered-compute-economy-and-ai-breakthroughs",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 15,
-    "processed_date": "2026-09-11T13:00:36.867261"
+    "processed_date": "2026-09-12T12:21:23.612386"
   },
   {
-    "title": "Analog to acquire Alif for $1.3B in physical AI bid",
-    "summary": "Chip companies are buying up or consolidating efforts to own the physical AI space, from sensing to decisions and actions.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/analog-acquire-alif-13b-physical-ai-bid",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-09-11T13:00:36.868284"
-  },
-  {
-    "title": "Why OpenAI is paying robotics engineers up to $325k",
-    "summary": "As AI moves from screens to robots, demand is surging for engineers who can connect sensors, actuators and foundation models.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/why-openai-paying-robotics-engineers-325k",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-09-11T13:00:36.868549"
-  },
-  {
-    "title": "California bans addictive social media features for children under 16 and tightens AI chatbot rules",
-    "summary": "Newsom's office describes the chatbot and social media protections as the strongest in the country, including the nation's first requirements for independent child safety audits and annual risk assessments for companion chatbots. Read Entire Article",
-    "link": "https://www.techspot.com/news/113820-california-bans-addictive-social-media-features-children-under.html",
+    "title": "Iran could potentially reverse-engineer captured US underwater drone several Iranian embassies mock US over capture, Navy claims lost Anduril vehicle was defective and unclassified",
+    "summary": "Iran may reverse-engineer a captured U.S. Navy Anduril Dive-LD underwater drone, as Tehran mocks the loss and Washington downplays its military value.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/iran-could-potentially-reverse-engineer-captured-u-s-underwater-drone-several-iranian-embassies-mock-us-over-capture-as-u-s-military-downplays-the-situation",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-11T13:00:36.868715"
+    "processed_date": "2026-09-12T12:21:23.612481"
   },
   {
-    "title": "SteelSeries wants $260 for a controller that instantly switches between your PC and Xbox",
-    "summary": "SteelSeries recently unveiled the Aeon Pro, a \"luxury\" controller designed to serve the needs of multi-platform gaming customers. The wireless device includes a patent-pending \"QuickSwitch\" system that lets users pair it with a gaming PC and an Xbox console at the same time, going back and forth with no need... Read Entire Article",
-    "link": "https://www.techspot.com/news/113808-steelseries-wants-260-controller-instantly-switches-between-pc.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-11T13:00:36.868847"
-  },
-  {
-    "title": "Asus routers escape the US foreign-made router ban, but TP-Link is still waiting",
-    "summary": "Asus' exemption lasts until March 6, 2028 approximately 18 months from when it was issued. It covers the company's RT Series, ROG GT Series, ROG Strix GS Series, TUF Gaming Series, ExpertWiFi Series, ZenWiFi Mesh Series, 5G MiFi Series, wireless repeaters, and wireless access points. Read Entire Article",
-    "link": "https://www.techspot.com/news/113818-asus-routers-escape-us-foreign-made-router-ban.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-11T13:00:36.868986"
-  },
-  {
-    "title": "Lenovo Legion 9i Gen 10 18\" Laptop Review: A True Desktop Replacement",
-    "summary": "Lenovo's Legion 9i Gen 10 is a monster 18-inch laptop with desktop-class performance, a superb 240Hz display, and premium build quality. It's also one of the most expensive laptops we've tested. Read Entire Article",
-    "link": "https://www.techspot.com/review/3158-lenovo-legion-9i-gen-10/",
+    "title": "Kioxia Exceria Pro G2 2TB SSD Review Speed built to last",
+    "summary": "Kioxia s Exceria Pro G2 pairs the SM2508 and BiCS8 TLC flash for fast, efficient PCIe 5.0 storage. It s not the quickest PCIe 5.0 SSD, but it is a reliable Black SN8100 alternative.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/kioxia-exceria-pro-g2-2tb-ssd-review",
     "categories": [
       "Hardware",
       "Tech News"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-09-11T13:00:36.869098"
-  },
-  {
-    "title": "Samsung is working with OpenAI on next-generation chips while deploying ChatGPT at massive scale",
-    "summary": "\"One of the areas where we have made the most progress and gained the most recognition with Samsung Electronics is our joint production and research on the next-generation chips we are developing,\" Kim said at a press conference in Seoul. Kim did not provide details on the chips or explain... Read Entire Article",
-    "link": "https://www.techspot.com/news/113802-samsung-working-openai-next-generation-chips-while-deploying.html",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
     "quality_score": 10,
-    "processed_date": "2026-09-11T13:00:36.869222"
+    "processed_date": "2026-09-12T12:21:23.612566"
   },
   {
-    "title": "GOG's latest preservation push lets fans print box replicas for your digital games",
-    "summary": "GOG recently announced the addition of a few more titles to its Preservation Program, which was introduced to improve support for some classic games sold on the store. The program is now welcoming five new titles, which also come with their own interactive 3D boxes scanned from original packaging. Read Entire Article",
-    "link": "https://www.techspot.com/news/113795-gog-adding-five-printable-big-box-templates-preservation.html",
+    "title": "Lucky PC scavenger discovers 12 RTX 3070 GPUs from the crypto mining era cards survived years of basement storage with only minor signs of wear",
+    "summary": "What looked like a couple of forgotten mining rigs turned out to be a surprisingly valuable haul, with 12 RTX 3070 graphics cards potentially still ready for gaming duty.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/lucky-pc-scavenger-discovers-12-rtx-3070-gpus-from-the-crypto-mining-era-cards-survived-years-of-basement-storage-with-only-minor-signs-of-wear",
     "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-11T13:00:36.869342"
-  },
-  {
-    "title": "Norway spent 40 minutes convincing a helicopter's GPS it was flying into the sea",
-    "summary": "The false tracks were created as part of Jammertest, an annual Norwegian exercise that examines how equipment responds when satellite-navigation signals are disrupted or manipulated. Read Entire Article",
-    "link": "https://www.techspot.com/news/113803-norway-spent-40-minutes-convincing-helicopter-gps-flying.html",
-    "categories": [
-      "Tech News"
+      "GPUs",
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-11T13:00:36.869454"
+    "processed_date": "2026-09-12T12:21:23.612655"
   },
   {
-    "title": "Modders show RTX 5090 works flawlessly with 8-pin connectors instead of 16 without overheating",
-    "summary": "Brazilian YouTube channel TecLab has demonstrated that an RTX 5090 can be connected to a PSU using standard 8-pin connectors instead of 16-pin ones, despite its 575W TDP. To perform the experiment, the modders used a Galax HOF OC LAB RTX 5090, which is designed to use two 16-pin connectors.... Read Entire Article",
-    "link": "https://www.techspot.com/news/113800-modders-show-rtx-5090-works-flawlessly-8-pin.html",
+    "title": "Apple's A20 Pro shatters Geekbench 7 single-core record 2nm chip beats desktop Intel Core i9 and AMD Ryzen 9 by up to 32%",
+    "summary": "Apple's A20 Pro smartphone SoC outperforms all smartphone processors by a wide margin and manages to leave behind latest laptop processors.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/apples-a20-pro-shatters-geekbench-7-single-core-record-2nm-chip-beats-desktop-intel-core-i9-and-amd-ryzen-9-by-up-to-32-percent",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-12T12:21:23.612739"
+  },
+  {
+    "title": "Wiki documents at least 44 instances in which Sony says you own your games as digital games ownership lawsuit progresses project is direct assault on Sony's claim in recent ownership lawsuit",
+    "summary": "The detailed sourcing directly attacks Sony's legal claim that a reasonable person wouldn't expect to own their digital purchases on the PlayStation Store.",
+    "link": "https://www.tomshardware.com/video-games/playstation/consumer-rights-wiki-documents-at-least-44-instances-in-which-sony-says-you-own-your-games-project-is-direct-assault-on-sonys-claim-in-recent-ownership-lawsuit",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-12T12:21:23.612821"
+  },
+  {
+    "title": "Engineer turns simulated fly brain into a crypto day trader, posts downloadable sim to GitHub 166,700 virtual neurons read candlestick charts for dopamine hits",
+    "summary": "Coinbase engineer turns a fly brain into a crypto day trader Stonkfly has 116,700 simulated neurons and hasn't lost its money yet",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/engineer-turns-simulated-fly-brain-into-a-crypto-day-trader-posts-downloadable-sim-to-github-166-700-virtual-neurons-read-candlestick-charts-for-dopamine-hits",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-12T12:21:23.612899"
+  },
+  {
+    "title": "China-modified Nvidia RTX 5090 with massive 96GB of memory appears on Alibaba for less than $4,000 3x more VRAM at 65% the cost of the original",
+    "summary": "An alleged Nvidia GeForce RTX 5090 96GB with 96GB of modded VRAM surfaces on Alibaba for $3888.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/china-modified-nvidia-rtx-5090-with-massive-96gb-of-memory-appears-on-alibaba-for-less-than-usd4-000-3x-more-vram-at-65-percent-the-cost-of-the-original",
     "categories": [
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-11T13:00:36.869591"
+    "processed_date": "2026-09-12T12:21:23.612988"
   },
   {
-    "title": "Space debris is multiplying, so satellite makers are building better ways to survive a hit",
-    "summary": "Odin Space, a Santa Ana, California-based company, has started selling adhesive strips fitted with vibration sensors for satellites. The strips are designed to record impacts and help operators assess the size and force of a strike. Read Entire Article",
-    "link": "https://www.techspot.com/news/113805-space-debris-multiplying-satellite-makers-building-better-ways.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-11T13:00:36.869709"
-  },
-  {
-    "title": "Google appears to be done with tablets, again",
-    "summary": "Google unveiled the Pixel Tablet alongside the Pixel Fold and Pixel 7a during its 2023 I/O conference. Priced at $899 at launch and featuring an 11-inch 2560 x 1600 LCD, the device is powered by the Tensor G2. Read Entire Article",
-    "link": "https://www.techspot.com/news/113807-google-appears-done-tablets-again-pixel-tablet-disappears.html",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-11T13:00:36.869823"
-  },
-  {
-    "title": "Apple says new A20 Pro chip can sustain twice the performance of the iPhone 16 Pro, deliver 40% faster graphics",
-    "summary": "The chip has a six-core CPU: two new high-performance \"super cores\" and four efficiency cores. Apple said the super cores are up to 20% faster than the performance cores in the A19 Pro. The company called the processor \"desktop class\" and said it is the fastest CPU in a smartphone. Read Entire Article",
-    "link": "https://www.techspot.com/news/113799-apple-2nm-a20-pro-can-sustain-twice-performance.html",
+    "title": "Sanctioned Chinese supercomputer maker stripped of IO500 benchmark crown, Intel-powered Aurora retakes the lead record-breaking ParaStor F9000 storage system doesn't meet reproducibility requirements",
+    "summary": "Sugon's record-breaking ParaStor F9000 storage systems have lost their IO500 Production crowns and have been moved to the Research list after failing to meet the benchmark's highest reproducibility requirements, which include widely available architecture details and general availability of hardware itself.",
+    "link": "https://www.tomshardware.com/tech-industry/supercomputers/sanctioned-chinese-supercomputer-maker-stripped-of-io500-benchmark-crown-intel-powered-aurora-retakes-the-lead-record-breaking-parastor-f9000-storage-system-doesnt-meet-reproducibility-requirements",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-09-11T13:00:36.869950"
+    "quality_score": 20,
+    "processed_date": "2026-09-12T12:21:23.613089"
   },
   {
-    "title": "OpenAI faces Senate probe over Hugging Face breach as more rogue AI activity is uncovered",
-    "summary": "According to Axios, Republican Senator Josh Hawley is launching the probe following OpenAI's internal investigation. He wants CEO Sam Altman to answer 16 questions about the incident and the his firm's response by October 1. Read Entire Article",
-    "link": "https://www.techspot.com/news/113806-openai-faces-senate-probe-over-hugging-face-breach.html",
+    "title": "NeoEyes NE302 A tiny USB-C-powered WiFi 6 Edge AI Vision camera based on STM32N6 MCU",
+    "summary": "CamThink NeoEyes NE302 is a tiny WiFi 6 Edge AI camera based on an STM32N6 Arm Cortex-M55 MCU with Neural-ART NPU which the company says is especially suitable for developers and makers . I initially thought about it as a smaller version of the CamThink NeoEyes NE301 based on the same STM32N6 MCU and 4MP OS04C10 camera sensor. But it s quite a different device. First, it doesn t have a battery, and the USB-C is only used for power. Memory and storage capacities have been reduced to 32 MB PSRAM and 64 MP SPI flash, and a range of built-in and optional features have been removed, including 4G LTE module (global or US), audio wafers, PIR motion connector, and a 16-pin GPIO header, as well as support for PoE power. CamThink NeoEyes NE302 specifications: Vision MCU STMicro STM32N6 MCU Core Arm 32-bit Cortex-M55 CPU @ up to 800MHz with Arm Helium [...] The post NeoEyes NE302 A tiny USB-C-powered WiFi 6 Edge AI Vision camera based on STM32N6 MCU appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/12/neoeyes-ne302-a-tiny-usb-c-powered-wifi-6-edge-ai-vision-camera-based-on-stm32n6-mcu/",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-12T12:21:23.613552"
+  },
+  {
+    "title": "Renesas RZ/G3L & RZ/G3SE Ultra-low-power Cortex-A55 MPUs for industrial HMI and IoT applications",
+    "summary": "Renesas has expanded its RZ/G Series with the RZ/G3L and RZ/G3SE, two new 64-bit MPUs for HMI and IoT edge systems. Both devices integrate up to four Arm Cortex-A55 application cores clocked at up to 1.2 GHz and a 200 MHz Arm Cortex-M33 real-time coprocessor. The two chips are pin-to-pin compatible but target different applications. The RZ/G3L integrates an Arm Mali-G31 3D GPU and H.264 video codec for HMI applications like retail terminals and medical devices. The RZ/G3SE removes the GPU and video codec and is designed for IoT devices with basic display requirements, including EV chargers and industrial gateway devices. Both can reduce standby power consumption to around 1 mW and resume operation quickly from deep standby, which is useful for devices that need to remain connected while consuming very little power. Renesas RZ/G3L and RZ/G3SE specifications: MPU core CPU Quad-core or Dual-core Arm Cortex-A55 @ up to 1.2 [...] The post Renesas RZ/G3L & RZ/G3SE Ultra-low-power Cortex-A55 MPUs for industrial HMI and IoT applications appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/11/renesas-rz-g3l-rz-g3se-ultra-low-power-cortex-a55-mpus-for-industrial-hmi-and-iot-applications/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-12T12:21:23.613699"
+  },
+  {
+    "title": "How to Integrate an API Into a Website: A Step-by-Step Guide for Businesses (Sponsored)",
+    "summary": "Modern websites rarely work in isolation. They rely on third-party services to exchange data. API integration into website projects can improve user experience. From payment gateways to CRM platforms, almost every feature can be integrated. Build your successful API integration solutions today. What Is API Integration and Why Does Your Website Need It? An API allows two software applications to communicate with each other. They can exchange information securely to facilitate the production process. It is convenient because you don t have to develop every feature. You can simply connect your websites with specialized services. Common API integrations include: Payment gateways Social media integrations Customer relationship management (CRM) systems Supplier portals Email marketing platforms Weather services Maps and location tools For many businesses, API integrations are a way to: Save development time Utilize advanced applications at more affordable rates Provide a richer customer experience What Should Businesses Consider Before Integrating an [...] The post How to Integrate an API Into a Website: A Step-by-Step Guide for Businesses (Sponsored) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/04/how-to-integrate-an-api-into-a-website-a-step-by-step-guide-for-businesses/",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-09-12T12:21:23.614183"
+  },
+  {
+    "title": "Border patrol deploys heat-sensing drones to track animals infected with screwworms",
+    "summary": "Because the US southern border is practically protected against illegal immigration, agents and drones are free to track screwworm infections",
+    "link": "https://www.fiercesensors.com/sensors-fusion/border-patrol-deploys-heat-sensing-drones-track-animals-infected-screwworms",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-12T12:21:23.614831"
+  },
+  {
+    "title": "Anthropic says it blocked state-sponsored attempts to use Claude for bioweapons research",
+    "summary": "Anthropic recently detailed at least five cases where suspected rogue actors \"circumvented controls\" specifically designed to prevent users in certain parts of the world from accessing Claude's extensive knowledge base regarding infectious diseases, such as bird flu, and lethal venoms and toxins, like botulinum toxin. Read Entire Article",
+    "link": "https://www.techspot.com/news/113824-anthropic-blocked-state-sponsored-actors-using-claude-ai.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-09-12T12:21:23.615027"
+  },
+  {
+    "title": "Hideo Kojima to part ways with Sony, will bring his new gaming projects to Xbox",
+    "summary": "Hideo Kojima recently announced that his upcoming games have found a new home. The Japanese designer and auteur, together with his company, Kojima Productions, will partner with Microsoft and Xbox to develop and publish Physint, OD, and the other projects announced last year. Read Entire Article",
+    "link": "https://www.techspot.com/news/113810-hideo-kojima-part-ways-sony-bring-new-gaming.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-12T12:21:23.615148"
+  },
+  {
+    "title": "Ubisoft is finally testing a way to ditch its own Connect launcher on Steam",
+    "summary": "A recent update for Prince of Persia: The Lost Crown reveals that Ubisoft is testing a streamlined tool that connects users to their Ubisoft accounts without requiring them to install the Ubisoft Connect client. More Ubisoft games on Steam will receive the feature, called Ubisoft Connect Services, although it remains... Read Entire Article",
+    "link": "https://www.techspot.com/news/113817-ubisoft-finally-testing-way-ditch-own-connect-launcher.html",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-11T13:00:36.870068"
+    "processed_date": "2026-09-12T12:21:23.615266"
   },
   {
-    "title": "Arm's new Mali G2-Ultra NX GPU adds neural accelerators for sub-1-watt AI graphics on mobile",
-    "summary": "Not surprisingly, Arm just announced a series of agentic AI-focused enhancements to its range of IP offerings at its Arm Everywhere China event. The news encompasses mobile devices, physical AI and robotics, and AI infrastructure for the cloud and enterprise environments. Read Entire Article",
-    "link": "https://www.techspot.com/news/113789-arm-new-mali-g2-ultra-nx-gpu-adds.html",
+    "title": "Google finally launches Gemini desktop app for Windows 10 and 11",
+    "summary": "Google's Gemini desktop app is now available for Windows 10 and 11, providing quick access to the AI assistant from anywhere with an Alt + Space shortcut. The app also supports Google app integrations, multi-step tasks with Gemini Spark, and image and video generation. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7868-gemini-for-desktop.html",
     "categories": [
-      "GPUs",
+      "Tech News",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-12T12:21:23.615373"
+  },
+  {
+    "title": "DaVinci Resolve 21 expands AI toolset, adds AI assistant integration",
+    "summary": "DaVinci Resolve 21.1 expands its AI capabilities with tools for generating speech, aging or de-aging faces, removing motion blur, and more. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7863-davinci-resolve-21.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-12T12:21:23.615452"
+  },
+  {
+    "title": "Steam Controller mod converts PC audio to haptics so deaf users can feel sound",
+    "summary": "Modder FamBoy32-dev recently unveiled LiveHaptics, which transfers a PC's audio to the Steam Controller's rumble function, allowing hearing-impaired users to feel movies, music and games through vibrations. The app currently supports Windows and Linux. Read Entire Article",
+    "link": "https://www.techspot.com/news/113814-steam-controller-mod-deaf-users-feel-pc-audio.html",
+    "categories": [
+      "Hardware",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-09-11T13:00:36.870194"
+    "processed_date": "2026-09-12T12:21:23.615538"
+  },
+  {
+    "title": "Zoox is taking on Waymo in San Francisco with free rides and a very different robotaxi",
+    "summary": "San Francisco has become one of the industry's key test markets, but it has also exposed the risks of deploying autonomous vehicles in dense city traffic. Cruise pulled its vehicles from the road in 2023 after several incidents, including one in which a vehicle ran over and dragged a pedestrian.... Read Entire Article",
+    "link": "https://www.techspot.com/news/113819-zoox-taking-waymo-san-francisco-free-rides-different.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-12T12:21:23.615622"
+  },
+  {
+    "title": "Windows 11 can now reinstall itself from the cloud, no USB stick required",
+    "summary": "Windows 11 Insider Beta Preview Build 26220.9343 introduces a new reinitialization option that downloads a factory version of the OS from the cloud. The new feature lets users and IT administrators reset a device without needing a USB stick or a custom image. Read Entire Article",
+    "link": "https://www.techspot.com/news/113823-microsoft-tests-cloud-based-windows-11-reinstall-option.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-12T12:21:23.615705"
+  },
+  {
+    "title": "A hobbyist built a working computer out of 460 vacuum tubes, and it needs 15 minutes to warm up",
+    "summary": "The project, called The Tube Computer MK3, was built by Mike, a self-taught electronics tinkerer who recently documented the machine on Hackaday. It is the third vacuum-tube computer he has developed this decade. Read Entire Article",
+    "link": "https://www.techspot.com/news/113816-tinkerer-built-8-bit-computer-460-vacuum-tubes.html",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-12T12:21:23.615786"
+  },
+  {
+    "title": "Android adds built-in password and passkey transfers, supporting Google, 1Password, Bitwarden, and Dashlane",
+    "summary": "Android users can now transfer passwords and passkeys between password managers via a new procedure managed by the operating system. The feature already supports most major password managers on Android 8 or later, with more to follow. Read Entire Article",
+    "link": "https://www.techspot.com/news/113812-android-users-can-now-move-passwords-passkeys-between.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-12T12:21:23.615867"
+  },
+  {
+    "title": "Uber CEO says laying off 3,300 workers will help lower prices for customers",
+    "summary": "Uber said last week that it was laying off 10% of its corporate staff, or around 3,300 positions, as the ride-hailing giant looks to reduce management layers. The move marks its biggest cuts since Covid. Read Entire Article",
+    "link": "https://www.techspot.com/news/113822-uber-ceo-laying-off-3300-workers-help-lower.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-12T12:21:23.615944"
+  },
+  {
+    "title": "AMD launches $99 Ryzen 5 5500F for AM4 and new Ryzen 5 7500 for AM5",
+    "summary": "The Ryzen 5 7500 is essentially the Ryzen 5 7500F with an integrated GPU. It has six Zen 4 cores and 12 threads, a 3.7 GHz base clock, and boost speeds up to 5.0 GHz. It also has 38 MB of combined cache: 6 MB of L2 and 32 MB of L3. Its 65 W TDP is unchanged from the 7500F. Read Entire Article",
+    "link": "https://www.techspot.com/news/113813-amd-launches-99-ryzen-5-5500f-am4-new.html",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-12T12:21:23.616039"
   }
 ]
