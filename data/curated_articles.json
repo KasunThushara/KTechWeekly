@@ -1,191 +1,258 @@
 [
   {
-    "title": "Intel revives One Mono font after brief retirement during open-source purge typeface built to fight coder eyestrain gets reprieve",
-    "summary": "Intel s decision to archive its developer-focused One Mono font lasted only two days, with the company now restoring the open-source project despite its relatively limited development activity.",
-    "link": "https://www.tomshardware.com/tech-industry/intel-revives-one-mono-font-after-brief-retirement-typeface-built-to-fight-coder-eyestrain-gets-reprieve-from-open-source-purge",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-13T13:27:40.044469"
-  },
-  {
-    "title": "Thrustmaster Airbus Add-On Grip with AVA Joystick Base Review: A First-Class Flight Experience",
-    "summary": "The Thrustmaster Airbus Add-On Grip with the AVA Joystick Base is a 1:1 replica of an Airbus sidestick, featuring extensive customization and Hall-effect sensors across all axes.",
-    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/thrustmaster-airbus-add-on-grip-with-ava-joystick-base-review",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-13T13:27:40.044560"
-  },
-  {
-    "title": "Chinese military researchers and tech giants caught using Claude US frontier model coded 16 air-defense suppression tools targeting Taiwan, drafted anti-torpedo specs, and fed 151 million training queries to Alibaba",
-    "summary": "Anthropic accuses China-linked actors of using its Claude models of weapon development, intelligence activities, distilling AI models.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-military-researchers-and-tech-giants-caught-using-claude-us-frontier-model-coded-16-air-defense-suppression-tools-targeting-taiwan-drafted-anti-torpedo-specs-and-fed-151-million-training-queries-to-alibaba",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-09-13T13:27:40.044644"
-  },
-  {
-    "title": "Mexican cartel's crypto farm seized in mountain raid 300 GPUs, satellite links, and industrial transformers tapped hydroelectric power",
-    "summary": "There is increasing evidence that Mexican drug cartels are diversifying into cryptocurrency mining and are using crypto platforms to launder their ill-gotten gains.",
-    "link": "https://www.tomshardware.com/tech-industry/cryptomining/mexican-cartel-crypto-farm-seized-in-mountain-raid-300-gpus-satellite-links-and-industrial-transformers-tapped-hydroelectric-power",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-13T13:27:40.044734"
-  },
-  {
-    "title": "Waymo robotaxi calls cops on riders handling loaded AR-style ghost gun Waymo alerted San Francisco police, then juvenile riders were stopped and arrested",
-    "summary": "Following a tip-off from robotaxi firm Waymo, San Francisco police conducted a 'high-risk vehicle stop' and arrested two juveniles for illegal possession of a firearm.",
-    "link": "https://www.tomshardware.com/tech-industry/drones/waymo-robotaxi-calls-cops-on-riders-handling-loaded-ar-style-ghost-gun-waymo-alerted-san-francisco-police-then-juvenile-riders-were-stopped-and-arrested",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-13T13:27:40.044811"
-  },
-  {
-    "title": "Playable Tomb Raider runs on a humble 1-watt chip $25 board with dual-core 400 MHz ESP32-P4 MCU scales OpenLara up to 1,024 x 600 playable pixels",
-    "summary": "A retro video gaming devotee has showcased Lara Croft adventuring in and among ancient tombs on a humble ESP32-P4 microcontroller.",
-    "link": "https://www.tomshardware.com/software/programming/playable-tomb-raider-runs-on-a-humble-1-watt-chip-usd25-board-with-dual-core-400-mhz-esp32-p4-mcu-scales-openlara-up-to-1-024-x-600-playable-pixels",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-13T13:27:40.044892"
-  },
-  {
-    "title": "Ukraine triumphs in 'first-ever' drone-vs-drone boat battle video shows Russian MBeK destroyed by Sargan 3000's 12.7mm automatic turret",
-    "summary": "Ukraine s Navy has claimed that it has won 'the first-ever battle of unmanned naval boats.'",
-    "link": "https://www.tomshardware.com/tech-industry/drones/ukraines-sargan-3000-triumphs-in-first-ever-drone-vs-drone-boat-battle-video-shows-russian-mbek-destroyed-by-its-foes-12-7mm-automatic-turret",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-13T13:27:40.044962"
-  },
-  {
-    "title": "Transparent wall-mounted CD player raises over $540,000 on Kickstarter $109 Syitren RM1's visible disc and mechanisms channel 90s B&O nostalgia with Bluetooth and battery power",
-    "summary": "Syitren RM1 transparent wall-mounted CD player harkens back to a more civilized era with visible disc and mechanisms.",
-    "link": "https://www.tomshardware.com/speakers/syitren-rm1-transparent-wall-mounted-cd-player-harkens-back-to-a-more-civilized-era-visible-disc-and-mechanisms-make-for-a-tangible-listening-experience",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-13T13:27:40.045038"
-  },
-  {
-    "title": "Build a high-end AMD gaming PC for less Ryzen 7 9800X3D bundle includes an X870E motherboard, 32GB DDR5, AIO cooler and a game for $1,109.99",
-    "summary": "The bundle pairs one of the best gaming CPUs available with a premium X870E motherboard and 32GB of DDR5-6000 memory, while also throwing in a 240mm AIO cooler and a free copy of Onimusha: Way of the Sword.",
-    "link": "https://www.tomshardware.com/pc-components/build-a-high-end-amd-gaming-pc-for-less-ryzen-7-9800x3d-bundle-includes-an-x870e-motherboard-32gb-ddr5-aio-cooler-and-a-game-for-usd1-109-99",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-13T13:27:40.045118"
-  },
-  {
-    "title": "Iran and Houthi rebels used Anthropic's Claude AI to target US warships and build hypersonic missiles Houthi rebels also used the bot to code ballistic missile guidance systems",
-    "summary": "'Great Satan's' AI comes in handy.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/iran-and-houthi-rebels-used-anthropics-claude-ai-to-target-us-warships-and-build-hypersonic-missiles-houthi-rebels-also-used-the-bot-to-code-ballistic-missile-guidance-systems",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-13T13:27:40.045184"
-  },
-  {
-    "title": "US Customs supervisor busted for stealing Core i7 CPUs, RAM, and hard drives from Homeland Security PCs, damage estimated at $105,800 stolen tech swapped with inferior hardware and cashed out on Newegg",
-    "summary": "U.S. Customs and Border Protection supervisor switched hardware from Department of Homeland Security computers with slower components and traded in stolen hardware to Newegg's Trade-In program for store credit.",
-    "link": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-13T13:27:40.045268"
-  },
-  {
-    "title": "We tested unofficial DLSS Multi Frame Generation support on RTX 40-series GPUs new mod brings RTX 50-series exclusive feature to older cards, and it really works",
-    "summary": "We tested DLSS Multi Frame Generation on RTX 40-series GPUs.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/we-tested-dlss-multi-frame-generation-on-rtx-40-series-gpus-new-mod-brings-rtx-50-series-exclusive-feature-to-older-cards-and-it-really-works",
+    "title": "Solo dev enables running CUDA on AMD hardware in Windows, getting multiple CUDA libraries running on a gaming Radeon RX 9060 XT GPU in Windows CUDA-exclusive workloads on AMD hardware in Windows possible without virtualization or dual-booting",
+    "summary": "A developer has wired up the ZLUDA project to AMD's HIP libraries for Windows, putting a small but signifcant bridge over NVIDIA's CUDA moat.",
+    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/solo-developer-wires-zluda-to-amds-hip-getting-multiple-cuda-libraries-running-on-a-radeon-rx-9060-xt-in-windows-cuda-exclusive-workloads-on-amd-hardware-in-windows-is-possible-without-virtualization-or-dual-booting",
     "categories": [
       "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-13T13:27:40.045338"
-  },
-  {
-    "title": "IKEA releases new Skyrim mod that adds gloriously mundane Kallax shelving unit as your newest companion free collab provides a drab flatpack answer to your loot woes",
-    "summary": "IKEA has announced the Kallax Storageborn companion creation for players of The Elder Scrolls V: Skyrim Special Edition on PC or Xbox.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/ikea-releases-new-skyrim-mod-that-adds-gloriously-mundane-kallax-shelving-unit-as-your-newest-companion-free-collab-provides-a-drab-flatpack-answer-to-your-loot-woes",
-    "categories": [
-      "Tech News",
       "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-09-13T13:27:40.045417"
+    "quality_score": 5,
+    "processed_date": "2026-09-14T15:14:24.824860"
   },
   {
-    "title": "M5Stack Module13.2 LoRa-1262 expansion board integrates 14 10 mm Stamp LoRa-1262 module",
-    "summary": "After launching the SX1262-based M5Stamp C6LoRa tiny module, M5Stack has launched two SX1262-based LoRa add-ons for the 868 923 MHz band: the tiny Stamp LoRa-1262 SMD module for custom PCBs, and the stackable Module13.2 LoRa-1262 module for the M5Stack Core series. The Stamp LoRa-1262 supports LoRa, FSK, GFSK, MSK, GMSK, and OOK modulation, with up to +22 dBm transmit power and -147 dBm receive sensitivity. The Module13.2 adds an RP-SMA antenna interface, an M5IOE1 IO expansion chip for reset and power management, and DIP switches for flexible pin routing and configurable I2C addresses, enabling multi-module stacking. Stamp LoRa-1262 SMD module M5Stack Stamp LoRa-1262 specifications: LoRa Transceiver Semtech SX1262 Wireless Connectivity (LoRa) Frequency Band 868 to 923 MHz Modulation Modes LoRa, FSK, GFSK, MSK, GMSK, OOK Bitrate Up to 300 kbps (programmable) Transmit power (Tx) Up to +22 dBm Receive sensitivity (Rx) Down to -147 dBm [...] The post M5Stack Module13.2 LoRa-1262 expansion board integrates 14 10 mm Stamp LoRa-1262 module appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/09/13/m5stack-module13-2-lora-1262-expansion-board-integrates-14x10-mm-stamp-lora-1262-module/",
+    "title": "Need for Speed Underground 2 now runs directly on Nintendo Switch other Classic Windows titles playable thanks to custom firmware boot",
+    "summary": "Retro gaming fans who own Nintendo Switch consoles now have several classic Windows titles they can now enjoy.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/need-for-speed-underground-2-now-runs-directly-on-nintendo-switch-other-classic-windows-titles-playable-thanks-to-custom-firmware-boot",
     "categories": [
-      "Hardware",
-      "Semiconductors"
+      "GPUs"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-09-13T13:27:40.045888"
+    "quality_score": 5,
+    "processed_date": "2026-09-14T15:14:24.824988"
   },
   {
-    "title": "EEG biosensors help AI read your mind to guide robots, cars and more",
-    "summary": "Dozens of EEG products are on the market, while researchers in Korea find unconscious brain signals with EEG",
-    "link": "https://www.fiercesensors.com/electronics/eeg-biosensors-help-ai-read-your-mind-guide-robots-cars-and-more",
+    "title": "Micron offers Taiwan employees $31,650 cash bonus as unions threaten strike over AI windfall workers reject record payout package, demand 15% profit-sharing plan",
+    "summary": "Micron is offering Taiwan employees a NT$1 million cash bonus, but unions have rejected the package and are demanding permanent profit sharing as strike talks continue.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/micron-offers-taiwan-employees-usd31-650-cash-bonus-as-unions-threaten-strike-over-ai-windfall-workers-reject-record-payout-package-demand-15-percent-profit-sharing-plan",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-13T13:27:40.046838"
+    "processed_date": "2026-09-14T15:14:24.825097"
   },
   {
-    "title": "The iPhone Duo's best feature isn't the fold, it's the software built around it",
-    "summary": "Sometimes it really is the details that matter. Read Entire Article",
-    "link": "https://www.techspot.com/news/113809-iphone-duo-best-feature-isnt-fold-software-built.html",
+    "title": "Proven 8-pin PCIe plugs aren't immune to melting Thermal Grizzly WireView adapter burns out on Radeon RX 7900 XTX",
+    "summary": "Three 8-pin connectors on a Thermal Grizzly WireView reportedly suffered burning and melting while connected to a Radeon RX 7900 XTX, with the company now investigating what caused the failure.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/proven-8-pin-pcie-plugs-arent-immune-to-melting-thermal-grizzly-wireview-adapter-burns-out-on-radeon-rx-7900-xtx",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-14T15:14:24.825210"
+  },
+  {
+    "title": "Meta Quest user vibe-codes 3D object throwing to 3D printer I've never felt more like Tony Stark says the software engineer",
+    "summary": "A software engineer has shown off a futuristic Meta Quest plus 3D printer workflow where models are 'thrown' to the output device.",
+    "link": "https://www.tomshardware.com/3d-printing/meta-quest-user-vibe-codes-3d-object-throwing-to-3d-printer-ive-never-felt-more-like-tony-stark-says-the-software-engineer",
     "categories": [
       "AI & ML"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-09-13T13:27:40.047178"
+    "quality_score": 5,
+    "processed_date": "2026-09-14T15:14:24.825308"
   },
   {
-    "title": "Streaming prices have surged nearly 70% in four years, and they're still going up",
-    "summary": "Apple TV+ has had one of the largest increases. The service launched in 2019 at $4.99 a month and has since raised its price by 200%. It still has a smaller overall library than most of its main competitors, but Apple has continued to add original series and films while... Read Entire Article",
-    "link": "https://www.techspot.com/news/113821-streaming-prices-have-surged-nearly-70-four-years.html",
+    "title": "Asus ROG Swift PG27UCWM gaming monitor review: Speed and pixel density in a premium package",
+    "summary": "Asus latest ROG Swift display is the PG27UCWM, a 27-inch 4K OLED panel with Tandem RGB Stripe technology, advanced cooling, 240 Hz, 480 Hz in FHD resolution, Adaptive-Sync, HDR400, HDR10, Dolby Vision and wide gamut color.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-swift-pg27ucwm-27-inch-4k-oled-gaming-monitor-review",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-14T15:14:24.825426"
+  },
+  {
+    "title": "Russian freelancers use Claude to program autonomous combat drone swarm AI-enabled target selection and detonation without a human in the loop",
+    "summary": "Russia turned Claude into a tool for weapons development, espionage, and propaganda, Anthropic's new threat report claims.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/russian-freelancers-use-claude-to-program-autonomous-combat-drone-swarm-ai-enabled-target-selection-and-detonation-without-a-human-in-the-loop",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-14T15:14:24.825529"
+  },
+  {
+    "title": "Modders halve FSR 4 render times on AMD s PS5-derived BC-250 mining APU portable FidelityFX DLL cuts 1440p upscaling time from 11.51 ms to 5.92 ms",
+    "summary": "Modders have nearly halved FSR 4 processing time on AMD s PS5-derived BC-250, using a portable FidelityFX DLL that cuts 1440p upscaling cost to 5.92 ms.",
+    "link": "https://www.tomshardware.com/pc-components/modders-halve-fsr-4-render-times-on-amds-ps5-derived-bc-250-mining-apu-portable-fidelityfx-dll-cuts-1440p-upscaling-time-from-11-51-ms-to-5-92-ms",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-14T15:14:24.825640"
+  },
+  {
+    "title": "Dumpster diver builds home lab Proxmox server from weekly landfill runs for SSDs, HDDs, GPUs, and even RAM weekly e-waste raids net multi-drive Proxmox server and Asus ROG laptop",
+    "summary": "A tech enthusiast says that they managed to put together a home lab-worthy Proxmox server using PC parts scavenged from the nearby county landfill.",
+    "link": "https://www.tomshardware.com/desktops/pc-building/dumpster-diver-builds-home-lab-proxmox-server-from-weekly-landfill-runs-for-ssds-hdds-gpus-and-even-ram-weekly-e-waste-raids-net-multi-drive-proxmox-server-and-asus-rog-laptop",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-14T15:14:24.825750"
+  },
+  {
+    "title": "AMD s best gaming CPU drops below launch price and includes free 240mm AIO cooler and Onimusha: Way of the Sword grab the Ryzen 7 9850X3D for $484",
+    "summary": "The Ryzen 7 9850X3D may only be a modest step up from the 9800X3D, but it still leads our gaming benchmarks and now comes with a couple of useful extras at a lower-than-launch price.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amds-best-gaming-cpu-drops-below-launch-price-and-includes-free-240mm-aio-cooler-and-onimusha-way-of-the-sword-grab-the-ryzen-7-9850x3d-for-usd484",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-14T15:14:24.825869"
+  },
+  {
+    "title": "Bernie Sanders proposes 20 year prison sentence for AI devs who plow ahead with Artificial Superintelligence plans penalty on par with illegally developing rogue nuclear weapons",
+    "summary": "Senators Bernie Sanders and Greg Cezar have announced their Ban Artificial Superintelligence Act which threatens 20-year prison sentences for rule breakers.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sanders-proposes-20-year-prison-sentence-for-ai-devs-who-plow-ahead-with-artificial-superintelligence-plans-penalty-on-par-with-illegally-developing-rogue-nuclear-weapons",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-09-13T13:27:40.047304"
+    "processed_date": "2026-09-14T15:14:24.825991"
   },
   {
-    "title": "Microsoft warns that killing VBScript could break Windows activation for businesses",
-    "summary": "Microsoft is asking organizations that rely on the Slmgr.vbs tool to switch to PowerShell, as the old script will soon stop working along with the rest of the VBScript language. Companies that use the script to manage Windows activation should act soon, as Microsoft is likely to accelerate VBScript deprecation... Read Entire Article",
-    "link": "https://www.techspot.com/news/113827-microsoft-warns-killing-vbscript-could-break-windows-activation.html",
+    "title": "Dell Pro 5 Webcam 2K Review: So you can look good in office",
+    "summary": "The Dell Pro 5 webcam is an office-oriented 2K webcam with a physical privacy shutter, a built-in mic, and Windows Hello compatibility.",
+    "link": "https://www.tomshardware.com/peripherals/webcams/dell-pro-5-webcam-2k-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-14T15:14:24.826088"
+  },
+  {
+    "title": "Anthropic CEO warns of AI-driven botnet 'swarm' taking over the entire internet 'In 6 12 months such a swarm could be capable of taking over the entire internet with a persistent botnet'",
+    "summary": "As an Ex-Anthropic warns AI will get self-sufficient and kill our posterity.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-ceo-warns-of-ai-driven-botnet-swarm-taking-over-the-entire-internet-in-6-12-months-such-a-swarm-could-be-capable-of-taking-over-the-entire-internet-with-a-persistent-botnet",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-14T15:14:24.826187"
+  },
+  {
+    "title": "AZZA PSAZ-750G ATX 3.1 power supply review: An adequate budget 750W unit",
+    "summary": "The AZZA PSAZ-750G ATX 3.1 is a non-modular 750W built by Helly, wearing an 80 PLUS Gold badge it has never earned, sold at a price that almost makes the argument for it.",
+    "link": "https://www.tomshardware.com/pc-components/power-supplies/azza-psaz-750g-atx-3-1-power-supply-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-14T15:14:24.826280"
+  },
+  {
+    "title": "Morse Micro Wi-Fi HaLow USB adapters add 802.11ah connectivity to PCs and routers",
+    "summary": "Last year, we saw Morse Micro introduce the MM8108 Wi-Fi HaLow (802.11ah) SoC with up to 43.33 Mbps throughput, along with an MM8108-RD09 USB dongle reference design, for which we had virtually no details at the time. Morse Micro has now released USB-A and USB-C Wi-Fi HaLow adapters based on that reference design. The adapters let PCs and routers connect to 802.11ah networks through USB without a dedicated expansion card and feature an external SMA antenna delivering up to 26 dBm transmit power. Wi-Fi HaLow USB network adapter specifications: SoC Morse Micro MM8108 32-bit RISC-V Host Applications Processor (HAP) Standard IEEE802.11ah Wi-Fi HaLow Frequency band 850-950 MHz (Worldwide sub-1 GHz license-exempt range) Operating Modes Access Point (AP) and Station (STA). Channel Width 1/2/4/8 MHz Modulation BPSK, QPSK, 16QAM, 64QAM, 256QAM. Data rate Up to 43.3 Mbps using 256-QAM modulation at an 8 MHz bandwidth [...] The post Morse Micro Wi-Fi HaLow USB adapters add 802.11ah connectivity to PCs and routers appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/14/morse-micro-wi-fi-halow-usb-adapters-add-802-11ah-connectivity-to-pcs-and-routers/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-09-14T15:14:24.826821"
+  },
+  {
+    "title": "JetKVM Mini A low-cost, ESP32-P4X-based KVM with Ethernet or WiFi connectivity",
+    "summary": "JetKVM Mini is a smaller, lower-cost version of the popular JetKVM KVM over IP solution. The new model features a small information display, offers Ethernet or WiFi connectivity, and supports 1080p video capture. The main under-the-hood change is that they ditched Linux on a Rockchip RV1106G3 SoC and now rely on an ESP32-P4X (ESP32-P4 version 3.x and greater) to handle video capture, H.264 encoding, USB, and other features. The largest cost saving is removing the RAM and eMMC flash required by Linux. JetKVM Mini specifications: SoC Espressif Systems ESP32-P4X CPU Dual-core 32-bit RISC-V HP (High-performance) CPU @ up to 400 MHz with AI instruction extension and single-precision FPU Single-RISC-V LP (Low-power) MCU core @ up to 40 MHz Memory 768 KB HP L2MEM (for dual-core CPU), 32 KB LP SRAM, 8 KB TCM (for LP MCU core) 32 MB PSRAM Storage 128 KB HP ROM, 16 KB LP ROM [...] The post JetKVM Mini A low-cost, ESP32-P4X-based KVM with Ethernet or WiFi connectivity appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/14/jetkvm-mini-a-low-cost-esp32-p4x-based-kvm-with-ethernet-or-wifi-connectivity/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-09-14T15:14:24.826997"
+  },
+  {
+    "title": "Humanoid hype may be outrunning reality, IDC analyst warns",
+    "summary": "As Tesla, OpenAI, Nvidia and dozens of startups push bipedal robots forward, IDC's Phil Solis says the industry needs more focus on affordability, reliability and real-world deployments.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/humanoid-hype-may-be-outrunning-reality-idc-analyst-warns",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-14T15:14:24.828280"
+  },
+  {
+    "title": "Sony says gamers don't own their digital purchases, but 44 examples of its own wording suggest otherwise",
+    "summary": "The collection spans PlayStation support pages, store listings, and official blog posts, with live links, archived snapshots, and highlighted screenshots showing exactly where Sony uses ownership language. Read Entire Article",
+    "link": "https://www.techspot.com/news/113834-sony-gamers-dont-own-their-digital-purchases-but.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-13T13:27:40.047437"
+    "processed_date": "2026-09-14T15:14:24.828486"
+  },
+  {
+    "title": "Micron offered its Taiwan workers up to 68 months' pay. They turned it down within hours",
+    "summary": "Following up on our report last month, Micron has now made its offer to employees demanding AI boom bonuses. Every Taiwan-based employee hired on or before August 29, 2025 gets a one-time cash bonus of NT$1 million, about $31,650, with prorated amounts for anyone who joined afterwards. Read Entire Article",
+    "link": "https://www.techspot.com/news/113837-micron-offered-taiwan-workers-up-68-months-pay.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-14T15:14:24.828595"
+  },
+  {
+    "title": "Anthropic CEO warns AI botnet swarms could soon take over the internet as Musk and Altman back slowdown",
+    "summary": "Amodei wrote his warning in a lengthy open letter. He said his theoretical botnet swarm could be here in under a year because of the accelerating rate of AI capability development. Read Entire Article",
+    "link": "https://www.techspot.com/news/113833-anthropic-ceo-warns-ai-botnet-swarms-could-threaten.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-14T15:14:24.828698"
+  },
+  {
+    "title": "Blizzard just announced Diablo V, and this time Diablo actually won",
+    "summary": "Three years after releasing Diablo IV, Blizzard is already hard at work on a new entry in the popular ARPG franchise. Diablo V will be built exclusively around the titular villain, who was conspicuously absent from the previous game, while players will reportedly face a much darker world where the... Read Entire Article",
+    "link": "https://www.techspot.com/news/113828-blizzard-announced-diablo-v-time-diablo-actually-won.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-14T15:14:24.828804"
+  },
+  {
+    "title": "World of Warcraft: Forever launches November 4 with a new race, over 1,000 new quests, and 9 dungeons",
+    "summary": "The new MMORPG is Blizzard's answer to WoW fans who've been clamoring for a Classic+ version of the original title, and it will serve as the third permanent version of the game alongside Modern (Retail) and Classic. Read Entire Article",
+    "link": "https://www.techspot.com/news/113832-world-warcraft-forever-launches-november-4-new-race.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-14T15:14:24.828930"
+  },
+  {
+    "title": "StarCraft is coming back as an open-world shooter, but you'll have to wait until 2030",
+    "summary": "Rumors of a new StarCraft game have been circling for a while now. Its existence was confirmed during the opening ceremony of BlizzCon with a three-minute cinematic video. Read Entire Article",
+    "link": "https://www.techspot.com/news/113830-starcraft-coming-back-open-world-shooter-but-youll.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-14T15:14:24.829034"
+  },
+  {
+    "title": "New Bernie Sanders bill would ban superintelligent AI and threaten developers with 20 years in prison",
+    "summary": "The first paragraph of the announcement states that the Act would stop AI oligarchs from building machines humans cannot control. Read Entire Article",
+    "link": "https://www.techspot.com/news/113831-new-bernie-sanders-bill-would-ban-superintelligent-ai.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-14T15:14:24.829129"
   }
 ]
