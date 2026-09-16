@@ -1,282 +1,393 @@
 [
   {
-    "title": "Bill Gates compares AI to alien intelligence in movies where magically the US and China solve the problem together warns world governments that they re not ready for AI",
-    "summary": "The billionaire philanthropist says that governments across the world need to work together to ensure that the people are ready for upcoming upheaval brought about by AI. He even compared the technology to aliens in movies which got the world working together.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/bill-gates-compares-ai-to-alien-intelligence-in-movies-where-magically-the-us-and-china-solves-the-problem-together-warns-world-governments-that-theyre-not-ready-for-ai",
+    "title": "AI-induced memory shortage is changing how devices are built, Fairphone says memory now 60% of materials cost smaller laptop and phone makers are redesigning products and have to test for fake chips",
+    "summary": "For smaller device manufacturers, rising memory prices are only part of the problem as limited availability forces companies to rethink everything from motherboard designs to procurement strategies.",
+    "link": "https://www.tomshardware.com/pc-components/ram/ai-induced-memory-shortage-is-changing-how-devices-are-built-fairphone-says-memory-now-60-percent-of-materials-cost-smaller-laptop-and-phone-makers-are-redesigning-products-and-have-to-test-for-fake-chips",
     "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-15T13:51:44.005507"
-  },
-  {
-    "title": "ChatGPT transcripts are reportedly read by humans to improve responses, including those with personal information 'Project Lilly' has seen OpenAI hire hundreds of contractors to manually review logs",
-    "summary": "404 Media reports that OpenAI has hired hundreds of contractors to evaluate ChatGPT responses manually.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-transcripts-are-reportedly-read-by-humans-to-improve-responses-including-those-with-personal-information-project-lilly-has-seen-openai-hire-hundreds-of-contractors-to-manually-review-logs",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-15T13:51:44.005632"
-  },
-  {
-    "title": "Microsoft rolls out emergency update for Windows 11's latest patch recent update causes crashes on AMD graphics, Explorer hang-ups, and broken third-party integrations",
-    "summary": "Windows September 2026 update brings many long-requested features, but also surfaces fresh bugs new code crashing AMD, HP, and Lenovo systems and surfaces audio, Explorer, and Remote Desktop problems",
-    "link": "https://www.tomshardware.com/software/windows/windows-september-2026-update-brings-many-long-requested-features-but-also-surfaces-fresh-bugs-windows-11-update-causes-crashes-on-amd-graphics-explorer-hang-ups-and-broken-third-party-integrations",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-15T13:51:44.005748"
-  },
-  {
-    "title": "Grab a $560 saving on this 1440p-ready gaming PC with a 9800X3D and RTX 5060 Ti 16GB, now $1,859 all-white CyberPowerPC desktop ships with one of AMD's best X3D chips, along with 32GB DDR5 and a 2TB SSD",
-    "summary": "Save nearly $600 on this CyberPowerPC gaming PC with a 9800X3D, RTX 5060 Ti 16GB, 32GB DDR5, and a 2TB SSD.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/grab-a-usd560-saving-on-this-1440p-ready-gaming-pc-with-a-9800x3d-and-rtx-5060-ti-16gb-now-usd1-859-all-white-cyberpowerpc-desktop-ships-with-one-of-amds-best-x3d-chips-along-with-32gb-ddr5-and-a-2tb-ssd",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-15T13:51:44.005857"
-  },
-  {
-    "title": "Minecraft Legacy gets rewritten in C++ for PS2 and Wii ports code is tuned so it works well even on the PS2 s meager 32MB of RAM",
-    "summary": "Games optimization specialist OptiProjects (AKA OptiJeugos) has released a new port of Minecraft Legacy for the Sony PlayStation 2 and Nintendo Wii consoles.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/minecraft-legacy-gets-re-written-in-c-for-ps2-and-wii-ports-code-is-tuned-so-it-works-well-even-on-the-ps2s-meager-32mb-of-ram",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-15T13:51:44.005961"
-  },
-  {
-    "title": "Developer builds viral 3D source code visualizer that consumes 21GB of RAM flies around 2.5 million lines of code at over 120 frames per second",
-    "summary": "A developer has built a 3D code visualizer.",
-    "link": "https://www.tomshardware.com/tech-industry/developer-builds-viral-3d-source-code-visualizer-that-consumes-21gb-of-ram-flies-around-2-5-million-lines-of-code-at-over-120-frames-per-second",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-09-15T13:51:44.006050"
-  },
-  {
-    "title": "Perplexity s local AI agent comes to Windows, but only for RTX GPUs with at least 24GB of VRAM Portable Computer brings AI for multistep tasks to compatible PCs",
-    "summary": "Perplexity and Nvidia released Portable Computer for Windows on Sept. 14, bringing the local-first AI agent to GeForce RTX and RTX PRO GPUs with 24GB or more of VRAM.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/perplexitys-local-ai-agent-comes-to-windows-but-only-for-rtx-gpus-with-at-least-24gb-of-vram-portable-computer-brings-ai-for-multistep-tasks-to-compatible-pcs",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-15T13:51:44.006173"
-  },
-  {
-    "title": "Anthropic says AI can boost U.S. GDP by 32%, up to $44.4 trillion in four years economics model predicts that displaced employees 'may have to switch to jobs like electrician and nurse'",
-    "summary": "Anthropic has published a paper wherein it envisions a future for the economy where AI is deeply ingrained. In the most extreme scenarios, U.S. GDP is up, but unemployment simmers as others are put out of work.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-ai-can-boost-u-s-gdp-by-32-percent-up-to-usd44-4-trillion-in-four-years-economics-model-predicts-that-displaced-employees-may-have-to-switch-to-jobs-like-electrician-and-nurse",
-    "categories": [
+      "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-15T13:51:44.006283"
+    "processed_date": "2026-09-16T13:43:45.232251"
   },
   {
-    "title": "Nvidia's RTX 5090 vanishes from online retail in the US third-party sellers now demand as much as $9,500 for Nvidia's fastest GPU",
-    "summary": "The RTX 5090 is out of stock from first-party sellers online in the U.S., with third-party sellers now asking for as much as $9,500 for the GPU.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-5090-vanishes-from-online-retail-in-the-us-third-party-sellers-now-demand-as-much-as-usd9-500-for-nvidias-fastest-gpu",
+    "title": "Chinese state media counters Anthropic's call to put brakes on AI development paper says move is a response to Chinese competition ",
+    "summary": "State media outlet China Daily posits that Anthropic's Dario Amodei made the call to limit frontier AI development because Chinese AI models are catching up with American AI labs.",
+    "link": "https://www.tomshardware.com/tech-industry/policy/chinese-state-media-counters-dario-amodeis-call-to-put-brakes-on-ai-development-paper-says-move-is-a-response-to-chinese-competition",
     "categories": [
-      "GPUs",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-09-15T13:51:44.006405"
+    "quality_score": 10,
+    "processed_date": "2026-09-16T13:43:45.232552"
   },
   {
-    "title": "Gaming takes a backseat as Nvidia overhauls the RTX 5090 for maximum AI margins RTX Pro 5500 delivers 2.6X VRAM at matching specs",
-    "summary": "Nvidia launches the RTX Pro 5500 Blackwell Workstation Edition graphics card for agentic and generative AI.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/gaming-takes-a-backseat-as-nvidia-overhauls-the-rtx-5090-for-maximum-ai-margins-rtx-pro-5500-delivers-2-6x-vram-at-matching-specs",
+    "title": "Pick up a giant 18-inch RTX 5080-powered Asus gaming laptop from Best Buy and save $600 the ROG Strix G18 also comes with 32GB of memory and a 2TB SSD",
+    "summary": "Go big with an 18-inch gaming laptop monster. Save $600 on the RTX-5080-powered Asus ROG Strix G18 gaming laptop at Best Buy.",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/pick-up-a-giant-18-inch-rtx-5080-powered-asus-gaming-laptop-from-best-buy-and-save-usd600-the-rog-strix-g18-also-comes-with-32gb-of-memory-and-a-2tb-ssd",
     "categories": [
       "GPUs",
-      "AI & ML"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-15T13:51:44.006514"
+    "processed_date": "2026-09-16T13:43:45.232753"
   },
   {
-    "title": "Valve engineers discuss the duality of the Steam Frame and pricing Valve's newest VR headset pivots SteamOS to Arm",
-    "summary": "We chatted with Valve engineers Pierre-Loup Griffais and Jeff Leinbaugh about the Steam Frame launch, why the company is taking a two-pronged strategy with streaming and standalone support, and how the global memory/storage crunch affected development.",
-    "link": "https://www.tomshardware.com/virtual-reality/valve-engineers-discuss-the-duality-of-the-steam-frame-and-pricing-valves-newest-vr-headset-pivots-steamos-to-arm",
+    "title": "Jensen Huang thinks China will develop its own advanced lithography chipmaking tools by 2030 Nvidia CEO says achievement of that capability 'is just a matter of time'",
+    "summary": "Nvidia CEO thinks that in light of his view of a three- to four-year timeline for Chinese development of advanced semi tooling, the country is \"already there.\"",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/jensen-huang-thinks-china-will-develop-its-own-advanced-lithography-systems-by-2030-nvidia-ceo-says-achievement-of-that-capability-is-just-a-matter-of-time",
+    "categories": [
+      "Semiconductors",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-16T13:43:45.232910"
+  },
+  {
+    "title": "SK hynix reportedly discussing US memory chip manufacturing with Intel options include leasing Ohio plant or forming joint venture with other AI hyperscalers",
+    "summary": "Sources say SK hynix and Intel are in talks to start HBM manufacturing in the United States. Both companies refused to confirm the rumors, though, as SK hynix could potentially be put in a precarious position as trade talks between Seoul and Washington continue.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-reportedly-discussing-us-memory-chip-manufacturing-with-intel-options-include-leasing-ohio-plant-or-forming-joint-venture-with-other-ai-hyperscalers",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-09-15T13:51:44.006624"
+    "quality_score": 5,
+    "processed_date": "2026-09-16T13:43:45.233051"
   },
   {
-    "title": "Valve Steam Frame interview why it costs up to $1,300, Snapdragon power, and 10x foveated streaming",
-    "summary": "We chatted with Valve engineers Pierre-Loup Griffais and Jeff Leinbaugh about launching the Steam Frame amid a global memory/storage supply crunch",
-    "link": "https://www.tomshardware.com/virtual-reality/valve-steam-frame-interview-why-it-costs-up-to-usd1-300-snapdragon-power-and-10x-foveated-streaming",
+    "title": "'Defeated' GPT-6 Astra model spent several hours just farming potatoes after being blown up by a Creeper in Minecraft OpenAI offering gets further than any other AI system in 141-hour test",
+    "summary": "OpenAI's GPT-6 Astra spent hours just farming potatoes after dying and losing all of its gear during a Minecraft test.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/defeated-gpt-6-astra-model-spent-several-hours-just-farming-potatoes-after-being-blown-up-by-a-creeper-in-minecraft-openai-offering-gets-further-than-any-other-ai-system-in-141-hour-test",
     "categories": [
       "AI & ML",
-      "Tech News"
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-15T13:51:44.006719"
+    "processed_date": "2026-09-16T13:43:45.233172"
   },
   {
-    "title": "Valve Steam Frame Review: Competent as a standalone VR, but wireless streaming remains the focus",
-    "summary": "All dressed up and nowhere to go sums up the Meta Quest 3.",
-    "link": "https://www.tomshardware.com/virtual-reality/valve-steam-frame-review",
+    "title": "AWS tells clients to abandon Middle East data centers six months after Iranian drone strikes Amazon offers no recovery timeline as UAE mulls underground data centers",
+    "summary": "Amazon Web Services' data centers in Abu Dhabi and Bahrain were struck by drone attacks more than six months ago. Now, the company has told customers to move their data to other regions, and it has no details on when repair work will be completed.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-reportedly-tells-customers-in-abu-dhabi-and-bahrain-to-find-safer-harbors-for-their-data-aws-has-no-timeline-for-resuming-operations-six-months-after-drone-strikes-damaged-data-centers-in-the-region",
     "categories": [
-      "AI & ML",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-16T13:43:45.233293"
+  },
+  {
+    "title": "Nvidia reportedly denies RTX 5090 warranty over faded serial number $6,500 GPU blemish not an isolated incident, according to customers",
+    "summary": "Redditor reported that Nvidia allegedly rejected their warranty claims for GeForce RTX 5090 Founders Edition graphics cards because the serial number on the bracket was unreadable.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-denies-rtx-5090-warranty-over-faded-serial-number-usd6-500-gpu-blemish-not-an-isolated-incident-according-to-customers",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-16T13:43:45.233452"
+  },
+  {
+    "title": "Save $270 on this solid 1080p gaming PC with an RTX 5060 from MSI, now under $1,430 Codex R2 rig packs 32GB DDR5 RAM, a 2TB SSD, and a 10-core Intel CPU",
+    "summary": "Save $270 on this MSI gaming PC with a Intel Core i5-14400F, Nvidia GeForce RTX 5060, 32GB DDR5 and a 2TB SSD, all for $1,429.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd270-on-this-solid-1080p-gaming-pc-with-an-rtx-5060-from-msi-now-under-usd1-430-codex-r2-rig-packs-32gb-ddr5-ram-a-2tb-ssd-and-a-10-core-intel-cpu",
+    "categories": [
+      "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-15T13:51:44.006813"
+    "processed_date": "2026-09-16T13:43:45.233566"
   },
   {
-    "title": "Nvidia, Palantir, and others restrict advanced AI model usage over privacy concerns, report claims 'paranoia' rising over customer intellectual property",
-    "summary": "Companies are concerned that their intellectual property may be used by Anthropic and OpenAI to help improve their AI models.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-palantir-and-others-restrict-advanced-ai-model-usage-over-privacy-concerns-report-claims-paranoia-rising-over-customer-intellectual-property",
+    "title": "Original Sony PlayStation 2 security chip broken wide open after 26 years chemical decapping and four years of reverse engineering unlocks MechaCon secrets",
+    "summary": "The magic security chip inside the original PlayStation 2 has been successfully reverse engineered and dumped after four years of effort.",
+    "link": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-16T13:43:45.233677"
+  },
+  {
+    "title": "China's open-weight AI models are now just 4 months behind frontier US offerings, Mozilla report claims models still lag in some benchmarks but are drastically cheaper to use",
+    "summary": "Mozilla s State of Open Source AI report puts Kimi K3 about four months behind closed frontier models at 30% of the price.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-16T13:43:45.233784"
+  },
+  {
+    "title": "Devastated father says his 9-year-old son spent $118,000 on YouTube ad campaigns for his Minecraft channel using a company credit card bill racked up in just three weeks was supposed to be one $20 promotion",
+    "summary": "A father says his 9-year-old son spent $118,000 of his employer's money on YouTube ads for Minecraft and Roblox videos in three weeks.",
+    "link": "https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-16T13:43:45.233894"
+  },
+  {
+    "title": "AI enthusiast builds GPT-6 Astra-powered bot to take on Balatro's Gold Stake Black Deck bot leverages Python for numerical tools, beats hardest difficulty repeatedly",
+    "summary": "A Reddit user has shared details of a new Balatro-playing AI bot that took on the infamous Gold Stake Black Deck with aplomb.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-enthusiast-builds-gpt-6-astra-powered-bot-to-take-on-balatros-gold-stake-black-deck-bot-leverages-python-for-numerical-tools-beats-hardest-difficulty-repeatedly",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-16T13:43:45.234000"
+  },
+  {
+    "title": "AI leaders clash over safety fears after Anthropic whistleblower says AI could 'kill us all' by 2030 OpenAI, Anthropic and xAI figureheads call for external governance, while Jensen Huang says worries are 'made up'",
+    "summary": "The CEOs of OpenAI and Anthropic, as well as other industry leaders, are calling for a general slowdown in AI development over safety fears. On the flip side, Chinese authorities, the U.S. President, and CEO of Nvidia have dismissed their concerns as fearmongering.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-leaders-clash-over-safety-fears-after-anthropic-whistleblower-says-ai-could-kill-us-all-by-2030-openai-anthropic-and-xai-figureheads-call-for-external-governance-while-jensen-huang-says-worries-are-made-up",
     "categories": [
       "AI & ML",
       "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-09-15T13:51:44.006912"
+    "quality_score": 10,
+    "processed_date": "2026-09-16T13:43:45.234129"
   },
   {
-    "title": "Alif Semi Balletto B1 and Ensemble E1C StartKits feature Cortex-M55 + Ethos-U55 MCU for IoT and Edge AI",
-    "summary": "Alif Semiconductor s Ensemble E1C (SK-E1C) and Balletto B1 (SK-B1) StartKits are low-cost development boards built around the company s Cortex-M55 + Ethos-U55 microcontrollers. The Balletto B1 adds BLE 5.3 and 802.15.4 wireless connectivity, while the Ensemble E1C does not have built-in wireless connectivity. Both StartKits feature a microcontroller with a 160MHz Cortex-M55 CPU, an Ethos-U55 NPU, 2MB SRAM, and 1.8/1.9MB NVM. They also include an Arducam camera header, a mikroBUS Click Board expansion socket, and two PDM microphones for camera, audio, and sensor-based projects. The Balletto B1 additionally provides the complete RF path to a chip antenna for its wireless subsystem, while both boards feature an on-board Segger J-Link debugger for development and testing. Alif Semiconductor StartKit (SK-B1 and SK-E1C) specifications: MCU SK-E1C Alif Semiconductor Ensemble E1C SK-B1 Alif Semiconductor Balletto B1 CPU Arm Cortex-M55 core with Helium-M Vector Extension @ up to 160 MHz NPU Arm [...] The post Alif Semi Balletto B1 and Ensemble E1C StartKits feature Cortex-M55 + Ethos-U55 MCU for IoT and Edge AI appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/09/15/alif-semi-balletto-b1-and-ensemble-e1c-startkits-feature-cortex-m55-ethos-u55-mcu-for-iot-and-edge-ai/",
+    "title": "Asus' ludicrous $10,850 20th-anniversary bundle is now the cheapest way to buy an RTX 5090 Nvidia's flagship GPU stock is so limited that this bundle with a 3000W PSU, X870E board, and open-frame case is actually cheaper than some scalper listings",
+    "summary": "This ultra-premium Asus ROG Edition 20th Anniversary Combo set at Newegg is super expensive at $10,849.96, but ironically, it's the 'cheapest' way to pick up an RTX 5090 right now.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/asus-ludicrous-20th-anniversary-bundle-is-now-the-cheapest-way-to-buy-an-rtx-5090-nvidias-flagship-gpu-stock-is-so-limited-that-this-usd10-850-bundle-with-a-3000w-psu-x870e-board-and-open-frame-case-is-actually-cheaper-than-some-scalper-listings",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-16T13:43:45.234255"
+  },
+  {
+    "title": "Intel reportedly cans 12Xe option for Nova Lake-S desktop gaming APU design said to resurface with Razor Lake",
+    "summary": "Following rumors of a Nova Lake desktop SKU with 12 Xe3P cores, tipster Jaykihn suggests that Intel has canned the design and moved the target to next-gen Razor Lake instead.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-reportedly-cans-12xe-option-for-nova-lake-s-desktop-gaming-apu-design-said-to-resurface-with-razor-lake",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-16T13:43:45.234437"
+  },
+  {
+    "title": "US AI data centers projected to become the fifth-largest natural gas consumer in the world by 2035 consumption to grow by 15 billion cubic feet per day as demand for compute increases",
+    "summary": "Data centers in the U.S. are projected to use up more natural gas than most of the rest of the world to generate the electricity they need. Estimates suggest that 15 billion cubic feet per day are needed to keep data centers running by 2035.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/us-ai-data-centers-projected-to-become-the-fifth-largest-natural-gas-consumer-in-the-world-by-2035-consumption-to-grow-by-15-billion-cubic-feet-per-day-as-demand-for-compute-increases",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-16T13:43:45.234563"
+  },
+  {
+    "title": "AAEON MIX-PTLWV1 Panther Lake industrial mini-ITX motherboard offers quad DisplayPort, dual 10GbE, and more",
+    "summary": "AAEON MIX-PTLWV1 is an industrial mini-ITX motherboard based on Intel Core Ultra Series 3 Panther Lake processors with up to two 10GbE and two 2.5GbE RJ45 jacks, and four 4K-capable DisplayPort video outputs. The motherboard also supports up to 128GB DDR5 C/SO-DIMM memory, M.2 NVMe SSD storage, optional WiFi and Bluetooth, and/or 4G LTE/5G cellular via M.2 modules, a PCIe Gen4 x8 slot for expansion, six serial interfaces, 12V-24V wide DC input, and more. AAEON MIX-PTLWV1 specifications: SoC Intel Panther Lake processor (PTL-H404/PTL-H484 families) with Intel Xe LPG graphics; TDP: 15 to 25W System Memory Up to 128GB via 2x 262-pin DDR5 C/SO-DIMM sockets up to 6400MHz (H404 SKU) or 7200MHz (H484 SKU) Storage M.2 2280 M-Key (PCIe Gen4 x4) socket for NVMe SSD Display Interfaces 4x DisplayPort 1.4 up to 4096 x 2160 @ 60Hz 40-pin LVDS/eDP co-layout connector for Default: 18/24 bit dual-channel LVDS up [...] The post AAEON MIX-PTLWV1 Panther Lake industrial mini-ITX motherboard offers quad DisplayPort, dual 10GbE, and more appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/16/aaeon-mix-ptlwv1-panther-lake-industrial-mini-itx-motherboard-offers-quad-displayport-dual-10gbe/",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-09-15T13:51:44.007472"
+    "quality_score": 10,
+    "processed_date": "2026-09-16T13:43:45.235072"
   },
   {
-    "title": "Unlucky PC user finds AMD's cheaper 8-pin GPU connectors can melt, too",
-    "summary": "Redditor AwarenessHour9192 recently complained about a melted power connector on a PC graphics card, an issue commonly associated with Nvidia's top-of-the-line GPUs. However, this time the affected card was an AMD Radeon RX 7900 XTX. Read Entire Article",
-    "link": "https://www.techspot.com/news/113843-unlucky-pc-user-finds-amd-cheaper-8-pin.html",
+    "title": "OpenMANET A higher-bandwidth Meshtastic alternative leveraging 802.11ah WiFi HaLow",
+    "summary": "OpenMANET is an open-source project for building long-range wireless mesh Mobile Ad-hoc Networks (MANETs) using Raspberry Pi SBCs and Wi-Fi HaLow (802.11ah) chips from Morse Micro. This came up when we wrote about Morse Micro USB WiFi HaLow adapters, and an X user commented that OpenMANET is going to explode with these available, no more adapter boards or M.2 cards . OpenMANET targets search and rescue, disaster response, airsoft events, and other off-grid or infrastructure-failed situations. So it looks like an alternative to LoRa-based Meshtastic and Meshcore, with higher bandwidth, at the cost of more expensive hardware and higher power consumption. OpenMANET supports field communications, including push-to-talk, sharing GPS positions, cameras/video streams, and ATAK (Android Team Awareness Kit) integration. The mesh network can access the Internet through a single mesh gate over Starlink or cellular connectivity. The project supports a range of hardware platforms including Gateworks Venice, Raspberry Pi Zero 2 W, [...] The post OpenMANET A higher-bandwidth Meshtastic alternative leveraging 802.11ah WiFi HaLow appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/16/openmanet-a-higher-bandwidth-meshtastic-alternative-leveraging-802-11ah-wifi-halow/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-16T13:43:45.235258"
+  },
+  {
+    "title": "CVITEK CV1842H-P-based edge AI camera module offers night vision and AI-ISP support (Crowdfunding)",
+    "summary": "The AIMORELOGY Ovis is an open-source AI vision camera module built around the CVITEK CV1842H-P SoC, with full-color 1080p night vision and 1.5 TOPS edge AI inference in a compact modular design. It is designed for drones, robotics, security systems, smart cameras, and custom embedded vision products. The camera features a compact stacked design, with a 20 20 mm Core board that includes the CVITEK CV1842H-P SoC, 2 Gbit NAND flash, USB, and UART debug pads. A Sensor board with the SC235HAI image sensor connects on top and also adds Ethernet and UART interfaces. An optional CVBS board goes between the Sensor board and the Ovis Core board. AIMORELOGY Ovis specifications: Ovis Core Board SoC CVITEK CV1842H-P CPU 1x Arm Cortex-A53 core @ 1.1 GHz, 1x RISC-V C906 core @ 800 MHz NPU 1.5 TOPS @ INT8 with BF16 support ISP AI-ISP with real-time 1080p [...] The post CVITEK CV1842H-P-based edge AI camera module offers night vision and AI-ISP support (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/16/cvitek-cv1842h-p-based-edge-ai-camera-module-offers-night-vision-and-ai-isp-support/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-16T13:43:45.235472"
+  },
+  {
+    "title": "Nvidia rejects RTX 5090 warranty claim because the card's serial number faded",
+    "summary": "The owner said the GPU began suffering black-screen crashes and was sent to Nvidia for replacement. Before shipping the card, they noticed that the serial number printed on its metal bracket had become difficult to read. Read Entire Article",
+    "link": "https://www.techspot.com/news/113861-nvidia-rejects-rtx-5090-warranty-claim-because-card.html",
     "categories": [
       "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-16T13:43:45.236915"
+  },
+  {
+    "title": "Man who faced three felonies for destroying a fake Flock camera has charges reduced to misdemeanors",
+    "summary": "It was reported in late August that Evan Meyer, 24, was being charged with counts of criminal mischief causing more than $1,000 in damage, grand theft involving property valued between $750 and $5,000, and damaging or taking a computer, electronic device, or related equipment. All felonies. Read Entire Article",
+    "link": "https://www.techspot.com/news/113868-man-who-faced-three-felonies-destroying-fake-flock.html",
+    "categories": [
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-15T13:51:44.008903"
+    "processed_date": "2026-09-16T13:43:45.237161"
   },
   {
-    "title": "Sega and Netflix team up for Crazy Taxi movie, new Sonic series, and Stranger Than Heaven film",
-    "summary": "Crazy Taxi, the classic racing game that was one of the best reasons to buy a Dreamcast, will be turned into a feature film written by Dan Gregor and Doug Mand, the duo who penned the 2025 reboot of The Naked Gun. It will be produced by Neal H. Moritz,... Read Entire Article",
-    "link": "https://www.techspot.com/news/113849-sega-netflix-team-up-crazy-taxi-movie-new.html",
+    "title": "The US just admitted, for the first time, that it has weapons deployed in space",
+    "summary": "Air Force Secretary Troy Meink said at a Monday event that the US has deployed weapons in orbit to defend against hostile action. The admission crosses a new boundary following decades of peaceful international competition and cooperation in space. Read Entire Article",
+    "link": "https://www.techspot.com/news/113858-us-admitted-first-time-has-weapons-deployed-space.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-16T13:43:45.237411"
+  },
+  {
+    "title": "Crypto prices tumble as Senate blocks Clarity Act amid concerns over Trump family's crypto ties",
+    "summary": "The legislation failed to secure the 60 votes needed to clear a procedural hurdle. As CoinDesk reports, the result follows years of campaigning and hundreds of millions of dollars spent trying to get a regulatory framework through Congress. Read Entire Article",
+    "link": "https://www.techspot.com/news/113866-crypto-prices-tumble-senate-blocks-clarity-act-amid.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-16T13:43:45.237621"
+  },
+  {
+    "title": "Solar panel costs have plummeted from $6 per watt in 2000 to just 12 cents today",
+    "summary": "At Bestway Cement's plant in Chakwal, Pakistan, solar already supplies more than a quarter of the electricity used to make cement. The company has 26MW installed and expects to add another 6.34MW by the end of the year. Read Entire Article",
+    "link": "https://www.techspot.com/news/113860-solar-panel-costs-have-plummeted-6-watt-2000.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-15T13:51:44.009059"
+    "processed_date": "2026-09-16T13:43:45.237808"
   },
   {
-    "title": "A hidden feature suggests Apple might let you replace Siri with Claude or ChatGPT in iPhone and macOS",
-    "summary": "The Extensions Framework offers a dedicated Settings area that lets users choose their preferred backend model to provide Siri with writing tools and image generation capabilities. Siri would act as an intermediary, receiving voice commands or text input from the user and routing them to the selected model provider. Read Entire Article",
-    "link": "https://www.techspot.com/news/113845-hidden-feature-suggests-apple-might-you-replace-siri.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-15T13:51:44.009182"
-  },
-  {
-    "title": "Cost Per Frame: Nvidia Stops Offering Good Value GPUs to Gamers",
-    "summary": "GPU prices are climbing again, but not equally . Across 10 countries, Radeon now delivers far better value than GeForce in most price tiers, while Nvidia's lineup struggles to stay competitive. Read Entire Article",
-    "link": "https://www.techspot.com/article/3171-cost-per-frame-gpu/",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-15T13:51:44.009281"
-  },
-  {
-    "title": "Valve's Steam Frame launches at $1,059, and Half-Life: Alyx comes free",
-    "summary": "Customers interested in Valve's new headset can register for a reservation lottery, which closes on September 17 at 1 PM ET. The Steam Frame is available at $1,059 for a basic kit with 256GB of internal storage or $1,299 for a 1TB premium model. Read Entire Article",
-    "link": "https://www.techspot.com/news/113838-valve-steam-frame-launches-1059-half-life-alyx.html",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-15T13:51:44.009418"
-  },
-  {
-    "title": "Photon Studio is a free Photoshop alternative with native PSD support",
-    "summary": "Photon Studio is a desktop image editor with layers, masks, adjustment tools, smart objects, retouching and native PSD support. Features such as subject selection and background removal run locally, with no subscription or paid feature tier. It's available for Windows, Mac, and Linux. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/7907-photon-studio.html",
+    "title": "Mark Cuban says social media-fueled AI backlash poses a bigger threat than the technology itself",
+    "summary": "Cuban gave his views on the AI apocalypse situation in a series of X posts. \"I think there is far greater risk from what humans do in response to what they see on social media, than what agent swarms will do,\" he wrote. Read Entire Article",
+    "link": "https://www.techspot.com/news/113863-mark-cuban-social-media-fueled-ai-backlash-poses.html",
     "categories": [
       "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-15T13:51:44.009536"
-  },
-  {
-    "title": "Redditor finds RTX 3070 graphics cards worth $5,000 in abandoned crypto mining rigs",
-    "summary": "According to images posted by CelebrationIll9568 on the /pcmasterrace subreddit, all 12 GPUs were built by Zotac. The motherboards are part of MSI's MPG Z390 Gaming Plus lineup, designed specifically for gamers and overclockers. One of the PSUs is a 1000W Gold-rated unit from Rosewill, but the brands and specifications... Read Entire Article",
-    "link": "https://www.techspot.com/news/113835-redditor-finds-rtx-3070-graphics-cards-worth-5000.html",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-15T13:51:44.009645"
-  },
-  {
-    "title": "OpenRGB 1.0 brings a major update to universal RGB control",
-    "summary": "Managing RGB hardware from different brands often means installing several separate utilities, which is exactly what OpenRGB aims to avoid by controlling compatible lighting from one application. Version 1.0 marks a major step forward with support for more devices, a redesigned profile system, background service operation, including PawnIO and Qt6. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/7552-openrgb.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-15T13:51:44.009756"
-  },
-  {
-    "title": "Fake CAPTCHAs are tricking people into hacking their own computers, and it's working",
-    "summary": "Typical ClickFix social engineering attacks begin with a pop-up displayed over a trusted web page that provides some pressing instructions. Cybercriminals have weaponized CAPTCHA overlay windows to make the social engineering attempt more effective, asking users to copy, paste and execute a covert command from the Windows or Mac command... Read Entire Article",
-    "link": "https://www.techspot.com/news/113840-clickfix-based-attacks-becoming-widespread-both-pc-mac.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-15T13:51:44.009867"
-  },
-  {
-    "title": "Thief designer says the graphics arms race should have stopped at Alan Wake... in 2010",
-    "summary": "Randy Smith knows a thing or two about game design. The developer worked extensively on the Thief series before funding indie studio Tiger Style in 2008. Read Entire Article",
-    "link": "https://www.techspot.com/news/113836-thief-designer-graphics-arms-race-have-stopped-alan.html",
-    "categories": [
-      "GPUs",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-15T13:51:44.009962"
+    "processed_date": "2026-09-16T13:43:45.237994"
   },
   {
-    "title": "Apple's secret iPhone game controllers could launch under the Beats brand",
-    "summary": "According to the well-connected Gurman, Apple has been working on in-house game controllers for the iPhone for over a year now. The main goal is to enter what Apple has identified as a growing market and compete with the slew of third-party options that already exist. Read Entire Article",
-    "link": "https://www.techspot.com/news/113839-apple-secret-iphone-game-controllers-could-launch-under.html",
+    "title": "Records show police justified Flock license plate searches with answers like \"LMAO\" and \"idk\"",
+    "summary": "Search logs from Flock's Automatic License Plate Reader (ALPR) database show that, over the past few years, officers across the US have routinely searched the system without offering any legitimate justification. And the company's own fix for the problem may have made it worse. Read Entire Article",
+    "link": "https://www.techspot.com/news/113857-records-show-police-justified-flock-license-plate-searches.html",
     "categories": [
-      "Tech News",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-16T13:43:45.238175"
+  },
+  {
+    "title": "Roblox's top creators are making $65 million a year, while most took home about $1,500",
+    "summary": "Roblox is preparing to let developers ship their games outside the Roblox app. The initiative is called Roblox Everywhere, announced at its developers conference in San Jose last week. It will let creators publish their games as standalone apps on mobile, PC, and consoles, while Roblox continues to provide the... Read Entire Article",
+    "link": "https://www.techspot.com/news/113855-roblox-top-creators-making-65-million-year-while.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-16T13:43:45.238389"
+  },
+  {
+    "title": "Underwater solar power sounds impossible, these new perovskite cells make it work anyway",
+    "summary": "A newly published study describes a \"robust\" strategy for reliably generating power underwater. Several Chinese researchers developed a new type of submerged perovskite solar cell that can operate a few meters below sea level and harvest solar energy for years while retaining high efficiency. Read Entire Article",
+    "link": "https://www.techspot.com/news/113856-underwater-solar-power-sounds-impossible-new-perovskite-cells.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-16T13:43:45.238572"
+  },
+  {
+    "title": "Trump calls AI safety concerns a \"hoax,\" says a \"high IQ\" president is the only guardrail needed",
+    "summary": "This week, after Amodei once again advocated for an industry-wide slowdown, third-party audits, and coordinated international guardrails to prevent AI bots from going rogue, Trump doubled down on his pro-AI rhetoric and attacked the Anthropic CEO for speaking out against unchecked AI development. Read Entire Article",
+    "link": "https://www.techspot.com/news/113848-trump-calls-ai-safety-concerns-hoax-high-iq.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-16T13:43:45.238754"
+  },
+  {
+    "title": "Switch emulation now goes both ways: PC games on Switch and Switch games on PC",
+    "summary": "Suyu, one of Yuzu's offspring conceived to keep Switch emulation alive and well on PC, recently achieved a major technical milestone. Unfortunately, the developers have also decided to stop working on the project for the foreseeable future. But new forks have already begun refreshing Suyu's code, allowing Nintendo's cat-and-mouse game... Read Entire Article",
+    "link": "https://www.techspot.com/news/113846-switch-emulation-now-goes-both-ways-pc-games.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-16T13:43:45.238935"
+  },
+  {
+    "title": "Apple's 2027 roadmap includes iPhone 18, iPhone Air 2, and iPhone 18e, all reportedly using the A20 chip",
+    "summary": "According to Bloomberg's Mark Gurman, Apple will enter 2027 with three new iPhones on deck including the iPhone 18, the iPhone Air 2, and the entry-level iPhone 18e. The standard 18 and the Air 2 will be powered by Apple's A20 chip, and the latter will receive a second camera for ultra-wide photography. Read Entire Article",
+    "link": "https://www.techspot.com/news/113852-apple-h1-2027-roadmap-reportedly-includes-more-than.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-16T13:43:45.239119"
+  },
+  {
+    "title": "The European Union wants to ban chatbots and online games for kids under 15, not just social media",
+    "summary": "Reuters reports that the EU Kids Act is due to be presented on Thursday. However, the draft could still change and needs agreement from EU countries and the European Parliament before becoming law. Read Entire Article",
+    "link": "https://www.techspot.com/news/113851-eu-plans-under-15-restrictions-social-media-ai.html",
+    "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-15T13:51:44.010065"
+    "processed_date": "2026-09-16T13:43:45.239289"
+  },
+  {
+    "title": "Apple AirPods 5 first reviews are in: stronger ANC and swipe volume controls",
+    "summary": "The new AirPods 5 refine the company's less expensive earbuds. ANC now comes standard, while the $149 version adds a wireless charging case, swipe volume controls, and longer battery life. Reviewers praise their surprisingly effective noise cancellation for an open-ear design. Read Entire Article",
+    "link": "https://www.techspot.com/products/headphones/airpods-5.330921/",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-16T13:43:45.239499"
+  },
+  {
+    "title": "Microsoft issues emergency Windows 11 patch to fix Remote Desktop and audio, but not AMD GPU crashes",
+    "summary": "The emergency fix arrives as KB5129195 for Windows 11 24H2 and 25H2. It is a mandatory cumulative update that installs automatically, so users who skipped the bigs September 8 release (KB5124008) will get its changes as well. Read Entire Article",
+    "link": "https://www.techspot.com/news/113853-microsoft-issues-emergency-windows-11-patch-fix-remote.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-16T13:43:45.239680"
+  },
+  {
+    "title": "Steam Frame reviews: Great VR hardware at a tough price",
+    "summary": "Valve's Steam Frame is earning praise for its comfortable design, standalone gaming, and excellent wireless PC streaming. Reviewers like its versatility and overall experience, but the high price, short battery life, and software issues make cheaper competing VR headsets hard to ignore. Read Entire Article",
+    "link": "https://www.techspot.com/products/audio-video/valve-steam-frame.330920/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-16T13:43:45.239865"
+  },
+  {
+    "title": "Lockheed Martin reveals more about Vectis, its autonomous fighter jet designed to fly alongside the F-35",
+    "summary": "Lockheed's Skunk Works division announced that it is adding four vehicles to the original Vectis prototype. The company also unveiled a full-scale model at the Air, Space & Cyber Conference, offering a better look at what it hopes will become a flying teammate for human pilots. Read Entire Article",
+    "link": "https://www.techspot.com/news/113850-lockheed-martin-reveals-more-about-vectis-autonomous-combat.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-09-16T13:43:45.240049"
   }
 ]
