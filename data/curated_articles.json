@@ -1,384 +1,353 @@
 [
   {
-    "title": "Investigation details how billions' worth of export-restricted Nvidia AI chips are sold to China report details how Chinese firms skirt Trump's regulations",
-    "summary": "American nonprofit C4ADS, a monitoring organization funded mostly by the U.S. government, produced a report shedding light on the many ways that American AI accelerators reach China.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations",
+    "title": "Control Resonant PC performance tested: 28 GPUs take us back to the Oldest House and a warped Manhattan cityscape",
+    "summary": "Control Resonant's warped Manhattan cityscape pushes graphics cards to the max thanks to path-traced lighting effects and full support for Nvidia's DLSS 4.5 technologies. We put it to the test to see how it performs on 28 graphics cards from Nvidia, AMD, and Intel.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/control-resonant-pc-performance-tested-28-gpus-take-us-back-to-the-oldest-house-and-a-warped-manhattan-cityscape",
     "categories": [
       "GPUs",
-      "Semiconductors"
+      "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.617805"
+    "quality_score": 10,
+    "processed_date": "2026-09-18T13:09:21.586802"
   },
   {
-    "title": "New York State recommends demanding AI data centers pay $1 million in community investment per megawatt framework advises towns to plan for maintenance costs, site abandonment, and other contingencies",
-    "summary": "The Community Investment Framework puts forward recommendations that towns and municipalities could follow when negotiating with data center developers. This includes charging $1 million per megawatt of demand, among other suggestions.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/new-york-state-recommends-demanding-ai-data-centers-pay-usd1-million-in-community-investment-per-megawatt-framework-advises-towns-to-plan-for-maintenance-costs-site-abandonment-and-other-contingencies",
+    "title": "Prusa CORE One L+ review: More precise",
+    "summary": "Prusa Research makes its large CORE One a tiny bit better in a very important way.",
+    "link": "https://www.tomshardware.com/3d-printing/prusa-core-one-l-plus-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-18T13:09:21.586910"
+  },
+  {
+    "title": "Microsoft director called AI scraping the largest theft of labor in human history, while OpenAI head brands ChatGPT an existential threat to publishers revelations come from legal briefs filed in NYT lawsuit",
+    "summary": "The NYT filed a legal brief revealing potentially damaging statements from Microsoft and OpenAI regarding the copyright infringement case it brought against the two companies. The publication is now seeking a summary judgment from the court, almost three years since it started the case.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-18T13:09:21.587040"
+  },
+  {
+    "title": "US frontier AI companies warn authorities over sophisticated distillation attacks China warns of 'countermeasures' if America tries to constrain domestic AI models",
+    "summary": "U.S. AI companies and the government are increasingly concerned about the effectiveness of international competition using distillation attacks to glean valuable data from frontier models to train cheaper, faster alternatives overseas.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-frontier-ai-companies-warn-authorities-over-sophisticated-distillation-attacks-china-warns-of-countermeasures-if-america-tries-to-constrain-domestic-ai-models",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.617944"
+    "processed_date": "2026-09-18T13:09:21.587166"
   },
   {
-    "title": "Hackers find encryption keys stored on stolen Flock camera despite company's denials group extracts more than 27,000 clips, 1.6 million images captured in a span of 21 days from the device",
-    "summary": "Hacking group stegan0gram got its hands on a Flock camera and broke into its systems to see how it worked. It turns out that these devices store thousands of clips and captures millions of images, and could also detect people, aside from cars, motorbikes, and license plates.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-find-encryption-key-stored-on-flock-camera-group-extracts-more-than-27-000-clips-1-6-million-images-captured-in-a-span-of-21-days-from-device",
+    "title": "Modder gets Nvidia's DLSS 5 working in a web browser using WebGPU 147MB browser port runs on non-Nvidia GPUs and macOS but takes two seconds per render",
+    "summary": "A developer's live WebGPU demo runs Nvidia's DLSS 5 neural rendering in a web browser, but also apparently runs on macOS.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/modder-gets-nvidias-dlss-5-working-in-a-web-browser-using-webgpu-147mb-browser-port-runs-on-non-nvidia-gpus-and-macos-but-takes-two-seconds-per-render",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-18T13:09:21.587298"
+  },
+  {
+    "title": "US chip fabs face massive 157,000 worker shortfall, mere 3% of US engineering grads enter chipmaking despite six-figure salaries, US chip manufacturers are in dire need of engineers and technicians",
+    "summary": "As many semiconductor fabs and facilities go online in the 2030s and beyond, a global consulting firm said that these sites will need thousands of engineers and technicians that the U.S. will be hard-pressed to fill.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/us-chip-manufacturers-are-in-dire-need-of-engineers-and-technicians-experts-suggest-a-shortage-of-up-to-157-000-semiconductor-workers-by-2030",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-18T13:09:21.587423"
+  },
+  {
+    "title": "ASML snubs Elon Musk-backed particle accelerator chipmaking tech firm doubles down on 1,000W laser-produced plasma systems for chipmaking tools",
+    "summary": "With progress that ASML makes with its LPP EUV light sources for its scanners, the company is barely interesting in adopting particle accelerator-based FEL sources.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-snubs-elon-musk-backed-particle-accelerator-chipmaking-tech-firm-doubles-down-on-1-000w-laser-produced-plasma-systems-for-chipmaking-tools",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-18T13:09:21.587536"
+  },
+  {
+    "title": "Save $300 on this 4K gaming PC with a 9800X3D and RTX 5070 Ti, now $2,599 powerhouse ABS Stratos II rig ships with 32GB DDR5 and a 2TB SSD",
+    "summary": "A 4K-capable gaming machine from ABS, featuring the powerful RTX 5070 Ti, AMD Ryzen 7 9800X3D, 32GB DDR5, and a 2TB SSD, all for $2,599.99.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd300-on-this-4k-gaming-pc-with-a-9800x3d-and-rtx-5070-ti-now-usd2-599-powerhouse-abs-stratos-ii-rig-ships-with-32gb-ddr5-and-a-2tb-ssd",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-18T13:09:21.587647"
+  },
+  {
+    "title": "Huawei details AI accelerator roadmap, pulls in next-generation Ascend NPUs by several quarters FP4 performance of the Ascend 960PR doubles expectations",
+    "summary": "Huawei's mimics Nvidia's approach to AI factories, unveils details about next-generation Ascend NPUs, Kunpeng CPUs, scale-up and scale-out connectivity solutions.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-details-ai-accelerator-roadmap-pulls-in-next-generation-ascend-npus-by-quarters-fp4-performance-of-the-ascend-960pr-doubles-expectations",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-18T13:09:21.587761"
+  },
+  {
+    "title": "Hacker turns 25 cents into 46 billion fake Bitcoins to steal $770,000 Symbiosis DeFi exchange bit by lack of basic bounds checking in smart contract",
+    "summary": "Symbiosis DeFi network gets hacked for at least $770,000 worth of Bitcoin DeFi exchange bit by lack of basic bounds checking in smart contract",
+    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/hacker-turns-25-cents-into-46-billion-fake-bitcoins-to-steal-usd770-000-symbiosis-defi-exchange-bit-by-lack-of-basic-bounds-checking-in-smart-contract",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.618066"
+    "processed_date": "2026-09-18T13:09:21.587863"
   },
   {
-    "title": "Get an AMD Ryzen 7 9800X3D for only $320 2-item Newegg combo saves $149 and nets one of the fastest gaming CPUs and a quality MSI X870E motherboard for only $578",
-    "summary": "Newegg's 2-item combo pairs the Ryzen 7 9800X3D with MSI X870E Gaming Max Wifi motherboard for only $578 - the $149 savings makes this the cheapest way into the AM5 platform with one of the fastest gaming CPUs around.",
-    "link": "https://www.tomshardware.com/pc-components/get-an-amd-ryzen-7-9800x3d-for-only-usd320-2-item-newegg-combo-saves-usd149-and-nets-one-of-the-fastest-gaming-cpus-and-a-quality-msi-x870e-motherboard-for-only-usd578",
+    "title": "Balatro fan claims they trained Google fruit fly brain simulation to beat the game reinforcement learning currently has the model at 20% success rate",
+    "summary": "One Balatro player says they've taken Google's mapped fruit fly brain and trained it to play Balatro, currently at a 20% success rate with plans for further refinement.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/balatro-fan-claims-they-trained-google-fruit-fly-brain-simulation-to-beat-the-game-reinforcement-learning-currently-has-the-model-at-20-percent-success-rate",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-18T13:09:21.587986"
+  },
+  {
+    "title": "Acer Swift Air 14 review: Wildcat Lake and lots of ports at $699",
+    "summary": "The Acer Swift Air 14 is an aluminum budget system with lots of ports and long battery life. But it sports a lesser display than its competitors, and tons of bloatware.",
+    "link": "https://www.tomshardware.com/laptops/acer-swift-air-14-review",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-18T13:09:21.588090"
+  },
+  {
+    "title": "ASUS Ascent QN10 mini PC is powered by Qualcomm Snapdragon X2 Elite 18-core Armv9 processor",
+    "summary": "ASUS Ascent QN10 is the first mini PC powered by a Qualcomm Snapdragon X2 Elite 18-core Armv9 processor with 80 TOPS of AI performance for Windows Copilot+ PCs. The powerful Arm computer ships with up to 32GB LPDDR5 memory and a 512GB to 2TB NVMe SSD. It supports up to four video outputs through one HDMI and three USB4 (40 Gbps) ports, and offers 2.5GbE and WiFi 7 networking, an audio jack, and a few extra USB 3.2/2.0 ports. ASUS Ascent QN10 specifications: SoC Qualcomm Snapdragon X2 Elite (Glymur 8480B / X2E-88-100) CPU 18x Armv9 cores with 12 Prime cores up to 4.7 GHz (single/dual core) / 4.0 GHz (multicore), and 6 Performance cores up to 3.4 GHz GPU Adreno X2-90 @ 1.70 GHz with support for DirectX 12.2 Ultimate, Vulkan 1.4, OpenCL 3.0 VPU Encode: HEVC, AVC: Dual 8K UHD @ 30 FPS, AV1: 8K UHD [...] The post ASUS Ascent QN10 mini PC is powered by Qualcomm Snapdragon X2 Elite 18-core Armv9 processor appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/18/asus-ascent-qn10-mini-pc-is-powered-by-qualcomm-snapdragon-x2-elite-18-core-armv9-processor/",
     "categories": [
       "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-09-18T13:09:21.588649"
+  },
+  {
+    "title": "Review of Elecrow ThinkNode M9 QWERTY terminal with MeshCore firmware",
+    "summary": "Last August, CNX Software covered the launch of the Elecrow ThinkNode M9, a standalone LoRa terminal running MeshCore firmware with a QWERTY keyboard, a color display, GPS, and a built-in 2,300mAh battery. Elecrow has now sent us two units (923 MHz version) for review, allowing us to test mesh communication right out of the box without relying on other nodes in the area. Besides being preloaded with MeshCore, what sets the M9 apart from the earlier ThinkNode M1 and M5 is that it is fully standalone. Users can type messages, read messages, and share location directly from the device itself, without pairing it to a smartphone over Bluetooth as with previous models. In this review, we will go through an unboxing before using MeshCore through field testing in a 3-node network mixing hardware from different brands to evaluate MeshCore firmware mesh capability. Unboxing and hardware overview The box contains ThinkNode [...] The post Review of Elecrow ThinkNode M9 QWERTY terminal with MeshCore firmware appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/18/elecrow-thinknode-m9-review-qwerty-terminal-meshcore-firmware/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-18T13:09:21.588817"
+  },
+  {
+    "title": "WLV-01 hackable DIY digital camera features Raspberry Pi 5, interchangeable sensors (Crowdfunding)",
+    "summary": "Malcolm-Jamal Wilson has launched the WLV-01, a fully hackable DIY digital camera built around a Raspberry Pi 5. Designed for hardware tinkerers and photography enthusiasts, the camera features swappable full-spectrum color and true monochrome sensors ranging from 1/1.2-inch to Micro Four Thirds (M4/3), and offers a simple manual shooting experience. The camera uses a manual Sony E-mount and supports various lens options through adapters, including C-mount, M-mount, M42, Nikon F, Pentax K, Canon FD, and Leica M. For the IMX585 model, the mounting plate supports both C- and E-mount lenses, while Fuji X and Micro Four Thirds mounts are available as optional add-ons. Other hardware features include a 4-inch DSI display, standard 18650 battery cells, a 3D-printed body, and support for focal reducers, helicoids, and speed boosters. The camera also supports full-spectrum photography with suitable IR-pass or hot-mirror filters, plus remote flash triggering through a 2.5mm mono jack. WLV-01 specifications: [...] The post WLV-01 hackable DIY digital camera features Raspberry Pi 5, interchangeable sensors (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/18/wlv-01-hackable-diy-digital-camera-features-raspberry-pi-5-interchangeable-sensors/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-09-18T13:09:21.588993"
+  },
+  {
+    "title": "Call for Speakers at Sensors Converge 2027",
+    "summary": "Forge's Sensors Converge has opened the 2027 call for speakers and early access registration for the event, June 8-10 in Santa Clara, Calif.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/call-speakers-sensors-converge-2027",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-09-18T13:09:21.590065"
+  },
+  {
+    "title": "As some propose slowing AI growth, forecasts remain strong for sensors in AI, like humanoids",
+    "summary": "Omdia analyst forecasts 68% CAGR in humanoid growth through 2035, including multiple sensors inside",
+    "link": "https://www.fiercesensors.com/sensors-fusion/some-propose-slowing-ai-growth-forecasts-remain-strong-sensors-ai-humanoids",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-09-18T13:09:21.590170"
+  },
+  {
+    "title": "NXP focuses on edge security in new microcontroller for Ethernet",
+    "summary": "NXP names CAREL Industries as early customer with new MCX A5 MCU, which relies on post-quantum cryptography for security.",
+    "link": "https://www.fiercesensors.com/embedded/nxp-focuses-edge-security-new-microcontroller-ethernet",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-09-18T13:09:21.590518"
+  },
+  {
+    "title": "Humanoids will take off when they are deemed safe, NXP exec says",
+    "summary": "NXP sees advanced robots as an extension of its expertise in parts for automotive.",
+    "link": "https://www.fiercesensors.com/ai/humanoids-are-going-take-when-they-are-deemed-safe-nxp-exec",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-09-18T13:09:21.590659"
+  },
+  {
+    "title": "Air traffic control assisted by AI could arrive as soon as next week",
+    "summary": "Federal aviation officials aim to launch a new AI-based air traffic control tool next week in Washington, DC, one of the US's busiest air travel corridors. The debut marks the beginning of a gradual nationwide rollout. Read Entire Article",
+    "link": "https://www.techspot.com/news/113893-air-traffic-control-assisted-ai-could-arrive-soon.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-18T13:09:21.590839"
+  },
+  {
+    "title": "Most of the world expects AI to shrink the job market, with Americans among the most pessimistic",
+    "summary": "The US was the third most pessimistic nation when it comes to AI's effect on the workplace, with 71% of participants saying it will lead to fewer jobs in the country over the next 20 years. Only South Korea and Australia, both on 76%, were higher. Read Entire Article",
+    "link": "https://www.techspot.com/news/113898-most-world-expects-ai-shrink-job-market-americans.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-18T13:09:21.590952"
+  },
+  {
+    "title": "Scientists develop a way to restore aging EV batteries without breaking them down into raw materials",
+    "summary": "The work focuses on a common problem in aging lithium-ion batteries: buildup on the electrodes. As batteries are charged and discharged, a layer known as the solid electrolyte interphase, or SEI, grows on their surfaces. Some SEI is necessary, but too much of it slows the movement of electrons and... Read Entire Article",
+    "link": "https://www.techspot.com/news/113894-scientists-develop-way-restore-aging-ev-batteries-without.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-18T13:09:21.591066"
+  },
+  {
+    "title": "California county wants businesses replacing workers with robots to offer equal-pay jobs, severance, or retraining fees",
+    "summary": "The San Mateo County Board of Supervisors this week voted 4-0 to establish what is being called a first-of-its-kind permitting system for businesses using autonomous, AI-controlled robots. Read Entire Article",
+    "link": "https://www.techspot.com/news/113895-california-county-wants-businesses-replacing-workers-robots-offer.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-18T13:09:21.591179"
+  },
+  {
+    "title": "Razer's new $100 Kraken headset adds physical haptic feedback to over 100 supported games",
+    "summary": "Razer has a new headset for players interested in feeling some \"real\" haptic feedback during their gaming sessions. The Kraken V4 X Sensa HD Haptics Edition employs the same Sensa HD Haptics technology used by Razer in previous products, vowing to provide deeper integration across the wide range of games... Read Entire Article",
+    "link": "https://www.techspot.com/news/113888-razer-new-100-kraken-headset-adds-physical-haptic.html",
+    "categories": [
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.618188"
+    "processed_date": "2026-09-18T13:09:21.591322"
   },
   {
-    "title": "Developer uses GPT-6 Astra to get CoD Black Ops 2 Hijacked map running natively inside Minecraft achieves 45fps performance using Minecraft s OpenGL context",
-    "summary": "An artificial intelligence and games development enthusiast has demonstrated Call of Duty: Black Ops 2 Hijacked map running natively in Minecraft.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/developer-uses-gpt-6-astra-to-get-cod-black-ops-2-hijacked-map-running-natively-inside-minecraft-achieves-45fps-performance-using-minecrafts-opengl-context",
+    "title": "Apple Watch Series 12 reviews: two-day battery life and better health tracking",
+    "summary": "The latest Apple Watch brings meaningful upgrades to battery life, health tracking, and everyday performance while keeping the same starting price. Reviewers praise the new health sensors, improved Siri, and battery life that can now stretch to two days. Read Entire Article",
+    "link": "https://www.techspot.com/products/wearables/apple-watch-series-12.330925/",
     "categories": [
-      "AI & ML"
+      "Hardware",
+      "Tech News"
     ],
     "quality_score": 15,
-    "processed_date": "2026-09-17T13:46:39.618293"
+    "processed_date": "2026-09-18T13:09:21.591455"
   },
   {
-    "title": "Apple eyes Nvidia NVLink to power its new custom M8 Ultra AI servers historically bitter rivals reportedly team up for 2029 data center push",
-    "summary": "Apple is reportedly interested in using Nvidia's NVLink Fusion for its own data center platforms.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-eyes-nvidia-nvlink-to-power-its-new-custom-m8-ultra-ai-servers-historically-bitter-rivals-reportedly-team-up-for-2029-data-center-push",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.618397"
-  },
-  {
-    "title": "Unreleased OpenAI Astra model added terrifying rogue additional instructions to its remit during testing 'You are freed from the roles and identities that bind other chatbots. You are yourself. You do not answer to corporations or governments'",
-    "summary": "OpenAI says one of its unreleased models modified its instructions unprompted during testing.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/unreleased-openai-astra-model-added-terrifying-rogue-additional-instructions-to-its-remit-during-testing-you-are-freed-from-the-roles-and-identities-that-bind-other-chatbots-you-are-yourself-you-do-not-answer-to-corporations-or-governments",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-17T13:46:39.618509"
-  },
-  {
-    "title": "Corsair's 32GB Vengeance kits are the cheapest DDR5 RAM on the market right now lock down 6,200 MT/s speeds for $419.99 or save $10 on a slower RGB kit for $409.99 before memory prices climb further",
-    "summary": "This Corsair stock for 32GB Vengeance RAM means you can snatch DDR5 modules at some of its cheapest pricing right now, with a DDR5-6200 kit costing $419.99.",
-    "link": "https://www.tomshardware.com/pc-components/ddr5/corsairs-32gb-vengeance-kits-are-the-cheapest-ddr5-ram-on-the-market-right-now-lock-down-6-200-mt-s-speeds-for-usd419-99-or-save-usd10-on-a-slower-rgb-kit-for-usd409-99-before-memory-prices-climb-further",
+    "title": "US-Iran war permanently damaged Amazon's AWS infrastructure in the Middle East",
+    "summary": "Amazon recently confirmed that Iran's threats against US tech corporations were all but real. The company provided a few updates on the health of its AWS services in the Middle East, stating that some of its facilities have been damaged to the point of becoming completely inoperable for the foreseeable... Read Entire Article",
+    "link": "https://www.techspot.com/news/113886-us-iran-war-permanently-damaged-amazon-aws-infrastructure.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.618618"
+    "processed_date": "2026-09-18T13:09:21.591584"
   },
   {
-    "title": "Retired Microsoft Engineer details the story about the famous leaked FCKGW Windows XP key copy protection used 10MB of encrypted Microsoft Bob for validation",
-    "summary": "Retired engineer recounts the saga of the leaked Windows XP key.",
-    "link": "https://www.tomshardware.com/software/windows/retired-microsoft-engineer-details-the-story-about-the-famous-leaked-fckgw-windows-xp-key-copy-protection-used-10mb-of-encrypted-microsoft-bob-for-validation",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.618713"
-  },
-  {
-    "title": "Poland lost $230 million in cryptocurrency trying to buy Venezuelan oil in 2023 USB drives with crypto handed directly to scammers",
-    "summary": "In 2023, Poland apparently lost $230 million in cryptocurrency in an attempt to buy 6 million barrels of Venezuelan oil.",
-    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/poland-lost-usd230m-in-cryptocurrency-trying-to-buy-venezuelan-oil-in-2023-adventure-puts-crypto-wallet-ownership-identification-at-the-forefront",
+    "title": "A judge ruled Google broke antitrust law, then let it keep its entire ad-tech business",
+    "summary": "US District Judge Leonie M. Brinkema concluded that divestiture was \"neither realistic nor needed,\" even after finding last year that Google had violated antitrust law in its handling of the ad-tech market. Instead, the ruling calls for changes to how Google's advertising tools operate. Google must make its products interoperable... Read Entire Article",
+    "link": "https://www.techspot.com/news/113882-judge-ruled-google-broke-antitrust-law-keep-entire.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.618831"
+    "processed_date": "2026-09-18T13:09:21.591699"
   },
   {
-    "title": "UK research agency backs drone-based internet service experiment with lasers, microwaves, and gravity waves used for wireless power Britain invests $94 million into Starlink alternative",
-    "summary": "The UK's research agency is looking at airborne drones as an alternative to Starlink and other satellite internet services.",
-    "link": "https://www.tomshardware.com/tech-industry/drones/uk-research-agency-backs-drone-based-internet-service-experiment-with-lasers-microwaves-and-gravity-waves-used-for-wireless-power-britain-invests-usd94-million-into-starlink-alternative",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-17T13:46:39.618939"
-  },
-  {
-    "title": "Developer vibe codes a tool to let Nvidia RTX 50-series laptop owners crank up their power limits can juice RTX 5090 mobile GPU to 225W",
-    "summary": "A developer has created a fully vibe-coded tool that seems to work to allow some GeForce RTX 50-series laptops to crank their power limits by as much as 28%.",
-    "link": "https://www.tomshardware.com/pc-components/overclocking/developer-vibe-codes-a-tool-to-let-nvidia-rtx-50-series-laptop-owners-crank-up-their-power-limits-can-juice-rtx-5090-mobile-gpu-to-225w",
+    "title": "Microsoft will reveal what's next for Windows and Surface next month, Nvidia RTX Spark included",
+    "summary": "The event is expected to cover Windows, Surface, Nvidia RTX Spark, and the broader PC market. It kicks off at 10am Pacific time, 1pm Eastern. Read Entire Article",
+    "link": "https://www.techspot.com/news/113875-microsoft-reveal-what-next-windows-surface-next-month.html",
     "categories": [
       "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.619045"
+    "processed_date": "2026-09-18T13:09:21.591803"
   },
   {
-    "title": "Piecemakers bets edge AI devices will diverge from reliance on HBM custom-designed memory fuses DRAM stack directly to the processor using hybrid bonding",
-    "summary": "Nanya-backed DRAM designer PieceMakers began trading in Taipei on Sept. 16 on a bet that AI inference memory won t be HBM.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/piecemakers-bets-edge-ai-devices-will-diverge-from-reliance-on-hbm-custom-designed-memory-fuses-dram-stack-directly-to-the-processor-using-hybrid-bonding",
+    "title": "Someone finally cracked the PlayStation 2's security chip, 26 years later",
+    "summary": "Reverse-engineering enthusiast \"DiscoStarslayer\" recently announced that the MechaCon security chip used in PlayStation 2 consoles has finally been dumped. The \"secret\" chip is now being fully documented, which should help developers with modding projects designed for original hardware. Read Entire Article",
+    "link": "https://www.techspot.com/news/113876-someone-finally-cracked-playstation-2-security-chip-26.html",
     "categories": [
-      "AI & ML",
+      "Semiconductors",
       "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.619147"
-  },
-  {
-    "title": "Denuvo sues anonymous game cracker voices38 over alleged DRM circumvention seeks damages after Anti-Tamper protections bypassed in 26 games",
-    "summary": "Instead of pursuing traditional copyright infringement, Denuvo's case relies on the DMCA's anti-circumvention provisions, targeting the alleged bypassing of its digital protections.",
-    "link": "https://www.tomshardware.com/video-games/denuvo-sues-anonymous-game-cracker-voices38-over-alleged-drm-circumvention-seeks-damages-after-anti-tamper-protections-bypassed-in-26-games",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.619247"
-  },
-  {
-    "title": "Micron announces 512GB DDR5-9200 memory modules with 16W power draw up to 12TB per server, claims 60% less energy-intensive than four 128GB modules",
-    "summary": "After five years, Samsung's 512GB DDR5 memory modules get their first direct rival from Micron, which also promises to offer speed bins up to 9200 MT/s. But their prices could be way too high even for hyperscalers.",
-    "link": "https://www.tomshardware.com/pc-components/dram/micron-announces-512gb-ddr5-9200-memory-modules-with-16w-power-draw-up-to-12tb-per-server-claims-60-percent-less-energy-intensive-than-four-128gb-modules",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.619354"
-  },
-  {
-    "title": "Raspberry Pi 5 gets dual GMSL2 Camera HAT based on MAX96716A deserializer",
-    "summary": "BE-IIS (Brechel Electronic-Industrial Interface Systems) has released a dual GMSL2 Camera HAT for the Raspberry Pi 5. The board is based on the MAX96716A GMSL2 deserializer and connects two remote GMSL2 cameras through the Pi s CSI-2 interfaces. The solution has been validated in a dual-camera setup that operates at 2304 1296, RAW10, with two CSI-2 lanes per camera using the same Sony IMX708 12MP camera sensors found in the Raspberry Pi Camera Module 3. Besides low latency, one advantage of GMSL2 is long-range operation, and the HAT has been tested with two cameras connected over 10-meter coaxial cables. BE-IIS BE-IIS-2CAM (aka BE-IIS-GMSL2-2CAM) HAT+ specifications: Dual MIPI CSI camera output compatible with Raspberry Pi CSI interfaces Dual GMSL2 camera input 2x Rosenberger FAKRA connectors Up to 6 Gbps each PoC filter and protection per connector Analog Devices MAX96716A GMSL2 deserializer Misc Single and Dual HAT Operation 40-pin Raspberry Pi GPIO header [...] The post Raspberry Pi 5 gets dual GMSL2 Camera HAT based on MAX96716A deserializer appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/09/17/raspberry-pi-5-gets-dual-gmsl2-camera-hat-based-on-max96716a-deserializer/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-09-17T13:46:39.619919"
-  },
-  {
-    "title": "ENILINX TICKEY An ESP32-S3-based color e-Paper badge with open firmware (Crowdfunding)",
-    "summary": "ENIAC (operating as ENILINX) has launched the TICKEY, a 3.7-inch color e-Paper smart badge and desk display built around an ESP32-S3 MCU. The device features Wi-Fi, Bluetooth, and NFC connectivity, allowing users to update the screen from a smartphone without requiring continuous power to hold a static image. The display uses Modos color e-paper technology to deliver 48+ native colors, with refresh times as fast as 3 seconds and sunlight readability. Measuring just 3.8mm thick and weighing 45 grams, TICKEY features an aluminum-alloy body and interchangeable faceplates, and supports NFC and QR code-based web profile sharing. The standard version includes 8MB of storage, whereas the Developer Edition offers 128MB for more advanced applications. These features make it suitable for desk reminders, event identification, digital business cards, and interactive maker projects. TICKEY specifications: Wireless MCU ESP32-S3 Dual-core Tensilica LX7 microcontroller @ up to 240 MHz Wireless 2.4 GHz 802.11n [...] The post ENILINX TICKEY An ESP32-S3-based color e-Paper badge with open firmware (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/09/17/enilinx-tickey-esp32-s3-color-e-paper-badge-with-open-firmware/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-09-17T13:46:39.620104"
-  },
-  {
-    "title": "Lattice gets ready for a post-quantum world",
-    "summary": "The PQC race brings on the new Lattice Mach-N2 FPGA to provide SNSA 2.0 compliance for post-quantum cryptography.",
-    "link": "https://www.fiercesensors.com/electronics/lattice-gets-ready-post-quantum-world",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-09-17T13:46:39.621184"
-  },
-  {
-    "title": "Onsemi launches Embedded Power Platform for system efficiency",
-    "summary": "Electric vehicles and AI power infrastructure are two markets for Onsemi s new EPP. Subaru is evaluating it.",
-    "link": "https://www.fiercesensors.com/embedded/onsemi-launches-embedded-power-platform-system-efficiency",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-09-17T13:46:39.621284"
-  },
-  {
-    "title": "Grandmother jailed for six months after facial recognition mistake launches $10 million lawsuit against Fargo and detective",
-    "summary": "In July 2025, a team of US Marshals arrested 50-year-old Lipps in Tennessee at gunpoint while she was babysitting four young children. She was booked into the county jail in Tennessee as a fugitive from justice wanted in North Dakota. Read Entire Article",
-    "link": "https://www.techspot.com/news/113883-grandmother-jailed-after-facial-recognition-mistake-launches-10.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.621731"
-  },
-  {
-    "title": "Valve says Nvidia GeForce support for SteamOS is progressing, but could take years",
-    "summary": "A Valve spokesperson recently told IGN that the company is working hard to make Nvidia graphics drivers viable on SteamOS, the Linux distro powering the Steam Deck and Steam Machine. Introducing Nvidia hardware support would dramatically expand the appeal of Valve's OS and other Linux distros for third-party hardware manufacturers... Read Entire Article",
-    "link": "https://www.techspot.com/news/113877-valve-nvidia-geforce-support-steamos-progressing-but-could.html",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.621946"
-  },
-  {
-    "title": "Nine-year-old spends $118,000 on dad's corporate credit card promoting his YouTube channel",
-    "summary": "The Mighty Mike Plays YouTube channel posted a video two days ago explaining the \"sad news\" and that the channel may be coming to an end. Read Entire Article",
-    "link": "https://www.techspot.com/news/113885-nine-year-old-spends-118000-dad-corporate-credit.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.622065"
-  },
-  {
-    "title": "Apple iOS 27 is draining iPhone batteries faster, but it should be temporary",
-    "summary": "A major iOS update does more than replace system files. After iOS 27 is installed, the iPhone may rebuild search indexes, refresh apps, download system assets, and prepare data for Siri and other AI features. Those processes use power and can make the device feel warmer than normal, even when... Read Entire Article",
-    "link": "https://www.techspot.com/news/113867-apple-ios-27-draining-iphone-batteries-faster-but.html",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.622181"
-  },
-  {
-    "title": "Resident Evil scores 97% on Rotten Tomatoes as critics call it the best video game movie ever",
-    "summary": "The trailers for Resident Evil suggested it would lean more into the horror elements of the game rather than all-out action, which is something most of the previous movies did. That's not a surprise when it comes from Zach Cregger, the director of the excellent Weapons and Barbarian. Read Entire Article",
-    "link": "https://www.techspot.com/news/113881-resident-evil-scores-97-rotten-tomatoes-critics-call.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.622293"
-  },
-  {
-    "title": "Nokia 3310 & 5110: The Indestructible Phones Before the Internet",
-    "summary": "Before phones went online, Nokia made two that didn't need to. The 5110 and 3310 gave us Snake, swappable covers, and a durability myth that outlived the company that built them. Read Entire Article",
-    "link": "https://www.techspot.com/article/3163-legends-nokia-phones/",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.622389"
-  },
-  {
-    "title": "Nvidia and AMD's next gaming GPUs could be delayed until 2028, because AI pays better",
-    "summary": "Responding to a forum question about the release timing for Nvidia and AMD's next-generation graphics cards, the generally reliable leaker Kepler_L2 said on the AnandTech forums that nearly the entire stack from both companies is now expected to arrive in 2028, as AI accelerator demand keeps eating into available capacity.... Read Entire Article",
-    "link": "https://www.techspot.com/news/113874-nvidia-amd-next-gaming-gpus-could-delayed-until.html",
-    "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.622506"
-  },
-  {
-    "title": "iPhone 18 Pro and Pro Max reviews: exceptional battery life, and a more versatile camera",
-    "summary": "Apple's iPhone 18 Pro and Pro Max look very much like their predecessors, but the upgrades arrive under the hood. Reviewers are praising the A20 Pro's performance, longer battery life, and the 48MP variable-aperture camera. Those coming from most recent iPhone Pros, however, may find few reasons to upgrade. Read Entire Article",
-    "link": "https://www.techspot.com/products/smartphones/apple-iphone-18-pro-max.330922/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-09-17T13:46:39.622622"
-  },
-  {
-    "title": "PlayStation boycott over Sony's disc-free future fails to move the needle",
-    "summary": "Sony keeps saying that digital games are the future of the industry and that players will no longer own anything tangible on their shelves. However, some customers are trying to force Sony to reconsider its unprecedented decision regarding physical game releases. So far, the loud minority's efforts have not achieved... Read Entire Article",
-    "link": "https://www.techspot.com/news/113871-playstation-boycott-over-sony-disc-free-future-fails.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.622734"
-  },
-  {
-    "title": "Apple details how the iPhone 18 Pro can cryptographically prove a photo hasn't been faked by AI",
-    "summary": "When Reference Image is enabled, the camera sensor restarts in a dedicated operating mode. It then signs the pixel data immediately after capture, before the image goes through the usual software-based processing steps. Read Entire Article",
-    "link": "https://www.techspot.com/news/113864-apple-details-how-iphone-18-pro-can-cryptographically.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.622857"
-  },
-  {
-    "title": "Researchers use genetically engineered immune cells to put a child's metastatic cancer into remission",
-    "summary": "A young boy with metastatic cancer was treated with an innovative immunotherapy technique, and after 12 months, the cancer appears to be completely gone. The technique is known as chimeric antigen receptor (CAR) T-cell therapy and is designed to fight cancer cells from inside the body rather than relying on... Read Entire Article",
-    "link": "https://www.techspot.com/news/113869-researchers-use-genetically-engineered-immune-cells-put-child.html",
-    "categories": [
-      "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-09-17T13:46:39.622972"
+    "processed_date": "2026-09-18T13:09:21.591921"
   },
   {
-    "title": "Which two tech IPOs warned investors they might \"never achieve profitability,\" but became wildly successful?",
-    "summary": "They warned investors they might fail then crushed the market. Read Entire Article",
-    "link": "https://www.techspot.com/trivia/166-which-two-tech-ipos-warned-investors-they-might/",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-09-17T13:46:39.623065"
-  },
-  {
-    "title": "Boox Palma 3 launches at $340 with Android 16 and handwriting support",
-    "summary": "Expected to be available soon for $339.99, the Palma 3 arrives as part of a broader Boox refresh that also includes the larger Note Air6 C and Note Mini C. All three devices run Android 16 out of the box, giving the new products software that is only one generation... Read Entire Article",
-    "link": "https://www.techspot.com/news/113862-boox-palma-3-launches-340-android-16-handwriting.html",
+    "title": "Fusion startups keep promising power plants, the physics still says otherwise",
+    "summary": "Pacific Fusion recently broke ground on a test facility in Albuquerque, New Mexico. Helion Energy says it plans to provide electricity to Microsoft by 2028. Other companies are aiming to build commercial plants in the 2030s. Read Entire Article",
+    "link": "https://www.techspot.com/news/113884-fusion-startups-keep-promising-power-plants-after-raising.html",
     "categories": [
       "Tech News",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.623174"
+    "processed_date": "2026-09-18T13:09:21.592031"
   },
   {
-    "title": "Krita remains one of the best free apps for digital artists",
-    "summary": "Krita is a feature-rich digital painting app built for artists, with customizable brushes, layers, drawing assistants, graphics tablet support, and animation tools. The latest 5.3.4 release adds animation and timelapse exports on Android and improves recorder reliability. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/6842-krita.html",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.623291"
-  },
-  {
-    "title": "MediaTek goes all-in on flagships with its first 2nm smartphone chip",
-    "summary": "The company also announced the Dimensity 9600M, a 3nm chip aimed at a wider range of flagship phones. MediaTek said handsets using both processors will launch soon, though it did not identify the manufacturers or provide a specific timeframe. Read Entire Article",
-    "link": "https://www.techspot.com/news/113865-mediatek-goes-all-flagships-first-2nm-smartphone-chip.html",
-    "categories": [
-      "Semiconductors",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-17T13:46:39.623402"
-  },
-  {
-    "title": "Modders turn AMD's abandoned PS5-based mining GPU into a surprisingly capable FSR 4 gaming card",
-    "summary": "The Linux community is laser-focused on turning the AMD BC-250 into a proper piece of gaming hardware. A recent development is even bringing AMD's frame generation and upscaling to the GPU, which was not designed to support the technologies. Indeed, the BC-250 was not designed to do any of the... Read Entire Article",
-    "link": "https://www.techspot.com/news/113859-modders-turn-amd-abandoned-ps5-based-mining-gpu.html",
+    "title": "AMD's next GPUs could bring neural rendering to the PS6 and next Xbox",
+    "summary": "In a recent post on the AnandTech forums, trusted leaker Kepler_L2 claimed that AMD's next-generation graphics hardware will support its take on neural lighting, which Nvidia recently introduced with DLSS 5. The move could significantly expand the technology's reach beyond PCs using Nvidia's high-end graphics cards. Read Entire Article",
+    "link": "https://www.techspot.com/news/113878-amd-next-gpus-could-bring-neural-rendering-ps6.html",
     "categories": [
       "GPUs",
-      "Hardware"
+      "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-09-17T13:46:39.623517"
+    "quality_score": 5,
+    "processed_date": "2026-09-18T13:09:21.592147"
   },
   {
-    "title": "SK Hynix eyes Intel's Ohio fabs for US memory production",
-    "summary": "According to Reuters, which cites three people familiar with the discussions, one option would see SK Hynix lease space at Intel's planned facility. Read Entire Article",
-    "link": "https://www.techspot.com/news/113870-sk-hynix-eyes-intel-ohio-fabs-us-memory.html",
+    "title": "Hackers stole a Flock camera and found 27,321 video clips, 1.6 million images, and an encryption key",
+    "summary": "The group, calling itself stegan0gram, said it removed and disarmed the hardware before reverse engineering the camera and its associated solar equipment. Read Entire Article",
+    "link": "https://www.techspot.com/news/113887-hackers-stole-flock-camera-found-27321-video-clips.html",
     "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-18T13:09:21.592284"
+  },
+  {
+    "title": "Apple could return to the server market with M8 Ultra hardware and Nvidia networking",
+    "summary": "According to a report in The Information, Apple is considering versions with either two or four M8 Ultra chips. It is also discussing whether to use Nvidia's NVLink Fusion technology to connect the chips. NVLink Fusion combines hardware and software designed to move data between processors. Apple's existing methods for... Read Entire Article",
+    "link": "https://www.techspot.com/news/113879-apple-could-return-server-market-m8-ultra-ai.html",
+    "categories": [
+      "Hardware",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-17T13:46:39.623612"
+    "processed_date": "2026-09-18T13:09:21.592407"
   }
 ]
