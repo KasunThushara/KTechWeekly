@@ -1,302 +1,213 @@
 [
   {
-    "title": "Researchers create DNA computer that performs 100-bit calculations without electricity molecular system uses self-assembling strands to perform computing",
-    "summary": "Maynooth University researchers built a scaffolded DNA computer that uses molecular reactions to perform arithmetic and 100-bit calculations without electrical power.",
-    "link": "https://www.tomshardware.com/tech-industry/researchers-create-dna-computer-that-performs-100-bit-calculations-without-electricity-molecular-system-uses-self-assembling-strands-to-perform-computing",
+    "title": "Microsoft patents system to freeze games and inject ads during downtimes watching commercials earns ad-free playtime credits",
+    "summary": "This patent uses the game engine and machine learning to determine the best time to serve an ad.",
+    "link": "https://www.tomshardware.com/video-games/microsoft-patents-system-to-freeze-games-and-inject-ads-during-downtimes-watching-commercials-earns-ad-free-playtime-credits",
     "categories": [
-      "Hardware"
+      "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-09-19T12:41:10.772605"
+    "quality_score": 5,
+    "processed_date": "2026-09-20T13:12:38.003980"
   },
   {
-    "title": "This week on Tom's Hardware Premium: September 19, 2026 Steam Frame interview, killer AI models, and the DRAM crisis deepens",
-    "summary": "This week on Tom's Hardware Premium, we offer deep-dives into the Steam Frame, explore how AI is changing the landscape of consumer electrionics, and how advanced AI accelerators are reaching Eastern shores, despite export controls.",
-    "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-september-19-2026-steam-frame-interview-killer-ai-models-and-the-dram-crisis-deepens",
+    "title": "Prusa CORE One+ INDX review: Time for a 'Tool' change",
+    "summary": "Prusa Research reenters the toolchanger category with a little help from Bondtech.",
+    "link": "https://www.tomshardware.com/3d-printing/prusa-core-one-plus-indx-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-20T13:12:38.004042"
+  },
+  {
+    "title": "Massive 192GB GTA leak reveals early GTA VI map and canceled DLCs files show liquid nitrogen death for Trevor and scrapped Liberty City expansion",
+    "summary": "The massive leak revealed early efforts in the development of GTA VI, as well as unreleased side missions, alternate endings, and even planned DLCs that never came to fruition.",
+    "link": "https://www.tomshardware.com/video-games/massive-192gb-gta-leak-reveals-early-gta-vi-map-and-canceled-dlcs-files-show-liquid-nitrogen-death-for-trevor-and-scrapped-liberty-city-expansion",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-09-20T13:12:38.004108"
+  },
+  {
+    "title": "Noctua fans prevent the CAIM1 Anti-AI 4K camera from throttling unusual camera s processor gets toasty as it records while performing cryptographic calculations",
+    "summary": "A premium PC DIY fan brand has announced that one of its prized spinners is being used in an 'Anti-AI' 4K camera to prevent throttling.",
+    "link": "https://www.tomshardware.com/pc-components/air-cooling/noctua-fans-prevent-the-caim1-anti-ai-4k-camera-from-throttling-unusual-cameras-processor-gets-toasty-as-it-records-while-performing-cryptographic-calculations",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-20T13:12:38.004178"
+  },
+  {
+    "title": "North Korea used job interviews to deploy malware on 30,000 devices during coding tests WaterPlum group loots $10.7 million in crypto and plants persistent RATs",
+    "summary": "Multiple government agencies across the world released a warning that North Korean hackers are posting fake jobs to install malware on unsuspecting applicants' computers. They then steal credentials and cryptocurrency from their victims, with over $10 million reported stolen.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/north-korea-used-job-interviews-to-deploy-malware-on-30-000-devices-during-coding-tests-waterplum-group-loots-usd10-7-million-in-crypto-and-plants-persistent-rats",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-20T13:12:38.004252"
+  },
+  {
+    "title": "Kash Patel says that AI use at the FBI has 'increased by 605%' since he became director claims that every major tech player is 'embedded' in the agency",
+    "summary": "FBI Director Kash Patel stated in an interview that he's responsible for a \"605% increase\" in the bureau's usage of AI. The problem is that it's hard to pin down what the figure refers to.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/kash-patel-says-that-ai-use-at-the-fbi-has-increased-by-605-percent-since-he-became-director-claims-that-every-major-tech-player-is-embedded-in-the-agency",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-19T12:41:10.772721"
+    "processed_date": "2026-09-20T13:12:38.004316"
   },
   {
-    "title": "Fully custom copper PC features upcycled blowtorch reservoir antique wooden pedestal complements steampunk design hiding a Ryzen 7 9800X3D, RX 9070 XT",
-    "summary": "If Edison and Stephenson had teamed up to build a gaming PC, it might have looked like this custom copper and wood all-AMD design.",
-    "link": "https://www.tomshardware.com/desktops/pc-building/fully-custom-copper-pc-features-upcycled-blowtorch-reservoir-antique-wooden-pedestal-complements-steampunk-design-hiding-a-ryzen-7-9800x3d-rx-9070-xt",
+    "title": "Autonomous strike drone uses Nvidia Jetson Orin Nano to independently pick and bomb targets Swedish startup's attack drones run small AI model, require no human input and zero external comms",
+    "summary": "Drones built with small, non-frontier computer-vision models autonomously identified and attacked targets in a recent demo.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms",
     "categories": [
-      "GPUs",
+      "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-19T12:41:10.772823"
+    "processed_date": "2026-09-20T13:12:38.004382"
   },
   {
-    "title": "Elon Musk's Terafab hits a roadblock before making a single chip, receives cease-and-desist order firm files trademark lawsuit, has sold Tera-Fab-branded lithography tools for over a decade",
-    "summary": "Elon Musk's Terafab semiconductor project has run into an unexpected trademark dispute with Tera-print, a small U.S. company that has used the Tera-Fab name for its tabletop lithography equipment for about a decade.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musks-terafab-hits-a-roadblock-before-making-a-single-chip-receives-cease-and-desist-order-firm-files-trademark-lawsuit-has-sold-tera-fab-branded-lithography-tools-for-over-a-decade",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-19T12:41:10.772927"
-  },
-  {
-    "title": "Intel suspends bug bounty program that paid up to $100,000 per flaw new Intigriti disclosure program offers no rewards",
-    "summary": "Intel s bug bounty program on Intigriti now shows as suspended, and a new Intel disclosure program there pays no bounties.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/intel-suspends-bug-bounty-program-that-paid-up-to-usd100-000-per-flaw-new-intigriti-disclosure-program-offers-no-rewards",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-19T12:41:10.773014"
-  },
-  {
-    "title": "Enthusiast digs into CPU substrate for surgery to replace ripped-off data pin resurrected chip boots and hits 33% overclock",
-    "summary": "An Intel Celeron 1200 (Tualatin) was revived from the dead after a ripped-off pin was successfully replaced.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/enthusiast-digs-into-cpu-substrate-to-replace-ripped-off-data-pin-resurrected-chip-boots-and-hits-33-percent-overclock",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-19T12:41:10.773105"
-  },
-  {
-    "title": "AMD targets Nvidia with first official benchmarks for EPYC 'Venice' CPUs company claims 256-core chip is more than twice as fast as Nvidia Vera, 96-core model 20% faster per-core",
-    "summary": "AMD has released several benchmarks for its EPYC 'Venice' CPUs in a clear shot at Nvidia.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-shares-first-official-benchmarks-for-epyc-venice-cpus-targets-nvidia-company-claims-256-core-chip-is-more-than-twice-as-fast-as-nvidia-vera-96-core-model-20-percent-faster-per-core",
+    "title": "Jensen Huang says there is '0% chance' AI destroys the world by 2030 'We should go as fast as we can, irrespective of anyone else,' dismisses Anthropic doom warnings and rejects new regulations",
+    "summary": "Chief executive of Nvidia claims that fears that AI will destroy humanity in the coming years are unsubstantiated as safety mechanisms can preserve that.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-says-there-is-0-percent-chance-ai-destroys-the-world-by-2030-we-should-go-as-fast-as-we-can-irrespective-of-anyone-else-dismisses-anthropic-doom-warnings-and-rejects-new-regulations",
     "categories": [
       "AI & ML",
       "GPUs"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-09-19T12:41:10.773206"
+    "quality_score": 5,
+    "processed_date": "2026-09-20T13:12:38.004448"
   },
   {
-    "title": "Details about Intel's next-gen Nova Lake CPUs keep leaking an attempt to establish a timeline based on what we know so far",
-    "summary": "Over the past two weeks, we've seen an uptick in leaks and rumors about Intel's upcoming Nova Lake CPUs. Here, we piece together what we've heard to try and establish a plausible release timeline.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/details-about-intels-next-gen-nova-lake-cpus-keep-leaking-an-attempt-to-establish-a-timeline-based-on-what-we-know-so-far",
+    "title": "Putin casts online vote using unlicensed Windows on an American Dell PC 'Activate Windows' watermark visible in official Kremlin clip, uses foreign Dell PC despite Russian tech mandate",
+    "summary": "An official Russian media clip shows Putin voting on a Dell PC with an unlicensed copy of Windows.",
+    "link": "https://www.tomshardware.com/software/windows/putin-casts-online-vote-using-unlicensed-windows-on-an-american-dell-pc-activate-windows-watermark-visible-in-official-kremlin-clip-uses-foreign-dell-pc-despite-russian-tech-mandate",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-20T13:12:38.004508"
+  },
+  {
+    "title": "Google's simulated fruit fly brain 'mines Bitcoin' in web browser proof of concept FutureBit says real organic neuron miner could have '10x the efficiency of the best silicon 3nm ASICs'",
+    "summary": "A project claimed to represent 'the first organic neuron Bitcoin miner based on the fly brain' has gone live.",
+    "link": "https://www.tomshardware.com/tech-industry/cryptomining/googles-simulated-fruit-fly-brain-mines-bitcoin-in-web-browser-proof-of-concept-futurebit-says-real-organic-neuron-miner-could-have-10x-the-efficiency-of-the-best-silicon-3nm-asics",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-20T13:12:38.004578"
+  },
+  {
+    "title": "Acer Predator QD-OLED monitor now 36% off 500 Hz refresh rate and True Black 500 certification slashed to $509.99",
+    "summary": "Acer Predator X27U F5 QD-OLED monitor has 500 Hz refresh rate and True Black 500 certification for $509.99",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-qd-oled-monitor-now-36-percent-off-500-hz-refresh-rate-and-true-black-500-certification-slashed-to-usd509-99",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-20T13:12:38.004630"
+  },
+  {
+    "title": "ChatGPT-6 Astra cracks 108-year-old unsolved WWI German code for the first time radio message sharing enemy movement intelligence had evaded decoding, 1918 Crimean fleet warning verified against HMS Canterbury logs",
+    "summary": "108 years after it was originally transmitted, an encrypted World War I German radio message has apparently been deciphered for the first time.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-108-year-old-unsolved-wwi-german-code-for-the-first-time-radio-message-sharing-enemy-movement-intelligence-had-evaded-decoding-1918-crimean-fleet-warning-verified-against-hms-canterbury-logs",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-20T13:12:38.004694"
+  },
+  {
+    "title": "Father loses job over 9-year-old spending $118,000 on Minecraft YouTube ads using his company's credit card 'I m going to be working until I m like 94,' refuses to set up GoFundMe or put up crypto coin to help repay massive bill",
+    "summary": "Mighty Mike Play's dad is trying to figure out how to pay back the $118k his son accidentally spent on YouTube ads. He also warned against fundraisers made in their name, since they aren't making one yet.",
+    "link": "https://www.tomshardware.com/video-games/father-loses-job-over-9-year-old-spending-usd118-000-on-youtube-ads-using-his-companys-credit-card-refuses-to-set-up-gofundme-or-put-up-crypto-coin-to-help-repay-massive-bill",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-20T13:12:38.004769"
+  },
+  {
+    "title": "Acer Nitro XV273U F5 gaming monitor review: One of the fastest LCDs on the planet",
+    "summary": "Acer s Nitro XV273U F5 might be the fastest LCD on the planet. This 27-inch QHD IPS panel boasts 540 Hz and 1,000 Hz at HD resolution. It also delivers Adaptive-Sync, HDR10, HDR 600, and wide gamut color.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/acer-nitro-xv273u-f5-27-inch-qhd-540-hz-gaming-monitor-review",
     "categories": [
       "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-19T12:41:10.773308"
-  },
-  {
-    "title": "China's premier memory maker CXMT eyes producing flash for SSDs, report claims 3D NAND research and development line rumored for its second manufacturing facility near Beijing",
-    "summary": "China's DRAM champion CXMT is reportedly planning to enter 3D NAND production as it plots 3D NAND research programs and pilot line at its future fab near Beijing.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/chinas-premiere-memory-maker-cxmt-eyes-producing-flash-for-ssds-report-claims-3d-nand-research-and-development-line-rumored-for-its-second-manufacturing-facility-near-beijing",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-09-19T12:41:10.773429"
-  },
-  {
-    "title": "House passes act to make AI data centers pay for grid upgrades to minimize impact on residents measure directs states to consider adoption of federal standard within two years of passing",
-    "summary": "This Ratepayer Protection Act will make data centers pay for grid upgrades made in their name. However, it still has to go through the senate and the White House, before being considered by individual state regulators for adoption.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/house-passes-act-to-make-ai-data-centers-pay-for-grid-upgrades-to-minimize-impact-on-residents-measure-directs-states-to-consider-adoption-of-federal-standard-within-two-years-of-passing",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-19T12:41:10.773530"
-  },
-  {
-    "title": "NOR Flash and SLC NAND production are under threat as capacity gets routed to more profitable products 'severe undersupply' threatens everyday electronics",
-    "summary": "NOR Flash and SLC NAND are the latest products to be impacted by the ongoing AI buildout, with capacities tightening and production being routed to more lucrative chips.",
-    "link": "https://www.tomshardware.com/pc-components/dram/nor-flash-and-slc-nand-production-are-under-threat-as-capacity-gets-routed-to-more-profitable-products-severe-undersupply-threatens-everyday-electronics",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-19T12:41:10.773625"
-  },
-  {
-    "title": "Hackers breach OpenAI using Claude tools, gaining access to employee accounts and the company's internal codebase attackers initiated a 'harmless' pull request as proof of the hack",
-    "summary": "A team of white-hat hackers from cybersecurity startup Hackron AI has successfully hacked OpenAI using Claude tools.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-breach-openai-using-claude-tools-gaining-access-to-employee-accounts-and-the-companys-internal-codebase-initiating-a-harmless-pull-request-as-proof-of-the-hack",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-19T12:41:10.773720"
-  },
-  {
-    "title": "AI developer vibe codes DLSS 5 onto Intel CPU's integrated graphics Intel Arc 140T runs neural rendering in 360p at 10 frames per second",
-    "summary": "Using AI tools, a new developer has managed to get DLSS 5 neural rendering running on Intel Lunar Lake's integrated Arc graphics, albeit with abysmal performance.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-developer-vibe-codes-dlss-5-onto-intel-arc-140t-integrated-graphics-run-neural-rendering-in-360p-at-10-frames-per-second",
-    "categories": [
-      "AI & ML",
       "GPUs"
     ],
     "quality_score": 10,
-    "processed_date": "2026-09-19T12:41:10.773814"
+    "processed_date": "2026-09-20T13:12:38.004827"
   },
   {
-    "title": "OpenMote An ESP32-S3 programmable universal remote in a Wiimote shell (Crowdfunding)",
-    "summary": "Hat & Hammer has launched the OpenMote, an ESP32-S3-powered programmable universal remote that adopts the familiar, nostalgic form factor of a Nintendo Wiimote. It features WiFi, Bluetooth LE, an infrared (IR) transceiver, a 6-axis IMU, and Home Assistant integration, letting it control smart home devices and media centers and act as a Bluetooth gamepad without relying on cloud services. The remote is available in two configurations, which include a Ready To Go fully assembled version and a Mod Your Own bare PCB designed to drop directly into an existing Wiimote shell. Beyond standard remote functions, the OpenMote includes a built-in microphone, a speaker, and a Qwiic/STEMMA QT connector for plug-and-play hardware expansion. OpenMote specifications: Wireless Module ESP32-S3-WROOM-1 SoC Espressif Systems ESP32-S3 CPU Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM 512KB SRAM, 8MB PSRAM Storage 16 MB flash Wireless [...] The post OpenMote An ESP32-S3 programmable universal remote in a Wiimote shell (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/09/19/openmote-an-esp32-s3-programmable-universal-remote-in-a-wiimote-shell/",
+    "title": "High-end 8-channel oscilloscope features 12-core AMD EPYC CPU, 96GB RAM, 15.6-inch display, and more",
+    "summary": "Tektronix has launched the 7 Series DPO (Digital Phosphor Oscilloscope), and the company claims the DPO718AX model is the world s first 8-channel performance oscilloscope with up to 25 GHz analog bandwidth per channel (and 125 GS/s sampling). The new family is designed for high-speed serial compliance testing, wideband RF analysis, and high-energy physics research. Powered by a 12-core AMD EPYC Embedded 3351 processor paired with 96 GB RAM, 1.6 TB storage, an NVIDIA T1000 GPU, and a 15.6-inch touchscreen display, the oscilloscope looks like a high-end PC running Linux (or Windows 10 LTSC). It also includes a 10 Gbps SFP+ port with TekHSI technology for transferring large waveform datasets to an external PC, with Tektronix specifying up to 11x higher throughput. Tektronix 7 Series DPO key specifications: SoC 12-core AMD EPYC Embedded 3351 12-core processor @ 3 GHz GPU NVIDIA T1000 GPU with 896 NVIDIA CUDA cores System [...] The post High-end 8-channel oscilloscope features 12-core AMD EPYC CPU, 96GB RAM, 15.6-inch display, and more appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/20/high-end-8-channel-oscilloscope-features-12-core-amd-epyc-cpu-96gb-ram-15-6-inch-display/",
     "categories": [
       "Hardware",
-      "Semiconductors"
+      "GPUs"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-09-19T12:41:10.774380"
+    "quality_score": 30,
+    "processed_date": "2026-09-20T13:12:38.005220"
   },
   {
-    "title": "ST veteran talks up the future for sensors and physical AI: Video",
-    "summary": "Francesco Doddo, a 26-yeasr veteran of STMicroelectronics, sat down with Edge AI Foundation CEO Pete Bernard for a discussion on the role of sensors in the physical AI era.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/sts-aiot-veteran-talks-future-sensors-and-robotics-video",
+    "title": "Meet Jev: A New AI Model From One of ChatGPT's Co-Creators",
+    "summary": "Jev doesn't chat, write code, or explain itself. It just makes decisions, fast and cheap. Here's why a ChatGPT co-inventor thinks that's the next big step for AI. Read Entire Article",
+    "link": "https://www.techspot.com/article/3172-meet-jev/",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-19T12:41:10.775504"
+    "processed_date": "2026-09-20T13:12:38.006183"
   },
   {
-    "title": "Focus on safety drives robot work at NXP",
-    "summary": "NXP Technology Days event includes drill-downs on robot sensors and a new front end circuit amid a discussion of safety designs.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/focus-safety-drives-robot-work-nxp",
+    "title": "Researchers found a way to eavesdrop on headphones from 30 meters away, and encryption can't stop it",
+    "summary": "The research comes from the Hong Kong University of Science and Technology in Guangzhou and the Hong Kong Polytechnic University. The team presented its paper, \"Injected and Leaked: Actively Inducing Side-Channel Leakage Using Electromagnetic Injection and Hardware Nonlinearity,\" at USENIX Security 2026. Read Entire Article",
+    "link": "https://www.techspot.com/news/113907-researchers-found-way-eavesdrop-headphones-30-meters-away.html",
     "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-20T13:12:38.006272"
+  },
+  {
+    "title": "Valve open-sources Lepton, its Android compatibility layer for the Steam Frame",
+    "summary": "The code is now available through Valve's GitLab repository. Read Entire Article",
+    "link": "https://www.techspot.com/news/113911-valve-open-sources-lepton-android-compatibility-layer-steam.html",
+    "categories": [
+      "AI & ML",
       "Tech News"
     ],
     "quality_score": 0,
-    "processed_date": "2026-09-19T12:41:10.775864"
+    "processed_date": "2026-09-20T13:12:38.006328"
   },
   {
-    "title": "NXP Tech Days: sensors, virtual sensors, actuators and partners",
-    "summary": "NXP hosted 900 guests to see 30 partners and 24 hours of technical deep dive sessions.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/nxp-tech-days-sensors-virtual-sensors-actuators-and-partners",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-19T12:41:10.776011"
-  },
-  {
-    "title": "GlobalFoundries and Marvell are scaling up silicon photonics efforts as data centers outgrow copper wiring",
-    "summary": "GlobalFoundries and Marvell Technology have announced an expanded partnership in manufacturing novel connectivity solutions. The multi-year agreement centers on GlobalFoundries' silicon germanium (SiGe) technology, with the company increasing production capacity at its Burlington, Vermont plant. Read Entire Article",
-    "link": "https://www.techspot.com/news/113903-globalfoundries-marvell-scaling-up-silicon-photonics-efforts-data.html",
-    "categories": [
-      "Tech News",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-19T12:41:10.776256"
-  },
-  {
-    "title": "Samsung Galaxy S26 FE reviews: a decent phone, awful price",
-    "summary": "The Galaxy S26 FE gets plenty right, including a bright AMOLED display, good performance, capable cameras, and seven years of software updates. The problem is value: reviewers find few meaningful upgrades over the S25 FE, while the higher price puts it against stronger alternatives. Read Entire Article",
-    "link": "https://www.techspot.com/products/smartphones/samsung-galaxy-s26-fe.330930/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-09-19T12:41:10.776442"
-  },
-  {
-    "title": "EA FC 27 scores solid reviews as gameplay improvements take center stage",
-    "summary": "EA Sports FC 27 builds on the familiar formula with sharper gameplay, smarter player movement, improved Career and Ultimate Team modes, and the new social The Grounds mode. Reviewers highlight the improvements on the pitch and deeper progression, though there are lingering AI and gameplay issues. Read Entire Article",
-    "link": "https://www.techspot.com/products/pc-games/ea-sports-fc-27.330929/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-19T12:41:10.776618"
-  },
-  {
-    "title": "Almost 86% of Japanese game developers are using AI in their workflows, up from 51% in 2025",
-    "summary": "According to a survey conducted by the Computer Entertainment Suppliers Association (CESA), there has been a massive surge in AI adoption among video game developers in Japan, with 85.8% of respondents reporting that they use generative AI as part of their game development process. While 63% of surveyed developers said... Read Entire Article",
-    "link": "https://www.techspot.com/news/113892-nearly-86-japanese-game-developers-using-generative-ai.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-19T12:41:10.776797"
-  },
-  {
-    "title": "Ghostrunner's studio is pricing its Soulslike \"Valor Mortis\" at $40, but it's worried you'll think that's too low",
-    "summary": "One More Level (OML), the studio behind the critically acclaimed first-person \"runner\" Ghostrunner, is almost ready to launch its new game. Valor Mortis will apply the developer's experience with first-person games to the Soulslike genre and will apparently require a smaller upfront payment than other \"triple-A\" productions while still offering... Read Entire Article",
-    "link": "https://www.techspot.com/news/113900-ghostrunner-studio-pricing-soulslike-valor-mortis-40-but.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-19T12:41:10.776978"
-  },
-  {
-    "title": "This startup believes smaller, modular data centers can solve AI's infrastructure bottleneck",
-    "summary": "The funding round values Crusoe at about $30.9 billion after the investment, Chief Executive Chase Lochmiller said. Atreides Management, Valor Equity Partners, and Mubadala Investment co-led the round. Other investors include Founders Fund, TPG, and several sovereign wealth funds, including the Qatar Investment Authority. Read Entire Article",
-    "link": "https://www.techspot.com/news/113897-startup-believes-smaller-modular-data-centers-can-solve.html",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-19T12:41:10.777156"
-  },
-  {
-    "title": "Control Resonant reviews praise its spectacular world and bold new direction",
-    "summary": "Control Resonant takes Remedy's supernatural series into a semi-open-world Manhattan, with Dylan Faden replacing Jesse as protagonist. Reviewers like the reality-bending environments, art direction, story, and exploration, while reactions to the redesigned combat are more mixed. Read Entire Article",
-    "link": "https://www.techspot.com/products/pc-games/control-resonant.330927/",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-19T12:41:10.777333"
-  },
-  {
-    "title": "Microsoft exec says AI training might be the \"largest labor theft in human history\"",
-    "summary": "Brent Hecht, Microsoft's director of applied science, predicted that people worldwide would view large language models as theft on an unprecedented scale, according to court documents released Thursday. The comments appear to counter Microsoft and OpenAI's public defense against an ongoing lawsuit brought by news outlets. Read Entire Article",
-    "link": "https://www.techspot.com/news/113891-microsoft-exec-ai-training-might-largest-labor-theft.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-19T12:41:10.777521"
-  },
-  {
-    "title": "Senators urge FTC to investigate whether Amazon and Walmart chatbots bury \"Made in USA\" products",
-    "summary": "The request follows a July report from Columbia University's Center for Law and the Economy. The report said the two AI systems did not consistently surface information about domestic-origin claims, even though they could provide information on goods made in other countries. Read Entire Article",
-    "link": "https://www.techspot.com/news/113896-senators-urge-ftc-investigate-whether-amazon-walmart-chatbots.html",
+    "title": "An AI hallucination nearly started a war between the US and China",
+    "summary": "Sources connected to the US military recently told CNN that the US nearly moved to intercept a Chinese vessel in the Middle East this spring based on false intel from an AI-assisted report. The report was based on an inaccurate chatbot response that identified the ship as carrying materials for... Read Entire Article",
+    "link": "https://www.techspot.com/news/113906-ai-hallucination-nearly-started-war-between-us-china.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-19T12:41:10.777691"
+    "processed_date": "2026-09-20T13:12:38.006393"
   },
   {
-    "title": "Gears of War: E-Day's final PC specs target 4K at 60 FPS with an RTX 5070 Ti, but upscaling is required at all levels",
-    "summary": "Gears of War: E-Day's system specs first appeared on its Steam page back in June, but the listings were for Minimum and Recommended specs, with no mention of resolutions, presets, upscaling, etc. Read Entire Article",
-    "link": "https://www.techspot.com/news/113901-gears-war-e-day-final-pc-specs-target.html",
+    "title": "Apple's new hardware chief says seeing screen protectors used on iPhones makes his \"skin crawl\"",
+    "summary": "Apple introduced the material with the iPhone 17 lineup and also uses it on the new iPhone 18 Pro and the outer screen of the new iPhone Duo foldable. Read Entire Article",
+    "link": "https://www.techspot.com/news/113910-apple-new-hardware-chief-seeing-screen-protectors-used.html",
     "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-19T12:41:10.777861"
-  },
-  {
-    "title": "MPC-HC 2.8.2 adds ReplayGain support and playback improvements",
-    "summary": "MPC-HC is a lightweight and highly customizable Windows media player, with strong codec support through its bundled LAV Filters and excellent compatibility with advanced renderers. Version 2.8.2 adds ReplayGain volume normalization, smoother seeking and file launching. For more recommended playback and streaming apps, check out our Essentials Software guide . Read Entire Article",
-    "link": "https://www.techspot.com/downloads/4411-media-player-classic-home-cinema.html",
-    "categories": [
-      "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-19T12:41:10.778140"
+    "processed_date": "2026-09-20T13:12:38.006448"
   }
 ]
