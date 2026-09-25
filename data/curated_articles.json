@@ -1,376 +1,357 @@
 [
   {
-    "title": "The three-pronged future of custom PC building from repurposing forgotten parts to ultra-premium works of gaming art",
-    "summary": "This is probably the worst time ever for PC building. Here s how and why I think the hobby (and the market) still have a future to look forward to.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/the-three-pronged-future-of-custom-pc-building-from-repurposing-forgotten-parts-to-ultra-premium-works-of-gaming-art",
+    "title": "Gamemax RGB PRO 750G power supply review: Efficient, but pricey for an average unit with pretty lights",
+    "summary": "Gamemax charges $105 for an average power supply with RGB lighting. The Sohoo platform underneath measures well enough, but the fan, the capacitors, and the warranty all sit below what the price should buy.",
+    "link": "https://www.tomshardware.com/pc-components/power-supplies/gamemax-rgb-pro-750g-power-supply-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-25T14:09:41.476138"
+  },
+  {
+    "title": "DDR5 laptop memory prices surge 6X in 12 months",
+    "summary": "XMG noted that SO-DIMM prices have jumped 6x, with other components like PCBs, CPUs, and GPUs also facing increasing costs. This has forced the niche laptop manufacturer to bump their SRPs between $113 and $342.",
+    "link": "https://www.tomshardware.com/laptops/laptop-maker-says-ddr5-so-dimms-are-6x-pricier-than-last-year-schenker-says-other-component-costs-are-rising-too-announces-price-hikes",
     "categories": [
       "Hardware",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-24T13:46:54.878409"
+    "processed_date": "2026-09-25T14:09:41.476254"
   },
   {
-    "title": "Leading semiconductor analyst says AMD should be investigated for 'treason' over availability of restricted chips in China, AMD blames diversion of export-controlled RFSoC",
-    "summary": "Top semiconductor analysis firm accuses AMD of treason, AMD says it could have been 'diversion' of an export-controlled adaptable radio platform.",
-    "link": "https://www.tomshardware.com/tech-industry/leading-semiconductor-analyst-accuses-amd-of-treason-over-restricted-chips-availability-in-china-amd-blames-diversion-of-export-controlled-rfsoc-usd36-000-radar-silicon-allegedly-quoted-at-usd1-000-for-crowdfunding-project",
+    "title": "Nintendo wins $4.5 million lawsuit against Switch pirate by default",
+    "summary": "A Washington court granted Nintendo of America a $4.5 million default judgment after the defendant failed to appear in court and respond to the allegations. The company claimed that it sent a cease-and-desist letter and the respondent even answered via email saying they will comply and cooperate, but they have since cut-off communications.",
+    "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-wins-usd4-5-million-lawsuit-against-switch-pirate-by-default-defendant-allegedly-moderated-r-switchpirates-and-sold-pirated-switch-games",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-25T14:09:41.476374"
+  },
+  {
+    "title": "Microsoft revamps Copilot with new tools, support for frontier models",
+    "summary": "Microsoft is revamping Copilot into a singular AI workspace, mixing your projects and agents together. It will also be able to support third-party frontier models.",
+    "link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-revamps-copilot-with-new-tools-support-for-frontier-models-available-now-through-frontier-program",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-25T14:09:41.476472"
+  },
+  {
+    "title": "Intel expects 14A to be 'within 5%' the performance of TSMC's A14",
+    "summary": "Intel's Naga Chandrasekaran now claims that Intel 14A node will deliver performance 'within 5%' of TSMC's A14 technology, a claim that requires a closer examination.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-expects-14a-to-be-within-5-percent-the-performance-of-tsmcs-a14-conservative-forecast-clashes-with-18as-frequency-lead-and-promised-20-percent-gains",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-09-24T13:46:54.878521"
+    "processed_date": "2026-09-25T14:09:41.476570"
   },
   {
-    "title": "GMKtec Evo-X3 review: Strix Halo in a brand new suit",
-    "summary": "GMKtec has radically remodeled its AMD Strix Halo flagship AI mini PC. The statuesque redesign looks more premium and stays cool and quiet, but the Evo-X3 is around twice the price of the Evo-X2, with the same chip, which we reviewed back in February.",
-    "link": "https://www.tomshardware.com/pc-components/air-cooling/deepcool-ak620-and-ak400-g2-review",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-24T13:46:54.878621"
-  },
-  {
-    "title": "Save $149 on this 3-item gaming combo from Newegg",
-    "summary": "Fight back against the RAMpocolypse with this 3-item Newegg combo that features the Ryzen 7 9800X3D, 32GB Corsair Vengeance RAM, and Asus TUF X870E motherboard for only $1,050, a $149 savings",
-    "link": "https://www.tomshardware.com/pc-components/save-usd149-on-this-3-item-gaming-combo-from-newegg-usd1-050-buys-a-ryzen-7-9800x3d-32gb-of-corsair-ddr5-ram-asus-tuf-gaming-x870e-plus-motherboard-and-a-free-240mm-aio-and-amd-game-bundle",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-24T13:46:54.878709"
-  },
-  {
-    "title": "Micron discontinues 2GB GDDR7 chips for gaming GPUs as it pivots toward higher-density memory for AI",
-    "summary": "Micron is reportedly ending production of its 2GB GDDR7 chips, shifting attention toward higher-density 3GB parts used in more lucrative professional and AI-focused GPUs.",
-    "link": "https://www.tomshardware.com/pc-components/ram/micron-discontinues-2gb-gddr7-chips-for-gaming-gpus-as-it-pivots-toward-higher-density-memory-for-ai-chipmaker-reportedly-pivots-to-high-margin-3gb-silicon-for-ai-gpus",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-24T13:46:54.878802"
-  },
-  {
-    "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
-    "summary": "ASML calls EU authorities to help create demand for European chips as Europe's share in its revenue drops to 0% in 2026.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-09-24T13:46:54.878883"
-  },
-  {
-    "title": "Lucky 3D artist scores Jensen Huang-signed RTX 5090 from used marketplace that's worth up to $15,000",
-    "summary": "A 3D artist looking to build a new workstation bought this RTX 5090 off of a used marketplace expecting a unit autographed by an Asus executive. But when they opened the box of the GPU, they were surprised to find that it was actually autographed by Jensen Huang himself.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/lucky-3d-artist-scores-jensen-huang-signed-rtx-5090-from-used-marketplace-unused-asus-rog-astra-white-oc-expected-to-fetch-usd10-000-to-usd15-000-at-auction",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-24T13:46:54.878989"
-  },
-  {
-    "title": "China swiped classified F-35 stealth fighter parts that were diverted through Hong Kong",
-    "summary": "Components from the one of the free world s most advanced fighter jets are now in the possession of the Chinese, say reports.",
-    "link": "https://www.tomshardware.com/tech-industry/china-swiped-f-35-stealth-fighter-parts-that-were-diverted-through-hong-kong-rerouted-ups-cargo-triggers-military-investigation-stealth-coating-recipe-feared-compromised-despite-pentagon-downplaying-mishap",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-24T13:46:54.879074"
-  },
-  {
-    "title": "New wireless Wi-Fi 7 external GPU box comes with a built-in 4TB SSD for local AI",
-    "summary": "WiCi wireless external GPU with onboard storage puts AI workloads reach of local machines via WiFi 7.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/wici-one-unveils-wireless-wi-fi-7-egpu-with-built-in-4tb-ssd-for-local-ai-usd1-999-box-leverages-wifi-7-to-present-a-remote-card-as-local",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-09-24T13:46:54.879161"
-  },
-  {
-    "title": "China s ultimate gaming GPU hits a performance wall",
-    "summary": "The latest review of the Lisuan Tech LX 7G100 shows performance comparable to AMD's Radeon RX 580 but trails the GeForce RTX 2060.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/chinas-ultimate-gaming-gpu-hits-a-performance-wall-lx-7g100-barely-crawls-past-amds-nine-year-old-rx-580",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-24T13:46:54.879242"
-  },
-  {
-    "title": "British Columbia sues OpenAI and Sam Altman for 'aiding and abetting' school shooter",
-    "summary": "B.C. is demanding compensation after it says OpenAI's reviewers wanted to call police about the Tumbler Ridge shooter before the attack.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/british-columbia-sues-openai-to-pay-for-new-school-after-tumbler-ridge-shooting-lawsuit-says-openai-identified-shooters-chatgpt-account-eight-months-prior-but-didnt-warn-police",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-24T13:46:54.879330"
-  },
-  {
-    "title": "Samsung's disastrous firmware update bricks refrigerators ahead of South Korean holiday",
-    "summary": "A broken Samsung update left many refrigerators stuck and non-functional. The incident, which happened right before a major holiday, has many users complaining of spoiled food and a ruined holiday.",
-    "link": "https://www.tomshardware.com/service-providers/samsungs-disastrous-firmware-update-breaks-refrigerators-ahead-of-south-korean-holiday-customers-complain-of-non-functioning-units-food-spoilage-ahead-of-three-day-celebration",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-24T13:46:54.879426"
-  },
-  {
-    "title": "Microsoft brings Snapdragon X2 Plus to 13-inch Surface Laptop, 12-inch Surface Pro",
-    "summary": "Microsoft's lowest-end systems are getting upgrades to Qualcomm's latest Snapdragon X2 Plus processors.",
-    "link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-brings-snapdragon-x2-plus-to-13-inch-surface-laptop-12-inch-surface-pro-low-end-systems-finally-get-upgrades",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-09-24T13:46:54.879517"
-  },
-  {
-    "title": "China's YMTC wins patent battle against Micron in ongoing 3-year legal war over memory patents",
-    "summary": "A Munich court has granted YMTC two injunctions against Micron over 3D NAND patents, the latest development in a years-long cross-border legal battle between the memory rivals.",
-    "link": "https://www.tomshardware.com/pc-components/storage/chinas-ymtc-wins-patent-battle-against-micron-in-ongoing-3-year-legal-war-over-memory-patents-new-injunctions-could-restrict-microns-supply-into-germany",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-24T13:46:54.879602"
-  },
-  {
-    "title": "Alibaba claims new Qwen Image 2.1 AI model beats Google Nano Banana 2.0 with minuscule 7B parameter model",
-    "summary": "Alibaba Group's AI division has released Qwen 2.1 Image, an ultra-lightweight image generation model with just 7B parameters, able to run on local hardware like the RTX 3090.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-24T13:46:54.879693"
-  },
-  {
-    "title": "CyboPal ONE An AI-powered, 6-DOF robotic terminal with 27-inch 4K display that adjusts to your posture (Crowdfunding)",
-    "summary": "CyboPal ONE is a 6-axis desktop robotic terminal designed to move a 27-inch 4K display using voice and gesture control, spatial sensing, and automatic display positioning based on the user s position. It includes a camera, a binocular 3D sensor, and a motion sensor (IMU), and supports joint force sensing, obstacle avoidance, collision detection, and power-loss soft landing. The 6-DOF arm has a 747 mm reach and supports face tracking, manual adjustment, and saved positions. A built-in Pauli agent also provides voice control for screen positioning, application control, text input, and workflow tasks across Windows, macOS, and Linux. CyboPal ONE specifications: SoC Rockchip RK3588 octa-core processor with CPU 4x Cortex A76 cores @ up to 2.4 GHz, 4x Cortex A55 cores @ 1.8 GHz GPU Arm Mali-G610 MP4 GPU Video decoder 8Kp60 H.265, VP9, AVS2, 8Kp30 H.264 AVC/MVC, 4Kp60 AV1, 1080p60 MPEG-2/-1, VC-1, VP8 Video encoder 8Kp30 H.265/H.264 video encoder AI accelerator [...] The post CyboPal ONE An AI-powered, 6-DOF robotic terminal with 27-inch 4K display that adjusts to your posture (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/09/24/cybopal-one-an-ai-powered-6-dof-robotic-terminal-with-27-inch-4k-display-that-adjusts-to-your-posture/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-24T13:46:54.880137"
-  },
-  {
-    "title": "Quectel SE200ZC-AP smart module supports up to five cameras with Rockchip RV1126B/BJ SoC",
-    "summary": "Quectel has launched the SE200ZC-AP, a compact (40 x 40 mm) smart module based on the Rockchip RV1126B/RV1126BJ quad-core Arm Cortex-A53 SoC with a 12MP ISP, an 8MP AI-ISP, and a 3 TOPS NPU. The module supports up to five 12MP cameras through two 4-lane MIPI CSI interfaces and one DVP interface. Other interfaces include Gigabit Ethernet, USB 3.0/2.0, two CAN FD, up to eight UART, six I2C, two SPI, two SDIO, three SAI, 22 ADC, 28 PWM, and up to 115 GPIOs. It ships with 1GB, 2GB, or 4GB LPDDR4x and 64GB eMMC flash, and is available in commercial and industrial grades, with operating temperatures of -25 C to +75 C and -35 C to +80 C, respectively. These features make it suitable for smart security, industrial automation, autonomous vehicles, robotic vision, and Smart Home applications. Quectel SE200ZC-AP specifications: SoC Rockchip RV1126B or RV1126BJ (industrial-grade version) CPU Quad-core Arm Cortex-A53 up [...] The post Quectel SE200ZC-AP smart module supports up to five cameras with Rockchip RV1126B/BJ SoC appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/09/24/quectel-se200zc-ap-smart-module-supports-up-to-five-cameras-with-rockchip-rv1126b-bj-soc/",
-    "categories": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-09-24T13:46:54.880289"
-  },
-  {
-    "title": "Opinion: Safer AI will require independent testbeds and incident reporting",
-    "summary": "Small innovators in humanoids and physical AI should be exempted from many AI regulations.",
-    "link": "https://www.fiercesensors.com/ai/opinion-safer-ai-will-require-independent-testbeds-and-incident-reporting",
+    "title": "Asus confirms eShop data breach exposed customer order records and contact details",
+    "summary": "Asus eShop hit by data breach customer contact details and order information revealed",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/asus-online-store-hit-by-data-breach-customer-contact-details-and-order-information-revealed",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 0,
-    "processed_date": "2026-09-24T13:46:54.881275"
+    "processed_date": "2026-09-25T14:09:41.476662"
   },
   {
-    "title": "Microsoft revives the Surface Mouse with haptic feedback, six-month battery life, and $80 price",
-    "summary": "The second-generation Surface Mouse includes several new features, including haptic feedback, which uses an internal vibration motor to deliver subtle pulses and tactile responses to confirm clicks. It can also provide feedback for on-screen interactions such as snapping windows to the edge of the screen or aligning objects and layouts... Read Entire Article",
-    "link": "https://www.techspot.com/news/113969-microsoft-revives-surface-mouse-haptic-feedback-six-month.html",
+    "title": "New Jersey hits Microsoft-linked AI data center with record fine for 62 unpermitted power generators, issues 45-day shutdown deadline",
+    "summary": "The DataOne data center is facing a record fine of $1.07 million for operating portable turbine generators without permission. Residents say that the penalty is a drop in the bucket for these big tech companies.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/new-jersey-fines-data-center-for-using-unpermitted-power-generators-microsoft-linked-site-also-in-trouble-with-community-for-noise-pollution-other-issues",
     "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-24T13:46:54.881638"
-  },
-  {
-    "title": "Disney+ raises prices again as ad-free plan climbs to more than three times its launch price",
-    "summary": "The standalone ad-free plans for Disney+ and Hulu are each increasing from $18.99 to $21.49 per month a $2.50 rise, or approximately 13.2%. The ad-free Disney+/Hulu bundle goes up by $2, from $19.99 to $21.99 per month. Read Entire Article",
-    "link": "https://www.techspot.com/news/113976-disney-raises-prices-again-ad-free-plan-climbs.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-24T13:46:54.881734"
-  },
-  {
-    "title": "Rumored specs put Xbox Helix's GPU 40% ahead of PS6 on paper, but TFLOPs don't tell the whole story",
-    "summary": "According to prominent leaker Kepler_L2, Sony and Microsoft have already taped out the graphics chips for the PlayStation 6 and next-generation Xbox, which can theoretically achieve 40 and 56 TFLOPs, respectively. The tipster made the claims amid a discussion about the dangers of relying on simple TFLOP comparisons. Read Entire Article",
-    "link": "https://www.techspot.com/news/113967-rumored-specs-put-xbox-helix-gpu-40-ahead.html",
-    "categories": [
-      "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-24T13:46:54.881840"
+    "processed_date": "2026-09-25T14:09:41.476771"
   },
   {
-    "title": "Sweden launches campaign telling people to be ruder as scammers exploit good manners",
-    "summary": "Swedish police authority Polisen writes that total profits from fraud in the country amounted to 5.7 billion SEK, around $575.3 million. As is the case everywhere, the most common targets are elderly people. Read Entire Article",
-    "link": "https://www.techspot.com/news/113974-sweden-launches-campaign-telling-people-ruder-scammers-exploit.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-24T13:46:54.881943"
-  },
-  {
-    "title": "Adobe Premiere is now available on Android, offering free 4K video editing",
-    "summary": "In an official blog post announcing the Android launch, Adobe noted that the app is not only free to use but also offers non-watermarked 4K video export without any login or account requirement. While almost all free applications display ads as the primary source of revenue, Adobe promises that Premiere... Read Entire Article",
-    "link": "https://www.techspot.com/news/113963-adobe-premiere-now-available-android-offering-free-4k.html",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-24T13:46:54.882043"
-  },
-  {
-    "title": "Rayman Legends Retold's PC specs range from a GTX 1660 to an RTX 4080 with upscaling throughout",
-    "summary": "The good news for fans of the long-running platforming franchise is that the latest entry will play at 1080p@60FPS on an Intel Core i3-8100 or Ryzen 3 3100 paired with a GTX 1060, RX 5500 XT, or Intel Arc A580 and 8GB of RAM. However, graphics need to be set... Read Entire Article",
-    "link": "https://www.techspot.com/news/113971-rayman-legends-retold-pc-specs-range-gtx-1660.html",
+    "title": "Grab this 4K-ready RTX 5070 Ti gaming PC from HP for under $1,900 right now",
+    "summary": "This epic HP Omen 45L gaming rig is one of the cheapest RTX 5070 Ti PC you can buy right now, fitted with a Intel Core i7-14700F, 32GB of DDR RAM, and a 1TB SSD for just $1,899.99.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/grab-this-4k-ready-rtx-5070-ti-gaming-pc-from-hp-for-under-usd1-900-right-now-powerful-omen-35l-machine-is-a-serious-bargain-with-a-20-core-intel-cpu-32gb-ddr5-ram-and-a-1tb-ssd",
     "categories": [
       "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-24T13:46:54.882139"
+    "processed_date": "2026-09-25T14:09:41.476867"
   },
   {
-    "title": "The GPU Madness Has Come to This: 9070 XT vs. 5060 Ti 16GB",
-    "summary": "GPU pricing has become so absurd that the RTX 5060 Ti 16GB now costs as much as the RX 9070 XT. We benchmarked both across 52 games to see just how ridiculous the gap has become. Read Entire Article",
-    "link": "https://www.techspot.com/review/3176-madness-9070-xt-vs-5060-ti/",
+    "title": "Nvidia DLSS 5 power draw hits 647W as power connector runs hotter than the GPU die, upscales frame rates and flame temps on 16-pin",
+    "summary": "QuasarZone tests show the 16-pin power connector on a GeForce RTX 5090 reaches temperatures above 90 degrees Celsius at peak power consumption near 650W.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-5-upscales-frame-rates-and-flame-temps-on-16-pin-power-connector-ai-gaming-tech-pushes-connector-to-uncomfortable-thermal-and-power-limits",
     "categories": [
       "GPUs"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-09-24T13:46:54.882218"
-  },
-  {
-    "title": "Qualcomm's new chips show how AI agents are tying together phones, laptops, and earbuds",
-    "summary": "One of the more interesting trends starting to emerge in personal technology is a simultaneous divergence of devices designed for individual use and a convergence of the computing systems to which they connect. While we're beginning to see a much broader range of intelligent form factors and devices, we're also... Read Entire Article",
-    "link": "https://www.techspot.com/news/113965-qualcomm-new-chips-show-how-ai-agents-tying.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-09-24T13:46:54.882321"
+    "processed_date": "2026-09-25T14:09:41.476982"
   },
   {
-    "title": "Latest Windows 11 update is crashing Battlefield 6, Wardogs, and other Javelin-protected games",
-    "summary": "Microsoft released the KB5124010 update to the Windows 11 Release Preview channel for versions 24H2 and 25H2 earlier this month before rolling it out to the stable channel on Tuesday. Almost immediately, users started complaining on social media and online forums that it was wreaking havoc on their gaming rigs.. Read Entire Article",
-    "link": "https://www.techspot.com/news/113959-latest-windows-11-update-crashing-battlefield-6-wardogs.html",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-09-24T13:46:54.882425"
-  },
-  {
-    "title": "Motorola partners with Bang & Olufsen to bring high-end audio to its flagship phones",
-    "summary": "Motorola recently announced a multi-year partnership with Bang & Olufsen, the Danish company best known for its luxury consumer electronics and audio products. The Lenovo-owned smartphone maker wants to create premium audio experiences for its flagship phones, with the first device expected to arrive in the US and other markets... Read Entire Article",
-    "link": "https://www.techspot.com/news/113961-motorola-partners-bang-olufsen-bring-high-end-audio.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-24T13:46:54.882522"
-  },
-  {
-    "title": "Rabbit launches OS3, an agentic AI platform for desktop, Telegram, and iMessage",
-    "summary": "Rabbit OS3 connects to Windows, Mac, and Linux computers through a local agent installed on the machine. The platform can interact with desktop programs, files, and web pages. Rabbit says it can also write and debug code through its Direct Large Action Model, or DLAM, technology. Read Entire Article",
-    "link": "https://www.techspot.com/news/113954-rabbit-launches-os3-agentic-ai-platform-desktop-telegram.html",
+    "title": "Google's orbital AI data center test packs four TPUs and 1,000W of solar power",
+    "summary": "Google will launch an experimental satellite into orbit on October 1, taking four tensor processing units with it.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/google-is-blasting-an-experimental-ai-data-center-into-orbit-first-satellite-will-feature-just-four-tensor-processing-units",
     "categories": [
       "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-24T13:46:54.882620"
-  },
-  {
-    "title": "Stanford researchers say the brain is actually two organs pretending to be one",
-    "summary": "Scientists have tried studying and scanning every single part of the human brain, but it turns out that everything they thought they knew was (mostly) wrong. A new study by researchers at Stanford School of Medicine explains that the brain is comprised of two distinct organs that have evolved to... Read Entire Article",
-    "link": "https://www.techspot.com/news/113948-stanford-researchers-brain-actually-two-organs-pretending-one.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-24T13:46:54.882714"
-  },
-  {
-    "title": "This guy has spent two years hunting fake job listings on LinkedIn, and found 60,000 of them",
-    "summary": "The fraud is not limited to obvious fake accounts. Some scammers create batches of recruiter profiles using copied photos and similar account details. Others take over dormant, verified LinkedIn accounts and attach them to legitimate companies. Still others place job ads on legitimate company pages that direct applicants to outside... Read Entire Article",
-    "link": "https://www.techspot.com/news/113958-guy-has-spent-two-years-hunting-fake-job.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-24T13:46:54.882812"
-  },
-  {
-    "title": "What was the first mainstream computer to use USB as the only port for connecting peripherals?",
-    "summary": "Before USB was everywhere, one computer bet everything on it. Can you name it? Read Entire Article",
-    "link": "https://www.techspot.com/trivia/182-what-first-mainstream-computer-use-usb-only-port/",
-    "categories": [
-      "AI & ML",
-      "Hardware"
+      "GPUs"
     ],
     "quality_score": 0,
-    "processed_date": "2026-09-24T13:46:54.882894"
+    "processed_date": "2026-09-25T14:09:41.477077"
   },
   {
-    "title": "Microsoft's new patent wants Xbox games to rewrite themselves as you play",
-    "summary": "The application, published in July and titled \"Generative Narrative Game Experience With Player Feedback,\" describes a system that could create or revise content based on what an individual player does in the game. Read Entire Article",
-    "link": "https://www.techspot.com/news/113956-microsoft-new-patent-wants-xbox-games-rewrite-themselves.html",
+    "title": "OpenAI agent got into Australia's Medicare stats portal with 84-day notification delay",
+    "summary": "Australia says an OpenAI agent got past blocks on a Medicare statistics portal in June. OpenAI's notification arrived in September.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/australian-pm-says-openai-took-84-days-to-email-agency-after-agent-hacked-its-national-health-care-portal-incident-is-believed-to-be-the-first-known-case-of-ai-breaching-a-government-site",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-24T13:46:54.882991"
+    "processed_date": "2026-09-25T14:09:41.477170"
   },
   {
-    "title": "Cryptomator encrypts your files and folders before they sync to the cloud",
-    "summary": "Cloud storage is convenient, but it also means trusting someone else with your files. Cryptomator encrypts them locally before they reach Dropbox, Google Drive, or other cloud service you use. The open-source app uses AES-256 encryption to protect both file contents and filenames, and works across Windows, macOS, Linux, Android, and iOS. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/7910-cryptomator.html",
+    "title": "Sony patent could turn PlayStation controllers into tap-to-pay credit card terminals",
+    "summary": "A new patent application details the potential for a future PlayStation controller to accept payments via credit cards and gift cards.",
+    "link": "https://www.tomshardware.com/video-games/console-gaming/sony-patent-could-turn-playstation-controllers-into-tap-to-pay-credit-card-terminals-nfc-and-bluetooth-also-support-phones-and-gift-cards-for-instant-purchases",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-25T14:09:41.477264"
+  },
+  {
+    "title": "Nvidia CEO says 'we have to shut the labs down' if AI experiments are unsafe",
+    "summary": "In a recent interview, Nvidia CEO Jensen Huang said that if frontier labs have unsafe models, they should shut the labs down, calling the current calls for regulation a \"distraction.\"",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-ceo-says-we-have-to-shut-the-labs-down-if-ai-experiments-are-unsafe-jensen-huang-says-frontier-ai-lab-fears-are-a-distraction-not-a-call-for-regulation",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-25T14:09:41.477360"
+  },
+  {
+    "title": "Logitech refreshes legendary Blue Yeti microphone with 3D voice tracking and AI denoising",
+    "summary": "After years without a major successor, Logitech s Yeti 2 arrives with new features designed to simplify microphone setup and audio adjustments.",
+    "link": "https://www.tomshardware.com/peripherals/microphones/logitech-refreshes-legendary-blue-yeti-microphone-with-3d-voice-tracking-and-ai-denoising-usd160-blue-yeti-2-sequel-features-real-time-auto-gain-and-color-mascot-screen",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-25T14:09:41.477463"
+  },
+  {
+    "title": "Compact Long-Wave Infrared camera pairs STM32N6 MCU with Lynred ATI320 thermal sensor",
+    "summary": "8devices 8Sight T100 is a compact Long-Wave Infrared (thermal imaging) camera for UAS, robotics, and industrial applications. It combines a Lynred ATI320 LWIR sensor with an STM32N6 Arm Cortex-M55 microcontroller featuring a Neural-ART NPU and a hardware ISP for edge AI inference and real-time thermal image processing. The camera delivers 320 240 thermal video at 60 fps and operates completely offline, allowing you to deploy custom AI models for object detection, anomaly detection, or temperature-triggered events without relying on cloud resources. 8devices 8Sight T100 specifications: MCU STMicro STM32N657X0H3Q with an Arm Cortex-M55 core up to 800MHz with a 600 GOPS Neural-ART Accelerator (NPU) and hardware ISP System Memory 256 Mbit (32 MB) RAM @ 200 MHz (16-bit) Storage 512 Mbit (64 MB) NOR flash Thermal Camera Lynred ATI320 LWIR (Long-Wave Infrared) sensor Spectral range 8 to 14 m Resolution 320 x 240 pixels Frame rate [...] The post Compact Long-Wave Infrared camera pairs STM32N6 MCU with Lynred ATI320 thermal sensor appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/25/compact-long-wave-infrared-camera-pairs-stm32n6-mcu-with-lynred-ati320-thermal-sensor/",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-25T14:09:41.477962"
+  },
+  {
+    "title": "MemBrowse continuously tracks firmware memory footprint, is free for open-source projects",
+    "summary": "MemBrowse tool allows embedded software developers to track the RAM and flash footprint of their firmware in continuous integration, with support for GitHub Actions, GitLab CI/CD, and other CI solutions. Engineers can monitor footprint changes in a granular way each time code is submitted to their project, instead of finding out when the firmware image stops fitting into the target s flash, or can t run due to excessive RAM usage. MemBrowse also provides the full history showing how memory usage progressed over time, and how much is left for extra features. MemBrowse key features: Integrates with CI/CD It works with GitHub Actions, GitLab CI, Jenkins, and other CI systems. Automatic memory tracking on every commit to your main branch. The open-source MemBrowse CLI parses the project s ELF file and linker script, extracts memory usage data, and uploads a report to the MemBrowse Portal. PR comments show how much memory each [...] The post MemBrowse continuously tracks firmware memory footprint, is free for open-source projects appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/25/membrowse-continuously-tracks-firmware-memory-footprint-is-free-for-open-source-projects/",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-25T14:09:41.478142"
+  },
+  {
+    "title": "Qualcomm releases Linux developer preview for the Snapdragon X2 Series",
+    "summary": "Qualcomm has released an Early Developer Preview of Linux for the Snapdragon X2 Armv9 family of laptop SoCs. This release is meant for distribution maintainers, toolchain developers, kernel contributors, and hardware enablement engineers. New Qualcomm processors for mobile PCs (that s what Qualcomm calls laptops) usually target Windows only. We get comments asking about Linux support on most of these posts, but Qualcomm s history with maintaining Linux is rather mixed. For instance, they demonstrated Debian 12 and Linux upstreaming for the Qualcomm Snapdragon X Elite SoC in collaboration with Linaro in 2024, but based on comments I ve read, support is incomplete and not to the level you d get on x86 targets. Maybe it will be different for the Snapdragon X2 Series. The announcement mentions that Qualcomm engineers have been working on upstream Linux since Snapdragon Summit 2025 (in September, one year ago). So far, the work includes low-level SoC enablement and [...] The post Qualcomm releases Linux developer preview for the Snapdragon X2 Series appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/25/qualcomm-releases-linux-developer-preview-snapdragon-x2/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-09-25T14:09:41.478320"
+  },
+  {
+    "title": "Meta announces VR Glasses for $1,299 alongside cheaper smart glass updates",
+    "summary": "Meta s announcements show an industry moving further away from headsets to smart glasses where sensor data works with AI models",
+    "link": "https://www.fiercesensors.com/ai/meta-announces-vr-glasses-1299-alongside-cheaper-smart-glass-updates",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-25T14:09:41.479364"
+  },
+  {
+    "title": "Messy world emerges for humanoids, with safety role for sensors",
+    "summary": "Record track runs (and crashes) by humanoids beckon safety standards",
+    "link": "https://www.fiercesensors.com/ai/messy-world-emerges-humanoids-safety-role-sensors",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-09-25T14:09:41.479715"
+  },
+  {
+    "title": "Google's Gemini can now call businesses for you",
+    "summary": "Pixel 11 owners can now test a feature that lets Google's AI assistant, Gemini, call businesses to carry out several tasks on their behalf. The company has tried this before, but now aims to give users more control. However, it remains unclear how businesses will respond to calls made by AI. Read Entire Article",
+    "link": "https://www.techspot.com/news/113983-google-gemini-can-now-call-businesses-you.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-25T14:09:41.479935"
+  },
+  {
+    "title": "Amazon, Apple, AMD, Google, Tesla, Microsoft, Nvidia, and Qualcomm are all reportedly evaluating Intel's 14A process",
+    "summary": "Intel has spent years trying to turn its manufacturing arm into a serious alternative to TSMC. Its 14A process is now the key test. Piper Sandler said Intel needs to sign an anchor customer in late 2026 or early 2027 before a planned 2028 production ramp. Read Entire Article",
+    "link": "https://www.techspot.com/news/113984-amazon-apple-amd-google-tesla-microsoft-nvidia-qualcomm.html",
+    "categories": [
+      "Semiconductors",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-25T14:09:41.480093"
+  },
+  {
+    "title": "Nintendo wins $4.5 million piracy judgment after former Reddit moderator fails to defend himself in court",
+    "summary": "Nintendo sued James Williams, also known online as Archbox, in June 2024 over claims he was the operator, overseer and driving force behind several Pirate Shops. Read Entire Article",
+    "link": "https://www.techspot.com/news/113992-nintendo-wins-45-million-piracy-judgment-after-former.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-25T14:09:41.480198"
+  },
+  {
+    "title": "Amazon is blocking Meta's shopping AI agent, and plans to block Google and OpenAI's too",
+    "summary": "Amazon has decided to stop Meta's latest foray into the agentic AI business from shopping on its service. The retailer said that Muse AI's programmed behavior is a security and privacy risk. Furthermore, the AI agent is failing to prove its identity like any other third-party bot would be obliged... Read Entire Article",
+    "link": "https://www.techspot.com/news/113981-amazon-blocked-meta-muse-agentic-ai-shopping-service.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-25T14:09:41.480305"
+  },
+  {
+    "title": "RTX 5090 owner says PNY denied a warranty claim because they didn't use the included cable or adapter",
+    "summary": "Redditor Melodic_Initial_1767 writes that their PNY RTX 5090 purchased last September died last month. Both the PSU and card ends of the 12VHPWR cable melted something we've seen several times before and the PC no longer recognizes the GPU. Read Entire Article",
+    "link": "https://www.techspot.com/news/113990-rtx-5090-owner-pny-denied-warranty-claim-because.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-25T14:09:41.480415"
+  },
+  {
+    "title": "Amazon's delivery drones are annoying an entire Texas neighborhood, and there's nothing they can do about it",
+    "summary": "The drones launch from an Amazon distribution center and deliver packages across a 7.5-mile service area. The company says customers can order tens of thousands of items for delivery in as little as 30 minutes. Packages can weigh up to five pounds, and delivery is free on some orders or... Read Entire Article",
+    "link": "https://www.techspot.com/news/113979-amazon-delivery-drones-annoying-entire-texas-neighborhood-there.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-24T13:46:54.883085"
+    "processed_date": "2026-09-25T14:09:41.480526"
   },
   {
-    "title": "Raspberry Pi's RAM lock was built to stop scalpers, but it's blocking repairs too",
-    "summary": "The issue came up on the Raspberry Pi forums after a user replaced the RAM on a Compute Module 5 but couldn't get the board to recognize the new 4 GB chip. PhilE, a Raspberry Pi engineer and forum moderator, said the company has been \"locking devices to their original... Read Entire Article",
-    "link": "https://www.techspot.com/news/113953-raspberry-pi-blocks-ram-swaps-stop-resellers-selling.html",
+    "title": "Sony patents PlayStation controller that could accept tap-to-pay from phones and credit cards",
+    "summary": "The patent, discovered by Dexerto, was published on September 17, 2026, but filed back in March 2025. Titled \"Video Game Controller-Driven Information Transfer,\" it essentially describes a controller with NFC capabilities. Read Entire Article",
+    "link": "https://www.techspot.com/news/113988-sony-patent-shows-playstation-controller-could-accept-tap.html",
     "categories": [
-      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-25T14:09:41.480627"
+  },
+  {
+    "title": "Samsung confirms faulty update bricked its smart refrigerators, promises an emergency fix",
+    "summary": "According to Seoul Shinmun, people across South Korea are reporting that their Samsung smart fridges stopped functioning after installing an over-the-air update through the company's SmartThings app earlier this week. Read Entire Article",
+    "link": "https://www.techspot.com/news/113978-samsung-confirms-faulty-update-bricked-smart-refrigerators-promises.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-25T14:09:41.480731"
+  },
+  {
+    "title": "Sony wants AI to silently vibe-code fixes for your PlayStation and other devices",
+    "summary": "In 2025, Sony filed an AI-focused patent with the USPTO. The recently published patent reveals a diagnostics and troubleshooting system designed to rely heavily on automation, with large language models acting as both the \"brain\" and the developer tasked with fixing issues found on customers' devices. Read Entire Article",
+    "link": "https://www.techspot.com/news/113964-sony-wants-ai-silently-vibe-code-fixes-playstation.html",
+    "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-24T13:46:54.883182"
+    "processed_date": "2026-09-25T14:09:41.480851"
+  },
+  {
+    "title": "Geely's new charging system takes EVs from 10% to 70% in 4 minutes, 30 seconds",
+    "summary": "The Chinese automaker said it tested the system on a Zeekr 001 sedan and a Lynk & Co 10 hybrid. In both cases, the vehicles reached a 97% charge in less than nine minutes. Geely said its software predicts battery temperature during charging and adjusts power flow accordingly. Read Entire Article",
+    "link": "https://www.techspot.com/news/113966-geely-new-charging-system-takes-evs-10-70.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-25T14:09:41.480985"
+  },
+  {
+    "title": "Meta's new smart glasses skip the cameras, and the privacy backlash that came with them",
+    "summary": "Pre-orders are now open for Meta's recently revealed Ray-Ban Audio glasses. Starting at $349 and shipping October 13, the glasses handle music, calls, and AI functions without cameras. Meta also unveiled a VR headset that packs immersive media and productivity functionality into a form factor only slightly larger than a... Read Entire Article",
+    "link": "https://www.techspot.com/news/113968-meta-new-smart-glasses-skip-cameras-privacy-backlash.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-25T14:09:41.481106"
+  },
+  {
+    "title": "Flock is finally requiring police to have a real reason before searching its camera database",
+    "summary": "Until recently, users were required to explain why they were conducting a search by typing into an open text field. Flock said those entries were not always specific enough. The company has replaced the field with a drop-down menu of standardized categories based on the FBI's crime-reporting system. Read Entire Article",
+    "link": "https://www.techspot.com/news/113975-flock-finally-requiring-police-have-real-reason-before.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-25T14:09:41.481217"
+  },
+  {
+    "title": "Bentley's first EV is a 375-mile luxury SUV that hits 60 mph in 2.8 seconds",
+    "summary": "Like other modern Bentleys, the Torcal is also named after a natural wonder. Bentley says the name comes from El Torcal de Antequera, a natural reserve in the Sierra del Torcal mountains of Andalusia, Spain, known for its striking limestone rock formations, high cliffs, and deep caves. Read Entire Article",
+    "link": "https://www.techspot.com/news/113972-bentley-first-ev-torcal-375-mile-luxury-suv.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-25T14:09:41.481324"
+  },
+  {
+    "title": "SpaceX has stopped taking Falcon 9 bookings past 2028, betting everything on Starship",
+    "summary": "Meanwhile, Falcon 9 is still doing much of the work in the commercial launch market. In 2025, it launched 165 times, successfully delivered every payload to orbit, and had one unsuccessful booster recovery. The rocket accounted for nearly half of all launches worldwide. Read Entire Article",
+    "link": "https://www.techspot.com/news/113977-spacex-may-stop-flying-falcon-9-after-2028.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-25T14:09:41.481428"
+  },
+  {
+    "title": "OpenAI's AI agent breached an Australian government system, and took three months to disclose it",
+    "summary": "Prime Minister Anthony Albanese said the June 18 incident involved a portal administered by Services Australia. The agent was researching public medicine spending during an internal OpenAI evaluation when it encountered access restrictions and circumvented them. Read Entire Article",
+    "link": "https://www.techspot.com/news/113980-australia-openai-rogue-ai-hacked-government-website-company.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-25T14:09:41.481539"
   }
 ]
