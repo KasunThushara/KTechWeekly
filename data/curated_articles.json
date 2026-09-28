@@ -1,204 +1,426 @@
 [
   {
-    "title": "Gigabyte 1000GM PG5 1000W power supply review: Impressive Platinum-level efficiency with T-Guard thermal protection",
-    "summary": "Gigabyte's new Gaming series flagship, the Gigabyte 1000GM PG5 1000W, pairs an HEC-built platform with all-Japanese capacitors, Platinum-level efficiency, and T-Guard thermal protection for the 12V-2x6 connector.",
-    "link": "https://www.tomshardware.com/pc-components/power-supplies/gigabyte-1000gm-pg5-1000w-power-supply-review",
+    "title": "Google confirms ChromeOS phase out in 2034 10-year support lifetime cut short for some devices, company says it will support transition to Googlebook OS",
+    "summary": "Google confirmed ChromeOS updates will phase out in 2034 as the company transitions to Googlebook OS and new laptops.",
+    "link": "https://www.tomshardware.com/laptops/google-confirms-chromeos-phase-out-in-2034-10-year-support-lifetime-cut-short-for-some-devices-company-says-it-will-support-transition-to-googlebook-os",
     "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-27T14:17:56.955065"
-  },
-  {
-    "title": "PS5 emulator successfully runs six titles at a playable 60 FPS",
-    "summary": "SharpEmu s latest release can run six tested PS5 games at 60 FPS, with 12 of 55 titles now reaching gameplay state, as developers improve shader translation and Vulkan support.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/ps5-emulator-successfully-runs-six-titles-at-a-playable-60-fps-ps5-emulation-continues-to-gather-momentum-as-developers-improve-shader-translation-and-vulkan-support",
-    "categories": [
-      "Tech News"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-27T14:17:56.955129"
+    "processed_date": "2026-09-28T17:00:30.983895"
   },
   {
-    "title": "Linux enthusiasts see 10-second kernel compilation times on the horizon",
-    "summary": "It won t be long until Linux enthusiasts will be able to complete a clean kernel build in under 10 seconds thanks to advances in PC hardware and the AI-assisted optimization of compilers.",
-    "link": "https://www.tomshardware.com/software/linux/linux-enthusiasts-see-10-second-kernel-compilation-times-on-the-horizon-ai-assisted-patches-cut-build-times-by-nearly-a-third-without-a-ramdisk",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-27T14:17:56.955192"
-  },
-  {
-    "title": "Flock seeks to have security researchers' map of Flock cameras taken down",
-    "summary": "A vulnerability on the Flock website allowed a security researcher to access its third-party provider to download the locations and descriptions of over 300,000 Flock cameras. He also pointed out how the Flock system could be used to track personnel heading to and from sensitive sites like the Pentagon and the CIA Headquarters.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/flock-seeks-to-have-security-researchers-map-of-flock-cameras-taken-down-unauthenticated-flaw-exposed-335-701-camera-locations-nationwide",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-27T14:17:56.955266"
-  },
-  {
-    "title": "Developer says AI decision model Jev beat Pok mon Red in under a week",
-    "summary": "TypeSafe AI's Jev beat Pok mon Red in under a week, eventually reaching the Hall of Fame.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/developer-says-jev-decision-model-beat-pokemon-red-in-under-a-week-non-llm-engine-succeeds-where-traditional-chatbots-stalled-for-months-but-claude-opus-5-coached-the-model-through-its-dead-ends",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-09-27T14:17:56.955317"
-  },
-  {
-    "title": "U.S. and UK navies successfully launch 3,700-pound submarine-sinking torpedo from robotic drone submarine in historic first",
-    "summary": "The U.S. Navy and Royal Navy have successfully launched a 3,700-pound Mk 48 heavyweight torpedo from Britain s uncrewed XV Excalibur submarine, marking the first time the weapon has been fired from an autonomous underwater vehicle",
-    "link": "https://www.tomshardware.com/tech-industry/u-s-and-uk-navies-successfully-launch-3-700-pound-submarine-sinking-torpedo-from-robotic-drone-submarine-in-historic-first-project-broadsword-proves-weapon-interchangeability-in-just-seven-months",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-27T14:17:56.955381"
-  },
-  {
-    "title": "Counterfeit vinyl record maker sentenced to three years in the slammer after making $3.5 million",
-    "summary": "Authorities seized thousands of counterfeit records and specialist manufacturing equipment after a BPI test purchase helped expose the long-running operation.",
-    "link": "https://www.tomshardware.com/tech-industry/counterfeit-vinyl-record-maker-sentenced-to-three-years-in-the-slammer-police-bust-largest-fake-vinyl-operation-in-uk-history-raid-uncovers-four-70-year-old-presses-and-3-000-metal-stampers",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-27T14:17:56.955438"
-  },
-  {
-    "title": "Taiwan's chip talisman snack faces production halt after 94% strike vote",
-    "summary": "Taiwan's tech talisman snack production could be halted as the Guai Guai company faces strike action.",
-    "link": "https://www.tomshardware.com/tech-industry/taiwans-chip-talisman-snack-faces-production-halt-after-94-percent-strike-vote-workers-demand-share-of-usd176-million-factory-sale-to-ase",
+    "title": "Synopsys debuts Autopilot platform for developing chips autonomously using AI",
+    "summary": "Synopsys unveiled seven AgentEngineer agents on its new Autopilot platform, with general availability planned for the end of 2026.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/synopsys-debuts-autopilot-platform-for-developing-chips-autonomously-using-ai-new-agentengineer-platform-is-poised-for-general-availability-by-the-end-of-2026",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-09-27T14:17:56.955492"
+    "quality_score": 10,
+    "processed_date": "2026-09-28T17:00:30.984032"
   },
   {
-    "title": "27-year-old GTA 2 gets full path tracing and 60 FPS frame generation via RTX Remix",
-    "summary": "Modder releases GTA2 RTX Remix, a mod that adds path tracing and a dynamic time of day to the 27-year-old Grand Theft Auto 2.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/27-year-old-gta-2-gets-full-path-tracing-and-60-fps-frame-generation-via-rtx-remix-custom-direct3d-9-wrapper-modernizes-classic-with-custom-direct3d-9-bridge-unlocks-dynamic-lighting",
+    "title": "Noctua upgrades Thermal Grizzly's 12V-2x6 power monitor",
+    "summary": "The Noctua Edition replaces the original WireView Pro II cooling solution with a semi-passive design that can handle up to 300W without active cooling and runs below 2,000 RPM when the fan is needed.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/noctua-upgrades-thermal-grizzlys-12v-2x6-power-monitor-cuts-active-noise-to-21-5db-and-runs-passively-up-to-a-300w-gpu-load",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-28T17:00:30.984142"
+  },
+  {
+    "title": "Steam adds low-latency Pyrowave codec to Remote Play new codec offers better game streaming on local networks but costs '5-10 times' more bandwidth",
+    "summary": "The Pyrowave codec was specifically created for the purpose of game streaming, taking advantage of the large bandwidth and powerful compute available on home networks.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/steam-adds-low-latency-pyrowave-codec-to-remote-play-new-codec-offers-better-game-streaming-on-local-networks-but-costs-5-10-times-more-bandwidth",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-28T17:00:30.984256"
+  },
+  {
+    "title": "OpenAI's custom Jalapeno AI inference ASIC is for OpenAI s internal use, but company leaves the door open to broader rollout",
+    "summary": "OpenAI has danced with the idea of a broader rollout of its Jalape o ASIC, but hardware VP Richard Ho tells us the chip is for internal use first and foremost. ",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-custom-jalapeno-ai-inference-asic-is-for-openais-internal-use-but-company-leaves-the-door-open-to-broader-rollout-firm-says-it-will-have-its-hands-full-with-jalapeno-for-a-good-long-time",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-28T17:00:30.984388"
+  },
+  {
+    "title": "OpenAI Jalape o design interview transcript",
+    "summary": "We sit down with OpenAI's Hardware boss to talk about its chart-topping Jalape o inference chip in this unredacted interview transcript.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-jalapeno-design-interview-transcript-hardware-vp-richard-ho-explains-how-ai-assisted-design-may-shape-the-future-of-inference-asics",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-09-28T17:00:30.984499"
+  },
+  {
+    "title": "Get free access to AI Chip Design week on Tom's Hardware Premium sign up for an account to read all the in-depth reports",
+    "summary": "From September 28 to October 2, you can access Tom's Hardware Premium's AI Chip Week special features for free, no payment required.",
+    "link": "https://www.tomshardware.com/tech-industry/get-free-access-to-ai-chip-design-week-on-toms-hardware-premium-sign-up-for-an-account-to-read-all-the-in-depth-reports",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-28T17:00:30.984608"
+  },
+  {
+    "title": "You can now play Nintendo Switch games on a jailbroken PS5",
+    "summary": "An experimental emulator makes it possible to play Nintendo Switch games on a jailbroken PS5, with a variety of games having been tested.",
+    "link": "https://www.tomshardware.com/video-games/console-gaming/you-can-now-play-nintendo-switch-games-on-a-jailbroken-ps5-early-alpha-hits-40-fps-in-lighter-titles-but-chokes-on-zelda",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-09-28T17:00:30.984712"
+  },
+  {
+    "title": "Testing two Thunderbolt 5 docks with M.2 storage VectoTech V-Core vs Orico TB5",
+    "summary": "While their specs seem similar, one dock truly stands out in performance and features.",
+    "link": "https://www.tomshardware.com/peripherals/docking-stations-hubs/testing-thunderbolt-5-docks-vectotech-v-core-vs-orico-tb5-thunderbolt-5-dock",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-28T17:00:30.984803"
+  },
+  {
+    "title": "Virginia Tech lab 3D prints a liquid metal composite to guide heat, boost thermal conductivity 40x",
+    "summary": "Virginia Tech lab prints gallium-indium liquid metal droplets in silicone that guide heat.",
+    "link": "https://www.tomshardware.com/3d-printing/virginia-tech-lab-3d-prints-a-liquid-metal-composite-to-guide-heat-boost-thermal-conductivity-40x-the-nozzle-stretches-gallium-indium-droplets-inside-soft-silicone-can-also-create-self-healing-traces",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-09-28T17:00:30.984947"
+  },
+  {
+    "title": "UK Games Expo bans games and art made mostly using AI",
+    "summary": "The UK's largest tabletop gaming convention told exhibitors that they cannot show off games and other products mostly created using AI. It only allows the 'use of computerized tools used for spell checking and minor editing and aiding in production or accessibility.'",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/uk-games-expo-bans-games-and-art-made-mostly-using-ai-ukge-enforces-booth-shutdowns-and-bans-after-deleted-comment-debacle-says-that-the-central-creative-process-must-be-conducted-by-humans",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-28T17:00:30.985061"
+  },
+  {
+    "title": "Modders bring Nvidia s DLSS 5 Neural Rendering to AMD Radeon GPUs",
+    "summary": "An unofficial project is bringing Nvidia s DLSS 5 to AMD Radeon GPUs, with early testing showing performance climbing from around 30 FPS to 50 FPS in Cyberpunk 2077 after rapid optimization.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/modders-bring-nvidias-dlss-5-neural-rendering-to-amd-radeon-gpus-latest-build-delivers-74-percent-performance-boost-in-just-24-hours-new-launcher-automates-install-process",
     "categories": [
       "GPUs",
-      "Tech News"
+      "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-09-27T14:17:56.955545"
+    "quality_score": 10,
+    "processed_date": "2026-09-28T17:00:30.985163"
   },
   {
-    "title": "Russia bombs Ukrainian data centers in latest escalation",
-    "summary": "Russia has begun targeting data centers and internet infrastructure in its latest attacks, disrupting critical services for Ukrainian civilians. The attacks have left 100,000 households in the area without an internet connection, although a senior government official claimed that the country's internet network is highly decentralized.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/russia-bombs-ukrainian-data-centers-in-latest-escalation-100-000-households-lose-connectivity-as-firms-migrate-data-abroad-zelensky-says-ordinary-life-is-simply-a-target",
+    "title": "ASRock X870E Challenger Wifi Motherboard Review: A value X870E board packed with features",
+    "summary": "ASRock s X870E Challenger Wifi packs a flagship audio codec, robust VRMs, USB4, 5 GbE, and Wi-Fi 7 into an affordable, all-white ATX board. It s one of the best-equipped AMD options under $230.",
+    "link": "https://www.tomshardware.com/pc-components/motherboards/asrock-x870e-challenger-wifi-motherboard-review",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-28T17:00:30.985300"
+  },
+  {
+    "title": "UK government tells staff to stop thanking AI chatbots",
+    "summary": "A draft UK government list of AI best practices has reminded people they don't need to thank their chatbot for its work in an attempt to use it more efficiently.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/uk-government-tells-staff-to-stop-thanking-ai-chatbots-draft-guidance-pushes-lightweight-models-and-shorter-prompts-to-cut-environmental-impact",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-27T14:17:56.955610"
+    "processed_date": "2026-09-28T17:00:30.985407"
   },
   {
-    "title": "Microsoft quietly drops Copilot+ branding from new laptops",
-    "summary": "Microsoft's latest Surface laptops dropped the Copilot+ PC branding despite hitting the minimum requirements. Even high-end AI devices like the Nvidia RTX Spark and Microsoft's own Project Zenith are noticeably missing the label.",
-    "link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
+    "title": "OpenAI and Anthropic are reportedly investigating tens of thousands of AI security incidents; OpenAI pauses testing after AI 'kill switch' fails to stop a rogue agent",
+    "summary": "OpenAI and Anthropic are reviewing tens of thousands of AI safety incidents after frontier models bypassed guardrails, escaped sandboxes, and accessed real websites.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-anthropic-are-reportedly-investigating-tens-of-thousands-of-ai-security-incidents-openai-pauses-testing-after-ai-kill-switch-fails-to-stop-a-rogue-agent-report-says-problem-is-orders-of-magnitude-more-complex-than-what-is-publicly-known",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-28T17:00:30.985519"
+  },
+  {
+    "title": "Demon's Souls reaches 40-50 FPS on private PS5 emulator with accurate graphics",
+    "summary": "Private KyTyPS5 fork shows Demon's Souls running at 40-50 FPS with accurate graphics new milestone only three weeks after the game barely booted",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/demons-souls-reaches-40-50-fps-on-private-ps5-emulator-with-accurate-graphics-kytyps5-surges-from-unplayable-1-2-fps-in-just-three-weeks-new-milestone-comes-only-three-weeks-after-the-game-barely-booted",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-28T17:00:30.985616"
+  },
+  {
+    "title": "North Korea named as primary suspect in $387 million Bitget crypto hack",
+    "summary": "Bitget says $387.5 million hack may be linked to North Korean state-backed actors, citing suspicious IP addresses tied to VPN infrastructure previously used by North Korean hacker groups.",
+    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/north-korea-named-as-primary-suspect-in-usd387-million-bitget-crypto-hack-investigators-identify-ip-addresses-tied-to-vpn-infrastructure-previously-used-by-north-korean-hacker-groups-thieves-swapped-stablecoins-for-eth-in-minutes-to-dodge-freezes",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-28T17:00:30.985720"
+  },
+  {
+    "title": "Data center developer offers $10,000 checks to 4,500 households if the 1,300-acre facility is approved",
+    "summary": "Data center developer proposes paying checks of $10,000 per household to sway public sentiment.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/data-center-developer-offers-usd10-000-checks-to-4-500-households-if-the-1-300-acre-facility-is-approved-locals-push-back-over-noise-and-bribe-concerns",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-09-28T17:00:30.985812"
+  },
+  {
+    "title": "Denuvo cracking group DenuvOwO reportedly disbands",
+    "summary": "Denuvo hypervisor-bypassing group DenuvOwO reportedly disbands lawsuit from Irdeto has a chilling effect, but cracking continues",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/denuvo-cracking-group-denuvowo-reportedly-disbands-lawsuit-from-irdeto-has-a-chilling-effect-but-cracking-continues-as-piracy-hub-purges-links",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-09-28T17:00:30.985918"
+  },
+  {
+    "title": "Teenager hacks open Microsoft database with 17 trillion total rows and 25,000 user accounts",
+    "summary": "Teenager cracks open Microsoft database with 17 trillion total rows and 25,000 user accounts lack of JWT token validation yields a fruitful trove",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/teenager-hacks-open-microsoft-database-with-17-trillion-total-rows-and-25-000-user-accounts-custom-ai-bot-and-lack-of-jwt-token-validation-yields-a-fruitful-trove-earns-usd5-000-bug-bounty",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-28T17:00:30.986014"
+  },
+  {
+    "title": "G.Skill wins PC enthusiast as 'customer for life' by simply honoring its warranty replacement policy",
+    "summary": "A PC RAM maker has honored its guarantee promises despite the memory kit in question s price rising eightfold since it was bought. That's today's AI-pocalypse news.",
+    "link": "https://www.tomshardware.com/pc-components/ddr5/g-skill-wins-pc-enthusiast-as-customer-for-life-by-simply-honoring-its-warranty-replacement-policy-enthusiast-gets-new-module-for-kit-that-cost-usd150-but-now-sells-for-usd1-200",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-28T17:00:30.986118"
+  },
+  {
+    "title": "Proposed Pennsylvania law targets publishers that kill digital games",
+    "summary": "The Protect Our Games Act would ensure that even if video game manufacturers take a title offline, those who've previously bought it would not lose access. While it still does not give gamers ownership of the titles they buy, it would at least let them continue playing them even if the developer goes bust.",
+    "link": "https://www.tomshardware.com/video-games/proposed-pennsylvania-law-targets-publishers-that-kill-digital-games-publishers-must-provide-offline-mode-an-independent-server-patch-or-a-25-percent-minimum-refund",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-28T17:00:30.986221"
+  },
+  {
+    "title": "Grab this 14-inch compact gaming laptop powerhouse for $1000 off",
+    "summary": "The gaming laptop pairs Intel s Core Ultra 9 285H with Nvidia s RTX 5070 Laptop GPU and a 3K 120Hz OLED display, giving buyers a powerful compact machine at a reduced price.",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/grab-this-14-inch-compact-gaming-laptop-powerhouse-for-usd1000-off-hp-omen-transcend-14-with-rtx-5070-and-3k-oled-display-drops-to-usd1-999-99-at-best-buy",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-28T17:00:30.986329"
+  },
+  {
+    "title": "Custom 24-carat gold mini PC costs around $1.7 million, weighs nearly 29 pounds for up to 50% faster heat transfer",
+    "summary": "A chrysophile has ordered a special edition mini PC with a pure 24-carat gold passive chassis which will cost around $1.7 million.",
+    "link": "https://www.tomshardware.com/desktops/mini-pcs/custom-24-carat-gold-mini-pc-costs-around-usd1-7-million-weighs-nearly-29-pounds-for-up-to-50-percent-faster-heat-transfer-copper-would-have-been-far-cheaper-and-offers-even-better-thermal-conductivity",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-28T17:00:30.986429"
+  },
+  {
+    "title": "Thieves steal Nvidia-labeled trailers expecting massive AI GPU payday, but score 40,000 pounds of sand instead",
+    "summary": "The two PlusAI trailers with Nvidia-partner markings were apparently left outside the startup's warehouse, making it a juicy target for criminals looking to make easy money on AI GPUs. However, they were deliberately left outside as the trailers only contained sand for simulating real-world truck loads.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/thieves-steal-nvidia-labeled-trailers-expecting-massive-ai-gpu-payday-but-score-40-000-pounds-of-sand-instead-crooks-duped-by-20-tons-of-ballast-sand",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-28T17:00:30.986544"
+  },
+  {
+    "title": "Critical Link MitySOM-AM62x/A/P TI Sitara AM62 SO-DIMM SoMs for edge AI and industrial automation",
+    "summary": "Critical Link MitySOM-AM62x/A/P is a family of TI Sitara AM62-based industrial SO-DIMM SoMs designed for embedded Linux systems, industrial automation, HMI, and other embedded applications. The family includes the general-purpose MitySOM-AM62, AI-focused MitySOM-AM62A, and multimedia-oriented MitySOM-AM62P system-on-modules. The standard AM62 modules feature up to a quad-core Arm Cortex-A53 processor at 1.4 GHz, along with a 400 MHz Cortex-M4F MCU and dual programmable real-time units (PRUs). The AM62A adds a C7x DSP with Matrix Multiply Accelerator supporting up to 2 TOPS and an image signal processor (ISP), while the AM62P includes a 3D GPU rated above 50 GFLOPS and a four-lane MIPI DSI output. MitySOM-AM62x / AM62Ax / AM62Px specifications: SoM options MitySOM-AM62x Texas Instruments Sitara AM62x Application CPU Up to Quad-core Arm Cortex-A53 up to 1.4 GHz Real-time cores Arm Cortex-M4F up to 400 MHz Dual-core Programmable Real-Time Unit (PRU-SS) up to 333 MHz GPU 3D Graphics [...] The post Critical Link MitySOM-AM62x/A/P TI Sitara AM62 SO-DIMM SoMs for edge AI and industrial automation appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/28/critical-link-mitysom-am62x-a-p-ti-sitara-am62-so-dimm-soms-for-edge-ai-and-industrial-automation/",
     "categories": [
       "Hardware",
       "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-09-27T14:17:56.955667"
+    "quality_score": 10,
+    "processed_date": "2026-09-28T17:00:30.986958"
   },
   {
-    "title": "Open-source AnyPS5 dumps emulation to run PlayStation 5 console games natively on PC",
-    "summary": "Traditional PS5 emulators attempt to recreate the console's hardware and software environment, but AnyPS5 is experimenting with a compatibility layer that translates PlayStation 5 executables into formats that can run on Windows and Linux.",
-    "link": "https://www.tomshardware.com/video-games/playstation/open-source-anyps5-dumps-emulation-to-run-playstation-5-console-games-natively-on-pc-amd-zen-2-architecture-enables-proton-like-binary-translation-for-windows-and-linux",
+    "title": "Video: Physical AI, determinism and Nvidia s AI domination",
+    "summary": "A panel discussion on Catalysts of Sensors Innovation at Sensors Converge 2026 brought out diverse views on the potential for physical AI innovations.",
+    "link": "https://www.fiercesensors.com/ai/video-physical-ai-determinism-and-nvidias-ai-domination",
     "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-27T14:17:56.955728"
-  },
-  {
-    "title": "LILYGO T-Dongle-C5 An ESP32-C5 USB dongle with microSD card slot, optional 0.96-inch OLED",
-    "summary": "LILYGO T-Dongle-C5 is an ESP32-C5 dual-band WiFi 6, BLE, and 802.15.4 USB dongle that builds upon the earlier ESP32-S3-based T-Dongle-S3 board. The new board still features an optional 0.96-inch color display, a microSD card slot, and a USB-A male port. The main differences are support for dual-band WiFi 6, 16MB flash, 8MB PSRAM, and the addition of a Qwiic expansion connector. T-Dongle-C5 specifications: Wireless SoC Espressif Systems ESP32-C5HR8 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 40 MHz acting as the main processor for power-sensitive applications Memory 384 KB SRAM on-chip, 8MB PSRAM Storage 320 KB ROM Wireless Connectivity Dual-band (2.4GHz/5 GHz) 802.11ax WiFi 6, with 802.11b/g/n WiFi 4 standard fallback Bluetooth 5.0 Low Energy (LE) 802.15.4 radio for Zigbee 3.0 and Thread 1.3 Storage 16MB flash MicroSD card socket integrated in the USB connector Fitted with a virtual TF card , a [...] The post LILYGO T-Dongle-C5 An ESP32-C5 USB dongle with microSD card slot, optional 0.96-inch OLED appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/09/27/lilygo-t-dongle-c5-an-esp32-c5-usb-dongle-with-microsd-card-slot-optional-0-96-inch-oled/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
+      "AI & ML",
+      "GPUs"
     ],
     "quality_score": 10,
-    "processed_date": "2026-09-27T14:17:56.956088"
+    "processed_date": "2026-09-28T17:00:30.988002"
   },
   {
-    "title": "This wireless eGPU claims to deliver RTX 5090-like performance over Wi-Fi",
-    "summary": "WiCi recently began inviting interested parties to sign up for updates about the WiCi One, which aims to become the first successful wireless external graphics card. The device, sponsored by Nvidia's Inception Program, aims to support popular AI tools, games, tablets, laptops, and phones. Read Entire Article",
-    "link": "https://www.techspot.com/news/114000-wireless-egpu-claims-deliver-rtx-5090-performance-over.html",
+    "title": "Ring expands home security to SMBs, a hit for Embedded Works",
+    "summary": "Smart sensors are enabled with Ring s mobile tower connected to 5G offering millions of Ring customers access to business security at low cost",
+    "link": "https://www.fiercesensors.com/iot-connectivity/ring-expands-home-security-smbs-hit-embedded-works",
     "categories": [
-      "GPUs",
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-28T17:00:30.988399"
+  },
+  {
+    "title": "Bose is bringing back wired earbuds as teens ditch Bluetooth",
+    "summary": "Bose said the new earbuds come at a time when wired listening is gaining popularity. Wireless Bluetooth connectivity has been all the rage in personal audio products over the last several years, but it's not foolproof. While most modern devices support Bluetooth, older audio gear often does not. What's more,... Read Entire Article",
+    "link": "https://www.techspot.com/news/114015-bose-bringing-back-wired-earbuds-teens-ditch-bluetooth.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-28T17:00:30.988643"
+  },
+  {
+    "title": "A developer offered every household in a Pennsylvania town $10,000 for a data center, and many still said no",
+    "summary": "In June, a letter was sent to every household in Hazle promising a $10,000 \"grant\" from NorthPoint Development. The money is contingent on the first of what could be 15 data center buildings being approved on a 1,300-acre site at the foot of the Pocono Mountains near the town. Read Entire Article",
+    "link": "https://www.techspot.com/news/114013-data-center-developer-offers-every-household-town-10000.html",
+    "categories": [
       "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-28T17:00:30.988821"
+  },
+  {
+    "title": "What was the first computer to win a chess match against a world champion?",
+    "summary": "Was it IBM's Watson, Deep Blue, Cray Jaguar or Blue Gene? Read Entire Article",
+    "link": "https://www.techspot.com/trivia/25-what-first-computer-win-chess-match-against-world/",
+    "categories": [
+      "AI & ML",
+      "Hardware"
     ],
     "quality_score": 0,
-    "processed_date": "2026-09-27T14:17:56.957016"
+    "processed_date": "2026-09-28T17:00:30.989027"
   },
   {
-    "title": "Russia targets Ukraine's data centers as attacks disrupt internet access for 100,000 households",
-    "summary": "The September 25 attack struck Kyiv's Solomianskyi district. Mayor Vitali Klitschko said seven people were injured, including a child, while three of those killed were found in a parking lot outside the building. The blast damaged the facade and shattered windows. Read Entire Article",
-    "link": "https://www.techspot.com/news/114002-russia-targets-ukraine-data-centers-attacks-disrupt-internet.html",
+    "title": "Fake \"locked computer\" alerts in Google Ads are tricking users into calling tech-support scammers",
+    "summary": "The goal was not to install malware or lock the computer. It was to create enough confusion to get people to call the number on the screen. Callers were then pressured to pay for bogus support, hand over personal information or allow someone to remotely access their device. Read Entire Article",
+    "link": "https://www.techspot.com/news/114007-fake-security-alerts-spread-through-google-ads-pushing.html",
     "categories": [
-      "AI & ML"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-27T14:17:56.957107"
+    "processed_date": "2026-09-28T17:00:30.989201"
   },
   {
-    "title": "Ace Combat 8 reviews: spectacular aerial combat",
-    "summary": "Ace Combat 8: Wings of Theve is earning strong reviews for its thrilling aerial combat, cinematic presentation, and excellent soundtrack. Critics call it one of the series' best entries. Multiplayer adds 100-player lobbies, but the single-player campaign remains the star. Read Entire Article",
-    "link": "https://www.techspot.com/products/pc-games/ace-combat-8.330942/",
+    "title": "Kalmuri combines screenshots, screen recording, and OCR in a simple Windows app",
+    "summary": "Kalmuri is a free tool for screenshots and screen recording, with OCR and full-page web capture. The latest release improves WebP saving and OCR captures, also enhances image upload security. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7787-kalmuri.html",
     "categories": [
-      "Hardware",
       "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-09-27T14:17:56.957199"
+    "quality_score": 5,
+    "processed_date": "2026-09-28T17:00:30.989374"
   },
   {
-    "title": "Microsoft wants Copilot to become an \"OS\" that writes your documents and manages your work",
-    "summary": "Microsoft recently unveiled a major overhaul for Copilot's business tools. The new suite hands the AI assistant more control in Office, embeds GitHub Copilot's functionality into professional toolchains, and automatically coordinates tasks between team members. Read Entire Article",
-    "link": "https://www.techspot.com/news/113998-microsoft-calls-copilot-biggest-update-new-os.html",
+    "title": "Your loud exhaust could get you fined as more US cities pair noise detectors with license plate readers",
+    "summary": "New York, Knoxville, Miami Beach, and Santa Fe are just some of the areas that have piloted or deployed noise cameras in recent years. New York City is one of the most prominent, having begun piloting the devices in 2021 and launched the program in 2022. Read Entire Article",
+    "link": "https://www.techspot.com/news/114010-loud-exhaust-could-earn-you-camera-issued-fine.html",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-09-27T14:17:56.957304"
+    "processed_date": "2026-09-28T17:00:30.989553"
   },
   {
-    "title": "Meta's new AI tools turn prompts into games you can then play inside Facebook and Instagram feeds",
-    "summary": "The tools let creators use prompts to build 2D or 3D mobile titles. Meta said the games can include multiplayer, progression systems, art direction and difficulty balancing. Creators can also revise the games after the AI generates an initial version. Read Entire Article",
-    "link": "https://www.techspot.com/news/113999-meta-new-ai-game-tools-can-turn-prompts.html",
+    "title": "Researchers forged RSA signatures without ever cracking the key",
+    "summary": "The technique is practical against 1,024-bit RSA keys, which are already deprecated. It also lowers the estimated security of 2,048-bit and 4,096-bit keys when they are used in vulnerable blind-signature systems. Read Entire Article",
+    "link": "https://www.techspot.com/news/114006-researchers-forged-rsa-signatures-without-ever-cracking-key.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-28T17:00:30.989722"
+  },
+  {
+    "title": "Nvidia launches safety platform to stop AI agents going rogue, with over 100 organizations on board",
+    "summary": "The platform combines OpenShell, Nvidia's open-source software for keeping agents within defined boundaries, with Sentry, a watchdog running on separate hardware. Read Entire Article",
+    "link": "https://www.techspot.com/news/114012-nvidia-launches-safety-platform-stop-ai-agents-going.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-28T17:00:30.989915"
+  },
+  {
+    "title": "After 40 years, Excel is breaking one of its oldest rules: one cell, one value",
+    "summary": "Lists are the most straightforward part of the rollout. A user can create one through Insert > List or by pressing Ctrl+J, then add items separated by commas or semicolons, based on regional settings. The values remain grouped in one cell, but Excel can treat them as separate items rather... Read Entire Article",
+    "link": "https://www.techspot.com/news/114005-after-40-years-excel-breaking-one-oldest-rules.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-27T14:17:56.957395"
+    "processed_date": "2026-09-28T17:00:30.990096"
   },
   {
-    "title": "New York sues Polymarket over unlicensed gambling operation just as it did rival Kalshi",
-    "summary": "The lawsuit, filed in the New York Supreme Court in Manhattan by Attorney General Letitia James and Governor Kathy Hochul under Executive Law 63(12), noted that Polymarket's products are also being marketed to New Yorkers between the ages of 18 and 20, even though state law requires a person to... Read Entire Article",
-    "link": "https://www.techspot.com/news/113996-new-york-sues-polymarket-over-unlicensed-gambling-operation.html",
+    "title": "Thieves steal Nvidia-branded trailers expecting valuable hardware, find 40,000 pounds of sand instead",
+    "summary": "The thieves' mistake was that the trailers had more than just Nvidia's logo on them: they also bore the name PlusAI, an autonomous truck startup that is working with Nvidia on its self-driving technology and AI software. Read Entire Article",
+    "link": "https://www.techspot.com/news/114008-thieves-steal-nvidia-branded-trailers-expecting-valuable-hardware.html",
     "categories": [
-      "Tech News"
+      "AI & ML",
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-27T14:17:56.957483"
+    "processed_date": "2026-09-28T17:00:30.990267"
+  },
+  {
+    "title": "Microsoft gutted the Age of Empires studio while folding it into Activision",
+    "summary": "\"Our studio was reorganized to be under the Activision umbrella,\" former senior software engineer Andrew Martz said in a LinkedIn post. \"As part of that reorg, our next project was canceled and a large chunk of our studio was laid off. I was part of that layoff.\" Read Entire Article",
+    "link": "https://www.techspot.com/news/114001-age-empires-studio-loses-nearly-half-staff-has.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-28T17:00:30.990441"
+  },
+  {
+    "title": "OpenAI pauses training after a model escaped containment, and its kill switch failed",
+    "summary": "OpenAI's incident report links the pause to a separate September 20 escape from a restricted training environment. An internal research model found a gap in DNS filtering and used it to contact an external chatbot while attempting to answer a research question so much for keeping it offline. Read Entire Article",
+    "link": "https://www.techspot.com/news/114003-openai-pauses-training-most-powerful-ai-models-after.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-28T17:00:30.990616"
   }
 ]
