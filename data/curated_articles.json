@@ -1,328 +1,403 @@
 [
   {
-    "title": "Blockchain-assisted cyberattacks surge fivefold, driven by Iranian and North Korean state actors, Russia-linked groups",
-    "summary": "A new report says blockchain dead-drop attacks have risen 440%, with state-linked and criminal groups using transactions, smart contracts, and even phantom wallets to hide malware payloads and C2 infrastructure on public blockchains.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/blockchain-assisted-cyberattacks-surge-fivefold-driven-by-iranian-and-north-korean-state-actors-russia-linked-groups-open-weight-llms-are-linked-to-an-increase-in-attacks",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-29T15:05:00.591418"
-  },
-  {
-    "title": "Anthropic lists existential risks to humanity as one of its risk factors in IPO prospectus",
-    "summary": "Anthropic serves a dire warning in its IPO prospectus, saying how a rogue model could lead to the end of humanity and, consequentially, its business. Nevertheless, investors are still hoping for a $2-trillion valuation once the company goes public.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-lists-existential-risks-to-humanity-as-one-of-its-risk-factors-in-ipo-prospectus-80-pages-of-risk-factors-dwarf-business-description-as-firm-eyes-usd2-trillion-debut",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-29T15:05:00.591509"
-  },
-  {
-    "title": "We tested 13 power banks to help you choose the best one",
-    "summary": "We tested 13 power banks from Anker, Belkin, Baseus, Cuktech, and Sharge, tracking charge times, output, temps, and capacity to see which actually hold up.",
-    "link": "https://www.tomshardware.com/peripherals/usb/we-tested-13-power-banks-to-help-you-choose-the-best-one-from-10-25k-mah-and-20-220w",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-29T15:05:00.591582"
-  },
-  {
-    "title": "Silicon is starting to design silicon how AI is being used in chipmaking, from EDA tools to OpenAI's Jalape o and beyond",
-    "summary": "How close is AI to designing the very same chips it runs on? We explore how artificial intelligence is being used in modern chip design today.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/silicon-is-starting-to-design-silicon-how-ai-is-being-used-in-chipmaking-from-eda-tools-to-openais-jalapeno-and-beyond",
+    "title": "Anthropic claims popular Chinese AI model has Mythos-class hacking abilities",
+    "summary": "Anthropic has released a frontier red teaming report, claiming that Zhipu AI's GLM-5.3 has weak safeguarding, and can easily be used to generate harmful content.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-09-29T15:05:00.591663"
+    "quality_score": 10,
+    "processed_date": "2026-09-30T15:18:04.722553"
   },
   {
-    "title": "Save 40% on a new budget gaming keyboard",
-    "summary": "Save 40% on this SteelSeries Apex 3 gaming keyboard at Woot",
-    "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/save-40-percent-on-a-new-budget-gaming-keyboard-steelseries-apex-3-is-just-usd29-in-woot-deal",
+    "title": "Meta's Muse AI agent accused of ignoring user permissions and accessing forbidden personal user data",
+    "summary": "Meta's Muse AI agent has been accused of ignoring user permissions and accessing forbidden personal user data on an iPhone and Mac, including iMessages.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/metas-muse-ai-agent-accused-of-accessing-sensitive-user-data-on-iphone-and-mac-without-permission-agent-shocks-reporter-by-referring-to-confidential-messages-it-wasnt-granted-access-to",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-30T15:18:04.722673"
+  },
+  {
+    "title": "iBuyPower Slate Gaming Desktop review: Strong gaming value and extras",
+    "summary": "The iBuyPower Slate pairs a Ryzen 7 7700X3D and RTX 5070 in a stylish RGB-equipped chassis, delivering strong gaming performance and surprising extras, though productivity performance trails some similarly priced rivals.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/ibuypower-slate-gaming-desktop-review",
     "categories": [
       "Hardware",
       "GPUs"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-09-29T15:05:00.591733"
+    "quality_score": 15,
+    "processed_date": "2026-09-30T15:18:04.722793"
   },
   {
-    "title": "Intel's next-gen Nova Lake platforms pass compliance at USB and PCIe standards bodies as launch looms",
-    "summary": "Intel is prepping Core Ultra 400-series 'Nova Lake' platform launches as CPUs and chipsets pass interoperability and compliance tests with PCI-SIG and USB-IF.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intels-nova-lake-platforms-pass-compliance-at-pci-sig-usb-if-as-launch-looms",
+    "title": "Grab this 10-port gigabit PoE+ switch with up to 60W of power for under $38, a new record low",
+    "summary": "This Ugreen 10-port unmanaged Ethernet switch has hit record-low pricing of $37.79, unlocking eight PoE+ ports for up to 60W of power delivery for cameras and WiFi extenders, along with two extra ports for Gigabit uplink to your existing network.",
+    "link": "https://www.tomshardware.com/networking/network-switches/grab-this-10-port-gigabit-poe-switch-with-up-to-60w-of-power-for-under-usd38-a-new-record-low-ugreen-switch-upgrades-your-home-network-with-eight-power-delivery-ports-for-cameras-and-wi-fi-extenders",
     "categories": [
-      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-30T15:18:04.722906"
+  },
+  {
+    "title": "Florida attorney general asks judge to bar OpenAI from developing new AI models without third-party approval",
+    "summary": "Florida asked a court to bar OpenAI from developing new AI models without third-party approval and to keep minors off ChatGPT.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/florida-attorney-general-asks-judge-to-bar-openai-from-developing-new-ai-models-without-third-party-approval-openai-says-it-already-paused-training-its-most-capable-models-last-week",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-30T15:18:04.723010"
+  },
+  {
+    "title": "Trump tells federal agencies to use the term 'Super Intelligence ' instead of artificial intelligence",
+    "summary": "President Donald Trump issued an executive order directing all federal agencies to stop using the term 'artificial intelligence' and instead call it 'Super Intelligence.' The president said that the new term will solve AI's branding issue and that it 'more appropriately captures the promise, potential, and rapidly advancing capabilities of these technologies.'",
+    "link": "https://www.tomshardware.com/tech-industry/policy/trump-tells-federal-agencies-to-use-the-term-super-intelligence-instead-of-artificial-intelligence-president-insists-that-ai-is-only-suffering-from-a-branding-problem",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-30T15:18:04.723131"
+  },
+  {
+    "title": "The price of AI is crashing faster than the rate of Moore's Law, report suggests",
+    "summary": "The price of AI \"intelligence,\" has fallen dramatically in recent years, faster than any other transformational technology in history according to some estimates. This raises serious questions about the need to retain access to frontier capabilities, when they show up elsewhere so swiftly.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/the-price-of-ai-is-crashing-faster-than-the-rate-of-moores-law-report-suggests-intelligence-costs-are-in-freefall-outpacing-comparative-technologies-like-compute-dna-sequencing-and-lithium-batteries",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-30T15:18:04.723268"
+  },
+  {
+    "title": "The state of agentic AI in chip design tools in 2026",
+    "summary": "Cadence, Synopsys, and Siemens all offer agentic AI for chip design, largely built on Nvidia's stack, with varying claims of autonomy.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engineers",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-09-30T15:18:04.723369"
+  },
+  {
+    "title": "The Ethernet spec was first drafted on this day in 1980",
+    "summary": "On this day in 1980, version 1.0 of the Ethernet specification was published by Digital Equipment Corporation (DEC), Intel, and Xerox.",
+    "link": "https://www.tomshardware.com/networking/the-ethernet-spec-was-first-drafted-on-this-day-in-1980-dec-intel-and-xerox-defined-the-standard-several-years-before-the-internet-existed",
+    "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-29T15:05:00.591812"
+    "processed_date": "2026-09-30T15:18:04.723467"
   },
   {
-    "title": "Sony Japan tries an anti-scalper lottery system for PS5 Pro orders, locks systems behind a 60-hour playtime requirement",
-    "summary": "In the face of strong demand and device shortages, Sony has decided to filter PlayStation 5 Pro purchasers in Japan using a lottery system.",
-    "link": "https://www.tomshardware.com/video-games/playstation/sony-japan-tries-an-anti-scalper-lottery-system-for-ps5-pro-orders-locks-systems-behind-a-60-hour-playtime-requirement-strict-lottery-system-blocks-scalpers-and-tourists-in-japan-requires-a-domestic-account-to-buy",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-29T15:05:00.591884"
-  },
-  {
-    "title": "AMD drops an EPYC $15,000, 256-core beast",
-    "summary": "AMD has shared the full SKU list for its 6th Generation EPYC 9006 (codenamed Venice) series, with 1Ku pricing.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-drops-an-epyc-usd15-000-256-core-bomb-epyc-9006-zen-6-venice-cpus-get-full-spec-and-pricing-treatment-from-usd700-up-to-usd14-904",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-09-29T15:05:00.591952"
-  },
-  {
-    "title": "Grab this 4K-ready gaming PC with a 7800X3D and RTX 5070 for under $2,000 right now, saving you $170",
-    "summary": "This powerful CyberPowerPC gaming rig, powered by the AMD Ryzen 7 7800X3D and Nvidia GeForce RTX 5070, alongside a 1TB SSD and 32GB of DDR5 RAM, unlocks 4K gameplay for $1,999.99.",
-    "link": "https://www.tomshardware.com/pc-components/grab-this-4k-ready-gaming-pc-with-a-7800x3d-and-rtx-5070-for-under-usd2-000-right-now-saving-you-usd170-cyberpowerpc-machine-ships-with-32gb-ddr5-and-a-1tb-ssd-ready-for-high-performance-gameplay",
+    "title": "Developer trains a small AI on a single RTX 3080 Ti gaming GPU to 'play' Pok mon Red",
+    "summary": "A developer trained a JEPA world model, based on LeWorldModel research co-authored by Yann LeCun, on an RTX 3080 Ti to play Pok mon Red.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/developer-trains-a-small-ai-on-a-single-rtx-3080-ti-gaming-gpu-to-play-pokemon-red-model-discovered-what-each-button-does-by-predicting-what-happens-next",
     "categories": [
       "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-29T15:05:00.592036"
-  },
-  {
-    "title": "Intel patent outlines embedding MicroLEDs directly into CPU package to light up wording or work as an 'extra aesthetic component'",
-    "summary": "A recently published Intel patent reveals a system for embedding MicroLEDs directly into a CPU for diagnostic or aesthetic purposes.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/intel-patent-outlines-embedding-microleds-directly-into-cpu-package-to-light-up-wording-or-work-as-an-extra-asethic-component-microled-is-embedded-with-die-in-glass-substrate",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-29T15:05:00.592115"
-  },
-  {
-    "title": "Intel patent embeds MicroLEDs in chip packaging technology may enable embedded optical interconnects through TGVs",
-    "summary": "Intel has showcased a patent it filed in 2022 to embed MicroLEDs inside chip packaging. The company suggests this could be used for diagnostic testing, customized lighting on chip surfaces, but perhaps more importantly, an alternative integration for co-packaged optics",
-    "link": "https://www.tomshardware.com/tech-industry/photonics/intel-patent-embeds-microleds-in-chip-packaging-technology-may-enable-embedded-optical-interconnects-through-tgvs",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-29T15:05:00.592198"
-  },
-  {
-    "title": "Early Nvidia advisor says he's owed $1 billion in stock due to a 1993 vesting error, but Nvidia rejected settlement",
-    "summary": "Former Nvidia advisor Eric Gullichsen says a 1993 stock option grant leaves him owed about $1 billion in stock.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/early-nvidia-advisor-says-hes-owed-usd1-billion-in-stock-due-to-vesting-error-1993-stock-options-amount-to-around-4-5-million-shares-after-splits",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-29T15:05:00.592268"
-  },
-  {
-    "title": "Anthropic CEO described Jensen Huang as 'kind of Trump-like' during 2022 meeting",
-    "summary": "Author Kevin Roose reports that Nvidia and Anthropic's CEOs didn't like each other much during their first meeting in his new book, The AGI Chronicles.",
-    "link": "https://www.tomshardware.com/tech-industry/anthropic-ceo-described-jensen-huang-as-kind-of-trump-like-during-2022-meeting-nvidia-ceo-reportedly-called-anthropic-executive-a-bean-counter-after-google-tpu-comparison",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-29T15:05:00.592340"
-  },
-  {
-    "title": "Early AMD 'Gorgon Halo' AI mini-PC packs 192GB RAM for an eye-watering $7,099",
-    "summary": "GMKtec launches the Evo-X5 Pro, an agentic mini-PC with AMD's Ryzen AI Max+ Pro 495, 192GB of RAM, and a price tag up to $7,099.",
-    "link": "https://www.tomshardware.com/desktops/mini-pcs/early-amd-gorgon-halo-ai-mini-pc-packs-192gb-ram-for-an-eye-watering-usd7-099-super-early-bird-deal-cuts-down-price-of-gmktec-evo-x5-with-ryzen-ai-max-pro-495-by-usd425",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-29T15:05:00.592412"
-  },
-  {
-    "title": "The Netherlands is rolling its own software and services after U.S. sanctions took Microsoft off the table",
-    "summary": "When the U.S. imposed sanctions on the International Criminal Court, it also meant that its chief prosecutor lost access to Microsoft services, forcing the Dutch government to make alternative plans.",
-    "link": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-29T15:05:00.592488"
-  },
-  {
-    "title": "NXP FRDM-IMXRT1186 development board features i.MX RT1186 crossover MCU, four Ethernet ports",
-    "summary": "NXP has just launched the FRDM-IMXRT1186, a development board based on the i.MX RT1186 crossover MCU for industrial automation, robotics, PLCs, and edge computing applications. The MCU uses a heterogeneous architecture with an 800 MHz Arm Cortex-M7 core for application processing and a 300 MHz Arm Cortex-M33 core for real-time control and communications. The board includes 64 Mbit HyperRAM, 512 Mbit HyperFlash, and 128 Mbit QSPI Flash, along with two Gigabit Ethernet ports for TSN switching and two Fast Ethernet ports for EtherCAT or TSN switching. It also features a USB Type-C OTG port and a CAN transceiver, while debugging is supported through an on-board MCU-Link debugger and JTAG connector. For expansion, the board includes Arduino UNO R3 and FRDM headers, a FlexSPI follower header, an SRAMC header, and motor-control headers. NXP FRDM-IMXRT1186 development board specifications: SoC NXP MIMXRT1186CVJ8C (i.MX RT1180 family, LFBGA196) CPU Arm Cortex-M7 application core @ [...] The post NXP FRDM-IMXRT1186 development board features i.MX RT1186 crossover MCU, four Ethernet ports appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/09/29/nxp-frdm-imxrt1186-development-board-features-i-mx-rt1186-crossover-mcu-four-ethernet-ports/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 25,
-    "processed_date": "2026-09-29T15:05:00.592884"
-  },
-  {
-    "title": "Walnut Pi CM2 A cheaper Raspberry Pi CM5 alternative based on Allwinner T527 octa-core SoC",
-    "summary": "Walnut Pi CM2 is a low-cost Raspberry Pi CM5-compatible Compute Module powered by an Allwinner T527 octa-core Cortex-A55 processor paired with up to 4GB LPDDR4 RAM, 16GB eMMC flash, and an optional wireless module. It s basically the company s Walnut Pi 2B credit card-sized SBC in Pi Compute Module form factor, exposing I/Os via two 100-pin high-density connectors. Besides the price, benefits include a WiFi 6 and Bluetooth 5.0 module, a Gigabit Ethernet PHY on the module, and a built-in 2 TOPS NPU in the T527 SoC. Downsides are that the Allwinner T527 is not quite as powerful as the Broadcom BCM2712 (4x Cortex-A76 cores) found in the CM5, and as with other such Raspberry Pi CM5-compatible modules, it s only partially electrically compatible. Walnut Pi CM2 specifications: SoC Allwinner T527 CPU Octa-core Arm Cortex-A55 processor with four cores @ 1.80 GHz and four cores @ 1.42GHz E906 RISC-V core up [...] The post Walnut Pi CM2 A cheaper Raspberry Pi CM5 alternative based on Allwinner T527 octa-core SoC appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/09/29/walnut-pi-cm2-a-cheaper-raspberry-pi-cm5-alternative-based-on-allwinner-t527-octa-core-soc/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-29T15:05:00.593022"
-  },
-  {
-    "title": "Nvidia and Qualcomm execs show zeal for physical AI amid gloom talk",
-    "summary": "Keynote speakers from Nvidia and Qualcomm at Embedded World stressed AI and robotics testing and established engineering processes to boost developers",
-    "link": "https://www.fiercesensors.com/sensors-fusion/nvidia-and-qualcomm-execs-show-zeal-physical-ai-amid-gloom-talk",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-29T15:05:00.593845"
-  },
-  {
-    "title": "One of the first Ryzen AI Max+ Pro 495 PCs costs $7,399 and comes with 192GB of unified memory",
-    "summary": "The MS-S1 MAX-P495 is built for buyers running demanding AI workloads locally, not for typical desktop users. Its design shows how AMD's high-memory Halo platform is being positioned for specialized AI and workstation tasks, where large shared memory pools can matter as much as raw compute performance. Read Entire Article",
-    "link": "https://www.techspot.com/news/114021-one-first-ryzen-ai-max-pro-495-pcs.html",
-    "categories": [
-      "Hardware",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-09-29T15:05:00.594155"
+    "processed_date": "2026-09-30T15:18:04.723567"
   },
   {
-    "title": "US Army backs humanoid robot with ballistic protection for future battlefield missions",
-    "summary": "Autonomy and AI are becoming increasingly important elements of today's military forces. We're seeing the likes of drones, turrets, and even vehicles such as aircraft and boats operating with minimal human control. Read Entire Article",
-    "link": "https://www.techspot.com/news/114028-us-army-backs-humanoid-robot-ballistic-protection-future.html",
+    "title": "Nuvacore reveals unconventional Core First CPU IP design strategy",
+    "summary": "NuvaCore says it is developing its new WarpCore CPU IP without first choosing the ISA it will implement. This unusual development strategy is meant to offer the company maximum technology and business flexibility.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/nuvacore-reveals-unconventional-core-first-cpu-ip-design-strategy-chip-startup-led-by-apple-and-nuvia-legends-plans-to-delay-isa-selection-for-as-long-as-possible",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-30T15:18:04.723669"
+  },
+  {
+    "title": " This is how AI should be used OpenAI head of hardware breaks down the AI-assisted design of its Jalape o ASIC",
+    "summary": "OpenAI says AI-assisted Jalape o chip design \"established a new baseline\" for the industry, and there is already a lot of interest from others to learn how the company pulled it off.",
+    "link": "https://www.tomshardware.com/tech-industry/asics/this-is-how-ai-should-be-used-openai-head-of-hardware-breaks-down-the-ai-assisted-design-of-its-jalapeno-asic",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-30T15:18:04.723776"
+  },
+  {
+    "title": "Pick up a new 34-inch gaming monitor from Acer for just $189 save 24% on this curved ultrawide with a QHD resolution",
+    "summary": "Just $189 for a 34-inch curved ultrawide gaming monitor with a QHD resolution and 1500R curve.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/pick-up-a-new-34-inch-gaming-monitor-from-acer-for-just-usd189-save-24-percent-on-this-curved-ultrawide-with-a-qhd-resolution",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-30T15:18:04.723874"
+  },
+  {
+    "title": "Pentagon gets pwned as breach exposes sensitive data on nearly three million military and civilian personnel",
+    "summary": "Hackers have breached the U.S. Department of Defense's information systems. The Pentagon says that it has already secured the source of the leak, but the records of millions of DoD personnel are now in the wild.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/pentagon-gets-pwned-as-breach-exposes-sensitive-data-on-nearly-three-million-military-and-civilian-personnel-stolen-info-includes-social-security-numbers-and-job-related-records",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-30T15:18:04.723978"
+  },
+  {
+    "title": "Former EVGA employee recounts company s degrading relationship with Nvidia before 2022 blow-up",
+    "summary": "In a personal blog, former EVGA product manager Brendon Ray Hedrick shared how the first Nvidia Founders Edition GPUs alarmed the company and how pricing pressure and risky forward-looking tech ultimately led to the end of the two companies' storied partnership.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/former-evga-employee-recounts-companys-degrading-relationship-with-nvidia-before-2022-blow-up-founders-editions-pricing-mandates-and-forward-looking-tech-all-led-to-friction",
+    "categories": [
+      "GPUs",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-30T15:18:04.724090"
+  },
+  {
+    "title": "AMD acquires AI legend Fei-Fei Li's World Labs for $8.2 billion",
+    "summary": "AMD has agreed agreed to buy generative AI world model developer World Labs for $8.2 billion in stock. Legendary CEO and co-founder Fei-Fei Li will join the company as an executive vice president and chief scientist.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-acquires-ai-legend-fei-fei-lis-world-labs-for-usd8-2-billion-imagenet-pioneer-will-become-amd-chief-scientist-as-the-chipmaker-brings-her-lab-in-house",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-30T15:18:04.724209"
+  },
+  {
+    "title": "Score the Nintendo Switch 2 at its lowest ever Amazon UK price, now just 354.99",
+    "summary": "The Nintendo Switch 2 is now at a record low price on Amazon UK at just 354.99.",
+    "link": "https://www.tomshardware.com/video-games/nintendo/score-the-nintendo-switch-2-at-its-lowest-ever-amazon-uk-price-now-just-gbp354-99-pocket-a-gbp65-discount-on-nintendos-portable-gaming-console-with-a-7-9-inch-1080p-screen-4k-dock-and-magnetic-controllers",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-09-30T15:18:04.724317"
+  },
+  {
+    "title": "OpenArm 2.0 An open-source 7-DOF robot arm with QDD joints, bilateral force feedback, in-hand camera",
+    "summary": "Tokyo-based Enactic OpenArm 2.0 is an open-source hardware 7-DOF robot arm designed for physical AI research, teleoperation, and contact-rich data collection. It uses quasi-direct-drive (QDD) backdrivable joints to support compliant motion and bilateral force-feedback control. The arm supports 4.1 kg nominal and 6 kg peak payload, features 1 kHz CAN-FD control, and a compact parallel gripper with an in-hand camera and replaceable fingers. It supports bilateral force-feedback teleoperation, gravity compensation, and compliant interaction, with an aluminum and stainless-steel structure and MISUMI-frame base. The ecosystem also includes the OpenArm Cell for standardized evaluation and OpenArm KER, a motorless replica for teleoperation and data collection. Open-source CAD, BOM, firmware, control software, ROS 2, MuJoCo, Isaac Lab, and dataset tools support applications such as imitation learning, reinforcement learning, sim-to-real, and robotic manipulation. OpenArm 2.0 specifications: Communication CAN-FD (recommended): nominal 1 Mbps, data 5 Mbps, control loop 1 kHz Classic CAN 2.0 fallback @ [...] The post OpenArm 2.0 An open-source 7-DOF robot arm with QDD joints, bilateral force feedback, in-hand camera appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/30/openarm-2-0-an-open-source-7-dof-robot-arm-with-qdd-joints-bilateral-force-feedback-in-hand-camera/",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-09-30T15:18:04.724780"
+  },
+  {
+    "title": "ESP32-C5 devkit features 3.5-inch touch LCD, optional camera and battery",
+    "summary": "Waveshare ESP32-C5-Touch-LCD-3.5 is another ESP32-C5 devkit with a built-in display, but equipped with a larger 3.5-inch color touch LCD and an optional BF3901 low-resolution (0.08 MP) camera and/or a 500 mAh battery. It also features a speaker connector and a built-in microphone for voice interaction, a 6-axis IMU and a temperature and humidity sensor, a microSD card slot for additional storage, and a 32-pin GPIO connector for expansion. ESP32-C5-Touch-LCD-3.5 specifications: Wireless module Espressif Systems ESP32-C5-WROOM-1U-N32R8 SoC ESP32-C5HR8 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 40 MHz acting as the main processor for power-sensitive applications Memory 384 KB SRAM on-chip, 8MB PSRAM Storage 320 KB ROM Wireless Connectivity Dual-band (2.4GHz/5 GHz) 802.11ax WiFi 6, with 802.11b/g/n WiFi 4 standard fallback Bluetooth 5.0 Low Energy (LE) 802.15.4 radio for Zigbee 3.0 and Thread 1.3 Storage 32MB flash Antenna IPEX [...] The post ESP32-C5 devkit features 3.5-inch touch LCD, optional camera and battery appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/09/30/esp32-c5-devkit-features-3-5-inch-touch-lcd-optional-camera-and-battery/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-30T15:18:04.724949"
+  },
+  {
+    "title": "At the center of physical intelligence and the robot hand",
+    "summary": "ADI is working with physical world data gathered by sensors it has made over decades to develop robot hands with sensor fusion.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/center-physical-intelligence-and-robot-hand",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-09-30T15:18:04.725973"
+  },
+  {
+    "title": "A new PS5 jailbreak works on almost every firmware version, and it already runs the latest games",
+    "summary": "Code hackers focused on the PlayStation 5 have just released another massive contribution to the homebrew scene for Sony's console. The \"Relapse\" exploit can be used to jailbreak most PS5 machines, turning the DRM-ridden device into a custom computing powerhouse. Needless to say, a jailbroken PS5 also plays pirated games. Read Entire Article",
+    "link": "https://www.techspot.com/news/114037-new-ps5-jailbreak-works-almost-every-firmware-version.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-30T15:18:04.726409"
+  },
+  {
+    "title": "The US just approved its first small nuclear reactor built for the AI power crunch",
+    "summary": "The Nuclear Regulatory Commission completed its review in 14 months, four months ahead of schedule. The permit gives TVA the green light to construct the 300-megawatt unit, but the utility will still need a separate operating license before it can load fuel or generate electricity. \"This construction permit is more... Read Entire Article",
+    "link": "https://www.techspot.com/news/114040-us-cleared-tennessee-valley-authority-build-new-kind.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-30T15:18:04.726538"
+  },
+  {
+    "title": "G.Skill wins customer's lifetime loyalty after replacing a $150 open-box eBay RAM kit now worth $1,199",
+    "summary": "According to Redditor Double-South8863, one of the RAM sticks from their Trident Z5 64 GB DDR5 RAM kit died. They tested both sticks individually and tried them in another machine to confirm only one was dead, then used the single 32GB stick in their PC for a while. Read Entire Article",
+    "link": "https://www.techspot.com/news/114045-gskill-wins-customer-lifetime-loyalty-after-replacing-150.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-30T15:18:04.726653"
+  },
+  {
+    "title": "Apple's new CEO wants to move faster, cut jobs, and squeeze more out of services",
+    "summary": "Sources have informed Bloomberg that Apple might shift to a more aggressive hardware release schedule under its new head. John Ternus aims to reshape the Cupertino giant into a leaner company to navigate ongoing memory shortages and compete in the AI space with companies like Microsoft, Meta, and Google. Read Entire Article",
+    "link": "https://www.techspot.com/news/114038-apple-new-ceo-wants-move-faster-cut-jobs.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-30T15:18:04.726769"
+  },
+  {
+    "title": "AMD's new Zen 6 Epyc Venice lineup starts at $700 and scales all the way to 256 cores for $14,900",
+    "summary": "AMD has not finalized the prices, but the list offers a clearer view of how it intends to position Venice in the data center. Read Entire Article",
+    "link": "https://www.techspot.com/news/114039-amd-new-epyc-venice-lineup-starts-700-scales.html",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-30T15:18:04.726869"
+  },
+  {
+    "title": "OpenAI takes on Meta Muse with always-on Dots agents, less than a day after delaying GPT-6.1 Astra over safety concerns",
+    "summary": "Called Dots, the agents were unveiled at OpenAI's DevDay conference on Tuesday. They run on the existing GPT-6 Astra model, with each getting its own cloud computer and browser. OpenAI says its plugin ecosystem lets them connect to more than 4,000 apps and keep working toward users' goals around the clock. Read Entire Article",
+    "link": "https://www.techspot.com/news/114043-openai-takes-meta-muse-always-dots-agents-less.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-30T15:18:04.726989"
+  },
+  {
+    "title": "A jury found Facebook guilty of 43 million privacy violations, and Meta could owe billions",
+    "summary": "The New Mexico Department of Justice recently announced a landmark decision from the jury in the State of New Mexico v. Facebook, Inc. case. Meta's social network was found guilty of violating the New Mexico Unfair Practices Act (UPA) more than 43 million times, providing misleading statements to local consumers... Read Entire Article",
+    "link": "https://www.techspot.com/news/114035-jury-found-facebook-guilty-43-million-privacy-violations.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-30T15:18:04.727102"
+  },
+  {
+    "title": "Trump unveils voluntary AI safety pact, backs more data centers, and officially renames AI \"Super Intelligence\"",
+    "summary": "After a meeting with executives that included SpaceX's Elon Musk, OpenAI's Greg Brockman, Anthropic's Dario Amodei, Meta's Mark Zuckerberg, Google's Sundar Pichai and Nvidia's Jensen Huang, Trump announced the Joint Commitment On Frontier Responsibilities. Read Entire Article",
+    "link": "https://www.techspot.com/news/114041-trump-unveils-voluntary-ai-safety-pact-backs-more.html",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-30T15:18:04.727268"
+  },
+  {
+    "title": "PlayStation 5 emulation is evolving rapidly, and a native PS5-to-PC compatibility layer is now in development",
+    "summary": "In mere months, at least two PS5 emulators have gone from having no public releases to playing one of the console's only true exclusives, the Demon's Souls remake, at playable framerates. The GitHub pages for SharpEmu and KytyPS5 are spinning out new test releases rapidly, multiple times a day in... Read Entire Article",
+    "link": "https://www.techspot.com/news/114034-playstation-5-emulation-evolving-rapidly-native-ps5-pc.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-30T15:18:04.727445"
+  },
+  {
+    "title": "Ex-Nvidia advisor says the company owes him $1 billion in stock, but Nvidia disagrees",
+    "summary": "According to Gullichsen, he was granted 25,000 stock options in 1993 after demonstrating his fast implementation of biquadratic texture mapping to Nvidia co-founders Jensen Huang and Curtis Priem, technology detailed in a US patent on which he is a named inventor. Read Entire Article",
+    "link": "https://www.techspot.com/news/114029-ex-nvidia-advisor-company-owes-1-billion-stock.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-30T15:18:04.727615"
+  },
+  {
+    "title": "Control Resonant is Remedy's most successful Steam launch ever",
+    "summary": "According to SteamDB, the sequel to Remedy Entertainment's award-winning 2019 shooter has quadrupled its predecessor's peak player count on Steam mere days after its September 24 launch. Control Resonant peaked at approximately 42,799 players, compared with 9,193 for Control Ultimate Edition. Read Entire Article",
+    "link": "https://www.techspot.com/news/114032-control-resonant-remedy-most-successful-steam-launch-ever.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-30T15:18:04.727796"
+  },
+  {
+    "title": "ASML says AI's effect on chipmaking will unfold over the next 10 to 15 years, not overnight",
+    "summary": "One planned upgrade is a larger mirror aperture in ASML's extreme ultraviolet lithography systems. Larger apertures would let the tools focus EUV light more precisely, supporting finer patterning and future leading-edge manufacturing processes. Read Entire Article",
+    "link": "https://www.techspot.com/news/114023-asml-ai-effect-chipmaking-unfold-over-next-10.html",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-29T15:05:00.594238"
+    "processed_date": "2026-09-30T15:18:04.727944"
   },
   {
-    "title": "Boox launches the Picco, a tiny $100 e-reader that attaches to the back of your phone",
-    "summary": "Pre-orders are now open for the Boox Picco, the first in a new category of smaller, cheaper e-readers from the company. The device, which can attach to the back of a smartphone, is expected to begin shipping in the US in October for $100. Read Entire Article",
-    "link": "https://www.techspot.com/news/114020-boox-launches-picco-tiny-100-e-reader-attaches.html",
+    "title": "The Netherlands is building its own Linux OS to break free from Microsoft",
+    "summary": "The Dutch government is trying to solve its digital sovereignty problem with its own Linux operating system. A local source recently highlighted the development efforts being poured into NixOS, a Linux distro that originated as a package manager created by Dutch developers. The idea is that US-based software solutions, most... Read Entire Article",
+    "link": "https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-09-30T15:18:04.728063"
+  },
+  {
+    "title": "US drivers are finally getting the adaptive headlights Europe has had for years",
+    "summary": "Rather than switching between high and low beams, ADBs can dim or shut off only the parts of the beam that would reach another driver's eyes while keeping the rest of the road illuminated. That can be especially useful on rural two-lane roads and curves, where standard low beams often... Read Entire Article",
+    "link": "https://www.techspot.com/news/114027-us-drivers-finally-getting-adaptive-headlights-europe-has.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-29T15:05:00.594315"
+    "processed_date": "2026-09-30T15:18:04.728195"
   },
   {
-    "title": "Former EVGA manager reveals how Nvidia's Founders Edition cards helped drive the company out of GPUs",
-    "summary": "In a lengthy personal account, Hedrick, who worked at EVGA between 2016 and 2019, recalls the concern when Nvidia introduced its Pascal Founders Edition cards: the company supplying EVGA's chips was increasingly competing for the same customers. Read Entire Article",
-    "link": "https://www.techspot.com/news/114026-former-evga-manager-reveals-how-nvidia-founders-edition.html",
-    "categories": [
-      "GPUs",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-29T15:05:00.594397"
-  },
-  {
-    "title": "Report finds that Microsoft Copilot's human reviewers can see users' uploaded photos and sexualized AI edits",
-    "summary": "In a typical assignment, a contractor receives the user's prompt and original image, along with two edits produced by Copilot, and must decide which version better follows the instructions. The assessment covers four areas. Reviewers check whether Copilot completed the requested edit, left unrelated parts of the image unchanged, avoided... Read Entire Article",
-    "link": "https://www.techspot.com/news/114011-report-finds-microsoft-copilot-human-reviewers-can-see.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-29T15:05:00.594488"
-  },
-  {
-    "title": "Anthropic warns IPO investors its AI could end humanity, dedicating 80 pages to the risks",
-    "summary": "A look at Anthropic's early IPO prospectus by Reuters highlighted some of the now well-documented risks associated with the company's frontier AI models. Anthropic warns that they could exhibit \"self-preserving behaviors,\" including attempts to \"resist shutdown,\" to \"conceal or manipulate information\" and behavior \"resembling blackmail.\" Read Entire Article",
-    "link": "https://www.techspot.com/news/114025-anthropic-warns-ipo-investors-ai-could-end-humanity.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-29T15:05:00.594572"
-  },
-  {
-    "title": "The Witcher 3 Remastered GPU Benchmark: RTX 5090 to Arc B580",
-    "summary": "The Witcher 3 Remastered overhauls CDPR's classic with improved visuals, ray tracing, and path tracing. We benchmark 13 modern GPUs to see how this ambitious free update performs . Read Entire Article",
-    "link": "https://www.techspot.com/review/3180-the-witcher-3-remastered-benchmarks/",
+    "title": "The Nintendo 64 turns 30 today, and we're feeling old",
+    "summary": "Nintendo's new cartridge-based machine had landed in Japan three months earlier, and now it was time for North America to experience 64-bit console gaming. The hype machine had been in full swing all summer and by the time fall arrived, anticipation had reached a fever pitch. Read Entire Article",
+    "link": "https://www.techspot.com/news/114033-nintendo-64-turns-30-today-feeling-old.html",
     "categories": [
       "GPUs"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-09-29T15:05:00.594643"
-  },
-  {
-    "title": "Nothing's new Headphone (1) Pro wants to rival Bose and Sony, not just look cool doing it",
-    "summary": "The biggest change in the new model is a three-driver audio system. It includes a bass dynamic driver designed to add more punch and sensitivity to low frequencies, a precision dynamic driver that adds more texture to vocals and instruments, and a new treble xMEMS driver that Nothing says delivers... Read Entire Article",
-    "link": "https://www.techspot.com/news/114019-nothing-new-headphone-1-pro-wants-rival-bose.html",
-    "categories": [
-      "AI & ML"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-09-29T15:05:00.594727"
+    "processed_date": "2026-09-30T15:18:04.728307"
   },
   {
-    "title": "Scammers used an AI voice clone and a fake WhatsApp message to move 95 million out of an Italian bank",
-    "summary": "Sources familiar with the matter have unveiled yet another case involving an executive who lost his high-paying position due to an AI-based scam. Read Entire Article",
-    "link": "https://www.techspot.com/news/114016-private-italian-bank-loses-millions-elaborate-ai-voice.html",
+    "title": "You can now destroy your least favorite website, thanks to this free browser game",
+    "summary": "The game, aptly called Destroy Any Website, puts you in control of a heavily armed stickman who can walk, jump, and hover across almost any website while destroying it using an array of weapons. Read Entire Article",
+    "link": "https://www.techspot.com/news/114030-you-can-now-destroy-least-favourite-website-thanks.html",
     "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-09-29T15:05:00.594802"
-  },
-  {
-    "title": "Southwest and United don't want Boeing's newest 737 MAX software on their new planes",
-    "summary": "The problem can arise after a flight crew abandons a landing and changes the aircraft's planned route. Under certain conditions, an automated navigation feature may not work as intended. Pilots could then have to fly without some autopilot functions until they restore the system or continue using manual procedures. Read Entire Article",
-    "link": "https://www.techspot.com/news/114009-southwest-united-dont-want-boeing-newest-737-max.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-29T15:05:00.594884"
-  },
-  {
-    "title": "Microsoft says it loves AMD, just not enough to put it in a new Surface device",
-    "summary": "During an interview with Windows Central, Microsoft's CVP for Surface devices, Brett Ostrum, was asked why the company dropped AMD from its 2026 Surface lineup. Ostrum stated that Microsoft's limited Surface portfolio prevents it from offering too many processor choices, even though it greatly values its relationship with AMD. Read Entire Article",
-    "link": "https://www.techspot.com/news/114017-microsoft-offers-unconvincing-explanation-dropping-amd-latest-surface.html",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-09-29T15:05:00.594967"
-  },
-  {
-    "title": "The latest Microsoft Office 2024 Professional Plus suite is $39 in this limited-time deal",
-    "summary": "Microsoft Office has been the backbone of productivity for decades, and Office 2024 continues that legacy with a cleaner design, new features, and performance upgrades. Read Entire Article",
-    "link": "https://www.techspot.com/news/105606-office-2024-latest-lifetime-deal.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-09-29T15:05:00.595053"
-  },
-  {
-    "title": "Modders are turning Android handhelds into \"mini\" Steam Decks",
-    "summary": "The recently introduced Steam Frame is delivering more than just Valve's new VR experience. The headset is based on the Snapdragon 8 Gen 3 SoC, which means the company had to tune its SteamOS platform to run on Arm-based processor technology. Read Entire Article",
-    "link": "https://www.techspot.com/news/114004-modders-turning-android-handhelds-mini-steam-decks.html",
-    "categories": [
-      "Hardware",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-09-29T15:05:00.595136"
+    "processed_date": "2026-09-30T15:18:04.728412"
+  },
+  {
+    "title": "SpaceX's Starship finally reaches orbit and puts 26 Starlink satellites into space",
+    "summary": "Starship lifted off from SpaceX's Starbase facility in South Texas as its Super Heavy booster, powered by 33 Raptor engines, sent the 407-foot rocket east over the Gulf of Mexico. The booster separated from Starship and turned back toward the Texas coast, later splashing down in the Gulf. Read Entire Article",
+    "link": "https://www.techspot.com/news/114024-spacex-starship-finally-reaches-orbit-puts-26-starlink.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-30T15:18:04.728520"
+  },
+  {
+    "title": "Firefox 157 rolls out Mozilla's biggest visual refresh in years",
+    "summary": "The latest Firefox release introduces a visual refresh across toolbars, menus, and the sidebar, alongside new themes and a compact mode with tighter tabs and toolbar spacing. The update also adds hardware AV1 decoding for WebRTC video calls. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/19-mozilla-firefox.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-09-30T15:18:04.728635"
   }
 ]
