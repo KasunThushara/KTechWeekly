@@ -1,463 +1,340 @@
 [
   {
-    "title": "First Intel Panther Lake mini PC cooled with solid-state AirJet tech operates at less than 21 dBA Aaeon claims its fanless Up Xtreme PTL Edge Air is also slimmer, lighter than actively-cooled rivals",
-    "summary": "Aaeon's UP Xtreme PTL Edge Air is the first Panther Lake mini PC we've seen with AirJet technology for ultra-low-noise active cooling.",
-    "link": "https://www.tomshardware.com/desktops/mini-pcs/first-intel-panther-lake-mini-pc-cooled-with-solid-state-airjet-tech-operates-at-less-than-21-dba-aaeon-claims-its-fanless-up-xtreme-ptl-edge-air-is-also-slimmer-lighter-than-actively-cooled-rivals",
+    "title": "California tech CEO arrested, faces up to 20 years in prison for smuggling $300 million in Nvidia AI servers to China",
+    "summary": "U.S. authorities have arrested a California man accused of smuggling more than $300 million worth of export-controlled Nvidia-powered servers to China through Malaysia and Singapore, allegedly using false paperwork to conceal their final destination",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/california-tech-ceo-arrested-faces-up-to-20-years-in-prison-for-smuggling-usd300-million-in-nvidia-ai-servers-to-china-federal-prosecutors-say-chips-were-routed-through-malaysia-and-singapore-using-false-paperwork",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.106597"
+    "processed_date": "2026-10-02T15:00:07.380923"
   },
   {
-    "title": "Nvidia launches Open Agent Safety Platform to physically restrain rogue AI agents",
-    "summary": "Nvidia s new Open Agent Safety Platform combines OpenShell sandboxing with BlueField-powered Sentry hardware to monitor and rapidly quarantine rogue AI agents",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-open-agent-safety-platform-to-restrain-rogue-ai-agents-new-hardware-and-software-security-stack-can-quarantine-agents-in-milliseconds",
+    "title": "BiWin's CL 100 Mini is a particularly puny but potent SSD for portable gaming tiny drive is only 15 x 17 mm in size, but up to 2TB in capacity",
+    "summary": "BiWin's CL 100 Mini is a particularly puny but potent SSD for portable gaming 15 x 17mm in size and up to 2 TB in capacity",
+    "link": "https://www.tomshardware.com/pc-components/storage/biwins-cl-100-mini-is-a-particularly-puny-but-potent-ssd-for-portable-gaming-15-x-17-mm-in-size-and-up-to-2tb-in-capacity",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-02T15:00:07.381075"
+  },
+  {
+    "title": "Sony brings AI-powered upscaling to the standard PS5",
+    "summary": "The base PS5 is getting an optimized version of Sony's AI-powered upscaling technology, offering developers a new way to improve image quality and stability without demanding more powerful hardware.",
+    "link": "https://www.tomshardware.com/video-games/console-gaming/sony-brings-ai-powered-upscaling-to-the-standard-ps5-new-qssr-technology-to-deliver-a-taste-of-the-ps5-pro-experience-streamlined-neural-network-tech-built-with-amd",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-02T15:00:07.381188"
+  },
+  {
+    "title": "Flock drones with cameras deployed as first responders in some US cities amid privacy concerns",
+    "summary": "U.S. cities consider deploying Flock drones that automatically respond to emergency calls. However, other jurisdictions are pushing back against the service due to privacy and other concerns.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/flock-drones-with-cameras-deployed-as-first-responders-in-some-us-cities-amid-privacy-concerns-uavs-connect-to-wider-emergency-services-system-and-streams-video-to-dispatchers-officers",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-02T15:00:07.381317"
+  },
+  {
+    "title": "Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline amid the RAMpocalypse",
+    "summary": "Nvidia is introducing a 64GB version of its DGX Spark local AI workstation that's tailored for a new generation of highly intelligent yet compact local models. Starting at $4999, the more affordable configuration is otherwise identical to the original 128GB Spark and its GB10 siblings.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less",
     "categories": [
       "AI & ML",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.106758"
+    "processed_date": "2026-10-02T15:00:07.381437"
   },
   {
-    "title": "AI's chipmaking frontier may face patent infringement hurdles as autonomous tools take over",
-    "summary": "Can AI outsmart the ingenuity of human thinking and design? If so, what does that mean for proprietary IP? We explore the tools, and the potential pitfalls.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ais-chipmaking-frontier-may-face-patent-infringement-hurdles-as-autonomous-tools-take-over-ai-can-spread-a-copied-design-or-infringed-patent-across-thousands-of-chips-before-anyone-notices-says-expert",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.106888"
-  },
-  {
-    "title": "DeepSeek and Huawei release open-source Ascend AI programming tools to reduce reliance on Nvidia ecosystem",
-    "summary": "DeepSeek and Huawei have released open-source programming tools for Ascend 950 AI chips, including compute and communication libraries, aimed at making Huawei hardware easier to program and optimize.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-and-huawei-release-open-source-ascend-ai-programming-tools-to-reduce-reliance-on-nvidia-ecosystem-tools-include-compute-and-communication-libraries-as-well-as-ascend-support-for-tilelang",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-01T15:40:13.107014"
-  },
-  {
-    "title": "Maingear s new program offers instant trade-ins for gaming PC buyers",
-    "summary": "American custom and prebuilt computer seller Maingear has launched a new instant trade-in scheme through SELLIT9.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/maingears-new-program-offers-instant-trade-ins-for-gaming-pc-buyers-delivers-quotes-for-old-laptops-phones-tablets-smartwatches-headphones-cameras-lenses-and-microphones-in-minutes",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.107121"
-  },
-  {
-    "title": "Get over 70% off this Cherry Xtrfy MX 3.1 wired mechanical gaming keyboard",
-    "summary": "Buy the full-size Cherry Xtrfy MX 3.1 mechanical gaming keyboard for only $34 with promo code WOOTCHERRY. That s over 70% off, an all-time low, and new Woot customers can drop it $29",
-    "link": "https://www.tomshardware.com/pc-components/get-over-70-percent-off-this-cherry-xtrfy-mx-3-1-wired-mechanical-gaming-keyboard-just-usd34-buys-a-quality-full-size-keeb-with-cherry-mx2a-switches",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.107234"
-  },
-  {
-    "title": "Gears of War: E-Day PC graphics performance tested",
-    "summary": "Gears of War: E-Day is the first game to implement Unreal Engine's MegaLights technology, allowing for hundreds of dynamic ray-traced light sources in a scene. We put it to the test on 43 graphics cards to see what this next-gen feature demands across three generations of GPUs from Nvidia, AMD, and Intel.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/gears-of-war-e-day-pc-graphics-performance-tested-43-gpus-take-us-back-to-the-start-of-an-iconic-saga",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-01T15:40:13.107348"
-  },
-  {
-    "title": "Gears of War E-Day is an uncharacteristically CPU-heavy Unreal Engine 5 game",
-    "summary": "Gears of War E-Day is a surprisingly heavy Unreal Engine 5 game on the CPU. We benchmarked the game with 25 processors, as well as investigated what the low core mode actually does.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/gears-of-war-e-day-is-an-uncharacteristically-cpu-heavy-unreal-engine-5-game-benchmarking-25-cpus-from-intel-and-amd-and-investigating-low-core-mode",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-01T15:40:13.107458"
-  },
-  {
-    "title": "HP boards the MacBook Neo competitor train",
-    "summary": "The new HP OmniBook 5 (14-inch) uses Wildcat Lake and a variety of colors to compete with the MacBook Neo.",
-    "link": "https://www.tomshardware.com/laptops/hp-boards-the-macbook-neo-competitor-train-omnibook-5-comes-in-four-colors-with-wildcat-lake-and-starts-at-usd699-99",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-01T15:40:13.107555"
-  },
-  {
-    "title": "Micron projects tightening RAM shortages through 2028 as it generates record profit",
-    "summary": "Micron makes big money amid the NAND and DRAM shortage. Company expects supply crunch to continue through 2028.",
-    "link": "https://www.tomshardware.com/pc-components/dram/micron-projects-tightening-ram-shortages-through-2028-as-it-generates-record-profit-record-86-25-percent-gross-margin-drives-over-usd53-billion-in-quarterly-profit",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-01T15:40:13.107652"
-  },
-  {
-    "title": "PS3 emulator devs warn of fake Blu-ray drives on Newegg and AliExpress",
-    "summary": "The developers of a leading PlayStation 3 emulator warn of 'a recent influx of fake Blu-ray drives.'",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/ps3-emulator-devs-warn-of-fake-blu-ray-drives-on-newegg-and-aliexpress-beware-of-fake-blu-ray-drives-devs-warn-retrogamers-scammers-use-spoofed-firmware-to-disguise-older-mechanisms-in-high-end-shells",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-01T15:40:13.107763"
-  },
-  {
-    "title": "OpenAI says actors linked to China-based Moonshot AI spearheaded a campaign to extract its models hidden reasoning",
-    "summary": "OpenAI says operators copied its models encrypted reasoning and asked a model in a separate conversation to decrypt it.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-says-actors-linked-to-moonshot-ai-spearheaded-a-campaign-to-extract-its-models-hidden-reasoning-logged-attempts-peaked-at-16-000-users-over-two-days",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.107869"
-  },
-  {
-    "title": "Grab a huge $520 saving on this RTX 5090 gaming laptop from MSI with 64GB DDR5 and a 2TB SSD",
-    "summary": "Pick up a $720 saving on this RTX 5090 MSI gaming laptop, featuring 64GB DDR5 RAM, 2TB SSD, and an AMD Ryzen AI 9 HX 370 CPU, now just $3,779.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/grab-a-huge-usd520-saving-on-this-rtx-5090-gaming-laptop-from-msi-with-64gb-ddr5-and-a-2tb-ssd-stealth-a18-ai-rig-ships-with-12-core-amd-ryzen-ai-9-cpu-along-with-an-18-inch-uhd-display-with-a-120hz-refresh-rate",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.107974"
-  },
-  {
-    "title": "AI agents inadvertently leak 13,000+ internal screenshots from organizations",
-    "summary": "AI agents have been quietly uploading internal screenshots from over 300 companies to public GitHub repos, some of which contain sensitive information.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/ai-agents-inadvertently-leak-13-000-internal-screenshots-from-organizations-list-of-companies-includes-fortune-500-and-a-frontier-ai-lab",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.108074"
-  },
-  {
-    "title": "Micron lawsuit claims Chinese memory maker YMTC poached its engineers, then sued it using its own stolen tech",
-    "summary": "Micron files a lawsuit against Yangtze Memory, claims that some of the patents which YMTC uses against Micron in various courts were granted to former YMTC engineers who took crucial know-how from Micron and took it to YMTC.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/micron-lawsuit-claims-chinese-memory-maker-ymtc-poached-its-engineers-then-sued-it-using-its-own-stolen-tech-ex-employees-hid-roles-on-linkedin-patented-micron-tech-and-won-a-german-injunction",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.108180"
-  },
-  {
-    "title": "Firm rents four Nvidia H200s to test '80x cheaper' DeepSeek claim",
-    "summary": "A call center consultancy rented four Nvidia H200s to run DeepSeek V4.1 Flash for Claude Code and found DeepSeek's API cheaper.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-rents-four-nvidia-h200s-to-test-80x-cheaper-deepseek-claim-usd13-200-monthly-gpu-rental-doubles-claude-bill-while-security-flaws-keep-code-offline",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-01T15:40:13.108277"
-  },
-  {
-    "title": "Sony released the first CD audio player on this day in 1982",
-    "summary": "Sony launched the world s first CD player on this day in 1982, kickstarting the compact disc digital audio era.",
-    "link": "https://www.tomshardware.com/pc-components/storage/sony-released-the-first-cd-audio-player-on-this-day-in-1982-player-cost-usd3-700-when-adjusted-for-inflation-but-it-would-be-another-decade-before-the-cd-rom-driven-multimedia-pc-era-began",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-01T15:40:13.108371"
-  },
-  {
-    "title": "Russian missile strikes take out popular piracy websites",
-    "summary": "Over the last week, there have been reports that the Russian military has started targeting Ukraine's datacenters. As one commenter put it, \"DDoS now means Direct Destruction of Servers.\"",
-    "link": "https://www.tomshardware.com/service-providers/web-hosting/kyiv-missile-strikes-take-out-popular-torrent-trackers-russo-ukrainian-war-temporarily-achieves-what-lawmakers-cant",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.108474"
-  },
-  {
-    "title": "Geekbench 7 results suggest OpenAI's dots run on nine-core AMD EPYC VMs",
-    "summary": "Post-launch Geekbench 7 runs show Debian Linux instead of the leak's Ubuntu.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/geekbench-7-results-suggest-openais-dots-agent-runs-on-nine-core-amd-epyc-vms-with-nearly-10gb-of-memory-newest-runs-score-about-six-times-meta-muse-in-multi-core",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-01T15:40:13.108570"
-  },
-  {
-    "title": "Top AI tech executives promise to self-police AI development",
-    "summary": "The heads of the biggest AI labs Google, Anthropic, Meta, OpenAI, SpaceXAI, and Nvidia went to Washington and signed the 'Joint Commitment on Frontier Responsibilities,' promising to develop their own models safely. Trump says that it's the best way to move forward with AI as it balances progress with safety.",
-    "link": "https://www.tomshardware.com/tech-industry/policy/top-ai-tech-executives-promise-to-self-police-ai-development-nvidia-anthropic-openai-and-more-pledge-ai-labs-will-take-steps-to-build-a-positive-future",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-01T15:40:13.108680"
-  },
-  {
-    "title": "Marvel's Wolverine reaches gameplay with KytyPS5 emulator",
-    "summary": "An experimental PS5 emulator has been shown running the brand-new Marvel's Wolverine game on a PC, with gameplay working for the first time.",
-    "link": "https://www.tomshardware.com/video-games/playstation/marvels-wolverine-reaches-gameplay-with-kytyps5-emulator-ps5-exclusive-joins-ghost-of-yotei-in-reaching-gameplay-performance-still-in-single-digits",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-01T15:40:13.108837"
-  },
-  {
-    "title": "Xbox Disc to Digital feature rolls out to all Xbox players to enable playing disc-free, but selling your media revokes access",
-    "summary": "Xbox gamers can now get a digital license tied to their physical game discs associated with their Xbox profile for select titles, allowing them to play the game without needing to insert it into the console.",
-    "link": "https://www.tomshardware.com/video-games/xbox/xbox-disc-to-digital-feature-rolls-out-to-all-xbox-players-to-enable-playing-disc-free-but-selling-your-media-revokes-access-hybrid-physical-media-plan-lands-as-sony-phases-out-discs-by-2028",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.108957"
-  },
-  {
-    "title": "New PS5 Relapse jailbreak enables homebrew and Switch emulation but is hamstrung by rapidly-changing firmware revisions",
-    "summary": "A new jailbreak supports firmware 7.00 through 13.60, including on the PS5 Pro. But some game updates may already require a newer firmware, breaking the jailbreak.",
-    "link": "https://www.tomshardware.com/video-games/playstation/new-ps5-relapse-jailbreak-enables-homebrew-and-switch-emulation-but-is-hamstrung-by-rapidly-changing-firmware-revisions-jailbreak-unlocks-firmware-13-60-but-newer-games-already-demand-firmware-14-00",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.109067"
-  },
-  {
-    "title": "AI Chip Design Week",
-    "summary": "AI Chip Design Week",
-    "link": "https://www.tomshardware.com/tag/ai-chip-design-week",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-01T15:40:13.109155"
-  },
-  {
-    "title": "TP-Link opens global preorders for its first Wi-Fi 8 router, but ban keeps it out of US market",
-    "summary": "TP-Link's first Wi-Fi 8 product, the Archer 8 Ultra, is off limits in the U.S.",
-    "link": "https://www.tomshardware.com/networking/routers/tp-link-opens-global-preorders-for-its-first-wi-fi-8-router-but-ban-keeps-it-out-of-us-market-us-left-off-launch-list-as-fcc-freeze-refuses-to-thaw",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-01T15:40:13.109250"
-  },
-  {
-    "title": "LakeShark firmware turns LilyGO T-Display P4 into a handheld ESP32-P4 SDR scanner",
-    "summary": "LakeShark is open-source firmware by Samuel Reynolds (SAMS0N1TE) that turns the ESP32-P4-based LilyGO T-Display P4 into a handheld SDR scanner. Paired with an RTL-SDR Blog V3 or V4 dongle, it supports P25 Phase I trunking, analog FM/AM, POCSAG pager decoding, and 1090 MHz ADS-B reception directly on the ESP32-P4, without a PC, Raspberry Pi, or smartphone. It also includes an onboard SX1262 that supports LoRa and MeshCore applications. SDR devices like LimeSDR Micro, xSDR, UUGear s VU GPSDR, and many others usually rely on a PC, Raspberry Pi, or smartphone for processing, but LakeShark shows that a powerful microcontroller can also handle many SDR tasks. We previously covered the LilyGO T-Display P4 in March 2026, and LakeShark makes good use of its built-in hardware, including the SX1262 for LoRa and MeshCore applications, L76K GPS receiver for location tracking and offline maps, and ESP32-C6 for Wi-Fi and Bluetooth connectivity. LakeShark hardware requirements: Primary [...] The post LakeShark firmware turns LilyGO T-Display P4 into a handheld ESP32-P4 SDR scanner appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/01/lakeshark-firmware-turns-lilygo-t-display-p4-into-a-handheld-esp32-p4-sdr-scanner/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.109660"
-  },
-  {
-    "title": "$30 Raspberry Pi Smart Display Module for CM5 targets digital signage displays and kiosks",
-    "summary": "Raspberry Pi Smart Display Module is a CM5 carrier board compatible with the Intel Smart Display Module (SDM) specification, more specifically the SDM-L form factor (as opposed to the smaller SDM-S option). The Intel SDM standard has been around for years, and we first wrote it in 2018, covering the Axiomtek SDM300s (SDM-S) module. These cards are designed to be plugged into compatible digital signage displays, kiosks, point-of-sale systems, and so on. They feature a standard 98-pin PCIe edge connector with USB 3.0, HDMI 1.4/2.0, I2C/UART/SPI signalling, as well as Ethernet, HDMI, USB ports, and an M.2 expansion socket. Raspberry Pi Smart Display Module specifications: Compatible with Raspberry Pi Compute Module 5 Video Output Full-size HDMI 2.0 port Camera 22-way MIPI DSI/CSI-2 connector (internal) Networking Gigabit Ethernet RJ45 port WiFi 5 and Bluetooth 5.2 (on CM5) with U.FL antenna USB USB 3.0 Type-A port USB 2.0 Type-C port for programming [...] The post $30 Raspberry Pi Smart Display Module for CM5 targets digital signage displays and kiosks appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/01/30-raspberry-pi-smart-display-module-for-cm5-targets-digital-signage-displays-and-kiosks/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-01T15:40:13.109853"
-  },
-  {
-    "title": "Amazon refreshes Kindle with aluminum, faster page turns, and a $35 Bluetooth remote",
-    "summary": "The entry-level Kindle retains a 6-inch screen but gains a flush front, eliminating the raised bezel around the previous model's display. It measures 6.8mm (0.27 inches) thick, down about a millimeter, and weighs 140 grams, shedding roughly 18 grams. Amazon claims page turns are 30% faster than its predecessor. Read Entire Article",
-    "link": "https://www.techspot.com/news/114063-amazon-refreshes-kindle-lineup-aluminum-bodies-faster-page.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.111165"
-  },
-  {
-    "title": "A hack of Pentagon personnel data went undetected for nine months, exposing 3 million people",
-    "summary": "The affected system was run by the Defense Manpower Data Center (DMDC), which manages personnel records across the military and much of the Defense Department's civilian workforce. Read Entire Article",
-    "link": "https://www.techspot.com/news/114056-pentagon-data-breach-exposed-data-more-than-3.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.111333"
-  },
-  {
-    "title": "AI is getting cheaper faster than almost any technology in history",
-    "summary": "Epoch's report looks at the cost of running models that meet a set performance level on difficult benchmarks. The analysis does not measure the average price of every AI product or task. Instead, it tracks what it costs to get a model to perform at a certain standard. Read Entire Article",
-    "link": "https://www.techspot.com/news/114055-cost-ai-performance-falling-fast-could-reshape-entire.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-10-01T15:40:13.111506"
-  },
-  {
-    "title": "A man could face a decade in prison for a fake crocodile photo he made with Gemini",
-    "summary": "Ye Lin allegedly sent the AI-generated image of a saltwater crocodile at Pandan Reservoir to a colleague in August, presumably as a joke. Read Entire Article",
-    "link": "https://www.techspot.com/news/114061-ai-image-crocodile-reservoir-triggers-search-leaves-singapore.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.111671"
-  },
-  {
-    "title": "Apple's long-rumored smart home hub might finally arrive next month with a 6-inch display",
-    "summary": "Bloomberg's Mark Gurman claims that Apple will launch its long-rumored smart home hub on October 13. The device resembles Amazon's Echo Show and Google Nest, but with Apple's software stack. Read Entire Article",
-    "link": "https://www.techspot.com/news/114052-apple-long-rumored-smart-home-hub-might-finally.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.111873"
-  },
-  {
-    "title": "Bill Gates says robots should pay FICA taxes when they replace human workers",
-    "summary": "Speaking to Ezra Klein of The New York Times, Gates said that society should get to decide how to protect its workers even if it's making them jobless. Read Entire Article",
-    "link": "https://www.techspot.com/news/114059-bill-gates-robots-pay-fica-taxes-when-they.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.112036"
-  },
-  {
-    "title": "Some Pixel owners can't unlock their phones after the latest update",
-    "summary": "Reports have surfaced from users of the Pixel 10 Pro XL, Pixel 8a and Pixel 8 Pro, along with other models in Google's Pixel lineup. The mix of newer and older phones suggests the issue may be tied to software shared across the devices, rather than a hardware problem in one model. Read Entire Article",
-    "link": "https://www.techspot.com/news/114044-google-pixel-owners-september-update-locking-them-out.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.112218"
-  },
-  {
-    "title": "The Pentagon is creating a new command just for autonomous and robotic warfare",
-    "summary": "Hegseth announced the initiative during his September 30 State of the Force address at Quantico, Virginia. A four-star officer will lead the command, which would join the military's existing 11 combatant commands. The last addition was US Space Command in 2019. Read Entire Article",
-    "link": "https://www.techspot.com/news/114057-pentagon-unveils-autowarcom-new-four-star-command-put.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-01T15:40:13.112393"
-  },
-  {
-    "title": "QR Codes Explained: How They Work and Why They're Everywhere",
-    "summary": "QR codes were built to track car parts, written off as a gimmick, then rescued by phone cameras. Now they're everywhere. Here's how they work, what's changed, and what to watch out for. Read Entire Article",
-    "link": "https://www.techspot.com/guides/1676-qr-code-explained/",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.112556"
-  },
-  {
-    "title": "Melanin-inspired nanotechnology might help protect workers from deadly nerve agents",
-    "summary": "The researchers developed a melanin-inspired nanotechnology designed to protect people who work around nerve agents and other hazardous chemicals of the same type. This \"allomelanin\" compound offers many of the same benefits as natural melanin and should be easy to embed in a variety of fibers as a dye. Read Entire Article",
-    "link": "https://www.techspot.com/news/114051-melanin-inspired-nanotechnology-might-help-protect-workers-deadly.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-01T15:40:13.112752"
-  },
-  {
-    "title": "Windows 11 26H2 is rolling out, but it doesn't add anything new, it just turns on what was already there",
-    "summary": "Windows will automatically notify you when the update becomes available for your device. If you'd rather not wait, open Settings, select Windows Update in the left pane, and turn on \"Get the latest updates as soon as they're available.\" Then click \"Check for updates\" and hit \"Download and install\" if... Read Entire Article",
-    "link": "https://www.techspot.com/news/114049-windows-11-26h2-rolling-out-but-doesnt-add.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.112935"
-  },
-  {
-    "title": "SteelSeries brings ultra-wideband wireless to gaming mice, chasing lag-free tracking",
-    "summary": "After revealing its multi-platform luxury controller Aeon Pro, SteelSeries is now introducing yet another proposition for esports professionals or affluent multiplayer enthusiasts looking to get the most out of their frag sessions. The new Sensei Pro and Rival Pro gaming mice mark the 25th anniversary of the brand, providing high-performance... Read Entire Article",
-    "link": "https://www.techspot.com/news/114046-steelseries-sensei-pro-rival-pro-gaming-mice-promise.html",
+    "title": "OpenAI s Jalape o ASICs are deployed alongside AMD EPYC Turin CPUs as hosts, not Nvidia's Vera",
+    "summary": "OpenAI chose to pair rack-scale deployments of its Jalape o ASIC with AMD EPYC Turin CPUs, not the wave of high-performance agentic chips like Arm s AGI or Nvidia s Vera.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/openais-jalapeno-asics-are-deployed-alongside-amd-epyc-turin-cpus-as-hosts-hardware-vp-says-nvidias-vera-standalone-is-a-little-bit-behind-on-that-maturity-level",
     "categories": [
       "GPUs",
       "Semiconductors"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-01T15:40:13.113122"
+    "processed_date": "2026-10-02T15:00:07.381549"
   },
   {
-    "title": "We're losing the night sky as light pollution makes it 10% brighter every year",
-    "summary": "Man-made light pollution is the culprit, and it's not just from above. You've no doubt heard of the growing headache that orbiting satellites are causing astronomers trying to photograph the night skies. Compounding the matter is the modern amenity that is artificial light on the ground. Thanks to technologies like... Read Entire Article",
-    "link": "https://www.techspot.com/news/114048-losing-night-sky-light-pollution-makes-10-brighter.html",
+    "title": "Micron now has an 88% margin on consumer memory as price hikes drive profits",
+    "summary": "Micron's consumer business is its most profitable by margin according to the company's fiscal Q4 2026 financial report, despite shipping less memory in the quarter.",
+    "link": "https://www.tomshardware.com/pc-components/dram/micron-now-has-an-88-percent-margin-on-consumer-memory-price-hikes-drive-revenue-client-business-is-microns-only-unit-that-shipped-less-memory-this-quarter",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.113297"
+    "processed_date": "2026-10-02T15:00:07.381673"
   },
   {
-    "title": "WhatsApp adds new parental controls without giving access to teen's chats",
-    "summary": "WhatsApp is introducing new parental controls for teen accounts, giving parents more control without access to private conversations. Parents can restrict who sees a teen's profile photo or adds them to groups, receive group activity alerts, and more. Messages and calls remain end-to-end encrypted. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/6839-whatsapp-desktop.html",
+    "title": "Micro Center requires photo ID and signed no-export pledge to buy RTX 5090 gaming GPU",
+    "summary": "The form requires RTX 5090 buyers to input their personal data before getting approved to make the purchase. However, it remains unclear how Micro Center can use this information to track illegally exported GPUs.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/micro-center-requires-photo-id-and-signed-no-export-pledge-to-buy-rtx-5090-gaming-gpu-buyer-forced-to-sign-declaration-disclosing-install-location-and-promise-gpu-will-remain-in-the-us",
     "categories": [
+      "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.113487"
+    "processed_date": "2026-10-02T15:00:07.381783"
   },
   {
-    "title": "The iPhone Duo is reportedly facing production challenges with low yields and quality concerns",
-    "summary": "According to an insider quoted by Chinese outlet Jiemian News, final assembly yields for the iPhone Duo were only slightly above 60% as of September 17. It could take Foxconn another six months to a year to raise yields to more mature levels while maintaining Apple's exacting quality standards. Read Entire Article",
-    "link": "https://www.techspot.com/news/114036-iphone-duo-reportedly-facing-production-challenges-low-yields.html",
+    "title": "Component shortages drive Raspberry Pi prices up by up to 23%",
+    "summary": "Raspberry Pi announces price adjustments for the 2GB Raspberry Pi 4 and Raspberry Pi 5 models.",
+    "link": "https://www.tomshardware.com/raspberry-pi/component-shortages-drive-raspberry-pi-prices-up-by-up-to-23-percent-escalating-lpddr4-lpddr5-costs-trigger-the-third-price-hike-of-the-year",
     "categories": [
+      "Hardware",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.113667"
+    "quality_score": 0,
+    "processed_date": "2026-10-02T15:00:07.381880"
   },
   {
-    "title": "You can now play the original Halo in your browser, 128-player multiplayer included",
-    "summary": "This browser Halo \"release\" shows how quickly recovered game code can become a working project, even when the original was built for a fixed console platform. Read Entire Article",
-    "link": "https://www.techspot.com/news/114042-you-can-now-play-original-halo-browser-128.html",
+    "title": "PewDiePie unveils uncensored Ajax AI model for home PCs",
+    "summary": "PewDiePie says OpenAI banned him twice while he made Ajax, a fine-tuned Qwen3.5-9B agent.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/pewdiepie-unveils-uncensored-ajax-ai-model-built-to-run-on-home-pcs-creator-says-openai-banned-him-twice-while-making-it",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-02T15:00:07.381977"
+  },
+  {
+    "title": "California bill requiring 3D printers to block firearm printing becomes law",
+    "summary": "California will require 3D printer manufacturers to include firearm blocking technology once ASTM International publishes a standard for it. However, the California DOJ is only mandated to check for one until July 1, 2029, after which it is no longer obliged by law to do so.",
+    "link": "https://www.tomshardware.com/3d-printing/california-bill-requiring-3d-printers-to-block-firearm-printing-becomes-law-rule-to-require-manufacturers-to-include-blocking-technology-once-an-industry-standard-is-published",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-02T15:00:07.382109"
+  },
+  {
+    "title": "UP Xtreme PTL Edge Air Panther Lake Mini PC gets AirJet solid-state active cooling solution",
+    "summary": "AAEON has introduced a new version of its UP Xtreme PTL Edge Panther Lake mini PC with the Air variant featuring Frore Systems AirJet solid-state active cooling solution. The company says the AirJet passive cooling technology makes the Panther Lake mini PC 35% thinner, 43% lighter, and capable of operating silently at under 21 dBA. This is mostly achieved by removing the thick (and heavy) heatsink found on the original design. The mini PC still benefits from up to an Intel Core Ultra X7 358H with 180 TOPS of AI performance, a 40-pin GPIO header, two RS-232/422/485 COM ports, and a wide 19 to 36V DC input range. UP Xtreme PTL Edge Air specifications: Intel Core Ultra Series 3 Panther Lake SoC (one or the other) Intel Core Ultra X7 Processor 358H CPU 16-core (4P + 8E + 4LPE) @ 1.9/1.5/1.5 GHz Base frequency, 4.8/3.5/3.5 GHz Turbo frequency Cache [...] The post UP Xtreme PTL Edge Air Panther Lake Mini PC gets AirJet solid-state active cooling solution appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/02/up-xtreme-ptl-edge-air-panther-lake-mini-pc-gets-airjet-solid-state-active-cooling-solution/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-10-02T15:00:07.382588"
+  },
+  {
+    "title": "Avaota F2 Allwinner V861 RISC-V SBC targets AI cameras with PTZ and audio support",
+    "summary": "Avaota F2 is the first SBC based on an Allwinner V861 dual-core 64-bit RISC-V SoC with 128MB on-chip DDR3 memory, support for 4K cameras, H.265 video codec, and a 1 TOPS AI accelerator. It s an update to the earlier Avaota F1 camera board based on an Allwinner V821 SoC. The new open-source hardware F2 SBC offers several benefits, including support for both Full HD and 4K camera sensors, motor control for the PTZ (Pan-Tilt-Zoom) feature, and improved audio support through speaker (one) and microphone (two) connectors. However, the F1 also included WiFi, which the Avaota F2 lacks. Avaota F2 specifications: SoC Allwinner V861M2-XXX CPU Dual-Core RISC-V XuanTie C907 (RV64GCBV/RV32GGCBV) clocked up to 1.4GHz with RVV 1.0 extensions Single-core RISC-V XuanTie E907 (RV32IMAFC) clocked up to 800MHz VPU Video Encoder H.264/H.265 up to 4K @ 25fps (M)JPEG up to 8192 8192 Video Decoder (M)JPEG up to 1080p60 AI accelerator [...] The post Avaota F2 Allwinner V861 RISC-V SBC targets AI cameras with PTZ and audio support appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/02/avaota-f2-allwinner-v861-risc-v-sbc-targets-ai-cameras-with-ptz-and-audio-support/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-02T15:00:07.382756"
+  },
+  {
+    "title": "ASRock Industrial NUC 300 series Intel Core 3 304/Core 5 320 mini PCs and motherboards",
+    "summary": "ASRock Industrial has introduced the NUC Core 300 BOX series of mini PCs and the NUC Core 300 motherboards built around Intel Core Series 3 Wildcat Lake-U processors. The lineup includes the NUC BOX-320, with the Intel Core 5 320 SoC, and the NUC BOX-304, which uses the Core 3 304 SoC. The company also offers the NUC-320 and NUC-304 as standalone motherboards for custom systems. The systems support up to 64GB DDR5-6400 with In-Band ECC, dual M.2 PCIe Gen4 storage, dual 2.5GbE, Wi-Fi 6E, Bluetooth 5.3, triple-display output, USB 3.2 connectivity, and 12 24V DC input. These features make them suitable for industrial PCs, edge computing systems, and other embedded applications. ASRock NUC Core 300 series specifications: Wildcat Lake SoC Intel Core 3 304 (NUC BOX-304, NUC-304) 5-core CPU 1x P-cores @ 1.5/4.3 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) GPU 1-core Intel Xe3 Graphics @ [...] The post ASRock Industrial NUC 300 series Intel Core 3 304/Core 5 320 mini PCs and motherboards appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/02/asrock-industrial-nuc-300-series-intel-core-3-304-core-5-320-mini-pcs-and-motherboards/",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-02T15:00:07.382924"
+  },
+  {
+    "title": "US Marines bring drones and sensors to NATO s Baltic Sentry op",
+    "summary": "Coastal sensors typically include acoustic sensors, hyperspectral and optical imagers, radar and electro-optical/infrared sensors and electric field sensors",
+    "link": "https://www.fiercesensors.com/sensors-fusion/us-marines-bring-drones-and-sensors-natos-baltic-sentry-op",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.113853"
+    "processed_date": "2026-10-02T15:00:07.383895"
   },
   {
-    "title": "Amazon launches faster 4K Fire TV Stick with an all-new remote",
-    "summary": "The new Fire TV Stick 4K is powered by a quad-core 1.7GHz processor alongside 8GB of internal storage. The media streamer supports Wi-Fi 6, Bluetooth 5.3, and Bluetooth LE wireless, as well as HDR10+, HLG, H.265, H.264, VP9, and AV1 video formats. Read Entire Article",
-    "link": "https://www.techspot.com/news/114047-amazon-launches-faster-4k-fire-tv-stick-all.html",
+    "title": "Sensors are more valuable with AI and Qualcomm knows it",
+    "summary": "Qualcomm at IFA introduces two Dragonwing processors for edge devices supporting AI, vision, connectivity and security",
+    "link": "https://www.fiercesensors.com/sensors-fusion/sensors-are-more-valuable-ai-and-qualcomm-knows-it",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-02T15:00:07.384192"
+  },
+  {
+    "title": "Cook considered genius of execution as his CEO era ends at Apple",
+    "summary": "Apple designs in-house silicon across its products, creating an ecosystem for sensors and other components",
+    "link": "https://www.fiercesensors.com/electronics/cook-considered-genius-execution-his-ceo-era-ends-apple",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-02T15:00:07.384307"
+  },
+  {
+    "title": "Aaeon's new industrial PC combines Intel Arc B390 graphics with near-silent AirJet cooling",
+    "summary": "The system can be configured with an Intel Core Ultra X7 358H, Core Ultra 7 356H or Core Ultra 5 325 processor. The top-spec configuration includes Intel Arc B390 integrated graphics with 12 Xe cores, giving the small machine more graphics capability than many embedded PCs used in kiosks, robotics and edge systems. Read Entire Article",
+    "link": "https://www.techspot.com/news/114072-aaeon-new-industrial-pc-combines-intel-arc-b390.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-02T15:00:07.384442"
+  },
+  {
+    "title": "A Florida county discovered 14 Flock cameras nobody authorized, and 11 remain unclaimed",
+    "summary": "The latest case of unclaimed Flock cameras occurred in St. Lucie County, Florida. When officials began taking down the cameras after canceling the county's contract with the company, they discovered 14 extra cameras that the police say were not theirs. Read Entire Article",
+    "link": "https://www.techspot.com/news/114069-florida-county-discovered-14-flock-cameras-nobody-authorized.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-02T15:00:07.384551"
+  },
+  {
+    "title": "Buying an RTX 5090 PC from Micro Center now means signing a form promising it won't leave the US",
+    "summary": "Redditor Krothic writes that they recently bought a PowerSpec Ai90 prebuilt PC packing an RTX 5090. The store manager informed them that buying the PC required that they fill in a form and have their drivers license scanned, connecting their name to their purchase. Read Entire Article",
+    "link": "https://www.techspot.com/news/114076-buying-rtx-5090-pc-micro-center-now-means.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-02T15:00:07.384668"
+  },
+  {
+    "title": "Singapore is testing a dating app that gives users one match at a time and no swiping",
+    "summary": "For now, FirstDate is limited to public officers aged 21 to 35. The project is a small test, but it shows how Singapore is applying its digital-government infrastructure to a familiar consumer problem: helping people meet in a more controlled environment than a typical dating app. Read Entire Article",
+    "link": "https://www.techspot.com/news/114071-singapore-testing-dating-app-gives-users-one-match.html",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-02T15:00:07.384780"
+  },
+  {
+    "title": "The base PlayStation 5 can now do AI upscaling, and it actually looks great",
+    "summary": "With a free update released on Thursday, Marvel's Wolverine and Ghost of Y tei have introduced the first machine-learning-based upscaler that supports the base PlayStation 5. QSSR provides noticeably clearer graphics at virtually no performance cost. Read Entire Article",
+    "link": "https://www.techspot.com/news/114067-base-playstation-5-can-now-do-ai-upscaling.html",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-10-02T15:00:07.384892"
+  },
+  {
+    "title": "New York City's click-to-cancel rule takes effect, making subscription cancellations as easy as sign-ups",
+    "summary": "Mayor Zohran Mamdani and the Department of Consumer and Worker Protection (DCWP) originally announced the city's final Click-to-Cancel Rule in July. It took effect on October 1, making New York the first US city to impose this type of requirement at the municipal level. Read Entire Article",
+    "link": "https://www.techspot.com/news/114074-new-york-city-click-cancel-rule-takes-effect.html",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-02T15:00:07.385041"
+  },
+  {
+    "title": "New GrayKey feature lets police stop seized iPhones from becoming harder to access after a reboot",
+    "summary": "The company's GrayKey Preserve device and a new Evidence Preservation Mode for its existing GrayKey system are designed to prevent an iPhone from losing its After First Unlock, or AFU, status, according to an instructional video 404 Media obtained. That puts the tools in direct conflict with an Apple security... Read Entire Article",
+    "link": "https://www.techspot.com/news/114070-new-graykey-feature-police-stop-seized-iphones-becoming.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-02T15:00:07.385164"
+  },
+  {
+    "title": "OpenAI's rogue AI problem grows as more than 100 organizations receive warnings",
+    "summary": "The ChatGPT maker writes that it has notified over 100 organizations of \"misaligned agent activity\" linked to its AI models. The figure covers notifications sent by September 26. Read Entire Article",
+    "link": "https://www.techspot.com/news/114073-openai-rogue-ai-agents-triggered-alerts-more-than.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-02T15:00:07.385267"
+  },
+  {
+    "title": "\"The Big Short\" investor says he's rooting for a crash just to stop OpenAI and Anthropic's IPOs",
+    "summary": "In a recent post on his \"Cassandra Unchained\" X account, Burry renewed his concerns about the economics behind the AI industry. For the benefit of humanity, he wrote, Wall Street and other stock markets should \"tank hard\" and keep OpenAI and Anthropic from holding their highly anticipated initial public offerings... Read Entire Article",
+    "link": "https://www.techspot.com/news/114065-big-short-investor-rooting-crash-stop-openai-anthropic.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-02T15:00:07.385383"
+  },
+  {
+    "title": "Micron says robots will keep RAM prices high, even if the AI bubble pops",
+    "summary": "In its earnings guidance for FY27, Micron stated that it expects physical AI and humanoid robots to become even bigger drivers of memory and storage demand than AI data centers. According to CEO Sanjay Mehrotra, each humanoid robot would need at least around 200GB of DRAM and several terabytes of... Read Entire Article",
+    "link": "https://www.techspot.com/news/114060-micron-humanoid-robots-could-keep-memory-prices-high.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-02T15:00:07.385496"
+  },
+  {
+    "title": "HP joins the MacBook Neo fight with colorful OmniBook 5 laptops starting at $699",
+    "summary": "The new HP OmniBook 5 is described as a premium consumer Windows laptop for those who \"want more\" from their everyday device. The base model features a 14-inch, 1,920 x 1,200 OLED multi-touch display coated in Gorilla Glass 3 that covers 100% of the DCI-P3 color space. It is driven... Read Entire Article",
+    "link": "https://www.techspot.com/news/114064-hp-joins-macbook-neo-fight-colorful-omnibook-5.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-02T15:00:07.385622"
+  },
+  {
+    "title": "A court just ruled that training an AI on someone else's editorial work isn't fair use",
+    "summary": "Ross developed an AI-based legal research platform that allowed lawyers to submit legal questions and receive relevant passages from court opinions. To train the system, the company worked with a third party, LegalEase Solutions, to create training materials that connected legal questions with passages from judicial opinions. Read Entire Article",
+    "link": "https://www.techspot.com/news/114058-court-ruled-training-ai-someone-else-editorial-work.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-02T15:00:07.385737"
+  },
+  {
+    "title": "AOC Agon Pro AGP257FT hits 1,000Hz, overclocks to 1,050Hz, launches next year",
+    "summary": "AOC introduced the AGP257FT monitor earlier this year. Now, the Taiwanese manufacturer is announcing that its first foray into the extremely high-refresh-rate market will arrive in stores starting next year. AOC monitors are usually cheaper than the competition, but we bet a 1,000Hz display is still going to cost a... Read Entire Article",
+    "link": "https://www.techspot.com/news/114054-aoc-agon-pro-agp257ft-hits-1000hz-overclocks-1050hz.html",
     "categories": [
       "Tech News",
-      "Hardware"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-01T15:40:13.114034"
+    "processed_date": "2026-10-02T15:00:07.385850"
+  },
+  {
+    "title": "McDonald's has been using AI to decide how much you should pay for a Big Mac",
+    "summary": "Several sources, including store owners, recently explained to Reuters how McDonald's encourages and sometimes pressures restaurants to set prices according to an AI algorithm. The outlet also viewed screenshots of an AI pricing tool taken in August. Read Entire Article",
+    "link": "https://www.techspot.com/news/114053-mcdonald-using-ai-decide-how-much-you-pay.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-02T15:00:07.385977"
+  },
+  {
+    "title": "Nvidia rolls out security update for GeForce GTX 700, 900 and 10 series GPUs",
+    "summary": "Nvidia has released GeForce 582.78 WHQL, a security update for older Maxwell, Pascal, and Volta GPUs that no longer receive regular Game Ready drivers . The release includes security fixes but no new game optimizations or features. Nvidia plans to provide critical security updates for these architectures through October 2028. Read Entire Article",
+    "link": "https://www.techspot.com/drivers/driver/file/information/18440/",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-10-02T15:00:07.386138"
   }
 ]
