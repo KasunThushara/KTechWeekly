@@ -1,261 +1,359 @@
 [
   {
-    "title": "Database expert runs Doom in SQL with just 5,900 lines of code",
-    "summary": "Database expert runs Doom in SQL again full-featured SQLDoom is the sequel to embryonic DoomQL",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/database-expert-runs-doom-in-sql-with-just-5-900-lines-of-code-1-300-line-graphical-renderer-spans-89-different-tables-full-featured-sqldoom-is-the-sequel-to-embryonic-doomql",
+    "title": "Intel's Googlebooks might not run some Android apps as well as Qualcomm's",
+    "summary": "Some Android apps not optimized for x86-64 may have trouble running on Intel Googlebooks.",
+    "link": "https://www.tomshardware.com/laptops/ultrabooks-ultraportables/intels-googlebooks-might-not-run-some-android-apps-as-well-as-qualcomms-google-says-this-is-because-android-apps-were-designed-for-arm-chips",
     "categories": [
-      "AI & ML"
+      "Semiconductors"
     ],
     "quality_score": 0,
-    "processed_date": "2026-10-04T14:22:15.552552"
+    "processed_date": "2026-10-05T17:24:08.735770"
   },
   {
-    "title": "US Army unit deploys drone assembled completely in-house, uses 3D-printed 'Dragoon Bombs' with ball bearing shrapnel",
-    "summary": "U.S. Army soldiers are training to assemble drones and 3D-print bomb casings for field use.",
-    "link": "https://www.tomshardware.com/tech-industry/drones/us-army-unit-deploys-drone-assembled-completely-in-house-uses-3d-printed-dragoon-bombs-with-ball-bearing-shrapnel-device-has-a-range-of-up-to-12-miles-and-can-be-configured-for-anti-personnel-and-anti-light-armor-missions",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-04T14:22:15.552639"
-  },
-  {
-    "title": "AI robot company decommissioned its robots Terminator-style in a 75-ton vat of molten steel",
-    "summary": "AI Robotics company Figure found a creative way of decommissioning its old F.02 fleet without having to allocate resources for difficult and time-consuming disassembly.",
-    "link": "https://www.tomshardware.com/tech-industry/robotics/ai-robot-company-decommissioned-its-robots-terminator-style-in-a-75-ton-vat-of-molten-steel-arnold-schwarzenegger-suggested-melting-them-one-robot-held-up-a-thumbs-up-sign-as-it-sank-into-molten-metal",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-04T14:22:15.552716"
-  },
-  {
-    "title": "ChatGPT-6 Astra cracks 217-year-old Napoleonic code in just six hours",
-    "summary": "An AI engineer used GPT-6 Astra to reveal the contents of a cipher that hadn t been read since the Napoleonic Wars. The task was initiated with a single image and prompt, and took just six hours from start to finish.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-217-year-old-napoleonic-code-in-just-six-hours-single-prompt-ai-run-solves-24-rows-of-custom-symbols-from-a-single-image-reveals-lost-troop-orders",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-04T14:22:15.552798"
-  },
-  {
-    "title": "Iranian national extradited to US over alleged $3.4 billion state-backed hacking campaign in rare legal win for law enforcement",
-    "summary": "An Iranian-Turkish man has been extradited from Montenegro to the U.S. over his alleged role in a hacking campaign that targeted hundreds of universities, companies, and government agencies and stole more than 31 TB of academic data.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/iranian-national-extradited-to-us-over-alleged-usd3-4-billion-state-backed-hacking-campaign-in-rare-legal-win-for-law-enforcement-operative-helped-steal-31-terabytes-of-data-from-over-300-universities",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-04T14:22:15.552914"
-  },
-  {
-    "title": "German utility provider introduces 'gaming electricity' plan targeting high-consumption households, like those running multiple high-end gaming PCs",
-    "summary": "SWK Energie launched a new tariff marketed directly towards gamers. While it will not improve the FPS on your gaming PC, it could help cut the electricity bills of large consumers, whether the power is used by an RTX 5090 or a Tesla.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/german-utility-provider-introduces-gaming-electricity-plan-targeting-high-consumption-households-like-those-running-multiple-high-end-gaming-pcs-plan-requires-2-500-kwh-per-year-to-offset-a-higher-base-price-claims-to-use-renewable-energy",
+    "title": "AMD attempts to get ahead of expected RTX Spark launch with Gorgon Halo benchmarks",
+    "summary": "AMD is getting ahead of an expected RTX Spark launch later this week with a few benchmarks for its flagship Gorgon Halo chip, the Ryzen AI Max+ Pro 495.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-attempts-to-get-ahead-of-expected-rtx-spark-launch-with-gorgon-halo-ai-benchmarks-company-says-it-has-shipped-over-half-a-million-agentic-pcs-to-date",
     "categories": [
       "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-04T14:22:15.553019"
-  },
-  {
-    "title": "Microsoft using wetlands and native gardens to 'camouflage' 20-plus data center sites by blending them into nature",
-    "summary": "Microsoft is bringing nature-inspired landscaping to more than 20 data center sites as critics question its motives.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-is-using-wetlands-and-native-gardens-to-camouflage-20-plus-data-center-sites-by-blending-them-into-nature-critics-blast-the-biomimicry-effort-as-lipstick-on-a-pig-amid-a-20-year-gas-power-deal",
-    "categories": [
       "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-10-04T14:22:15.553110"
+    "quality_score": 10,
+    "processed_date": "2026-10-05T17:24:08.735841"
   },
   {
-    "title": "'AI Torture Chamber' triggers massive backlash for putting chatbots in simulated pain",
-    "summary": "AI \"torture chamber\" draws vast online criticism, and a corresponding amount of ridicule tech newbies and AI evangelists go nuts anthropomorphizing an LLM",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-torture-chamber-triggers-massive-backlash-for-putting-chatbots-in-simulated-pain-critics-issue-death-threats-while-anthropomorphizing-text-predictors-demand-github-remove-the-repository-over-unethical-treatment",
+    "title": "32GB dethrones 16GB as top RAM capacity in gaming rigs despite memory shortage",
+    "summary": "The September 2026 Steam Survey showed a surprising result despite extreme RAM pricing.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/32gb-ram-config-hits-top-spot-on-steam-survey-despite-memory-chip-shortage-amd-closing-in-on-intel-at-more-than-48-percent-share",
     "categories": [
-      "AI & ML"
+      "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-10-04T14:22:15.553217"
+    "quality_score": 0,
+    "processed_date": "2026-10-05T17:24:08.735913"
   },
   {
-    "title": "US Navy uses Xbox-style controllers to fire anti-drone lasers deployed on ships",
-    "summary": "This would make it easier for sailors to get used to controlling the weapon system, as they're probably already comfortable holding a controller.",
-    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/us-navy-uses-xbox-style-controllers-to-fire-anti-drone-lasers-deployed-on-ships-usd13-per-shot-laser-weapon-deployed-in-the-strait-of-hormuz-uses-a-familiar-interface-instead-of-a-custom-control-system",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-04T14:22:15.553300"
-  },
-  {
-    "title": "Open-source tool designs LEGO builds with more than 2,000 real pieces",
-    "summary": "Carlos Antelo's open-source ldraw-nova lets GPT-6 Astra and Claude Opus 5.5 design LEGO models as LDraw CAD files.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/open-source-tool-designs-lego-builds-with-more-than-2-000-real-pieces-their-programs-output-detailed-cad-files-but-no-models-have-been-built-yet",
+    "title": "Modder brings original Xbox emulation to jailbroken PS5",
+    "summary": "The original Xbox can now be emulated on the PS5 thanks to a solo developer's port of Xemu, a popular Xbox emulator.",
+    "link": "https://www.tomshardware.com/video-games/playstation/modder-brings-original-xbox-emulation-to-jailbroken-ps5-xpsemu-plays-halo-2-and-forza-as-ps5-emulators-outnumber-its-15-exclusives",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 0,
-    "processed_date": "2026-10-04T14:22:15.553367"
+    "processed_date": "2026-10-05T17:24:08.735966"
   },
   {
-    "title": "Portable Bluetooth CD player has a glow-in-the-dark transparent green finish, modern features",
-    "summary": "Sincere Inc. has released its Pixel Tunes portable Bluetooth CD player in an alluring new After Hours finish.",
-    "link": "https://www.tomshardware.com/peripherals/portable-bluetooth-cd-player-has-a-glow-in-the-dark-transparent-green-finish-modern-features-new-limited-edition-has-usb-c-bluetooth-5-3-rechargeable-li-ion-and-wont-get-lost-in-your-dimly-lit-den",
+    "title": "Amazon ends secret data center pacts and pledges $1 billion to host towns",
+    "summary": "AWS' Data Center Commitment program aims to sweeten the pill for those who live near AI data centers.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-ends-secret-data-center-pacts-and-pledges-usd1-billion-to-host-towns-aws-promises-30-000-home-efficiency-retrofits-amid-100-proposed-bans",
     "categories": [
-      "Tech News"
+      "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-10-04T14:22:15.553436"
+    "quality_score": 0,
+    "processed_date": "2026-10-05T17:24:08.736019"
   },
   {
-    "title": "Free browser-based AI-generated Taipei GTA clone hits 1.2 million concurrent players in three days",
-    "summary": "Developers AICodeWith have vibe-coded and published a free browser-based game dubbed Taipei GTA. It reportedly cost $10,000 in tokens to get to this state.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/free-browser-based-ai-generated-taipei-gta-clone-hits-1-2-million-concurrent-players-in-three-days-vibe-coded-game-cost-usd10-000-in-ai-tokens-to-build-is-set-on-the-streets-of-taipei",
+    "title": "Google AI data center project investigated after 420 football fields of Finnish forest demolished",
+    "summary": "Google s latest data center construction project in Finland is being investigated after the company representing the search giant reportedly cleared over 300 hectares of forest before obtaining a mandatory environmental impact assessment.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/google-ai-data-center-project-investigated-after-420-football-fields-of-finnish-forest-razed-trees-were-removed-before-a-mandatory-environmental-impact-assessment-say-reports",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-05T17:24:08.736086"
+  },
+  {
+    "title": "Former OpenAI safety employee says company s safety culture is broken",
+    "summary": "David Robinson argues that Silicon Valley lacks the wisdom on how to handle AI safely and urges the industry to seek outside experts to help build a culture that prioritizes it.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/former-openai-safety-employee-says-companys-safety-culture-is-broken-exits-company-after-failed-kill-switch-and-july-huggingface-hack",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-04T14:22:15.553506"
+    "processed_date": "2026-10-05T17:24:08.736149"
   },
   {
-    "title": "7-year-old Nvidia Shield TV Pro gets shocking 50% price hike driven by AI memory shortage",
-    "summary": "The Shield TV Pro remains one of Nvidia s longest-running consumer devices, but its $299.99 price tag now makes the streaming box considerably more expensive than when it launched.",
-    "link": "https://www.tomshardware.com/service-providers/streaming/7-year-old-nvidia-shield-tv-pro-gets-shocking-50-percent-price-hike-driven-by-ai-memory-shortage-chipmaker-axes-entry-level-shield-tv-as-component-prices-soar",
+    "title": "Wolverine PS5 exclusive ported to PC in buggy solo project using AI",
+    "summary": "Solo developer gets Wolverine \"working\" on PC thanks to the 2023 source code leak.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/wolverine-ps5-exclusive-ported-to-pc-in-buggy-solo-project-using-ai-source-code-was-taken-from-sony-2023-ransomware-attack",
     "categories": [
       "AI & ML",
-      "GPUs"
+      "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-10-04T14:22:15.553579"
+    "quality_score": 0,
+    "processed_date": "2026-10-05T17:24:08.736200"
   },
   {
-    "title": "Elon Musk confirms discussions with TSMC about Terafab chipmaking collaboration",
-    "summary": "Elon Musk and TSMC reportedly discuss multiple collaboration opportunities within the Terafab project.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-confirms-discussions-with-tsmc-about-terafab-chipmaking-collaboration-intel-is-the-only-other-named-partner-terafab-to-exclusively-supply-tesla-spacex-and-xai",
+    "title": "China stockpiled 343 immersion DUV tools for advanced chipmaking",
+    "summary": "Centre for Technology & Statecraft (CTS) calls for banning exports of all immersion DUV tools to China, echoes the MATCH Act by U.S. legislators.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-stockpiled-343-immersion-duv-tools-for-advanced-chipmaking-report-claims-270-asml-scanners-can-produce-7nm-processors-without-sanctioned-euv-tools",
     "categories": [
       "Semiconductors"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-10-04T14:22:15.553647"
+    "quality_score": 5,
+    "processed_date": "2026-10-05T17:24:08.736254"
   },
   {
-    "title": "Buying used CPUs can expose users to existing bans from anti-cheat engines, and there's no way to check for violations before purchase",
-    "summary": "The CPU's previous owner apparently used it for cheating on Valorant, with its HWID getting flagged by Vanguard. When the Redditor bought and installed it on their PC, their Valorant account received a ban, too.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/buying-used-cpus-can-expose-users-to-existing-bans-from-anti-cheat-engines-some-anti-cheat-engines-enforce-permanent-bans-while-others-have-an-expiration-date",
+    "title": "Amazon warns $68 billion in blocked data centers threatens US AI lead",
+    "summary": "AWS CEO warns that growing opposition to data centers could undermine U.S. AI leadership, while defending buildouts against concerns over water consumption, electricity costs, pollution, and community impact.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-warns-usd68-billion-in-blocked-data-centers-threatens-us-ai-lead-aws-ceo-decries-100-proposed-bans-pledges-usd1b-community-fund",
     "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-05T17:24:08.736312"
+  },
+  {
+    "title": "Russian firm completes country's first 130nm-capable chipmaking tool, trails modern equipment by 25 years",
+    "summary": "ZNTC completes development of Russia's first 130nm-capable lithography stepper, which could be used to produce chips sometimes late this decade, or rather early next.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/russias-zntc-reportedly-completes-development-of-130nm-capable-litho-tool-volume-production-still-years-away",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-05T17:24:08.736371"
+  },
+  {
+    "title": "US Senate kills bill that could potentially shield Americans from skyrocketing power bills due to AI data centers",
+    "summary": "The U.S. Senate has blocked the Ratepayer Protection Act in a 57-43 vote, killing legislation that would have pushed regulators to consider making data centers pay the incremental grid costs created by their massive electricity demand.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/us-senate-kills-bill-that-could-potentially-shield-americans-from-skyrocketing-power-bills-due-to-ai-data-centers-opponents-say-bill-is-toothless-and-doesnt-do-enough-to-protect-citizens",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-05T17:24:08.736433"
+  },
+  {
+    "title": "Customer sends two-stick $16,000 DDR5 memory kit to repair shop",
+    "summary": "A YouTube channel best known for its skillful graphics card fixes has published its first DDR5 module repair video after the economics of RAM repair change.",
+    "link": "https://www.tomshardware.com/pc-components/ddr5/customer-sends-two-stick-usd16-000-ddr5-memory-kit-to-repair-shop-soaring-replacement-costs-make-dimm-repairs-viable-technician-revives-dead-module-with-hot-air-reflow-and-new-pmic",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-05T17:24:08.736487"
+  },
+  {
+    "title": "Windows 11 was released five years ago today",
+    "summary": "Windows 11 was released five years ago, on October 5, 2021. But it feels like it's been around longer as Microsoft s latest OS has put users through so much pain.",
+    "link": "https://www.tomshardware.com/software/windows/windows-11-was-released-five-years-ago-today-microsoft-promises-latest-update-is-predictable-and-low-disruption",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-05T17:24:08.736540"
+  },
+  {
+    "title": "Anthropic reports Florida woman s Claude diary threat to shoot up sheriff s office, felony charge follows",
+    "summary": "Anthropic reviewers reported a Florida woman s Claude threat against the Lee County Sheriff s Office, leading to a felony charge.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-reports-florida-womans-claude-diary-threat-to-shoot-up-sheriffs-office-felony-charge-follows-its-at-least-the-third-such-conversation-to-reach-police-since-august",
+    "categories": [
+      "AI & ML",
       "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-10-04T14:22:15.553733"
-  },
-  {
-    "title": "This week on Tom's Hardware Premium: October 3, 2026",
-    "summary": "This week on Tom's Hardware Premium, we open the floodgates with a free-to-access chip design week, including expert interviews, a sit-down with OpenAI on its custom ASIC, and much more.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/this-week-on-toms-hardware-premium-october-3-2026-ai-chip-design-week-openai-interview-and-ai-agent-safety",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-04T14:22:15.553805"
-  },
-  {
-    "title": "ESP-SDR firmware turns ESP32 into a 2.4/5 GHz Software-Defined Radio (SDR)",
-    "summary": "We have seen ESP32s used for everything from simple IoT devices to AI, audio, and vision projects. But while looking for a new project, I found out about ESP-SDR firmware, which turns the ESP32 into a native Software-Defined Radio (SDR) without additional hardware. This open-source firmware bypasses the ESP32 s fixed-function Wi-Fi and Bluetooth modems and taps directly into the internal ADC signal chain to capture raw I/Q baseband samples. It then sends these samples to a computer over USB or UART, where they can be processed and viewed as a radio spectrum or waterfall display, turning supported ESP32 chips into low-cost software-defined radio receivers without requiring additional SDR hardware. Key features and supported hardware: Supported chips ESP32, ESP32-C3, ESP32-C5 (dual-band 2.4/5 GHz), ESP32-C6, ESP32-C61, ESP32-S2, ESP32-S3, and the preview ESP32-S31 Tuning range Nominally 2.4 GHz ISM (2.2 2.7 GHz on some chips) and 5 GHz (4.8 6.0 GHz on ESP32-C5); The [...] The post ESP-SDR firmware turns ESP32 into a 2.4/5 GHz Software-Defined Radio (SDR) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/04/esp-sdr-firmware-turns-esp32-into-a-2-4-5-ghz-software-defined-radio-sdr/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
     "quality_score": 10,
-    "processed_date": "2026-10-04T14:22:15.554208"
+    "processed_date": "2026-10-05T17:24:08.736598"
   },
   {
-    "title": "Tesla expected to launch Cybercab with no lidar, driver, steering wheel",
-    "summary": "Waymo s robotaxis in 14 US cities use lidar and other sensors while Tesla has relied on a vision-first approach that doesn t include lidar.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/tesla-expected-launch-cybercab-no-lidar-driver-steering-wheel",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-04T14:22:15.555228"
-  },
-  {
-    "title": "RuneScape 4 is officially in the works, and it started as a Dragonwilds expansion",
-    "summary": "The company has not said which version of Unreal Engine it is using, which platforms the game will support or when it plans to show gameplay. Its first public look at the project is a CGI teaser rather than an in-engine demonstration. Read Entire Article",
-    "link": "https://www.techspot.com/news/114088-runescape-4-officially-works-started-dragonwilds-expansion.html",
+    "title": "Russia's uncrewed robot tank fails during debut military display in front of President Putin",
+    "summary": "Russia s new Shturm uncrewed assault tank reportedly suffered repeated command-link failures during its Tsentr-2026 debut, forcing organizers to use a human driver before the vehicle eventually got stuck in mud",
+    "link": "https://www.tomshardware.com/tech-industry/russias-uncrewed-robot-tank-fails-during-debut-military-display-in-front-of-president-putin-vehicle-repeatedly-lost-control-links-and-eventually-got-stuck-in-the-mud-despite-the-switch-to-a-human-driver",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-04T14:22:15.555342"
+    "processed_date": "2026-10-05T17:24:08.736656"
   },
   {
-    "title": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-    "summary": "According to the arrest report, Carli Michelle Heller, of Bonita Springs, Florida, wrote on September 26 that she would attack the Sheriff's office. She later said that she uses Anthropic's chatbot like a \"diary.\" Read Entire Article",
-    "link": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+    "title": "Modder 'fixes' melting RTX 5090 power connectors with custom distributor",
+    "summary": "Reddit user u/DallasGrave shared a fix for his RTX 5090, one of the best graphics cards, whose 12VHPWR connector was overheating, along with an image of a module screwed onto the back of his GPU.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/modder-fixes-melting-rtx-5090-power-connectors-with-custom-distributor-dual-8-pin-mod-peaks-at-just-40c-during-a-48-hour-550w-stress-test",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-04T14:22:15.555419"
-  },
-  {
-    "title": "The Best 1440p QD-OLED Monitors for Less Than $500",
-    "summary": "We tested 11 budget 1440p QD-OLED gaming monitors to find the best buys, comparing full- and limited-brightness panels, features, design, and pricing to see which models are actually worth it. Read Entire Article",
-    "link": "https://www.techspot.com/review/3175-budget-1440p-oled-monitors/",
-    "categories": [
-      "AI & ML",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-04T14:22:15.555492"
+    "processed_date": "2026-10-05T17:24:08.736717"
   },
   {
-    "title": "Steam's latest survey shows 32GB RAM overtaking 16GB despite the massive price surge",
-    "summary": "According to the Steam Survey for September 2026, 32GB is now the most common system memory configuration for gaming rigs among Steam users. The data shows 32GB systems accounted for 42.22% of all rigs sampled during September, a 4.77-point gain over August, when 16GB was still the most common configuration. Read Entire Article",
-    "link": "https://www.techspot.com/news/114081-steam-latest-survey-shows-32gb-ram-overtaking-16gb.html",
+    "title": "Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order",
+    "summary": "The California State Athletic Commission intervened when it saw a human facing off with a humanoid robot inside the fighting ring.",
+    "link": "https://www.tomshardware.com/tech-industry/robotics/robotics-startup-has-real-human-vs-robot-cage-match-california-responds-with-cease-and-desist-order-regulator-threatens-misdemeanor-charges-after-youtuber-fights-three-robotic-humanoids",
     "categories": [
-      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-05T17:24:08.736772"
+  },
+  {
+    "title": "Modder brings Nvidia Pascal GPU support to Windows XP 32-bit",
+    "summary": "Retro techie retrofits Nvidia Windows XP 32-bit drivers with Pascal card support and improved DisplayPort and HDMI support for contemporary displays",
+    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/modder-brings-nvidia-pascal-gpu-support-to-windows-xp-32-bit-modded-drivers-unlock-better-displayport-and-hdmi-support-for-modern-monitors",
+    "categories": [
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-04T14:22:15.555574"
+    "processed_date": "2026-10-05T17:24:08.736824"
   },
   {
-    "title": "A Riot ban followed a used Ryzen CPU to its new owner, but something is not adding up",
-    "summary": "A redditor recently claimed they were banned from Valorant immediately after starting a match following the installation of a recently purchased AMD Ryzen 7 5800X3D. According to the user, Riot said the CPU's serial number was already on the company's anti-cheat blacklist, although Riot says it cannot find the related... Read Entire Article",
-    "link": "https://www.techspot.com/news/114084-riot-ban-followed-used-cpu-new-owner-but.html",
+    "title": "DEBIX M8391-01 industrial SBC features MediaTek Genio 720 SoC with 9 TOPS NPU, dual-display support",
+    "summary": "The DEBIX M8391-01 is a compact industrial SBC built around the MediaTek MT8391 (Genio 720) processor, designed for edge AI, computer vision, robotics, and intelligent IoT applications. The SoC s 9-TOPS NPU enables local AI inference without relying on cloud processing. The board features up to 16GB LPDDR4 memory and up to 64GB eMMC storage, with M.2 PCIe 2.0 NVMe SSD and MicroSD card expansion. It also offers a 4-lane MIPI CSI camera input, MIPI DSI up to 2.5K and eDP 1.4 display interfaces, Gigabit Ethernet with PoE, Wi-Fi 6, Bluetooth 5.4, five USB ports, and a 40-pin expansion header. With an industrial operating temperature range (-40 C to 85 C), this credit card-sized, Raspberry Pi-inspired SBC can be used for edge AI vision, robotics, industrial IoT, and other embedded systems. DEBIX M8391-01 specifications: MediaTeck Genio 720 (MT8391) CPU Commercial-grade (default) 2x Arm Cortex-A78 cores @ up to 2.6 GHz, 6x Arm [...] The post DEBIX M8391-01 industrial SBC features MediaTek Genio 720 SoC with 9 TOPS NPU, dual-display support appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/05/debix-m8391-01-industrial-sbc-features-mediatek-genio-720-soc-with-9-tops-npu-dual-display-support/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-05T17:24:08.737138"
+  },
+  {
+    "title": "Geekworm UPS Scap 5V5A A supercapacitor UPS HAT for Raspberry Pi 5",
+    "summary": "Geekworm, in collaboration with Mcuzone, has launched the UPS Scap 5V5A, a new supercapacitor UPS HAT for the Raspberry Pi 5 designed to keep the Raspberry Pi running long enough (a few seconds to a few minutes) to save data and shut down safely, rather than provide hours of backup power. Available in 100F, 60F, and 22F versions, the HAT has a built-in PD chip that negotiates a true 5V/5A output. This gives the Raspberry Pi 5 enough power to run properly without triggering the low-voltage warnings that can happen with some power supplies. The module connects to the Raspberry Pi 5 through pogo pins to detect power loss and supports I2C for checking voltage and current in real time. It also features dual independent power inputs, so you can power it with either a wide-voltage DC barrel jack or a standard USB-C PD charger. Geekworm UPS Scap 5V5A supercapacitor [...] The post Geekworm UPS Scap 5V5A A supercapacitor UPS HAT for Raspberry Pi 5 appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/05/geekworm-ups-scap-5v5a-a-supercapacitor-ups-hat-for-raspberry-pi-5/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-05T17:24:08.737246"
+  },
+  {
+    "title": "You betcha: Startups believe autos need more sensor modalities",
+    "summary": "Autotech Council Startup Review at Sensors Converge 2026 brought out thinking that future autos can benefit by better and different sensors. And the startups backed up that thinking with tech.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/you-betcha-startups-believe-autos-need-more-sensor-modalities",
+    "categories": [
+      "Tech News",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-05T17:24:08.738021"
+  },
+  {
+    "title": "Tesla s Cybercab reveal: driverless gold glitz and electric braking",
+    "summary": "Electric brakes in Tesla s Cybercab mean there s no brake fluid and brake lines running around the car. Sensors and actuators control each brake caliper.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/teslas-cybercab-reveal-driverless-gold-glitz-and-electric-braking",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-05T17:24:08.738260"
+  },
+  {
+    "title": "RTX 5090 modder claims to have solved melting power connectors with auxiliary 8-pin board",
+    "summary": "Over on Reddit, user DallasGrave outlined the approach taken when developing the mod. In short, the fix utilizes a pickup PCB soldered to the contacts of the original 12VHPWR header that feeds an auxiliary dual eight-pin board. This effectively spreads the load across three sets of cables, which significantly reduces... Read Entire Article",
+    "link": "https://www.techspot.com/news/114101-rtx-5090-modder-claims-have-solved-melting-power.html",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-04T14:22:15.555660"
+    "processed_date": "2026-10-05T17:24:08.738387"
   },
   {
-    "title": "Some iPhone 18 Pro Max owners are losing cell service, and Apple's fix is an entirely new phone",
-    "summary": "Customer reports indicate the problem has affected only the iPhone 18 Pro Max on AT&T, and Apple says it has seen the same pattern. The company has released a carrier settings update and iOS 27.0.1 to keep more devices from being affected, but customers whose phones have already lost service... Read Entire Article",
-    "link": "https://www.techspot.com/news/114085-iphone-18-pro-max-owners-losing-cell-service.html",
+    "title": "Amazon is spending $1 billion to win over towns fighting its data centers",
+    "summary": "In a blog post, Amazon Web Services CEO Matt Garman said the company will invest more than $1 billion over the next five years in data center towns across the US, on top of its existing efforts. Read Entire Article",
+    "link": "https://www.techspot.com/news/114098-amazon-spending-1-billion-win-over-towns-fighting.html",
     "categories": [
-      "Tech News"
+      "AI & ML",
+      "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-10-04T14:22:15.555740"
+    "quality_score": 5,
+    "processed_date": "2026-10-05T17:24:08.738476"
   },
   {
-    "title": "Federal judge calls Flock search unconstitutional, as AOC and Bernie Sanders introduce bill to ban license plate readers",
-    "summary": "Oklahoma federal judge Sara Hill described automatic license plate readers (ALPRs) as a form of indiscriminate mass surveillance, comparing them to dragnet-style searches. Her ruling suggests that networked cameras like those sold by Flock and Axon differ fundamentally from other police surveillance tools, with consequences for the law and for... Read Entire Article",
-    "link": "https://www.techspot.com/news/114082-federal-judge-calls-flock-search-unconstitutional-aoc-bernie.html",
+    "title": "Elon Musk says SpaceXAI will become SpaceXSI as Trump pushes to use \"Super Intelligence\" over AI",
+    "summary": "Musk revealed his decision on his X platform. After posting \"No more AI\" and that SI was better, a user asked about the possibility of SpaceXAI becoming SpaceXSI. \"Yes, we will make that change,\" he replied. Read Entire Article",
+    "link": "https://www.techspot.com/news/114099-elon-musk-spacexai-become-spacexsi-following-trump-push.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-05T17:24:08.738563"
+  },
+  {
+    "title": "Blue Origin reveals 65-foot solar tower designed to power future bases on the Moon",
+    "summary": "The proposed system reflects the growing focus on the infrastructure needed for future surface operations. Launch vehicles and landers may get equipment to the surface. Systems such as the Power Tower would help keep it running once it arrives. Read Entire Article",
+    "link": "https://www.techspot.com/news/114093-blue-origin-reveals-65-foot-solar-tower-designed.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-04T14:22:15.555835"
+    "processed_date": "2026-10-05T17:24:08.738652"
+  },
+  {
+    "title": "This open-source tool aims to eliminate shader compilation stutter in PC games",
+    "summary": "A lone developer recently unveiled the Shader Compilation Stutter Killer (SCSKiller), a tool designed to \"kill\" stuttering in modern games. SCSKiller is an open-source application providing a novel approach to the shader-related stuttering issue that has been plaguing PC gaming over the past few years. Read Entire Article",
+    "link": "https://www.techspot.com/news/114092-open-source-tool-aims-eliminate-shader-compilation-stutter.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-05T17:24:08.738753"
+  },
+  {
+    "title": "Avengers: Endgame overtakes Avatar again to become the highest-grossing movie of all time",
+    "summary": "The rerelease, titled Avengers: Endgame Encore, has pushed the movie's worldwide total to $2.9255 billion. That puts it just ahead of Avatar, which has earned $2.9237 billion globally. Read Entire Article",
+    "link": "https://www.techspot.com/news/114090-avengers-endgame-overtakes-avatar-reclaim-global-box-office.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-05T17:24:08.738845"
+  },
+  {
+    "title": "Humanoid robots pummel YouTuber in cage matches, California tells startup to stop the fights",
+    "summary": "Last month, YouTuber Frankie LaPenna fought three different robots from REK, including a distinctly Terminator-like machine. At one point, the robot gave LaPenna a brutal kick to the face that sent him into the side of the cage, while another kick to the stomach sent the influencer flying onto his... Read Entire Article",
+    "link": "https://www.techspot.com/news/114095-humanoid-robots-pummel-youtuber-cage-matches-california-tells.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-05T17:24:08.738937"
+  },
+  {
+    "title": "Microsoft's fix for shader compilation wait is coming to Nvidia, Intel, and Qualcomm GPUs",
+    "summary": "Advanced Shader Delivery, or ASD, distributes compiled shaders from the cloud instead of having each player's PC compile them locally before play. Microsoft says that can reduce the process from \"several minutes\" to \"just a few seconds,\" with a 95% reduction in burn time overall. Read Entire Article",
+    "link": "https://www.techspot.com/news/114089-microsoft-fix-shader-compilation-wait-coming-nvidia-intel.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-05T17:24:08.739036"
+  },
+  {
+    "title": "German utility launches dedicated electricity tariff for gamers with power-hungry PCs",
+    "summary": "German publication ComputerBase writes that meinGAMING is the tariff name being offered to gaming households in Germany. There are three tiers available, each with its own annual energy consumption. Read Entire Article",
+    "link": "https://www.techspot.com/news/114094-german-utility-launches-dedicated-electricity-tariff-gamers-power.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-05T17:24:08.739137"
+  },
+  {
+    "title": "Steam is on track to top $20 billion in revenue for the first time",
+    "summary": "Steam took in an estimated $1.7 billion in September, 13% more than the previous September record, set in 2025. Its estimated third-quarter revenue reached $5.5 billion, up 12% from the same period last year. Read Entire Article",
+    "link": "https://www.techspot.com/news/114083-steam-track-cross-record-20-billion-2026-after.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-05T17:24:08.739224"
+  },
+  {
+    "title": "Sony's quiet PS5 Slim revision shows how consoles keep changing long after launch",
+    "summary": "The board, labeled EDM-051, was identified by technician @Modyfikator89 inside a PS5 Slim from the Marvel's Wolverine Limited Edition Bundle. Sony has not announced the change, and it is unclear how widely the revised board has been released. But the teardown reveals several differences from earlier Slim models, including changes... Read Entire Article",
+    "link": "https://www.techspot.com/news/114086-sony-quiet-ps5-slim-revision-shows-how-consoles.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-10-05T17:24:08.739322"
   }
 ]
