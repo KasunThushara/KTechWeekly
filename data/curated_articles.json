@@ -1,307 +1,371 @@
 [
   {
-    "title": "This $7.99 TP-Link gigabit switch lets you cheaply upgrade your home network, and it's back at its lowest ever price",
-    "summary": "Upgrade your local network with this $7.99 TP-Link gigabit Ethernet switch with five ports, back down to its lowest ever price.",
-    "link": "https://www.tomshardware.com/networking/network-switches/this-usd7-99-tp-link-gigabit-switch-lets-you-cheaply-upgrade-your-home-network-and-its-back-at-its-lowest-ever-price-unmanaged-lan-switch-that-adds-five-high-speed-ethernet-ports-to-your-setup-for-lag-free-gaming-or-streaming",
+    "title": "Bambu Lab s 3D printing patent application for a new heatbed design may improve peeling issues",
+    "summary": "Bambu Lab applied to patent its new heatbed design that might finally solve bed adhesion problems for large prints.",
+    "link": "https://www.tomshardware.com/3d-printing/bambu-labs-3d-printing-patent-application-for-a-new-heatbed-design-may-improve-peeling-issues-replacement-costs-could-possibly-rise-as-a-consequence",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-07T15:46:06.503462"
+    "processed_date": "2026-10-08T15:51:21.119826"
   },
   {
-    "title": "Researcher ports Doom to $8,000 Hasselblad X2D",
-    "summary": "Radium Wang experiments with camera firmware and shares some of their findings on GitHub. You might want to be careful when trying this, though, as you probably don't want to brick your expensive camera.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/researcher-ports-doom-to-usd8-000-hasselblad-x2d-100-mp-medium-format-camera-uses-touchscreen-for-directional-control-shutter-button-to-fire-weapon",
+    "title": "Software could be the easiest fix for hyperscalers' AI power squeeze, researchers say",
+    "summary": "The industry is spending billions on more efficient chips, cooling, and grid connections. But what about making computers do less work or doing it at a better time?",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/software-could-be-the-easiest-fix-for-hyperscalers-ai-power-squeeze-researchers-say-data-center-demand-is-expected-to-rival-japans-electricity-usage-by-2030",
     "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-07T15:46:06.503560"
-  },
-  {
-    "title": "Why I upgraded to a 4K OLED PC gaming monitor",
-    "summary": "4K 240Hz OLED monitors now cost under $700. I upgraded from a 1440p IPS and can't go back. Here's why I switched, who should upgrade, and who should wait.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/why-i-upgraded-to-a-4k-oled-pc-gaming-monitor-and-why-you-should-or-shouldnt",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-07T15:46:06.503638"
-  },
-  {
-    "title": "Seagate and Toshiba battle for TDK's HDD head business, a critical hard drive component",
-    "summary": "Seagate and Toshiba both looking forward to acquiring HDD heads business from TDK, the only remaining independent supplier of magnetic heads.",
-    "link": "https://www.tomshardware.com/pc-components/hdds/seagate-and-toshiba-battle-for-tdks-hdd-head-business-a-critical-hard-drive-component-multi-billion-dollar-deal-threatens-sole-independent-supplier-as-shortages-intensify",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-07T15:46:06.503713"
-  },
-  {
-    "title": "Qualcomm will license patents behind Huawei s LogicFolding chip architecture, report says",
-    "summary": "Qualcomm will license patents behind Huawei s LogicFolding, according to one report, as a teardown shows off the Kirin 9050 Pro s two dies.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/qualcomm-will-license-patents-behind-huaweis-logicfolding-chip-architecture-report-says-the-kirin-9050-pro-already-uses-it-with-a-teardown-showing-its-lower-die-is-mostly-cache-and-i-o",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-07T15:46:06.503799"
-  },
-  {
-    "title": "Florida sues TP-Link for lying about the safety of its routers ",
-    "summary": "Florida and three other states have sued the company on the grounds that it's misleading their citizens about the security of its products and its ties with China.",
-    "link": "https://www.tomshardware.com/networking/routers/florida-sues-tp-link-for-lying-about-the-safety-of-its-routers-state-claims-that-manufacturer-misrepresented-its-security-and-ties-to-china",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-07T15:46:06.503868"
-  },
-  {
-    "title": "13 tech bargains for only $13 or less to upgrade your desktop PC setup",
-    "summary": "13 impulse-buy tech gadgets for $13 or less.",
-    "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/13-tech-bargains-for-only-usd13-or-less-to-upgrade-your-desktop-pc-setup-add-connectivity-spruce-up-your-pc-or-clear-space-on-your-desk",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-07T15:46:06.503932"
-  },
-  {
-    "title": "Grab this beginner-friendly wireless soldering iron at a new record low price, now $52.99",
-    "summary": "This Fanttik T1 Max soldering iron is $52.99 right now, saving you 34% on the perfect iron for a beginner hobbyist.",
-    "link": "https://www.tomshardware.com/maker-stem/soldering-irons/grab-this-beginner-friendly-wireless-soldering-iron-at-a-new-record-low-price-now-usd52-99-limited-time-deal-on-this-fanttik-t1-max-kit-with-six-different-temperature-settings-a-selection-of-solder-tips-and-an-aluminum-stand",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-07T15:46:06.504047"
-  },
-  {
-    "title": "AI agent fleet likely from Chinese firm Tencent pulled data from rival Alibaba s maps, researchers say",
-    "summary": "Researchers say AI agents on Tencent Cloud used urlquery.net to pull entrance data from Alibaba s Amap, with 1,810 scans in one day.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-fleet-likely-from-chinese-firm-tencent-pulled-data-from-rival-alibabas-maps-researchers-say-1-810-scans-in-one-day-some-runs-labeled-themselves-claude",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-07T15:46:06.504123"
-  },
-  {
-    "title": "This monster RTX 5090 Alienware gaming PC costs less than buying the GPU and CPU alone",
-    "summary": "Get an RTX 5090 Alienware gaming PC $500 less.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/this-monster-rtx-5090-alienware-gaming-pc-costs-less-than-buying-the-gpu-and-cpu-alone-take-usd500-off-a-powerful-9950x3d-rig",
-    "categories": [
-      "GPUs",
+      "AI & ML",
       "Hardware"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-10-07T15:46:06.504189"
+    "quality_score": 10,
+    "processed_date": "2026-10-08T15:51:21.119964"
   },
   {
-    "title": "I bought this cheap $65 mechanical keyboard blind, and it ruined me for every other board I own",
-    "summary": "Aula's F75 Pro keyboard might not have the most recognizable brand name on its box, but it was $65 and available for same-day delivery. So I took a gamble and was pleasantly surprised by just how premium it felt to the point that it's become my favorite keyboard, period.",
-    "link": "https://www.tomshardware.com/peripherals/mechanical-keyboards/i-bought-this-cheap-usd65-mechanical-keyboard-blind-and-it-ruined-me-for-every-other-board-i-own",
+    "title": "Ukrainian drones hit Russia's Yandex data centers housing two top supercomputers",
+    "summary": "No more AI training in Russia? Destiny of two Nvidia-powered Russian supercomputers is unknown as drones hit Yandex data center in Sasovo.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drones-hit-russias-yandex-data-centers-housing-two-top-supercomputers-major-outage-follows-retaliatory-strike",
     "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-07T15:46:06.504276"
-  },
-  {
-    "title": "Corsair has slashed $103 off this 32GB Vengeance RAM the cheapest kit on the market at this speed",
-    "summary": "Get Corsair Vengeance DDR5 for $410.",
-    "link": "https://www.tomshardware.com/pc-components/ddr5/corsair-has-slashed-usd103-off-this-32gb-vengeance-ram-the-cheapest-kit-on-the-market-at-this-speed",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-07T15:46:06.504352"
-  },
-  {
-    "title": "Get 22% off this sweet Ryzen 7 7800X3D and RTX 5070-powered gaming PC at just $1799",
-    "summary": "Get $500 off this prebuilt gaming PC with a sweet Ryzen 7 7800X3D CPU, a powerful RTX 5070 graphics card, and 32GB of memory at just $1799.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/get-usd500-off-this-sweet-ryzen-7-7800x3d-and-rtx-5070-powered-gaming-pc-at-just-usd1799-32gb-of-ddr5-6000-comes-standard-too-at-a-22-percent-discount",
-    "categories": [
-      "GPUs",
+      "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-07T15:46:06.504429"
+    "processed_date": "2026-10-08T15:51:21.120086"
   },
   {
-    "title": "Get a 1440p QD-OLED monitor for just $280 entry-level AOC display comes with 144Hz refresh rate and 0.03ms response time",
-    "summary": "At $280, AOC's 27-inch 1440p QD-OLED monitor with a 144Hz refresh rate is one of the cheapest OLED displays we've seen.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/get-a-1440p-qd-oled-monitor-for-just-usd280-entry-level-aoc-display-comes-with-144hz-refresh-rate-and-0-03ms-response-time",
+    "title": "AMD seeks 'broader partnership' with Samsung as it looks to secure memory supply",
+    "summary": "AMD is pursuing a 'broader partnership' with Samsung as memory company wants to tie advanced memory supply to its orders at its foundry unit.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/amd-seeks-broader-partnership-with-samsung-as-it-looks-to-secure-memory-supply-samsung-reportedly-hopes-to-turn-its-memory-supply-relationship-with-amd-into-foundry-orders-for-logic-chips",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-08T15:51:21.120203"
+  },
+  {
+    "title": "American jailed for commanding 10,000 bots to stream his own AI-generated songs",
+    "summary": "The first-ever criminal case involving AI-assisted music streaming fraud has concluded, with an American citizen facing 18 months behind bars and an $8M fine.",
+    "link": "https://www.tomshardware.com/service-providers/streaming/american-jailed-for-commanding-10-000-bots-to-stream-his-own-ai-generated-songs-and-earn-millions-in-fraudulent-royalty-payments-beating-taylor-swift-is-the-first-person-to-end-up-in-prison-for-ai-assisted-music-streaming-crime",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-08T15:51:21.120324"
+  },
+  {
+    "title": "Researcher develops method for fingerprinting cheaters using Counter-Strike mouse and keyboard input patterns",
+    "summary": "u/Magga_ built a method that identified players by looking at how they use their mouse and keyboard. They can then use this to ensure that bans follow cheaters, even if they make new accounts from another device.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/researcher-develops-method-for-fingerprinting-cheaters-using-counter-strike-mouse-and-keyboard-input-patterns-says-technique-can-be-used-so-bans-follow-users-even-if-they-make-new-accounts",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-08T15:51:21.120442"
+  },
+  {
+    "title": "AMD's EPYC Verano AI host CPU will reportedly use a special SB1 socket",
+    "summary": "Dynatron quietly unveils air cooler for AMD's EPYC 'Verano' CPUs aimed at AI servers.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amds-epyc-verano-ai-host-cpu-will-reportedly-use-a-special-sb1-socket-zen-6-chip-pairs-72-cores-with-a-24-channel-lpddr5x-memory-subsystem",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-08T15:51:21.120549"
+  },
+  {
+    "title": "Spotifast lets you enjoy Spotify tracks while lowering RAM usage by 5x or more",
+    "summary": "Spotifast lets you enjoy Spotify tracks while lowering RAM usage by 5x or more alternative client also packs Winamp skins and Milkdrop visualizations.",
+    "link": "https://www.tomshardware.com/software/applications/spotifast-lets-you-enjoy-spotify-tracks-while-lowering-ram-usage-by-5x-or-more-open-source-app-cuts-ram-usage-down-to-150-mb-and-brings-back-classic-winamp-skins",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-07T15:46:06.504504"
+    "processed_date": "2026-10-08T15:51:21.120658"
   },
   {
-    "title": "HP takes $2200 off a Ryzen 7 9800X3D and RTX 5080 prebuilt at $2,799",
-    "summary": "HP is selling its Omen 35L with an Nvidia RTX 5080 and Ryzen 7 9800X3D for $2,799, or $2200 off. This system has 32GB of RAM and a 2TB SSD for strong supporting performance, too.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/hp-takes-usd2200-off-a-ryzen-7-9800x3d-and-rtx-5080-prebuilt-at-usd2-799-sale-slashes-44-percent-off-an-omen-system-thats-ready-to-game-however-you-want",
+    "title": "China allegedly intercepted UPS-shipped F-35 parts after employee missed email warning",
+    "summary": "A UPS worker missed an important email about securely routing top-secret F-35 parts so mistakenly opted for a Hong Kong transit for faster shipping.",
+    "link": "https://www.tomshardware.com/tech-industry/china-allegedly-intercepted-ups-shipped-f-35-parts-after-employee-missed-email-warning-worker-decided-to-divert-through-hong-kong-to-speed-up-delivery",
     "categories": [
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-07T15:46:06.504575"
-  },
-  {
-    "title": "Mac Mini docks add more ports and storage get more out of your headless server, AI machine, or Apple workstation",
-    "summary": "Mac Mini docks add more ports and allow for further internal storage. Many of them are molded to fit directly beneath Apple's popular mini PC.",
-    "link": "https://www.tomshardware.com/peripherals/docking-stations-hubs/mac-mini-docks-add-more-ports-and-storage-get-more-out-of-your-headless-server-ai-machine-or-apple-workstation",
-    "categories": [
-      "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-07T15:46:06.504656"
+    "processed_date": "2026-10-08T15:51:21.120788"
   },
   {
-    "title": "DSPi firmware turns Raspberry Pi RP2040/RP2350 into a USB sound card with an onboard DSP engine",
-    "summary": "DSPi is a full-featured audio DSP firmware for the Raspberry Pi Pico, Pico 2, and other Raspberry Pi RP2040/RP2350 boards, which turns them into a USB sound card with an integrated DSP. It allows users to make use of essential tools like room correction, active crossovers, parametric EQ, time alignment, and more, and essentially works as a regular sound card on your computer. DSPi firmware s capabilities: Dual-Core DSP EQ processing is split across both cores on both RP2040 and RP2350. USB Audio Interface Supports 16-bit and 24-bit PCM input at 44.1, 48, and 96 kHz, working on macOS, Windows, Linux, and iOS. S/PDIF Input 24-bit PCM stereo audio at 44.1 or 48kHz. 24-bit S/PDIF or I2S Outputs Up to 4x independent stereo output slots (8x channels on RP2350, 4x channels on RP2040). Subwoofer Output Dedicated mono PDM output channel with a high-performance 2nd-order delta-sigma modulator, [...] The post DSPi firmware turns Raspberry Pi RP2040/RP2350 into a USB sound card with an onboard DSP engine appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/07/dspi-firmware-turns-raspberry-pi-rp2040-rp2350-into-a-usb-sound-card-with-an-onboard-dsp-engine/",
+    "title": "SpaceX reportedly seeking $40 billion debt package for Nvidia AI hardware",
+    "summary": "SpaceX reportedly intends to borrow $40 billion to procure 360,000 Nvidia Rubin AI accelerators, infrastructure.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-reportedly-seeking-usd40-billion-debt-package-for-nvidia-ai-hardware-massive-raise-could-fund-roughly-360-000-vera-rubin-gpus-across-5-000-nvl72-racks",
     "categories": [
-      "Hardware",
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-08T15:51:21.120900"
+  },
+  {
+    "title": "Make the jump to an OLED gaming monitor and save 48%",
+    "summary": "Save 48% on the 45-inch LG 45GX900A-B OLED gaming monitor at Amazon.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/make-the-jump-to-an-oled-gaming-monitor-and-save-48-percent-lgs-massive-45-inch-ultragear-screen-hits-its-lowest-price",
+    "categories": [
+      "GPUs",
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-10-07T15:46:06.504936"
+    "quality_score": 0,
+    "processed_date": "2026-10-08T15:51:21.121024"
   },
   {
-    "title": "NuMaker-IoT-MA35D0-A2 (Chili Pro) ultra-compact evaluation board features MA35D0K Cortex-A35/M4 MPU",
-    "summary": "Nuvoton has added MA35D05KH67C, MA35D05KI67C, and MA35D05KJ67C, three new LQFP128 MPUs, to the NuMicro MA35D0 series, along with the NuMaker-IoT-MA35D0-A2 (Chili Pro) evaluation board. Designed for industrial AI, smart gateways, and renewable energy systems, this heterogeneous MPU has two 64-bit Arm Cortex-A35 cores at up to 650 MHz, plus a dedicated 180 MHz Arm Cortex-M4 for real-time work. Nuvoton s press release calls Chili Pro the industry s smallest Linux platform, but the board is 45 45 mm, which is bigger than other boards we wrote about previously, like the VoCore2 (25.4 25.4 2.8 mm), the Milk-V Duo 256M (51 21 mm), NanoPi NEO (40 40 mm), and even the Raspberry Pi Zero 2 W (65 30 mm). Still, considering that it fits full-sized RJ45 and USB ports along with the other interfaces, it is a pretty compact and capable board. Nuvoton NuMaker-IoT-MA35D0-A2 evaluation board specifications: [...] The post NuMaker-IoT-MA35D0-A2 (Chili Pro) ultra-compact evaluation board features MA35D0K Cortex-A35/M4 MPU appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/07/numaker-iot-ma35d0-a2-chili-pro-ultra-compact-evaluation-board-features-ma35d0k-cortex-a35-m4-mpu/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-07T15:46:06.505079"
-  },
-  {
-    "title": "ChatGPT keeps signing fake New Yorker cartoons with real artists' names",
-    "summary": "According to Nieman Lab, ChatGPT has been producing artwork suspiciously similar in style and content to cartoons previously published in The New Yorker. More troubling, the investigation found that the chatbot added forged signatures from several real cartoonists, which led some viewers to assume humans had drawn the images. Read Entire Article",
-    "link": "https://www.techspot.com/news/114119-chatgpt-accused-plagiarising-artworks-signatures-real-artists-create.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-07T15:46:06.506135"
-  },
-  {
-    "title": "FCC approves 15,000 SpaceX Starlink satellites that could compete directly with cellular carriers",
-    "summary": "The FCC cleared the mobile application on October 6. The regulator also granted a waiver allowing SpaceX to offer satellite wireless services without entering into a spectrum-leasing agreement with a terrestrial mobile operator. That gives SpaceX a route to sell mobile connectivity using its own spectrum, potentially competing directly with... Read Entire Article",
-    "link": "https://www.techspot.com/news/114128-fcc-approves-15000-spacex-starlink-mobile-satellites-could.html",
+    "title": "Taiwan indicts 10 for smuggling US military-grade chips to China, parts routed to missile and radar programs using forged Taiwan defense institute orders",
+    "summary": "Taiwanese prosecutors indicted 10 company heads over Texas Instruments and Analog Devices chips allegedly resold to China.",
+    "link": "https://www.tomshardware.com/tech-industry/taiwan-indicts-10-for-smuggling-us-military-grade-chips-to-china-parts-routed-to-missile-and-radar-programs-using-forged-taiwan-defense-institute-orders-texas-instruments-and-analog-devices-hardware-passed-off-as-made-in-taiwan",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-07T15:46:06.506276"
+    "processed_date": "2026-10-08T15:51:21.121160"
   },
   {
-    "title": "Apple is teaming up with LG on smart locks, cameras, and thermostats",
-    "summary": "Regulatory filings (via Bloomberg) identify a wired video doorbell, indoor and outdoor plug-in cameras, a floodlight camera, a smart deadbolt, a thermostat and a temperature sensor products that will extend Apple's system beyond entertainment and voice commands into home monitoring, entry, and heating and cooling control. Read Entire Article",
-    "link": "https://www.techspot.com/news/114122-apple-teaming-up-lg-smart-locks-cameras-thermostats.html",
+    "title": "Solo developer rebuilds Adobe Creative Suite in Rust using Claude, releases it free to all",
+    "summary": "Multiple Adobe creative tools were recreated using Claude and made open-source by one person.",
+    "link": "https://www.tomshardware.com/software/video-editing-graphic-design/solo-developer-rebuilds-adobe-creative-suite-in-rust-using-claude-releases-it-free-to-all-targets-100-percent-parity-in-one-month-despite-piracy-claims-and-safety-warnings",
     "categories": [
-      "AI & ML",
-      "Semiconductors"
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-08T15:51:21.121264"
+  },
+  {
+    "title": "IT pro says his parents Keurig smart coffee maker sent 1TB of data over their Wi-Fi in 10 days",
+    "summary": "A Keurig K-Supreme SMART coffee maker sent about 1TB over a family s home Wi-Fi in 10 days, saturating an access point.",
+    "link": "https://www.tomshardware.com/networking/it-pro-says-his-parents-keurig-smart-coffee-maker-sent-1tb-of-data-over-their-wi-fi-in-10-days-it-saturated-an-access-point-on-its-own-but-he-says-most-of-the-traffic-never-left-the-home-network",
+    "categories": [
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-07T15:46:06.506407"
+    "processed_date": "2026-10-08T15:51:21.121367"
   },
   {
-    "title": "Banjo-Kazooie port developer blasts AI vibe coding as retro gaming fills with low-quality ports",
-    "summary": "Developer Dario, a major figure in the emerging PC fan port community, recently published a lengthy, harsh critique of the emerging practice of using LLMs to decompile, recompile, and create new ports for retro video games. His thread on Bluesky provides a detailed explanation of the practice and its pitfalls. Read Entire Article",
-    "link": "https://www.techspot.com/news/114118-banjo-kazooie-pc-port-developer-blasts-ai-vibe.html",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-07T15:46:06.506539"
-  },
-  {
-    "title": "Honda wants to turn highways into giant wireless chargers for electric trucks while they drive",
-    "summary": "Honda's research subsidiary is working with construction company Taisei and road builder Taisei Rotec on the charging system. The partners plan to join the Tateyama Project on Japan's Tateyama Expressway in Chiba from fiscal 2027 onward, which begins April 1, 2027. Read Entire Article",
-    "link": "https://www.techspot.com/news/114126-honda-wants-turn-highways-giant-wireless-chargers-electric.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-07T15:46:06.506669"
-  },
-  {
-    "title": "VMware customers want out from under Broadcom's pricing, but few are ready to leave",
-    "summary": "A Rimini Street survey of 300 organizations worldwide that use VMware found that 60% are considering a multi-hypervisor strategy. Another 47% favor using both hypervisors and containers, allowing them to choose where to run different workloads. Rimini sells third-party support for VMware and other enterprise software, including Oracle and SAP,... Read Entire Article",
-    "link": "https://www.techspot.com/news/114121-vmware-licensing-costs-driving-customers-toward-multi-hypervisor.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-07T15:46:06.506808"
-  },
-  {
-    "title": "Microsoft's Windows and Surface event starts at 1 pm ET, watch it live for more on RTX Spark",
-    "summary": "Microsoft CEO Satya Nadella, Windows and Devices boss Pavan Davuluri, and Nvidia CEO Jensen Huang will all be attending the event. Microsoft's latest teaser includes images of the Surface Laptop Ultra, and the Surface RTX Spark Dev Box could also make an appearance. Read Entire Article",
-    "link": "https://www.techspot.com/news/114124-microsoft-windows-surface-event-starts-10-pt-1.html",
+    "title": "Pre-orders are live on Nvidia RTX Spark devices, secure the Surface Laptop Ultra or other RTX Spark laptops here starting at $2,599",
+    "summary": "Pre-orders are live on Nvidia RTX Spark laptops, including the Microsoft Surface Laptop Ultra and devices from HP, Lenovo, Asus, and Dell.",
+    "link": "https://www.tomshardware.com/laptops/pre-orders-are-live-on-nvidia-rtx-spark-devices-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptop-starting-at-usd2-599-pricing-and-availability-revealed-on-several-models",
     "categories": [
       "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-07T15:46:06.506932"
+    "processed_date": "2026-10-08T15:51:21.121511"
   },
   {
-    "title": "Norway wants to temporarily ban smart glasses in parks, beaches, and schools",
-    "summary": "Norwegian authorities are preparing a temporary ban on AI-enhanced smart glasses, giving experts time to draft a new law that restricts potential abuse of the latest wearables. The government announced the plan on Monday, saying smart glasses will become an unwelcome guest in certain public places, at least for the... Read Entire Article",
-    "link": "https://www.techspot.com/news/114109-norway-wants-temporarily-ban-smart-glasses-parks-beaches.html",
+    "title": "Do you need a mouse with an 8K polling rate?",
+    "summary": "A gaming mouse with an 8,000 Hz polling rate sounds awesome and speedy on paper, but let's take a look at what that actually means.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-mice/do-you-need-a-mouse-with-an-8k-polling-rate",
     "categories": [
-      "AI & ML",
-      "Semiconductors"
+      "GPUs"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-10-07T15:46:06.507094"
+    "quality_score": 0,
+    "processed_date": "2026-10-08T15:51:21.121619"
   },
   {
-    "title": "PSA: Google Chrome 155 update patches 247 security flaws, some critical",
-    "summary": "Chrome 155.0.8059.40 fixes 247 security vulnerabilities, including four rated Critical and dozens rated High. The most serious are use-after-free flaws affecting Chromecast, Browser, Navigation, and Track, with additional fixes across V8, WebRTC, PDF, WebGL, Media, and ANGLE. Given their severity, users should update Chrome as soon as possible. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/4718-google-chrome.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-07T15:46:06.507223"
-  },
-  {
-    "title": "Sam Altman says the world should accept some \"bad things\" happening because of AI",
-    "summary": "Speaking in an interview with Decoded by Politico, Altman was asked about the difference between OpenAI and rival Anthropic's approaches to AI safety, which has obviously been getting a lot of attention lately. Read Entire Article",
-    "link": "https://www.techspot.com/news/114112-sam-altman-world-accept-bad-things-happening-because.html",
+    "title": "Save 40% on Hoto s cordless rotary toolkit, now just $29.99 great for 3D printing and other DIY tasks",
+    "summary": "Designed for detailed DIY work, sanding, polishing, cutting, and 3D printing, Hoto s cordless rotary toolkit combines a 25,000 RPM motor with 35 accessories and a built-in LED ring light.",
+    "link": "https://www.tomshardware.com/pc-components/save-40-percent-on-hotos-cordless-rotary-toolkit-now-just-usd29-99-great-for-3d-printing-and-other-diy-tasks-get-a-powerful-25-000-rpm-motor-2-000-mah-battery-and-35-accessories-on-the-cheap",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-07T15:46:06.507341"
+    "processed_date": "2026-10-08T15:51:21.121778"
   },
   {
-    "title": "AMD vows to massively increase chip supply in 2027 as AI demand keeps growing",
-    "summary": "AMD is preparing to ramp up chip production in 2027 in order to meet growing AI demand. The chipmaker increased its supply over the course of this year and plans to do the same next year, CEO Lisa Su told reporters in Taipei on Tuesday. Read Entire Article",
-    "link": "https://www.techspot.com/news/114116-amd-vows-massively-increase-ai-chip-supply-2027.html",
+    "title": "Our favorite budget gaming chair just hit an all-time low of $189",
+    "summary": "The Razer Iskur V2 X gaming chair has hit a new all-time-low price of $189.51 on Amazon.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-chairs/our-favorite-budget-gaming-chair-just-hit-an-all-time-low-of-usd189-save-usd110-on-the-razer-iskur-v2-x-ergonomic-gaming-chair",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-08T15:51:21.121887"
+  },
+  {
+    "title": "Microsoft and Nvidia launch Surface Laptop Ultra with RTX Spark",
+    "summary": "Microsoft's Surface Laptop Ultra is now available for pre-order. The company revealed some new Windows 11 features, a new magnetic USB Type-C port, and that the system will work with \"hundreds\" of video games.",
+    "link": "https://www.tomshardware.com/laptops/microsoft-and-nvidia-launch-surface-laptop-ultra-with-rtx-spark-rtx-spark-preorders-live-now-coinciding-with-major-windows-11-changes-for-agentic-ai",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-08T15:51:21.122010"
+  },
+  {
+    "title": "New Linux tech compresses memory in RAM, as RAM, for 452x speedup",
+    "summary": "The new method allows access using standard memory semantics instead of as a block device, drastically improving performance.",
+    "link": "https://www.tomshardware.com/software/linux/new-linux-tech-compresses-memory-in-ram-as-ram-for-452x-speedup-new-cram-method-offers-giant-boost-to-compressed-memory-reads",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-08T15:51:21.122134"
+  },
+  {
+    "title": "Q8botOne A palm-sized open-source quadruped robot with ESP32-C3, DYNAMIXEL smart actuators (Crowdfunding)",
+    "summary": "ZeroWire Robotics Q8botOne is an open-source, palm-sized quadruped robot built around an ESP32-C3 MCU and ROBOTIS DYNAMIXEL smart actuators. Designed with a unique wire-free architecture, the robot integrates all components onto a central printed circuit board also used as the structural chassis. The robot is roughly the size of a smartphone and can jog, jump, and carry up to twice its 250-gram weight. The main PCB uses a dedicated 6V/16A step-down converter for motor power and includes a battery management system for two 14500 Li-ion cells. For control, the kit includes a separate ESP32-C3 controller PCB with an Adafruit Mini I2C Gamepad. Q8botOne specifications: Wireless module Espressif Systems ESP32-C3-MINI-1-N4 module with: ESP32-C3 (ESP32-C3FN4) SoC CPU 32-bit RISC-V single-core processor up to 160 MHz Memory 400 KB SRAM (16 KB for cache), 8 KB SRAM in RTC Storage 4 MB embedded flash, 384 KB ROM Connectivity [...] The post Q8botOne A palm-sized open-source quadruped robot with ESP32-C3, DYNAMIXEL smart actuators (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/08/q8botone-a-palm-sized-open-source-quadruped-robot-with-esp32-c3-dynamixel-smart-actuators/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-10-08T15:51:21.122448"
+  },
+  {
+    "title": "Efinix Sapphire RV64 SoC Configurable RISC-V soft-cores with DDR3, LPDDR4x, and HyperRAM for Efinix FPGAs",
+    "summary": "Efinix has introduced the Sapphire RV64 SoC, a configurable 64-bit RISC-V soft-core processor designed for its Titanium and Trion FPGAs. It is based on the VexiiRiscv core and can be configured with one to four RISC-V cores running at up to 400 MHz. The Sapphire RV64 has a seven-stage pipeline, configurable L1 caches, optional 64 512 KB L2 cache, and 4 512 KB of on-chip RAM. It supports DDR3, LPDDR4x, and HyperRAM with up to 512-bit AXI interfaces and external memory from 4 MB to 8 GB. Other features include an optional FPU, branch predictor, prefetchers, SV39 MMU, up to 32 GPIOs, five I C, three SPI, three UARTs, timers, watchdog, and up to eight user interrupts. Efinix Sapphire RV64 SoC specifications: CPU 1 to 4x VexiiRiscv 64-bit cores with a 7-stage pipeline (fetch, align-decompress, decode, issue, execute, memory, and writeback) Configurable system clock frequency from 20 MHz to 400 MHz Supports RV64IMACFD_Zba_Zbc_Zbs extensions [...] The post Efinix Sapphire RV64 SoC Configurable RISC-V soft-cores with DDR3, LPDDR4x, and HyperRAM for Efinix FPGAs appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/08/efinix-sapphire-rv64-soc-configurable-risc-v-soft-cores-with-ddr3-lpddr4x-and-hyperram-for-efinix-fpgas/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-08T15:51:21.122625"
+  },
+  {
+    "title": "Autonomous mower maker Firefly Robotics pursues stock listing",
+    "summary": "Firefly, whose Autonomous Mowing Platform is aimed at gold courses and similar environments, filed for an IPO last year, but later withdrew that plan.",
+    "link": "https://www.fiercesensors.com/iot-connectivity/autonomous-mower-maker-firefly-robotics-pursues-stock-listing",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-08T15:51:21.123654"
+  },
+  {
+    "title": "Nvidia and Microsoft say the \"agentic PC\" era starts with the Surface Laptop Ultra",
+    "summary": "At yesterday's big Microsoft-Nvidia launch event, Huang stated, with Nadella's strong endorsement, that the new Surface Laptop Ultra, along with all the new Windows-based PCs running Nvidia's RTX Spark chip, heralds the reinvention of the PC, marking the dawn of the agentic PC era. Read Entire Article",
+    "link": "https://www.techspot.com/news/114139-nvidia-microsoft-agentic-pc-era-starts-surface-laptop.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-08T15:51:21.124090"
+  },
+  {
+    "title": "Memory crisis puts Samsung on track for the biggest quarterly operating profit in tech history",
+    "summary": "Samsung's preliminary guidance puts operating profit for July through September at 107.4 trillion won ($80.2 billion), compared to 12.17 trillion won ($9.1 billion) a year earlier. Revenue is expected to reach 195 trillion won ($145.6 billion), an increase of almost 127%. Read Entire Article",
+    "link": "https://www.techspot.com/news/114138-memory-crisis-puts-samsung-track-biggest-quarterly-operating.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-08T15:51:21.124225"
+  },
+  {
+    "title": "Microsoft Office is down to $29 for a lifetime license",
+    "summary": "Word, Excel, and PowerPoint remain industry standards, but a Microsoft 365 subscription may not fit your budget. With Microsoft Office Professional 2021, you get a one-time purchase that includes Word, Excel, PowerPoint, Outlook, Access, Publisher, and OneNote. This standalone license means no subscriptions or hidden fees, just a complete suite... Read Entire Article",
+    "link": "https://www.techspot.com/news/96637-microsoft-office-lifetime-license.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-08T15:51:21.124349"
+  },
+  {
+    "title": "Ransomware recovery firm claimed it could decrypt files, but may have just paid hackers and pocketed the difference",
+    "summary": "The United States Department of Justice has charged Zohar Pinhasi, 50, also known as \"Zack Silver\" and \"Zack Green,\" with fraud. He ran a Florida-based company called MonsterCloud that told ransomware victims not to pay attackers because it had a way of decrypting their files for a fee, of course. Read Entire Article",
+    "link": "https://www.techspot.com/news/114137-ransomware-recovery-firm-claimed-could-decrypt-files-but.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-08T15:51:21.124496"
+  },
+  {
+    "title": "\"Software is over\": Developer uses AI to build free Adobe clones after frustration with cancellation fees",
+    "summary": "As Ars Technica reports, developer Brandon Thomas is taking on seven of Adobe's best-known applications through Artcraft. The project extend beyond Adobe's famous photo editing program to video production, vector graphics, page layouts, and PDF tools. Read Entire Article",
+    "link": "https://www.techspot.com/news/114136-software-over-developer-uses-ai-build-free-adobe.html",
     "categories": [
       "AI & ML",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-07T15:46:06.507461"
+    "processed_date": "2026-10-08T15:51:21.124639"
+  },
+  {
+    "title": "The OLED Burn-In Test: 30-Month Update",
+    "summary": "After 30 months and 8,000 hours of deliberate abuse, our 4K QD-OLED monitor has measurable burn-in , lower peak brightness, and visible wear. Here's how bad it looks in daily use. Read Entire Article",
+    "link": "https://www.techspot.com/article/3178-oled-burn-in-test/",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-08T15:51:21.124795"
+  },
+  {
+    "title": "AMD says FSR 4 is coming to handhelds and laptops by the end of 2026",
+    "summary": "Jack Huynh, senior VP of AMD's Computing and Graphics division, recently told South Korean media that official FSR 4 support will come to a range of APUs, gaming laptops, and handheld gaming PCs before the end of 2026. The Elec reports that the company will also launch a new generation... Read Entire Article",
+    "link": "https://www.techspot.com/news/114133-amd-fsr-4-coming-handhelds-laptops-end-2026.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-08T15:51:21.124945"
+  },
+  {
+    "title": "Microsoft's Surface Laptop Ultra starts at $2,600, running Nvidia's RTX Spark chip",
+    "summary": "Pre-orders are now open for the Surface Laptop Ultra and other laptops built on the same Arm-based SoC, which marks Nvidia's entry into the PC CPU market. Microsoft's model starts at $2,600 with 24GB of unified memory. Read Entire Article",
+    "link": "https://www.techspot.com/news/114130-microsoft-surface-laptop-ultra-starts-2600-running-nvidia.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-08T15:51:21.125100"
+  },
+  {
+    "title": "Seagate and Toshiba are reportedly fighting to acquire TDK's HDD magnetic-head technology",
+    "summary": "According to sources familiar with the matter, Seagate and Toshiba are currently battling each other to acquire TDK's magnetic-head business. The Japanese company is one of the few independent manufacturers still making this crucial electronic component, but HDD giants are now looking to strengthen their supply chains as the entire... Read Entire Article",
+    "link": "https://www.techspot.com/news/114129-seagate-toshiba-reportedly-fighting-acquire-tdk-hdd-magnetic.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-08T15:51:21.125266"
+  },
+  {
+    "title": "OpenAI publishes 722 AI-generated math papers as researchers challenge its closed model",
+    "summary": "OpenAI organized the results into 372 groups and said it had given the model about 4,000 problems. The release gives researchers a large collection of proofs to examine, but not access to the proprietary system that produced them. Read Entire Article",
+    "link": "https://www.techspot.com/news/114127-openai-publishes-722-ai-generated-math-papers-researchers.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-08T15:51:21.125410"
+  },
+  {
+    "title": "Denuvo DRM removed from Tomb Raider: Legacy of Atlantis, and everyone is wondering why",
+    "summary": "Earlier this month, the studios working on the Tomb Raider: Legacy of Atlantis remake updated the game's entry in Steam's database. The update appears to remove Denuvo's anti-tamper technology, potentially marking a major change coming four months before the game's scheduled release on February 12, 2027. Read Entire Article",
+    "link": "https://www.techspot.com/news/114117-denuvo-drm-removed-tomb-raider-legacy-atlantis-everyone.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-08T15:51:21.125538"
+  },
+  {
+    "title": "Paramount now owns Warner Bros, HBO, CBS, and CNN, and Netflix is out",
+    "summary": "Paramount has officially begun its merger with Warner Bros. Discovery, turning parent company Skydance into a new media giant. Following the closure, Skydance confirmed that it will eventually combine streaming services HBO Max, Paramount+, and Discovery+. Read Entire Article",
+    "link": "https://www.techspot.com/news/114123-paramount-completes-110-billion-warner-bros-cnn-takeover.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-08T15:51:21.125653"
   }
 ]
