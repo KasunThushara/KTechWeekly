@@ -1,319 +1,157 @@
 [
   {
-    "title": "Gigabyte's latest BIOS update hints at Intel's Raptor Lake Next Launch in 2027",
-    "summary": "Gigabyte confirms BIOS support for upcoming Intel LGA 1700 processors on B760 and H610 motherboards, with the rumored Raptor Lake Next lineup expected in early 2027 to support both DDR4 and DDR5 memory.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/gigabytes-latest-bios-update-hints-at-intels-raptor-lake-next-launch-in-2027-new-cpus-may-support-both-ddr4-and-ddr5-memory",
+    "title": "Senate investigation says that some AI data center claims are misleading",
+    "summary": "A Senate investigation on AI data centers question that costs and benefits that AI hyperscalers show when they apply for permits to put up their developments. The report says that these claims are misleading and that they don't show the real impact of these sites on the local economy.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/senate-investigation-says-that-some-ai-data-center-claims-are-misleading-senators-question-number-of-permanent-jobs-projects-bring-to-communities-but-companies-refuse-to-divulge-data",
     "categories": [
-      "Hardware",
-      "Tech News"
+      "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-10-09T15:33:43.338040"
+    "quality_score": 10,
+    "processed_date": "2026-10-10T14:44:12.358022"
   },
   {
-    "title": "Microsoft 365 slashes storage capacity for shared accounts amid industry-wide shortages",
-    "summary": "This effectively increases the costs for large users, although it may benefit those who have family members that don't take up much cloud storage space.",
-    "link": "https://www.tomshardware.com/software/cloud-storage/microsoft-365-slashes-storage-capacity-for-shared-accounts-amid-industry-wide-shortages-2tb-limit-to-take-effect-after-april-2027",
+    "title": "We tested gaming performance in 17-year-old Windows 7 on a modern gaming PC against Windows 11",
+    "summary": "We managed to install Windows 7 on a modern PC and put it to the test across eight DirectX 11 games and two DirectX 9 titles to see how its gaming performance compares to Windows 11 today.",
+    "link": "https://www.tomshardware.com/software/windows/we-tested-gaming-performance-in-17-year-old-windows-7-against-windows-11-on-a-modern-gaming-pc-older-operating-system-delivers-advantages-in-some-scenarios",
     "categories": [
-      "Tech News"
+      "AI & ML",
+      "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-10-09T15:33:43.338155"
+    "quality_score": 10,
+    "processed_date": "2026-10-10T14:44:12.358119"
   },
   {
-    "title": "PC shipments tumble over 20% in 3Q26 as chip shortages bite",
-    "summary": "PC shipments for the third quarter of 2026 drop by 15.8 million units, with Lenovo, HP, and Dell being hit the hardest. Memory chip manufacturers estimate that the situation will not improve until 2028 or 2029, even as Acer believes that PC prices will decline by late 2027.",
-    "link": "https://www.tomshardware.com/tech-industry/pc-shipments-tumble-over-20-percent-in-3q26-as-chip-shortages-bite-top-three-pc-vendors-ship-11-6-million-fewer-units-year-over-year",
+    "title": "Top AI labs reportedly planning for catastrophic AI event fallout",
+    "summary": "One focus of these contingency plans is how to manage Congress after a catastrophic event puts these labs in the spotlight.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/top-ai-labs-reportedly-planning-for-catastrophic-ai-event-fallout-anthropic-openai-and-others-reportedly-building-contingency-plans-and-running-scenarios-of-a-runaway-ai-wreaking-havoc",
     "categories": [
-      "Hardware",
-      "Semiconductors"
+      "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-10-09T15:33:43.338275"
+    "quality_score": 0,
+    "processed_date": "2026-10-10T14:44:12.358194"
   },
   {
-    "title": "Mistral s new Large 4 trails some Chinese open models in independent tests",
-    "summary": "Artificial Analysis scores Mistral s new Large 4 at 38, behind open models from Xiaomi, Z.ai, Moonshot, and DeepSeek.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/independent-tests-rank-mistrals-new-trillion-parameter-large-4-the-best-ai-model-outside-the-u-s-and-china-but-chinese-open-weights-still-overcome-europes-best-efforts",
+    "title": "Free Steam demo runs up $1,000 daily AI bill and forces devs to take out bank loan",
+    "summary": "Easy Fox were surprised by the number of users and didn't expect that the demo's popularity would cause its AI expenses to go that high.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/free-steam-demo-runs-up-usd1-000-daily-ai-bill-and-forces-devs-to-take-out-bank-loan-studio-eyes-local-hardware-models-to-escape-cloud-limits-as-cheaper-automatic-fallback-ai-models-create-problems-game-uses-ai-to-process-your-voice-and-build-responses",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-09T15:33:43.338380"
+    "processed_date": "2026-10-10T14:44:12.358269"
   },
   {
-    "title": "Grab this 32-inch 4K OLED gaming monitor from ASRock for the super low price of $596",
-    "summary": "Save 33% on the 32-inch ASRock Phantom Gaming 4K OLED gaming monitor at Newegg.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/grab-this-32-inch-4k-oled-gaming-monitor-from-asrock-for-the-super-low-price-of-usd596-dual-mode-refresh-rates-and-resolutions-let-you-switch-between-high-fidelity-and-esports-gaming",
+    "title": "Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs",
+    "summary": "Nvidia reportedly discontinues GeForce RTX 5090-series products leaving GB202 for data center and professional graphics boards. GeForce RTX 5080 24 GB rumored to become de-facto flagship from the green camp for a while.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship",
     "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-10T14:44:12.358353"
+  },
+  {
+    "title": "Russian modder slaps DLSS 5 onto Pac-Man with 4x Multipass",
+    "summary": "Russian YouTube channel dedicated to DLSS 5 experiments tries Pac-Man, and it's genuinely cursed.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/dlss-5-on-pac-man-is-a-creepypasta-one-rendering-mode-even-removes-the-eyes-of-a-ghost",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-10T14:44:12.358419"
+  },
+  {
+    "title": "AnyPS5 project reaches critical GPU milestone in race to enable running PS5 games natively on PC",
+    "summary": "The open-source AnyPS5 project has reached 100% GPU shader instruction coverage.",
+    "link": "https://www.tomshardware.com/video-games/playstation/anyps5-reaches-critical-gpu-milestone-with-100-percent-shader-instruction-coverage-ps5-games-running-natively-on-pc-still-far-off",
+    "categories": [
+      "Hardware",
       "GPUs"
     ],
     "quality_score": 0,
-    "processed_date": "2026-10-09T15:33:43.338479"
+    "processed_date": "2026-10-10T14:44:12.358491"
   },
   {
-    "title": "Kioxia unveils E1.L SSDs for hyperscalers with up to 122.88TB capacity",
-    "summary": "Kioxia's LD4-series SSDs can store up to 122.88TB of data in a compact form-factor, but its performance remains a mystery.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/kioxia-unveils-e1-l-ssds-for-hyperscalers-with-up-to-122-88tb-capacity-extreme-density-meets-compact-form-factor",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-09T15:33:43.338590"
-  },
-  {
-    "title": "Arc Raiders publisher developing AI anti-cheat stack in escalating war with cheaters",
-    "summary": "These strict measures are designed to deter players from cheating. Those caught will get a permaban that span accounts and even hardware in the future.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/arc-raiders-developer-uses-ai-to-detect-cheating-embark-cracks-down-on-cheaters-deploys-harsh-penalties-including-permaban-on-first-time-offenders",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-09T15:33:43.338724"
-  },
-  {
-    "title": "AMD attempted to crush the 'Megahertz myth' with its Performance Rating system on this day 25 years ago",
-    "summary": "Today, a quarter of a century ago, AMD launched its AMD Athlon XP processor family and its Performance Rating (PR) naming scheme.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-tried-to-crush-the-megahertz-myth-25-years-ago-today-debuting-its-performance-rating-system-athlon-xp-chips-introduced-the-scheme-which-endured-until-intel-lost-its-clock-speed-advantage-with-pentium-m",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-10-09T15:33:43.338840"
-  },
-  {
-    "title": "GlobalFoundries to produce silicon interposers for TSMC's CoWoS in the US",
-    "summary": "GlobalFoundries becomes a part of TSMC's CoWoS supply chain in the U.S.: set to participate in production of leading-edge AI and HPC accelerators without investing in leading-edge process technologies.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-to-produce-silicon-interposers-for-tsmcs-cowos-in-the-us-five-year-agreement-valued-at-usd2-billion",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-09T15:33:43.338953"
-  },
-  {
-    "title": "U.S. suspends green card path for H-1B workers at Microsoft and Adobe",
-    "summary": "U.S. suspends green card path for H-1B workers at Microsoft, Adobe, and IT outsourcing companies PERM program blocked due to alleged fraud",
-    "link": "https://www.tomshardware.com/tech-industry/policy/u-s-suspends-green-card-path-for-h-1b-workers-at-microsoft-and-adobe-labor-certification-program-blocked-due-to-alleged-fraud",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-09T15:33:43.339057"
-  },
-  {
-    "title": "The Atari 800XL returns with a 'faithful' but modern Retro Games Ltd redesign",
-    "summary": "Pre-orders for the Atari-licensed THE 800XL began today. This is a modernized yet claimed to be faithful recreation of the classic 8-bit home computer, popular in the early 1980s.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/the-atari-800xl-returns-with-a-faithful-but-modern-retro-games-ltd-redesign-classic-8-bit-home-computer-revamp-sports-mechanical-keyboard-and-hdmi-connectivity",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-09T15:33:43.339163"
-  },
-  {
-    "title": "Department of War dishes out $1.5 billion loan commitment to boost semiconductor supply chain",
-    "summary": "Wolfspeed has secured a conditional $1.5 billion, 30-year loan commitment from the U.S. Department of War to expand GaN epitaxy and radiation-hardened SiC and GaN technologies for U.S. national security applications",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/department-of-war-dishes-out-usd1-5-billion-loan-commitment-to-boost-semiconductor-supply-chain-wolfspeed-to-focus-on-national-security-applications-as-part-of-30-year-agreement",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-09T15:33:43.339272"
-  },
-  {
-    "title": "Finland orders Google to stop work on two AI data centers over alleged deforestation",
-    "summary": "Finnish authorities say they cannot conduct a proper environmental assessment after the site has already been changed.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/finland-orders-google-to-stop-work-on-two-ai-data-centers-over-alleged-deforestation-company-admits-it-has-fallen-short-of-our-own-high-standards-in-this-instance",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-09T15:33:43.339374"
-  },
-  {
-    "title": "Open-source ESP32-C3 DNS ad blocker supports up to over 500,000 domains without PSRAM",
-    "summary": "Developed by Zed (M-Abozaid), the esp32-c3-adblock is an open-source, Pi-hole-style DNS ad blocker that runs on a $2 ESP32-C3 microcontroller board/module without requiring PSRAM. It blocks ads and tracking domains across devices on a home or small office network by filtering DNS requests. Instead of storing domain strings in RAM, the project stores them as sorted 40-bit FNV-1a hashes in flash memory and uses binary search to check DNS requests. When a UDP DNS query comes in, the C++ firmware extracts the domain, hashes it (including parent suffixes), and performs a binary search against the flash hash table. If the domain is on the blocklist, the ESP32-C3 returns 0.0.0.0 to block the request. Otherwise, it forwards the query to an upstream DNS server and returns the response to the client. This method fits over 140,000 domains into ~0.7 MB of flash memory while using only ~50 KB of RAM. A [...] The post Open-source ESP32-C3 DNS ad blocker supports up to over 500,000 domains without PSRAM appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/09/open-source-esp32-c3-dns-ad-blocker-supports-up-to-over-500000-domains-without-psram/",
+    "title": "Crazed modder straps 360mm AIO radiator to laptop, cuts temps to below 40 degrees",
+    "summary": "PC modder TrashBench attached a 360mm radiator and custom cooling to a laptop and gained up to 14% in performance at the cost of the definition of a laptop.",
+    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/crazed-modder-straps-360mm-aio-radiator-to-laptop-cuts-temps-below-40-degrees-performance-gains-an-average-of-14-percent-in-games-and-benchmarks",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-10-09T15:33:43.339844"
+    "quality_score": 10,
+    "processed_date": "2026-10-10T14:44:12.358573"
   },
   {
-    "title": "Sipeed SLogic32U3 A high-speed 10 Gbps USB 3.2 logic analyzer (Crowdfunding)",
-    "summary": "Sipeed has just launched what they claim is the world s first 10 Gbps USB 3.2 logic analyzer. The SLogic32U3 is the successor to the SLogic16U3 3.2 Gbps logic analyzer launched in 2025. The SLogic32U3 USB-C logic analyzer supports up to 32 channels via four mini HDMI connectors, 350 MHz signal bandwidth, up to 1400 MS/s per channel with four channels, or 200 MS/s per channel with 32 channels, and is offered with an optional ADC module. SLogic32U3 specifications: FPGA Not mentioned (potentially from GOWIN) Input channels 32 digital channels via 4x mini HDMI ports, each with 8 channels Sample rates 1400MS/s @ 4 channels 800MS/s @ 8 channels 400MS/s @ 16 channels 200MS/s @ 32 channels Digital signal bandwidth 350 MHz Stream FIFO buffer 2 Gbit DDR3 Capture mode Stream (real-time readback); depth limited by PC memory/disk Signal input voltage 0 10 V Adjustable threshold [...] The post Sipeed SLogic32U3 A high-speed 10 Gbps USB 3.2 logic analyzer (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/09/sipeed-slogic32u3-high-speed-10-gbps-usb-3-2-logic-analyzer/",
+    "title": "Ukrainian drones strike largest data center in Russia, multiple parts of 1.4 million square foot campus knocked offline",
+    "summary": "Following a Ukrainian drone strike on a D.C. in Sasovo, Russia, a Yandex facility in Kaluga has suffered a similar fate with multiple modules completely out of service.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/second-russian-data-center-targeted-by-ukrainian-drones-in-just-two-days-as-yandex-reels-from-another-service-outage-russian-state-media-admits-that-multiple-modules-completely-taken-out",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-10T14:44:12.358650"
+  },
+  {
+    "title": "World s first 3D-printed remote control aircraft with a jet turbine takes flight, aims for Mach 0.8 to beat world record for fastest model aircraft",
+    "summary": "Team of graduates attempts to beat Guiness World Record for fastest jet-powered model aircraft using PETG and clever engineering.",
+    "link": "https://www.tomshardware.com/3d-printing/worlds-first-3d-printed-remote-control-aircraft-with-a-jet-turbine-takes-flight-aims-for-mach-0-8-to-beat-world-record-for-fastest-model-aircraft-mostly-printed-using-standard-petg-materials",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-10T14:44:12.358733"
+  },
+  {
+    "title": "M5Stack ToughC5 weatherproof ESP32-C5 IoT controller offers dual-band Wi-Fi 6, BLE 5, and Zigbee/Thread",
+    "summary": "M5Stack has just introduced the ToughC5, a rugged, weatherproof outdoor IoT controller built around the ESP32-C5. The device features a bright 2.0-inch capacitive touch IPS display and RS485 connectivity. The ToughC5 is an upgrade to the ESP32-base3d M5Stack TOUGH introduced in 2021, with the upgraded model featuring a more modern ESP32-C5 MCU with dual-band (2.4/5 GHz) Wi-Fi 6, Bluetooth 5 LE, and an IEEE 802.15.4 radio for Zigbee and Thread. Other changes include faster Octal PSRAM, an upgraded RTC chip with a dedicated coin cell backup battery, a passive buzzer replacing the previous 1W speaker, and a custom power management system (M5PM1 + M5IOE1) replacing the AXP192 PMU. These features make it suitable for industrial field control, outdoor edge data collection, and smart building applications. M5Stack ToughC5 specifications: Wireless SoC Espressif Systems ESP32-C5HR8 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 40 MHz [...] The post M5Stack ToughC5 weatherproof ESP32-C5 IoT controller offers dual-band Wi-Fi 6, BLE 5, and Zigbee/Thread appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/10/m5stack-toughc5-weatherproof-esp32-c5-iot-controller-offers-dual-band-wi-fi-6-ble-5-and-zigbee-thread/",
     "categories": [
       "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-10-09T15:33:43.340009"
-  },
-  {
-    "title": "Bet you can t fully define a robot. Arm agrees.",
-    "summary": "Sensors function in a world of fragmentation across robots and physical AI models and systems. Arm is spearheading an effort to change that.",
-    "link": "https://www.fiercesensors.com/ai/bet-you-cant-fully-define-robot-arm-agrees",
-    "categories": [
-      "AI & ML",
       "Semiconductors"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-10-09T15:33:43.341271"
-  },
-  {
-    "title": "Cyberpunk 2077 is getting a Paramount movie after selling 40 million copies",
-    "summary": "No director, cast, or release date has been announced. The project will draw on a universe where an implanted chip can carry another person's consciousness and threaten to erase its host. The producers have not said whether the film will adapt the game's story or introduce different characters in... Read Entire Article",
-    "link": "https://www.techspot.com/news/114152-cyberpunk-2077-getting-paramount-movie-after-selling-40.html",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
     "quality_score": 10,
-    "processed_date": "2026-10-09T15:33:43.341480"
+    "processed_date": "2026-10-10T14:44:12.359161"
   },
   {
-    "title": "From gaming graphics to AI dominance: Nvidia's Jensen Huang receives America's highest science honor",
-    "summary": "AMD CEO Lisa Su, Google co-founder Sergey Brin and Elon Musk also received the National Medal of Science at the event. Dell founder Michael Dell and Microsoft CEO Satya Nadella received the National Medal of Technology and Innovation, a separate federal honor. Read Entire Article",
-    "link": "https://www.techspot.com/news/114150-gaming-graphics-ai-dominance-nvidia-jensen-huang-receives.html",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-09T15:33:43.341666"
-  },
-  {
-    "title": "Microsoft and Adobe hit with green-card suspensions as Vance accuses tech firms of sidelining American workers",
-    "summary": "The suspension targets the Permanent Labor Certification program, better known as PERM. Adobe, Cognizant, Infosys, Tata Consultancy Services, Wipro, HCL Technologies, and Capgemini are also affected. Labor Secretary Keith Sonderling said officials would stop accepting new applications and processing pending ones from the companies. Read Entire Article",
-    "link": "https://www.techspot.com/news/114154-microsoft-adobe-hit-green-card-suspensions-vance-accuses.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-09T15:33:43.341881"
-  },
-  {
-    "title": "Apple's touchscreen MacBook could arrive later this month",
-    "summary": "Sources have told Bloomberg's Mark Gurman that Apple is planning an event near the end of October to mark what would be its fourth hardware launch of the fall. The star would be the long-rumored touchscreen-equipped MacBook, but other devices are also expected to appear. Read Entire Article",
-    "link": "https://www.techspot.com/news/114148-apple-touchscreen-macbook-could-arrive-later-month.html",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-09T15:33:43.342052"
-  },
-  {
-    "title": "School district makes dramatic U-turn on AI, banning it across all grades weeks after Google Gemini rollout",
-    "summary": "Frederick County became the latest school district to ban AI use in the classroom this week, voting 6-1 to restrict the technology from pre-K through 12th grade. Read Entire Article",
-    "link": "https://www.techspot.com/news/114151-school-district-makes-dramatic-u-turn-ai-banning.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-09T15:33:43.342215"
-  },
-  {
-    "title": "Former CIA chief says AI could begin directing battlefield weapons by 2030",
-    "summary": "\"Just four years from now, we will have autonomous systems, and I think we will have the beginning of autonomous systems of autonomous systems; we will have AI agents, so you'll have agentic AI staff officers,\" Petraeus told investor Finn Murphy on the Forecast2050 podcast. Read Entire Article",
-    "link": "https://www.techspot.com/news/114149-former-cia-chief-ai-could-begin-directing-battlefield.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-09T15:33:43.342389"
-  },
-  {
-    "title": "Being mean to AI could get you banned as Anthropic introduces new rules against abusing Claude",
-    "summary": "Anthropic's first changes to its usage policy in over a year include new restrictions on abusive behavior. The updated policy prohibits \"sustained and needless abusive or cruel behavior\" toward its models. Read Entire Article",
-    "link": "https://www.techspot.com/news/114153-mean-ai-could-get-you-banned-anthropic-introduces.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-09T15:33:43.342554"
-  },
-  {
-    "title": "A smart coffee maker uploaded 1TB of data in 10 days, and nobody knows why",
-    "summary": "An IT worker was recently shocked to discover that his parents' Keurig coffee maker had uploaded more than a terabyte of data in just 10 days. While a bug is the likely cause, the episode highlights the growing risks of connecting more and more mundane devices to the internet. Read Entire Article",
-    "link": "https://www.techspot.com/news/114147-smart-coffee-maker-uploaded-1tb-data-10-days.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-09T15:33:43.342738"
-  },
-  {
-    "title": "Elecom made a USB-C dock with a big dial on top, and I kind of want one",
-    "summary": "As it turns out, Elecom makes some unusual niche hardware, including the M.A.P.P. mouse and the IST trackball (credit goes to TPU for highlighing them). As for the dock, here's what's on offer: Read Entire Article",
-    "link": "https://www.techspot.com/news/114142-usb-c-dock-has-surface-dial-style-knob.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-09T15:33:43.342901"
-  },
-  {
-    "title": "Gears of War: E-Day reviews: strong combat and multiplayer, but a repetitive campaign",
-    "summary": "Gears of War: E-Day has received mostly positive reviews, with critics praising its intense combat, return to the series' roots, and strong multiplayer modes. Some, however, found the campaign repetitive and unevenly paced. Steam players peaked at around 31,500, excluding those on Game Pass and the Xbox app. Read Entire Article",
-    "link": "https://www.techspot.com/products/pc-games/gears-of-war-e-day.330946/",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-09T15:33:43.343098"
-  },
-  {
-    "title": "Diablo 2 in VR looks like a completely different game from a first-person perspective",
-    "summary": "The mod comes courtesy of Reddit user Fantastic-Author2736. A clip shared on YouTube shows the modder playing as a sorceress in first-person view. The game's main interface is off screen, and key items like the map and inventory have been moved to the player's hand and belt. In the minute-long... Read Entire Article",
-    "link": "https://www.techspot.com/news/114140-diablo-2-vr-looks-like-completely-different-game.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-09T15:33:43.343272"
-  },
-  {
-    "title": "Wi-Fi 7 is expected to bring all of these improvements over Wi-Fi 6, except...",
-    "summary": "Is it more channel bandwidth, max throughput, or newer bands? Read Entire Article",
-    "link": "https://www.techspot.com/trivia/159-wi-fi-7-expected-bring-all-improvements-over/",
+    "title": "In search of the incredible shrinking quantum sensor",
+    "summary": "Infleqtion, Honeywell Aerospace, and the University of California, Santa Barbara are working to skrink the optical cavity of quantum sensors.",
+    "link": "https://www.fiercesensors.com/electronics/search-incredible-shrinking-quantum-sensor",
     "categories": [
       "Tech News"
     ],
     "quality_score": 0,
-    "processed_date": "2026-10-09T15:33:43.343420"
+    "processed_date": "2026-10-10T14:44:12.360011"
   },
   {
-    "title": "Wikipedia says rogue AI agents from OpenAI edited its private wikis and hammered its servers",
-    "summary": "Wikimedia Foundation, the organization that hosts Wikipedia and other major wiki-based collaboration projects, is once again clashing with AI companies over their alleged abuse of its servers. In particular, the foundation said that OpenAI was \"caught\" performing unauthorized operations through its supposedly autonomous, and most certainly \"rogue,\" AI agents. Read Entire Article",
-    "link": "https://www.techspot.com/news/114131-wikimedia-foundation-openai-rogue-ai-agents-caught-making.html",
+    "title": "Survey says workers are pretending to use AI to impress their bosses, but many don't know what they're doing",
+    "summary": "According to the findings, which come from research conducted in part by business intelligence firm Visier, nearly half of surveyed US employees misreport how much they use generative AI in the workplace. Read Entire Article",
+    "link": "https://www.techspot.com/news/114160-workers-pretending-use-ai-impress-their-bosses-but.html",
     "categories": [
-      "AI & ML",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-10T14:44:12.360320"
+  },
+  {
+    "title": "Richard Garriott says he's getting the Ultima rights back from EA in 2027",
+    "summary": "Richard Garriott will soon get the Ultima rights back and is already planning what to do with the series afterward. The British-born American game designer, entrepreneur, and space tourist played a major role in establishing the CRPG genre during the home computer era. Now, the man behind the Lord British... Read Entire Article",
+    "link": "https://www.techspot.com/news/114156-richard-garriott-getting-ultima-rights-back-ea-2027.html",
+    "categories": [
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-09T15:33:43.343606"
+    "processed_date": "2026-10-10T14:44:12.360445"
   },
   {
-    "title": "Man who made $8 million using AI-generated songs and an army of streaming bots gets 18 months in prison",
-    "summary": "According to court documents, Michael Smith, of Cornelius, North Carolina, worked with co-conspirators between 2017 and 2024 to fraudulently inflate plays of AI-generated music on Spotify, Amazon Music, Apple Music, and YouTube. Read Entire Article",
-    "link": "https://www.techspot.com/news/114135-man-who-made-8-million-using-ai-generated.html",
+    "title": "Microsoft is turning Windows Search into an AI agent-like experience",
+    "summary": "Microsoft has introduced yet another redesign of Windows Search, just in time for its latest Surface-focused event. The Windows 11 feature is set to become more streamlined and focused, Microsoft said, while gaining a new influx of AI options that aim to turn the \"humble\" search box into a multipurpose... Read Entire Article",
+    "link": "https://www.techspot.com/news/114141-windows-search-getting-ai-makeover-microsoft-pushes-toward.html",
     "categories": [
-      "AI & ML",
-      "Semiconductors"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-09T15:33:43.343804"
+    "processed_date": "2026-10-10T14:44:12.360553"
   }
 ]
