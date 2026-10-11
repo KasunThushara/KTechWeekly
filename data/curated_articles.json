@@ -1,157 +1,230 @@
 [
   {
-    "title": "Senate investigation says that some AI data center claims are misleading",
-    "summary": "A Senate investigation on AI data centers question that costs and benefits that AI hyperscalers show when they apply for permits to put up their developments. The report says that these claims are misleading and that they don't show the real impact of these sites on the local economy.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/senate-investigation-says-that-some-ai-data-center-claims-are-misleading-senators-question-number-of-permanent-jobs-projects-bring-to-communities-but-companies-refuse-to-divulge-data",
+    "title": "Modder discovers that putting a GPU in the 'wrong place' can deliver a 19 degree cooler hotspot",
+    "summary": "In PC DIY it might still be worth challenging convention, as TrashBench shows with his GPU hotspot getting up to 19C cooler.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/modder-discovers-that-putting-a-gpu-in-the-wrong-place-can-deliver-a-19-degree-cooler-hotspot-breaking-convention-can-produce-great-results-despite-decades-of-pc-diy-evolution",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-11T15:04:23.436479"
+  },
+  {
+    "title": "Russia's Yandex bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers",
+    "summary": "Russian bot traffic falls dramatically as Ukraine takes out several Yandex data centers.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/russian-disinformation-bot-traffic-nearly-eliminated-overnight-after-ukraine-drone-strikes-cripple-multiple-of-russias-google-data-centers-ukraine-intensifies-bombing-of-yandex-data-centers-in-response-to-moscows-strikes-on-kyiv-data-centers",
     "categories": [
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-10-10T14:44:12.358022"
+    "quality_score": 5,
+    "processed_date": "2026-10-11T15:04:23.436603"
   },
   {
-    "title": "We tested gaming performance in 17-year-old Windows 7 on a modern gaming PC against Windows 11",
-    "summary": "We managed to install Windows 7 on a modern PC and put it to the test across eight DirectX 11 games and two DirectX 9 titles to see how its gaming performance compares to Windows 11 today.",
-    "link": "https://www.tomshardware.com/software/windows/we-tested-gaming-performance-in-17-year-old-windows-7-against-windows-11-on-a-modern-gaming-pc-older-operating-system-delivers-advantages-in-some-scenarios",
+    "title": "Sandisk NAS 800 1.92TB SSD Review: Endurance at a premium",
+    "summary": "The Sandisk NAS 800 is a high-end PCIe 5.0 NVMe SSD built for NAS workloads, with high endurance, strong sustained write performance, and low 4KB random latency. It s mainly held back by its high price.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/sandisk-nas-800-1-92tb-ssd-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-10-11T15:04:23.436720"
+  },
+  {
+    "title": "Developer turns classic Windows Minesweeper into hand-holding 'big-budget, Triple-A parody",
+    "summary": "This reboot of Minesweeper makes it feel like a big budget game created by a massive game studio.",
+    "link": "https://www.tomshardware.com/video-games/developer-turns-classic-windows-minesweeper-into-hand-holding-big-budget-triple-a-parody-browser-reboot-mocks-modern-gaming-with-chatty-npcs-internal-monologues-and-promised-loot-boxes",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-11T15:04:23.436823"
+  },
+  {
+    "title": "Programmer ports Super Mario 64 to Microsoft s Zune HD media player",
+    "summary": "A fan port of Nintendo s Super Mario 64 runs natively on Microsoft s 2009 Zune HD media player, with touch controls and saves.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/programmer-ports-super-mario-64-to-microsofts-zune-hd-media-player-the-2009-ipod-rival-runs-the-game-natively-on-its-nvidia-tegra-chip-with-touchscreen-controls-and-saves",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-11T15:04:23.436920"
+  },
+  {
+    "title": "Cryptomining malware used poetry to infect more than 3,400 servers, researchers say",
+    "summary": "Lumen's Black Lotus Labs says PoeLLM malware has hit more than 3,400 servers, most of them exposed AI tools like LiteLLM and Ollama.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/cryptomining-malware-used-poetry-to-infect-more-than-3-400-servers-researchers-say-four-words-in-the-poellm-verse-changed-11-times-point-the-botnet-to-new-servers",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-10T14:44:12.358119"
+    "processed_date": "2026-10-11T15:04:23.437040"
   },
   {
-    "title": "Top AI labs reportedly planning for catastrophic AI event fallout",
-    "summary": "One focus of these contingency plans is how to manage Congress after a catastrophic event puts these labs in the spotlight.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/top-ai-labs-reportedly-planning-for-catastrophic-ai-event-fallout-anthropic-openai-and-others-reportedly-building-contingency-plans-and-running-scenarios-of-a-runaway-ai-wreaking-havoc",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-10T14:44:12.358194"
-  },
-  {
-    "title": "Free Steam demo runs up $1,000 daily AI bill and forces devs to take out bank loan",
-    "summary": "Easy Fox were surprised by the number of users and didn't expect that the demo's popularity would cause its AI expenses to go that high.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/free-steam-demo-runs-up-usd1-000-daily-ai-bill-and-forces-devs-to-take-out-bank-loan-studio-eyes-local-hardware-models-to-escape-cloud-limits-as-cheaper-automatic-fallback-ai-models-create-problems-game-uses-ai-to-process-your-voice-and-build-responses",
+    "title": "State of California sues 3D printer filament company Polymaker for promoting ghost guns by marketing to 3D-printed gun community",
+    "summary": "The newly formed Consumer Fairness and Public Protection Division is also targeting Roblox and AppLovin.",
+    "link": "https://www.tomshardware.com/3d-printing/state-of-california-sues-3d-printer-filament-company-polymaker-for-promoting-ghost-guns-by-marketing-to-3d-printed-gun-community-state-alleges-company-turns-harmless-pla-filament-into-a-regulated-firearm-precursor-part",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-10T14:44:12.358269"
+    "processed_date": "2026-10-11T15:04:23.437148"
   },
   {
-    "title": "Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs",
-    "summary": "Nvidia reportedly discontinues GeForce RTX 5090-series products leaving GB202 for data center and professional graphics boards. GeForce RTX 5080 24 GB rumored to become de-facto flagship from the green camp for a while.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship",
+    "title": "Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications",
+    "summary": "ArtCraft is expanding its roster of open-source creative tools as cross-platform alternatives to predatory subscription models.",
+    "link": "https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next",
     "categories": [
-      "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-10T14:44:12.358353"
+    "processed_date": "2026-10-11T15:04:23.437272"
   },
   {
-    "title": "Russian modder slaps DLSS 5 onto Pac-Man with 4x Multipass",
-    "summary": "Russian YouTube channel dedicated to DLSS 5 experiments tries Pac-Man, and it's genuinely cursed.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/dlss-5-on-pac-man-is-a-creepypasta-one-rendering-mode-even-removes-the-eyes-of-a-ghost",
+    "title": "New Cray-1 supercomputer replica built with 30 vintage Mac Minis and packs 1.5 TFLOPS of compute",
+    "summary": "Legendary 1975 supercomputer gets a modernized replica with old Mac Minis, showcasing decades of innovation.",
+    "link": "https://www.tomshardware.com/tech-industry/supercomputers/working-cray-1-supercomputer-replica-packs-30-vintage-mac-minis-and-1-5-tflops-passively-cooled-tribute-is-9-375x-faster-than-the-1976-supercomputer",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-11T15:04:23.437375"
+  },
+  {
+    "title": "US military-backed cargo pod promises 90-minute orbital delivery anywhere on Earth, 10-ton Ghost vehicle gets first real-world test",
+    "summary": "Sierra Space is testing its Ghost reentry vehicle, which is designed to deliver supplies to any unit across the world within 90 minutes.",
+    "link": "https://www.tomshardware.com/tech-industry/space/u-s-military-backed-cargo-pod-promises-90-minute-orbital-delivery-anywhere-on-earth-10-ton-ghost-vehicle-gets-first-real-world-test-sierra-space-drops-radio-and-whiskey-from-68-500-feet-to-test-starcraft-like-supply-drops",
     "categories": [
       "Tech News"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-10-10T14:44:12.358419"
-  },
-  {
-    "title": "AnyPS5 project reaches critical GPU milestone in race to enable running PS5 games natively on PC",
-    "summary": "The open-source AnyPS5 project has reached 100% GPU shader instruction coverage.",
-    "link": "https://www.tomshardware.com/video-games/playstation/anyps5-reaches-critical-gpu-milestone-with-100-percent-shader-instruction-coverage-ps5-games-running-natively-on-pc-still-far-off",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-10T14:44:12.358491"
-  },
-  {
-    "title": "Crazed modder straps 360mm AIO radiator to laptop, cuts temps to below 40 degrees",
-    "summary": "PC modder TrashBench attached a 360mm radiator and custom cooling to a laptop and gained up to 14% in performance at the cost of the definition of a laptop.",
-    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/crazed-modder-straps-360mm-aio-radiator-to-laptop-cuts-temps-below-40-degrees-performance-gains-an-average-of-14-percent-in-games-and-benchmarks",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-10T14:44:12.358573"
-  },
-  {
-    "title": "Ukrainian drones strike largest data center in Russia, multiple parts of 1.4 million square foot campus knocked offline",
-    "summary": "Following a Ukrainian drone strike on a D.C. in Sasovo, Russia, a Yandex facility in Kaluga has suffered a similar fate with multiple modules completely out of service.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/second-russian-data-center-targeted-by-ukrainian-drones-in-just-two-days-as-yandex-reels-from-another-service-outage-russian-state-media-admits-that-multiple-modules-completely-taken-out",
-    "categories": [
-      "AI & ML"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-10-10T14:44:12.358650"
+    "processed_date": "2026-10-11T15:04:23.437476"
   },
   {
-    "title": "World s first 3D-printed remote control aircraft with a jet turbine takes flight, aims for Mach 0.8 to beat world record for fastest model aircraft",
-    "summary": "Team of graduates attempts to beat Guiness World Record for fastest jet-powered model aircraft using PETG and clever engineering.",
-    "link": "https://www.tomshardware.com/3d-printing/worlds-first-3d-printed-remote-control-aircraft-with-a-jet-turbine-takes-flight-aims-for-mach-0-8-to-beat-world-record-for-fastest-model-aircraft-mostly-printed-using-standard-petg-materials",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-10T14:44:12.358733"
-  },
-  {
-    "title": "M5Stack ToughC5 weatherproof ESP32-C5 IoT controller offers dual-band Wi-Fi 6, BLE 5, and Zigbee/Thread",
-    "summary": "M5Stack has just introduced the ToughC5, a rugged, weatherproof outdoor IoT controller built around the ESP32-C5. The device features a bright 2.0-inch capacitive touch IPS display and RS485 connectivity. The ToughC5 is an upgrade to the ESP32-base3d M5Stack TOUGH introduced in 2021, with the upgraded model featuring a more modern ESP32-C5 MCU with dual-band (2.4/5 GHz) Wi-Fi 6, Bluetooth 5 LE, and an IEEE 802.15.4 radio for Zigbee and Thread. Other changes include faster Octal PSRAM, an upgraded RTC chip with a dedicated coin cell backup battery, a passive buzzer replacing the previous 1W speaker, and a custom power management system (M5PM1 + M5IOE1) replacing the AXP192 PMU. These features make it suitable for industrial field control, outdoor edge data collection, and smart building applications. M5Stack ToughC5 specifications: Wireless SoC Espressif Systems ESP32-C5HR8 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 40 MHz [...] The post M5Stack ToughC5 weatherproof ESP32-C5 IoT controller offers dual-band Wi-Fi 6, BLE 5, and Zigbee/Thread appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/10/m5stack-toughc5-weatherproof-esp32-c5-iot-controller-offers-dual-band-wi-fi-6-ble-5-and-zigbee-thread/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-10T14:44:12.359161"
-  },
-  {
-    "title": "In search of the incredible shrinking quantum sensor",
-    "summary": "Infleqtion, Honeywell Aerospace, and the University of California, Santa Barbara are working to skrink the optical cavity of quantum sensors.",
-    "link": "https://www.fiercesensors.com/electronics/search-incredible-shrinking-quantum-sensor",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-10T14:44:12.360011"
-  },
-  {
-    "title": "Survey says workers are pretending to use AI to impress their bosses, but many don't know what they're doing",
-    "summary": "According to the findings, which come from research conducted in part by business intelligence firm Visier, nearly half of surveyed US employees misreport how much they use generative AI in the workplace. Read Entire Article",
-    "link": "https://www.techspot.com/news/114160-workers-pretending-use-ai-impress-their-bosses-but.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-10T14:44:12.360320"
-  },
-  {
-    "title": "Richard Garriott says he's getting the Ultima rights back from EA in 2027",
-    "summary": "Richard Garriott will soon get the Ultima rights back and is already planning what to do with the series afterward. The British-born American game designer, entrepreneur, and space tourist played a major role in establishing the CRPG genre during the home computer era. Now, the man behind the Lord British... Read Entire Article",
-    "link": "https://www.techspot.com/news/114156-richard-garriott-getting-ultima-rights-back-ea-2027.html",
+    "title": "Ugreen s 100W 4-port GaN charger drops 27% today",
+    "summary": "Whether you need to charge a laptop before work, top up your smartphone, or keep your tablet ready for travel, this four-port Ugreen GaN charger delivers up to 100W via USB Type-C and is currently $15 cheaper on Amazon.",
+    "link": "https://www.tomshardware.com/pc-components/ugreens-100w-4-port-gan-charger-drops-27-percent-today-get-100w-of-power-and-four-ports-for-just-usd39-98",
     "categories": [
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-10T14:44:12.360445"
+    "processed_date": "2026-10-11T15:04:23.437574"
   },
   {
-    "title": "Microsoft is turning Windows Search into an AI agent-like experience",
-    "summary": "Microsoft has introduced yet another redesign of Windows Search, just in time for its latest Surface-focused event. The Windows 11 feature is set to become more streamlined and focused, Microsoft said, while gaining a new influx of AI options that aim to turn the \"humble\" search box into a multipurpose... Read Entire Article",
-    "link": "https://www.techspot.com/news/114141-windows-search-getting-ai-makeover-microsoft-pushes-toward.html",
+    "title": "SoftBank seeks $100 billion for AI-refined projects from Middle Eastern investors",
+    "summary": "SoftBank plans to buy companies that do not use AI or robotics, then apply new technologies to improve their operations and valuation.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-seeks-usd100-billion-for-ai-refined-projects-from-middle-eastern-investors-fund-would-be-used-to-acquire-companies-and-improve-their-operations-using-artificial-intelligence-and-robotics",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-10T14:44:12.360553"
+    "processed_date": "2026-10-11T15:04:23.437670"
+  },
+  {
+    "title": "Super Micro smuggling co-conspirator pleads guilty to sending AI chips to China",
+    "summary": "Ting-Wei \"Willy\" Sun, one of the three people charged of smuggling Super Micro servers with advanced Nvidia AI chips to China, has pleaded guilty, with sentencing set for September of next year.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/super-micro-smuggling-co-conspirator-pleads-guilty-to-sending-ai-chips-to-china-broker-admits-breaking-export-control-rules-as-company-co-founder-denies-charges",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-11T15:04:23.437782"
+  },
+  {
+    "title": "PS5 hack delivers native PS2 disc support and 4K upscaling where Sony refused to",
+    "summary": "Modder Sword has released PS5SX2 for the PlayStation 5, allowing gamers to play discs from previous PlayStation 2 games.",
+    "link": "https://www.tomshardware.com/video-games/playstation/ps5-hack-delivers-native-ps2-disc-support-and-4k-upscaling-where-sony-refused-to-after-ps2-breakthrough-homebrew-dev-confirms-ps3-disc-support-is-next-for-ps5",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-11T15:04:23.437885"
+  },
+  {
+    "title": "This week on Tom's Hardware Premium: October 10, 2026",
+    "summary": "This week on Tom's Hardware Premium, we covered how the AI buildout is affecting the industry supporting it across all axioms, including in law, chip design, manufacturing, and finance.",
+    "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-10-2026-tencent-grabs-bargain-chips-qualcomm-huawei-ip-deal-groq-lawsuit-and-more",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-11T15:04:23.437987"
+  },
+  {
+    "title": "Wireless-Tag WT32P4C5-43S A fully integrated 4.3-inch ESP32-P4 and ESP32-C5 touch display devkit",
+    "summary": "Wireless-Tag WT32P4C5-43S (ZX4D30CE405-V1.3) is a fully integrated 4.3-inch touch display development board that combines an ESP32-P4 MCU with an ESP32-C5 wireless module supporting dual-band WiFi 6 (2.4/5 GHz), Bluetooth LE, and 802.15.4 connectivity. Unlike previous ESP32-P4 + ESP32-C5 solutions, this one comes with a built-in touchscreen, so you don t need to connect a separate display. Designed for industrial automation, smart control panels, and edge AI vision terminals, the board also integrates a 15-pin MIPI CSI camera interface, a microSD card slot, two USB Type-C ports (USB 2.0 High-Speed and Debug/JTAG), and a 14-pin GPIO expansion header. Wireless-Tag WT32P4C5-43S (ZX4D30CE405-V1.3) specifications: Core module Wireless Tag WT0132P4-A1-N16R32 SoC Espressif Systems ESP32-P4 CPU Dual-core 32-bit RISC-V HP (High-performance) CPU @ up to 400 MHz with AI instructions extension and single-precision FPU Single-RISC-V LP (Low-power) MCU core @ up to 40 MHz with 8KB of zero-wait TCM RAM Memory 768 KB HP [...] The post Wireless-Tag WT32P4C5-43S A fully integrated 4.3-inch ESP32-P4 and ESP32-C5 touch display devkit appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/11/wireless-tag-wt32p4c5-43s-a-fully-integrated-4-3-inch-esp32-p4-and-esp32-c5-touch-display-devkit/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-10-11T15:04:23.438468"
+  },
+  {
+    "title": "Apple's new CEO unveils iPhone Duo in roundup of new sensors, silicon for devices",
+    "summary": "The company described the sensing capability of an iPhone duo that folds from passport size to full near-tablet size, relying on positional sensors to know what the user wants.",
+    "link": "https://www.fiercesensors.com/electronics/apples-new-ceo-unveils-iphone-duo-roundup-new-sensors-silicon-devices",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-11T15:04:23.439709"
+  },
+  {
+    "title": "Researchers fuse quantum sensor on MEMS device to detect stress",
+    "summary": "Sensor fusion is happening across devices made for the edge, from smartphones to humanoids and now researchers are fusing quantum sensors to tiny MEMS devices.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/researchers-fuse-quantum-sensor-mems-device-detect-stress",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-11T15:04:23.439864"
+  },
+  {
+    "title": "Amazon's new Alexa tablets ditch Fire OS for regular Android",
+    "summary": "The change addresses a longstanding limitation of Amazon's tablets: their app selection. Fire tablets ran Fire OS, Amazon's version of Android, and relied on the Amazon Appstore. The Alexa models will use mainstream Android, bringing native access to Gmail, YouTube and Google Docs alongside Amazon's Kindle, Prime Video, Audible and... Read Entire Article",
+    "link": "https://www.techspot.com/news/114161-amazon-new-alexa-tablets-ditch-fire-os-regular.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-11T15:04:23.440064"
+  },
+  {
+    "title": "Decompilation on Steroids: Why AI Is Suddenly Cracking Open Old Software",
+    "summary": "Everything is being decompiled . GoldenEye, Halo, Photoshop, even bank mainframes: AI is prying open old code at record speed. The secret isn't just AI, it's an answer key to check its work. Read Entire Article",
+    "link": "https://www.techspot.com/article/3184-decompilation-on-steroids/",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-11T15:04:23.440251"
+  },
+  {
+    "title": "Windows PCs with outdated certificates will stop receiving security updates, here's what to do",
+    "summary": "According to Microsoft, the certificates used by Windows Update services have a preset expiration date and must be replaced periodically for devices to keep receiving monthly updates. The company noted that devices running Windows 11 25H2 and later already have the latest certificates, but those in older versions of Windows... Read Entire Article",
+    "link": "https://www.techspot.com/news/114157-windows-pcs-outdated-certificates-stop-receiving-security-updates.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-11T15:04:23.440433"
+  },
+  {
+    "title": "This streamer is charging viewers $7.50 to spin her chair in bizarre money-making stunt",
+    "summary": "Viewers are said to be paying to spin the streamer's chair, not just send a gift or message, though key details remain unclear. The original livestream has not been independently verified, and the available reports do not establish exactly how payments trigger the chair or whether the creator can pause... Read Entire Article",
+    "link": "https://www.techspot.com/news/114159-chinese-livestreamer-charges-viewers-750-spin-chair-bizarre.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-11T15:04:23.440608"
   }
 ]
