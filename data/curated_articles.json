@@ -1,230 +1,369 @@
 [
   {
-    "title": "Modder discovers that putting a GPU in the 'wrong place' can deliver a 19 degree cooler hotspot",
-    "summary": "In PC DIY it might still be worth challenging convention, as TrashBench shows with his GPU hotspot getting up to 19C cooler.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/modder-discovers-that-putting-a-gpu-in-the-wrong-place-can-deliver-a-19-degree-cooler-hotspot-breaking-convention-can-produce-great-results-despite-decades-of-pc-diy-evolution",
+    "title": "Bambu Lab officially teases its first 3D scanner",
+    "summary": "Bambu Lab teased its S1 3D scanner, and FCC filings hint at what Bambu Lab is keeping a secret right now.",
+    "link": "https://www.tomshardware.com/3d-printing/3d-scanning/bambu-lab-announces-its-first-3d-scanner-and-it-might-be-expensive",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-12T18:12:20.714080"
+  },
+  {
+    "title": "Jev-like decision models are flooding the AI market, after researcher claims TypeSafe copied their research",
+    "summary": "Jev and the flood of AI decision models TypeSafe allegedly copied researcher's architecture but got copied itself",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jev-like-decision-models-are-flooding-the-ai-market-after-researcher-claims-typesafe-copied-their-research-microsoft-openai-among-companies-releasing-lightweight-system-one-ai-models",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-10-12T18:12:20.714147"
+  },
+  {
+    "title": "Meet the modders porting ringfenced DLSS features to older GPUs",
+    "summary": "DLSS Multi-Frame Generation and DLSS 5 Neural Rendering can now run on hardware never intended for it, at least according to Nvidia. Now, two of the modders foundational to the release of these community advancements speak out.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/meet-the-modders-porting-ringfenced-dlss-features-to-older-gpus-how-dlss-5-and-multi-frame-generation-were-unlocked-for-older-architectures",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-12T18:12:20.714215"
+  },
+  {
+    "title": "Developer uses Claude to enable Xbox Cloud Gaming on jailbroken PS5s",
+    "summary": "RafaelNGP released a native Xbox Game Pass app allowing Xbox Cloud Gaming on the PS5, with support for 4 controllers and 4K upscaling on the PS5 GPU.",
+    "link": "https://www.tomshardware.com/video-games/console-gaming/xbox-cloud-gaming-is-now-available-on-jailbroken-ps5s-allows-upscaling-to-4k-using-the-ps5-gpu",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-12T18:12:20.714277"
+  },
+  {
+    "title": "GlobalFoundries unveils 7nm-class FDX Fusion node comes 7 years after firm abandoned FinFET",
+    "summary": "GlobalFoundries returns to advanced FD-SOI development with 7nm-class FDX Fusion process production planned for 2028.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-unveils-7nm-class-fdx-fusion-node-fd-soi-node-doubles-22fdx-transistor-density-comes-7-years-after-firm-abandoned-finfet",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-12T18:12:20.714332"
+  },
+  {
+    "title": "Intel to phase out SGX after Xeon Diamond Rapids in favor of TDX",
+    "summary": "Intel set to discontinue SGX after Xeon 'Diamond Rapids' and focus on expanding TDX capabilities to meet emerging security requirements of cloud computing, enterprise workloads, and agentic AI.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-to-phase-out-sgx-after-xeon-diamond-rapids-in-favor-of-tdx-confidential-computing-pivot-adds-trusted-i-o-and-post-quantum-crypto-for-agentic-ai",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-12T18:12:20.714406"
+  },
+  {
+    "title": "Diamond-infused watercooling coldplates for 2,300W Nvidia Rubin drop temps by up to 22C",
+    "summary": "A bespoke coldplate for custom designed AI servers: Frore's LiquidJet Diamond.",
+    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/diamond-infused-watercooling-coldplates-for-2-300w-nvidia-rubin-drop-temps-by-up-to-22c-bespoke-frore-liquidjet-diamond-cooling-tames-770-w-cm2-hotspots",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-12T18:12:20.714459"
+  },
+  {
+    "title": "Gigabyte GO27Q24G 27-inch OLED 240 Hz QHD gaming monitor review: Tremendous bang for the buck",
+    "summary": "Gigabyte delivers extreme brightness and performance at a low price with its GO27Q24G. This 27-inch OLED panel boasts HDR peaks of 1,300 nits, wide gamut color, QHD resolution, 240 Hz and Adaptive-Sync.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/gigabyte-go27q24g-27-inch-oled-240-hz-qhd-gaming-monitor-review",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-10-12T18:12:20.714521"
+  },
+  {
+    "title": "AMD debuts Helion reference design for agentic AI servers with up to 32,768 Zen 6 Venice cores",
+    "summary": "At the OCP Global Summit, AMD revealed Helion, a rack-scale reference design for agentic AI that can house up to 32,768 Zen 6 CPU cores.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-debuts-helion-reference-design-for-agentic-ai-servers-with-up-to-32-768-zen-6-venice-cores-rack-design-ships-next-year-in-cpu-only-and-all-in-one-configurations",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-12T18:12:20.714580"
+  },
+  {
+    "title": "TrendForce expects declining global laptop shipments to slow manufacturing exodus from China",
+    "summary": "Higher component costs could force laptop makers to raise retail prices or accept lower profit margins as consumer demand weakens in 2027.",
+    "link": "https://www.tomshardware.com/laptops/trendforce-expects-declining-global-laptop-shipments-to-slow-manufacturing-exodus-from-china-rising-cpu-dram-and-ssd-costs-will-make-up-68-percent-of-mainstream-notebook-bom",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-12T18:12:20.714636"
+  },
+  {
+    "title": "Vibecoder mods Minecraft inside GTA V running natively on an iPhone",
+    "summary": "C22's native port of GTA V on iOS/MacOS gets modded with Minecraft, and you can fly the Ender Dragon around.",
+    "link": "https://www.tomshardware.com/video-games/vibecoder-mods-minecraft-inside-gta-v-running-natively-on-an-iphone-unmodded-game-runs-at-50-60-fps-on-iphone-17",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-12T18:12:20.714684"
+  },
+  {
+    "title": "Coder creates NvidiaWatch tracker site that monitors hundreds of GPU driver bugs",
+    "summary": "independent-arg built this labor of love for the Nvidia community.",
+    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/coder-creates-nvidiawatch-tracker-site-that-monitors-hundreds-of-gpu-driver-bugs-site-charts-open-issues-fixes-and-forum-feedback-across-updates",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-12T18:12:20.714730"
+  },
+  {
+    "title": "'Unprecedented' Cyberattack cripples supermarket fridges across Europe as hackers activate automatic defrosting",
+    "summary": "A cyberattack has hit supermarkets in Europe, disabling refrigerators.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-12T18:12:20.714779"
+  },
+  {
+    "title": "Buyer pays $350 for broken RTX 4090 project only to find realistic fake GPU die and swapped memory",
+    "summary": "A customer paid approximately $350 for what appeared to be a repairable RTX 4090, only to receive a fake GPU with components that were painstakingly designed to resemble the real thing.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/buyer-pays-usd350-for-broken-rtx-4090-project-only-to-find-realistic-fake-gpu-die-and-swapped-memory-russian-repair-specialist-reveals-sophisticated-new-cam-using-dummy-pcbs",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-12T18:12:20.714838"
+  },
+  {
+    "title": "Dev used AI agents and more than 500 billion tokens to rebuild Call of Duty: Modern Warfare 2's source code",
+    "summary": "Maurice Heumann's Claude and Codex agents rebuilt Modern Warfare 2's source; 83% of functions match the original byte for byte.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dev-used-ai-agents-and-more-than-500-billion-tokens-to-rebuild-call-of-duty-modern-warfare-2s-source-code-83-percent-of-the-2009-shooters-functions-now-match-the-original-byte-for-byte",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-12T18:12:20.714890"
+  },
+  {
+    "title": "Walmart has slashed $750 off this RTX 5060 gaming laptop, now 40% cheaper",
+    "summary": "Save $750 on this HyperX Omen 15-inch laptop.",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/walmart-has-slashed-usd750-off-this-rtx-5060-gaming-laptop-now-40-percent-cheaper-hyperx-omen-15-is-just-usd1-149",
     "categories": [
       "GPUs",
       "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-10-11T15:04:23.436479"
+    "quality_score": 0,
+    "processed_date": "2026-10-12T18:12:20.714935"
   },
   {
-    "title": "Russia's Yandex bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers",
-    "summary": "Russian bot traffic falls dramatically as Ukraine takes out several Yandex data centers.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/russian-disinformation-bot-traffic-nearly-eliminated-overnight-after-ukraine-drone-strikes-cripple-multiple-of-russias-google-data-centers-ukraine-intensifies-bombing-of-yandex-data-centers-in-response-to-moscows-strikes-on-kyiv-data-centers",
+    "title": "Redditor unknowingly buys stolen rental PC, and it gets remotely blocked by rental firm",
+    "summary": "Fragile, NZXT's PC rental partner, helped a Redditor who got scammed into buying a \"stolen\" computer that eventually got blocked by replacing it with a new one.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/redditor-unknowingly-buys-stolen-rental-pc-and-it-gets-remotely-blocked-nzxt-service-provider-resolves-issue-by-replacing-bricked-computer",
     "categories": [
-      "AI & ML"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-11T15:04:23.436603"
+    "processed_date": "2026-10-12T18:12:20.714994"
   },
   {
-    "title": "Sandisk NAS 800 1.92TB SSD Review: Endurance at a premium",
-    "summary": "The Sandisk NAS 800 is a high-end PCIe 5.0 NVMe SSD built for NAS workloads, with high endurance, strong sustained write performance, and low 4KB random latency. It s mainly held back by its high price.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/sandisk-nas-800-1-92tb-ssd-review",
+    "title": "Reddit user pays $35 for a crypto mining rig left in a garage and gets 54GB of VRAM at 65 cents per GB",
+    "summary": "A Reddit user bought a nine-GPU Nvidia P106-100 mining rig with 54GB of VRAM for $35 and ran Qwen3.6-35B-A3B on it locally.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/reddit-user-pays-usd35-for-a-crypto-mining-rig-left-in-a-garage-and-gets-54gb-of-vram-at-65-cents-per-gb-the-first-test-for-2017-era-gpus-a-35b-parameter-ai-model-running-locally-at-over-30-tokens-per-second",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-12T18:12:20.715045"
+  },
+  {
+    "title": "Cyberleek threatens full GTA 6 build leak unless Take-Two apologizes and his $30 million crypto memecoin goal is met",
+    "summary": "Notorious GTA VI leaker Cyberleek is threatening to release a full build of GTA VI if Take-Two doesn't release a physical build, but only if its memecoin hits $30 million.",
+    "link": "https://www.tomshardware.com/software/linux/cyberleek-threatens-full-gta-6-build-leak-unless-take-two-apologizes-and-his-usd30-million-crypto-memecoin-goal-is-met-leaker-demands-physical-release-while-pumping-solana-memecoin-to-usd30m",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-12T18:12:20.715108"
+  },
+  {
+    "title": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles",
+    "summary": "Canadian YouTuber Anthony Sistilli says police questioned him after he built an ALPR camera designed to track police vehicles, leading to an ironic discussion over the privacy risks of mass license-plate surveillance.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-12T18:12:20.715163"
+  },
+  {
+    "title": "PlugMate and PlugClaw Review Thumb-sized Android-based private computers with optional Ubuntu/OpenClaw support",
+    "summary": "We received two unusual little devices for review this month: the PlugMate and the PlugClaw, both built by TrustKernel, a security company better known for the trusted-execution tech inside other people s phones than for consumer gadgets. Each is a complete, self-contained computer the size of a USB stick (its own processor, memory, and encrypted storage) that runs a private, hardened Android system called PlugOS. You plug one into your phone, tablet, or computer, and that host lends it a screen, a keyboard, and a network connection. Nothing of yours crosses over. The easiest way to picture it: it s a little computer (or more accurately, the hardware of a small phone) that borrows your screen, mouse, keyboard, and other peripherals to interact with you. IT folks will be tempted to compare it to a virtual machine, and the analogy isn t bad, except that nothing here is virtual. It s real, separate silicon; [...] The post PlugMate and PlugClaw Review Thumb-sized Android-based private computers with optional Ubuntu/OpenClaw support appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/12/plugmate-and-plugclaw-review-thumb-sized-android-based-private-computers-with-optional-ubuntu-openclaw-support/",
     "categories": [
       "Hardware",
       "Tech News"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-10-11T15:04:23.436720"
+    "quality_score": 10,
+    "processed_date": "2026-10-12T18:12:20.715477"
   },
   {
-    "title": "Developer turns classic Windows Minesweeper into hand-holding 'big-budget, Triple-A parody",
-    "summary": "This reboot of Minesweeper makes it feel like a big budget game created by a massive game studio.",
-    "link": "https://www.tomshardware.com/video-games/developer-turns-classic-windows-minesweeper-into-hand-holding-big-budget-triple-a-parody-browser-reboot-mocks-modern-gaming-with-chatty-npcs-internal-monologues-and-promised-loot-boxes",
+    "title": "Facebook releases Muse Gadgets SDK for ESP32 and Raspberry Pi/Linux-based devices",
+    "summary": "Meta, Facebook s parent company, has released the open-source Muse Gadgets SDK, designed to work with ESP32 boards or Linux-based SBCs like a Raspberry Pi. This requires some explanation I ve been on holiday for a while, so I m not up to date on everything, but apparently Meta released Muse on September 6, yet another personal AI agent Earlier this month, Nat Friedman, head of product at Meta Superintelligence Labs, shared an X post about the Muse Gadgets side project that aims to make ESP32 and Linux devices work with Muse, basically enabling hardware AI monitors and Physical AI with Muse. The Muse Gadgets SDK has been released on GitHub under an Apache 2.0 license (for most of the code) with two main directories: ESP32 Device SDK It can show images, supports audio input and output, and can interface with sensors, actuators, buttons, etc Linux Device SDK Works with Raspberry [...] The post Facebook releases Muse Gadgets SDK for ESP32 and Raspberry Pi/Linux-based devices appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/12/facebook-releases-muse-gadgets-sdk-for-esp32-and-raspberry-pi-linux-based-devices/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-12T18:12:20.715583"
+  },
+  {
+    "title": "Video: To battery, or not, is the IoT question",
+    "summary": "A panel at Sensors Converge 2026 discussed the state of battery-free sensing in real-world deployments and the various technologies enabling sensors to last years beyond batteries.",
+    "link": "https://www.fiercesensors.com/power-management/video-battery-or-not-iot-question",
     "categories": [
       "Tech News"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-10-11T15:04:23.436823"
+    "quality_score": 5,
+    "processed_date": "2026-10-12T18:12:20.716355"
   },
   {
-    "title": "Programmer ports Super Mario 64 to Microsoft s Zune HD media player",
-    "summary": "A fan port of Nintendo s Super Mario 64 runs natively on Microsoft s 2009 Zune HD media player, with touch controls and saves.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/programmer-ports-super-mario-64-to-microsofts-zune-hd-media-player-the-2009-ipod-rival-runs-the-game-natively-on-its-nvidia-tegra-chip-with-touchscreen-controls-and-saves",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-11T15:04:23.436920"
-  },
-  {
-    "title": "Cryptomining malware used poetry to infect more than 3,400 servers, researchers say",
-    "summary": "Lumen's Black Lotus Labs says PoeLLM malware has hit more than 3,400 servers, most of them exposed AI tools like LiteLLM and Ollama.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/cryptomining-malware-used-poetry-to-infect-more-than-3-400-servers-researchers-say-four-words-in-the-poellm-verse-changed-11-times-point-the-botnet-to-new-servers",
+    "title": "Analog to acquire Alif for $1.3B in physical AI bid",
+    "summary": "Chip companies are buying up or consolidating efforts to own the physical AI space, from sensing to decisions and actions.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/analog-acquire-alif-13b-physical-ai-bid",
     "categories": [
       "AI & ML",
-      "Hardware"
+      "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-10-11T15:04:23.437040"
+    "quality_score": 0,
+    "processed_date": "2026-10-12T18:12:20.716539"
   },
   {
-    "title": "State of California sues 3D printer filament company Polymaker for promoting ghost guns by marketing to 3D-printed gun community",
-    "summary": "The newly formed Consumer Fairness and Public Protection Division is also targeting Roblox and AppLovin.",
-    "link": "https://www.tomshardware.com/3d-printing/state-of-california-sues-3d-printer-filament-company-polymaker-for-promoting-ghost-guns-by-marketing-to-3d-printed-gun-community-state-alleges-company-turns-harmless-pla-filament-into-a-regulated-firearm-precursor-part",
+    "title": "Vibe coder brings PS2 disc support to jailbroken PS5 consoles",
+    "summary": "PlayStation 2 emulation is alive and well, even on the latest PlayStation 5 models. A vibe-coding enthusiast recently demonstrated the trend by sharing a new PS2-based \"experience\" that can allegedly run original PlayStation 2 games directly from the PS5's Blu-ray drive. Needless to say, the recently released PS5SX2 emulator largely... Read Entire Article",
+    "link": "https://www.techspot.com/news/114175-vibe-coder-brings-ps2-disc-support-jailbroken-ps5.html",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-11T15:04:23.437148"
-  },
-  {
-    "title": "Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications",
-    "summary": "ArtCraft is expanding its roster of open-source creative tools as cross-platform alternatives to predatory subscription models.",
-    "link": "https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-11T15:04:23.437272"
-  },
-  {
-    "title": "New Cray-1 supercomputer replica built with 30 vintage Mac Minis and packs 1.5 TFLOPS of compute",
-    "summary": "Legendary 1975 supercomputer gets a modernized replica with old Mac Minis, showcasing decades of innovation.",
-    "link": "https://www.tomshardware.com/tech-industry/supercomputers/working-cray-1-supercomputer-replica-packs-30-vintage-mac-minis-and-1-5-tflops-passively-cooled-tribute-is-9-375x-faster-than-the-1976-supercomputer",
-    "categories": [
-      "Hardware",
+      "AI & ML",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-11T15:04:23.437375"
+    "processed_date": "2026-10-12T18:12:20.716627"
   },
   {
-    "title": "US military-backed cargo pod promises 90-minute orbital delivery anywhere on Earth, 10-ton Ghost vehicle gets first real-world test",
-    "summary": "Sierra Space is testing its Ghost reentry vehicle, which is designed to deliver supplies to any unit across the world within 90 minutes.",
-    "link": "https://www.tomshardware.com/tech-industry/space/u-s-military-backed-cargo-pod-promises-90-minute-orbital-delivery-anywhere-on-earth-10-ton-ghost-vehicle-gets-first-real-world-test-sierra-space-drops-radio-and-whiskey-from-68-500-feet-to-test-starcraft-like-supply-drops",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-11T15:04:23.437476"
-  },
-  {
-    "title": "Ugreen s 100W 4-port GaN charger drops 27% today",
-    "summary": "Whether you need to charge a laptop before work, top up your smartphone, or keep your tablet ready for travel, this four-port Ugreen GaN charger delivers up to 100W via USB Type-C and is currently $15 cheaper on Amazon.",
-    "link": "https://www.tomshardware.com/pc-components/ugreens-100w-4-port-gan-charger-drops-27-percent-today-get-100w-of-power-and-four-ports-for-just-usd39-98",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-11T15:04:23.437574"
-  },
-  {
-    "title": "SoftBank seeks $100 billion for AI-refined projects from Middle Eastern investors",
-    "summary": "SoftBank plans to buy companies that do not use AI or robotics, then apply new technologies to improve their operations and valuation.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-seeks-usd100-billion-for-ai-refined-projects-from-middle-eastern-investors-fund-would-be-used-to-acquire-companies-and-improve-their-operations-using-artificial-intelligence-and-robotics",
+    "title": "Hackers hit European supermarket refrigeration systems, spoiling food and forcing stores to dump stock",
+    "summary": "A spokesperson for the supermarket chain told Bloomberg that attackers infiltrated controls for the cooling systems and activated the defrost mode, which heated them to 50 degrees Celsius, or 122 degrees Fahrenheit. Roughly six hours passed before employees noticed. By that time, all of the food in the coolers had been ruined. Read Entire Article",
+    "link": "https://www.techspot.com/news/114176-hackers-hit-european-supermarket-refrigeration-systems-spoiling-food.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-11T15:04:23.437670"
+    "processed_date": "2026-10-12T18:12:20.716697"
   },
   {
-    "title": "Super Micro smuggling co-conspirator pleads guilty to sending AI chips to China",
-    "summary": "Ting-Wei \"Willy\" Sun, one of the three people charged of smuggling Super Micro servers with advanced Nvidia AI chips to China, has pleaded guilty, with sentencing set for September of next year.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/super-micro-smuggling-co-conspirator-pleads-guilty-to-sending-ai-chips-to-china-broker-admits-breaking-export-control-rules-as-company-co-founder-denies-charges",
+    "title": "Police are using AI to locate homes from a single interior photo, and even a picture of a washing machine can be enough",
+    "summary": "The tool, which is called Raven, is being used by the Los Angeles Police Department and Miami-Dade Sheriff's Office (MDSO), reports 404 Media. Made by a company called Graylark Technologies, Raven had been called GeoSpy before its new home-identification features were added. Read Entire Article",
+    "link": "https://www.techspot.com/news/114174-police-using-ai-locate-homes-single-interior-photo.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-12T18:12:20.716764"
+  },
+  {
+    "title": "Nvidia may be killing off the RTX 5090 as AI chips take priority over gaming GPUs",
+    "summary": "According to MEGAsizeGPU, Nvidia has \"confirmed\" that the GB202 chip will not be used to build new RTX 5090 cards anymore. All future GB202 supplies are going to be exclusively used to make more RTX Pro Blackwell-based models, the leaker later confirmed with a new tweet. Read Entire Article",
+    "link": "https://www.techspot.com/news/114166-nvidia-may-killing-off-rtx-5090-ai-chips.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-12T18:12:20.716829"
+  },
+  {
+    "title": "California sues major 3D-printing filament maker over claims it deliberately catered to ghost gun enthusiasts",
+    "summary": "The complaint, which was filed on October 5 in San Diego County Superior Court, acknowledges that 3D printing filament is not illegal. However, it alleges that Polymaker intentionally marketed its product toward ghost gun aficionados so they could turn its filament into a regulated \"firearm precursor part.\" Read Entire Article",
+    "link": "https://www.techspot.com/news/114172-california-sues-major-3d-printing-filament-maker-over.html",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-11T15:04:23.437782"
+    "processed_date": "2026-10-12T18:12:20.716898"
   },
   {
-    "title": "PS5 hack delivers native PS2 disc support and 4K upscaling where Sony refused to",
-    "summary": "Modder Sword has released PS5SX2 for the PlayStation 5, allowing gamers to play discs from previous PlayStation 2 games.",
-    "link": "https://www.tomshardware.com/video-games/playstation/ps5-hack-delivers-native-ps2-disc-support-and-4k-upscaling-where-sony-refused-to-after-ps2-breakthrough-homebrew-dev-confirms-ps3-disc-support-is-next-for-ps5",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-11T15:04:23.437885"
-  },
-  {
-    "title": "This week on Tom's Hardware Premium: October 10, 2026",
-    "summary": "This week on Tom's Hardware Premium, we covered how the AI buildout is affecting the industry supporting it across all axioms, including in law, chip design, manufacturing, and finance.",
-    "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-10-2026-tencent-grabs-bargain-chips-qualcomm-huawei-ip-deal-groq-lawsuit-and-more",
-    "categories": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-11T15:04:23.437987"
-  },
-  {
-    "title": "Wireless-Tag WT32P4C5-43S A fully integrated 4.3-inch ESP32-P4 and ESP32-C5 touch display devkit",
-    "summary": "Wireless-Tag WT32P4C5-43S (ZX4D30CE405-V1.3) is a fully integrated 4.3-inch touch display development board that combines an ESP32-P4 MCU with an ESP32-C5 wireless module supporting dual-band WiFi 6 (2.4/5 GHz), Bluetooth LE, and 802.15.4 connectivity. Unlike previous ESP32-P4 + ESP32-C5 solutions, this one comes with a built-in touchscreen, so you don t need to connect a separate display. Designed for industrial automation, smart control panels, and edge AI vision terminals, the board also integrates a 15-pin MIPI CSI camera interface, a microSD card slot, two USB Type-C ports (USB 2.0 High-Speed and Debug/JTAG), and a 14-pin GPIO expansion header. Wireless-Tag WT32P4C5-43S (ZX4D30CE405-V1.3) specifications: Core module Wireless Tag WT0132P4-A1-N16R32 SoC Espressif Systems ESP32-P4 CPU Dual-core 32-bit RISC-V HP (High-performance) CPU @ up to 400 MHz with AI instructions extension and single-precision FPU Single-RISC-V LP (Low-power) MCU core @ up to 40 MHz with 8KB of zero-wait TCM RAM Memory 768 KB HP [...] The post Wireless-Tag WT32P4C5-43S A fully integrated 4.3-inch ESP32-P4 and ESP32-C5 touch display devkit appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/11/wireless-tag-wt32p4c5-43s-a-fully-integrated-4-3-inch-esp32-p4-and-esp32-c5-touch-display-devkit/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-10-11T15:04:23.438468"
-  },
-  {
-    "title": "Apple's new CEO unveils iPhone Duo in roundup of new sensors, silicon for devices",
-    "summary": "The company described the sensing capability of an iPhone duo that folds from passport size to full near-tablet size, relying on positional sensors to know what the user wants.",
-    "link": "https://www.fiercesensors.com/electronics/apples-new-ceo-unveils-iphone-duo-roundup-new-sensors-silicon-devices",
+    "title": "An engineer built a Flock-like camera to detect police cars, says officers visited him afterward",
+    "summary": "Anthony Sistilli described Peel Regional Police's visit last month in a YouTube video that he recently posted. His project uses automatic license plate recognition, or ALPR the technology police use to record passing vehicles and search for them later. But Sistilli designed his camera to pick out police vehicles... Read Entire Article",
+    "link": "https://www.techspot.com/news/114167-engineer-built-flock-like-camera-detect-police-cars.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-11T15:04:23.439709"
+    "processed_date": "2026-10-12T18:12:20.716971"
   },
   {
-    "title": "Researchers fuse quantum sensor on MEMS device to detect stress",
-    "summary": "Sensor fusion is happening across devices made for the edge, from smartphones to humanoids and now researchers are fusing quantum sensors to tiny MEMS devices.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/researchers-fuse-quantum-sensor-mems-device-detect-stress",
+    "title": "82% of approved electronics are tested in China, but the FCC wants that figure down to zero by 2028",
+    "summary": "The restrictions would cover test labs and certification bodies in countries that deny reciprocal treatment to their US counterparts. Chairman Brendan Carr says fewer than 4% of electronic devices are tested in American labs. Read Entire Article",
+    "link": "https://www.techspot.com/news/114169-fcc-plans-force-electronics-testing-out-china-2028.html",
     "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-11T15:04:23.439864"
-  },
-  {
-    "title": "Amazon's new Alexa tablets ditch Fire OS for regular Android",
-    "summary": "The change addresses a longstanding limitation of Amazon's tablets: their app selection. Fire tablets ran Fire OS, Amazon's version of Android, and relied on the Amazon Appstore. The Alexa models will use mainstream Android, bringing native access to Gmail, YouTube and Google Docs alongside Amazon's Kindle, Prime Video, Audible and... Read Entire Article",
-    "link": "https://www.techspot.com/news/114161-amazon-new-alexa-tablets-ditch-fire-os-regular.html",
-    "categories": [
+      "Tech News",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-11T15:04:23.440064"
+    "processed_date": "2026-10-12T18:12:20.717035"
   },
   {
-    "title": "Decompilation on Steroids: Why AI Is Suddenly Cracking Open Old Software",
-    "summary": "Everything is being decompiled . GoldenEye, Halo, Photoshop, even bank mainframes: AI is prying open old code at record speed. The secret isn't just AI, it's an answer key to check its work. Read Entire Article",
-    "link": "https://www.techspot.com/article/3184-decompilation-on-steroids/",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-11T15:04:23.440251"
-  },
-  {
-    "title": "Windows PCs with outdated certificates will stop receiving security updates, here's what to do",
-    "summary": "According to Microsoft, the certificates used by Windows Update services have a preset expiration date and must be replaced periodically for devices to keep receiving monthly updates. The company noted that devices running Windows 11 25H2 and later already have the latest certificates, but those in older versions of Windows... Read Entire Article",
-    "link": "https://www.techspot.com/news/114157-windows-pcs-outdated-certificates-stop-receiving-security-updates.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-11T15:04:23.440433"
-  },
-  {
-    "title": "This streamer is charging viewers $7.50 to spin her chair in bizarre money-making stunt",
-    "summary": "Viewers are said to be paying to spin the streamer's chair, not just send a gift or message, though key details remain unclear. The original livestream has not been independently verified, and the available reports do not establish exactly how payments trigger the chair or whether the creator can pause... Read Entire Article",
-    "link": "https://www.techspot.com/news/114159-chinese-livestreamer-charges-viewers-750-spin-chair-bizarre.html",
+    "title": "A Spanish museum built a Cray-1 replica powered by 30 old Mac minis",
+    "summary": "The Museo de Historia de la Computaci n spent 18 months developing the exhibit. The replica preserves the appearance of the 1976 machine without trying to reproduce its internal hardware. Built to mark the 50th anniversaries of the Cray-1 and Apple's founding, the model is now on permanent display at the... Read Entire Article",
+    "link": "https://www.techspot.com/news/114163-spanish-museum-built-cray-1-replica-powered-30.html",
     "categories": [
       "AI & ML",
-      "Tech News"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-11T15:04:23.440608"
+    "processed_date": "2026-10-12T18:12:20.717104"
+  },
+  {
+    "title": "A 1960 paper said human population would go infinite next month. It's about 8.3 billion",
+    "summary": "Heinz von Foerster and his colleagues reached their prediction using a hyperbolic growth model. Unlike exponential growth, where a population increases at a constant percentage rate, hyperbolic growth assumes the rate itself rises as the population grows. Read Entire Article",
+    "link": "https://www.techspot.com/news/114165-1960-prediction-humanity-would-reach-infinity-next-month.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-12T18:12:20.717165"
+  },
+  {
+    "title": "A developer got Googlebook OS running on Apple Silicon, but it's far from ready for daily use",
+    "summary": "The graphics support is a key part of the work. Googlebook OS uses Vulkan, while Apple's graphics system uses Metal. The project bridges the two graphics APIs so the virtual machine can use the Mac's GPU instead of relying on the CPU to render the interface. Read Entire Article",
+    "link": "https://www.techspot.com/news/114158-developer-got-googlebook-os-running-apple-silicon-but.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-12T18:12:20.717230"
+  },
+  {
+    "title": "Star Citizen's single-player spin-off gets a Steam page, and early hands-on reports",
+    "summary": "Anyone who still believes in Wing Commander creator Chris Roberts' vision after 14 years of repeated delays can now wishlist Squadron 42 on Steam. The space simulation action game is a solo, story-based spinoff of Roberts' MMO, Star Citizen, which remains deep in development. Read Entire Article",
+    "link": "https://www.techspot.com/news/114162-star-citizen-single-player-spin-off-gets-steam.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-12T18:12:20.717293"
   }
 ]
