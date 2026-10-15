@@ -1,310 +1,385 @@
 [
   {
-    "title": "SK hynix to place custom tiny CPU cores in its SSD controllers to ease Arm load as drive speeds rocket",
-    "summary": "SK hynix detailed H-TPU, tiny in-house cores that offload routine I/O from the Arm CPUs in its next enterprise SSD controllers.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/sk-hynix-to-place-custom-tiny-cpu-cores-in-its-ssd-controllers-to-ease-arm-load-as-drive-speeds-rocket-each-h-tpu-reportedly-draws-2-5-percent-of-a-cpu-cores-power",
+    "title": "EU negotiates sanction swap with China to rescue critical ASML supplier",
+    "summary": "The EU is reportedly negotiating with Beijing to remove Chinese restrictions on German ASML supplier Sindlhauser Materials, to prevent the China-dependent company from going out of business",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/eu-negotiates-sanction-swap-with-china-to-rescue-critical-asml-supplier-german-coatings-firm-faces-shutdown-without-chinese-rare-earths",
     "categories": [
-      "Hardware",
+      "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-14T14:02:01.766740"
+    "processed_date": "2026-10-15T13:41:01.231984"
   },
   {
-    "title": "PS5 homebrew storefront with over 1,600 free PS5 and PS4 games taken down by Sony",
-    "summary": "Over 1,600 PS4 and PS5 games have been made free on jailbroken PS5 units thanks to Overdrive. The homebrew was quickly shut down after going viral, but was quickly revived through forks and re-releases under new accounts.",
-    "link": "https://www.tomshardware.com/video-games/playstation/ps5-homebrew-storefront-with-over-1-600-free-ps5-and-ps4-games-taken-down-by-sony-company-plays-piracy-whack-a-mole-as-two-further-repos-spring-up",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-14T14:02:01.766857"
-  },
-  {
-    "title": "SpaceX limits Starlink service for Ukraine s high-speed military drones without prior warning",
-    "summary": "Ukrainian officials say SpaceX imposed new speed restrictions on military-grade Starlink terminals without warning, disrupting drone and logistics missions and forcing some operations to be canceled",
-    "link": "https://www.tomshardware.com/tech-industry/drones/spacex-limits-starlink-service-for-ukraines-high-speed-military-drones-without-prior-warning-ukrainian-officials-say-limitation-significantly-complicates-logistics-and-drone-operations",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-14T14:02:01.766963"
-  },
-  {
-    "title": "Analyzing Intel's EMIB and Foveros advanced packaging roadmaps",
-    "summary": "Intel was the first large chipmaker to start using advanced packaging methods in 2017 2019. But where are Intel's EMIB and Foveros technologies today and where are they heading?",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/analyzing-intels-emib-and-foveros-advanced-packaging-roadmaps-how-intel-plans-to-scale-chips-in-every-direction",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-14T14:02:01.767060"
-  },
-  {
-    "title": "Elon Musk's Terafab will reportedly receive its first EUV tool from ASML in mid-2027",
-    "summary": "Elon Musk may prefer FEL light sources for in-house chip production, but Terafab will start with proven tech from ASML.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musks-terafab-will-reportedly-receive-its-first-euv-tool-from-asml-in-mid-2027-cutting-edge-scanner-could-sit-idle-for-some-time-as-experimental-facility-is-completed",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-14T14:02:01.767163"
-  },
-  {
-    "title": "Qualcomm wins architecture breach verdict against Arm but gets just $2",
-    "summary": "A federal jury sides with Arm on select issues, rules in favor of Qualcomm in other cases. The legal battle set to continue.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/qualcomm-wins-architecture-breach-verdict-against-arm-but-gets-just-usd2-judge-could-still-suspend-royalty-fees-for-five-years",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-14T14:02:01.767259"
-  },
-  {
-    "title": "Saudi OpenAI engineer arrested for allegedly planting $14 recording device in company office",
-    "summary": "An OpenAI engineer has been charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications and is facing up to five years in prison plus a $250,000 fine.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/saudi-openai-engineer-arrested-for-allegedly-planting-usd14-recording-device-in-company-office-cheap-microcontroller-was-meant-to-secretly-capture-sensitive-communications-about-the-companys-super-intelligence-technology",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-14T14:02:01.767363"
-  },
-  {
-    "title": "AI sector wipeout risks global financial contagion, IMF report warns",
-    "summary": "The International Monetary Fund has produced a report examining how financing for the global AI buildout could result in contagion should the industry fail to produce its promised profits.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/the-imf-highlights-how-a-financial-wipeout-in-the-ai-sector-could-become-a-global-contagion-agency-report-shines-light-on-circular-economics-and-leveraged-loans",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-14T14:02:01.767478"
-  },
-  {
-    "title": "Apple researchers turn idle Macs into a virtual GPU cloud with Minions ",
-    "summary": "Apple researchers describe Minions, an internal system that runs AI inference jobs on idle Apple Silicon Macs when GPUs are scarce.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-researchers-turn-idle-macs-into-a-virtual-gpu-cloud-with-minions-researchers-say-the-distributed-scheme-could-scale-globally-and-support-model-training",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-14T14:02:01.767579"
-  },
-  {
-    "title": "After a $93 million crypto hardware-wallet supply chain attack, Ledger to review sales and anti-tamper policies",
-    "summary": "Ledger is reviewing chain-of-custody practices and anti-tamper protections after modified hardware wallets sold through a third party were allegedly fitted with LTE implants that captured recovery phrases and enabled $93 million in crypto theft.",
-    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/ledger-to-review-sales-and-anti-tamper-policies-after-usd93-million-hardware-wallet-supply-chain-attack-rogue-lte-implants-reportedly-stole-users-recovery-phrases",
+    "title": "Alienware AW3226Q 32-inch 4K OLED gaming monitor review: Sleek design with performance and value to match",
+    "summary": "Alienware rolls Tandem RGB Stripe OLED tech into a stylish 32-inch gaming monitor for a low price. The AW3226Q delivers 4K resolution, 165 Hz, Adaptive-Sync, HDR400 True Black, Dolby Vision, and wide-gamut color.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/alienware-aw3226q-32-inch-4k-oled-gaming-monitor-review",
     "categories": [
       "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-14T14:02:01.767691"
-  },
-  {
-    "title": "Nvidia GPU prices spike in Japan; prices up to 41% higher than Amazon US",
-    "summary": "A Japanese retailer has increased the prices of RTX 50-series GPUs between 12.71% and 41.10%, with the mainstream models bearing the brunt of the price increases.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-gpu-prices-spike-in-japan-prices-up-to-41-percent-higher-than-amazon-us-rtx-5060-ti-sees-the-biggest-increase-among-the-rtx-50-series-stack",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-14T14:02:01.767786"
-  },
-  {
-    "title": "32GB of DDR5 6000 RAM now costs $450",
-    "summary": "32GB of DDR5 6000 RAM now costs $450, as supply for consumer DIMMs remains constrained.",
-    "link": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-6000-ram-now-costs-usd450-ai-induced-shortage-reaches-worst-milestone-yet",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-14T14:02:01.767867"
-  },
-  {
-    "title": "Modder injects leaked DLSS 5 4x Multipass on 1996 Quake",
-    "summary": "Ukrainian modder puts DLSS 5 over the original Quake, and the results are not impressive compared to the RTX Quake mod.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/modder-put-dlss-5-4x-multipass-on-1996-quake-looks-worse-than-rtx-modded-quake",
-    "categories": [
-      "AI & ML",
       "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-14T14:02:01.767953"
-  },
-  {
-    "title": "GTA 6 could come to PC as early as Q1 2027, leak claims",
-    "summary": "GTA 6, the biggest release of the year, will be console-only at launch, with a PC launch now expected within the first three months of 2027.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/gta-6-could-come-to-pc-as-early-as-q1-2027-leak-claims-january-march-launch-window-a-huge-improvement-over-18-month-gta-v-wait",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-14T14:02:01.768042"
-  },
-  {
-    "title": "Romu A Tiny Raspberry Pi RP2354A board for USB application development (Crowdfunding)",
-    "summary": "Bitmerse Romu is a tiny (15.5 x 12 mm), almost minimal Raspberry Pi RP2354A USB board with a USB 2.0 interface on one side of the PCB, and the dual Cortex-M33/RISC-V MCU on the other side, connected to a few debugging/programming pads, buttons, and an RGB LED. It doesn t come with any GPIO, and it s mostly designed for USB applications such as a security key for passwordless login, a USB MIDI controller, a macro pad, or a custom HID device. You can plug it directly into a spare USB Type-A port of your computer/host without any cables, breadboard, or adapters required. Romu specifications: SoC Raspberry Pi RP2354A CPU Dual-core Arm Cortex-M33 @ 150 MHz with Arm Trustzone, Secure boot Dual-core 32-bit RISC-V Hazard3 @ 150 MHz (3-stage in-order pipeline; RV32IMAC with Zba, Zbb, Zbs, Zbkb, Zcb, Zcmp, and Zicsr extensions) Up to two cores can be used at a time, either 2x [...] The post Romu A Tiny Raspberry Pi RP2354A board for USB application development (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/14/romu-tiny-raspberry-pi-rp2354a-usb-board/",
-    "categories": [
-      "Hardware",
-      "Tech News"
     ],
     "quality_score": 15,
-    "processed_date": "2026-10-14T14:02:01.768530"
+    "processed_date": "2026-10-15T13:41:01.232099"
   },
   {
-    "title": "VIEWE launches 4.3-inch ESP32-S31 display development board",
-    "summary": "VIEWE has introduced the PLCM-UES31S043H800V480C-U, a 4.3-inch smart display module that appears to be the first third-party development board powered by the new ESP32-S31 MCU. The board includes a 4.3-inch display with 2.4 GHz Wi-Fi 6, Bluetooth 5.4 LE and Classic, and IEEE 802.15.4 for Zigbee and Thread. It also features USB-C and USB-A ports, a microSD card slot, RS485 and CAN interfaces, and a 20-pin GPIO expansion header with UART and I2C. The board also includes an ES8389 audio codec, two NS4150B amplifiers, two onboard microphones, four ADC buttons, a WS2812B RGB LED, and BOOT/RESET buttons. It operates on a 5V power supply and supports an operating temperature range of -20 C to +70 C. VIEWE PLCM-UES31S043H800V480C-U Specifications: Wireless module ESP32-S31-WROOM-3-N16R16V SoC ESP32-S31NRV16 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory 512 KB SRAM, 32 KB low-power SRAM, [...] The post VIEWE launches 4.3-inch ESP32-S31 display development board appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/14/viewe-4-3-inch-esp32-s31-display-development-board/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-10-14T14:02:01.768695"
-  },
-  {
-    "title": "EEG biosensors help AI read your mind to guide robots, cars and more",
-    "summary": "Dozens of EEG products are on the market, while researchers in Korea find unconscious brain signals with EEG",
-    "link": "https://www.fiercesensors.com/electronics/eeg-biosensors-help-ai-read-your-mind-guide-robots-cars-and-more",
+    "title": "Malicious Russian disinformation bot traffic barely flinches after Ukraine strikes Yandex data centers and auto-migration kicks in",
+    "summary": "Ukraine's strikes on Russian data centers have caused legitimate bot traffic to go down, but malicious bots remain operational.",
+    "link": "https://www.tomshardware.com/service-providers/network-providers/malicious-russian-disinformation-bot-traffic-barely-flinches-after-ukraine-strikes-yandex-data-centers-and-auto-migration-kicks-in-cloudflare-tracks-170-million-automated-attacks-shifting-to-alternate-cloud-hosts",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-14T14:02:01.769880"
+    "processed_date": "2026-10-15T13:41:01.232192"
   },
   {
-    "title": "Your Android phone could double as a Steam Deck with this free app that runs PC games locally",
-    "summary": "Called DroidDeck, the app runs PC games locally using ARM64 Proton and x86 translation. There's no streaming, and it doesn't ask for root access or to replace Android with a different operating system. Read Entire Article",
-    "link": "https://www.techspot.com/news/114197-android-phone-could-double-steam-deck-free-app.html",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-14T14:02:01.770026"
-  },
-  {
-    "title": "Apple unveils HomePod mini 2 with Siri AI and a $50 price hike",
-    "summary": "The headline feature of the HomePod mini 2 is its impending support for Siri AI, which will be rolled out via a future update in the US, Australia, Canada, India, New Zealand, Singapore, South Africa, and the UK. Read Entire Article",
-    "link": "https://www.techspot.com/news/114193-apple-unveils-homepod-mini-2-siri-ai-faster.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-14T14:02:01.770125"
-  },
-  {
-    "title": "OpenAI employee arrested for hiding recording device in executive meeting room",
-    "summary": "The \"sophisticated recording device\" was discovered by OpenAI on or around September 30 in one of its San Francisco offices. The company determined that it had been planted a few days earlier. Its security team tried to export the microSD card's data but couldn't examine it because it was encrypted. Read Entire Article",
-    "link": "https://www.techspot.com/news/114196-openai-employee-arrested-allegedly-hiding-recording-device-executive.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-14T14:02:01.770231"
-  },
-  {
-    "title": "Scientists create super ice that's almost as tough as concrete",
-    "summary": "Called BioPykrete, the material was developed by a team led by researchers at the Hebrew University of Jerusalem. It combines ice, tiny plant-derived cellulose crystals, and a specially engineered protein. The resulting composite also absorbs around 70 times more energy before breaking than ordinary ice. Read Entire Article",
-    "link": "https://www.techspot.com/news/114195-scientists-create-super-ice-10-times-stronger-than.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-14T14:02:01.770335"
-  },
-  {
-    "title": "Is the Radeon RX 9070 XT Really Faster Than the RTX 5090?",
-    "summary": "Can a Radeon RX 9070 XT really beat Nvidia's flagship RTX 5090? We tested 11 games at 1440p and 4K to see when driver overhead matters, and when an ordinary CPU bottleneck is actually to blame. Read Entire Article",
-    "link": "https://www.techspot.com/review/3174-radeon-gpu-faster-than-rtx-5090-overhead/",
+    "title": "We tested the RTX Spark Superchip in Microsoft's Surface Laptop Ultra",
+    "summary": "We've tested Nvidia's RTX Spark against the latest and greatest from Apple and AMD to see how Nvidia's efforts to transform the PC for the agentic AI era stack up.",
+    "link": "https://www.tomshardware.com/laptops/we-test-the-rtx-spark-superchip-in-microsofts-surface-laptop-ultra-nvidias-windows-on-arm-platform-impresses-in-local-ai-but-gaming-isnt-its-strong-suit",
     "categories": [
       "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-14T14:02:01.770462"
+    "processed_date": "2026-10-15T13:41:01.232313"
   },
   {
-    "title": "New Apple Home Collection includes smart cameras, door lock, and thermostats made by LG and Schneider Electric",
-    "summary": "The Apple Home Collection is a lineup of smart-home devices built in collaboration with LG and Schneider Electric, including several cameras with full iCloud+ integration, as well as thermostats, a doorbell, and a door lock. Apple also introduced the second-generation HomePod mini, a new Apple TV 4K, and the HomeView... Read Entire Article",
-    "link": "https://www.techspot.com/news/114190-new-apple-home-collection-includes-smart-cameras-door.html",
+    "title": "ASML reports record $13 billion quarter, vows to expand capacity as demand for lithography equipment soars",
+    "summary": "ASML vows to expand production capacity amid growing demand, record earnings and profitability.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-reports-record-usd13-billion-quarter-vows-to-expand-capacity-as-demand-for-lithography-equipment-soars-customers-eager-to-secure-orders-in-2030-as-demand-is-expected-to-outstrip-2027-and-2028-supply",
     "categories": [
-      "Tech News"
+      "Semiconductors",
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-14T14:02:01.770578"
+    "processed_date": "2026-10-15T13:41:01.232399"
   },
   {
-    "title": "Nintendo confirms it has no plans to abandon physical Switch 2 games",
-    "summary": "Asked about Nintendo's stance on physical media, Zyll said that historically, the company goes off what the consumer prefers. They're barely a year into the launch of the Switch 2, he continued, which supports both digital and physical media. Read Entire Article",
-    "link": "https://www.techspot.com/news/114192-nintendo-confirms-has-no-plans-abandon-physical-switch.html",
+    "title": "Save $249 on 32GB of DDR5 with this 3-item Newegg bundle",
+    "summary": "Score 32GB of G.Skill DDR5-6000 RAM for just $321 in Newegg s new AM5 combo. For $1,094 ($249 off), you also get a Ryzen 7 9800X3D and an MSI X870E Tomahawk MAX WiFi board, plus a free AIO cooler.",
+    "link": "https://www.tomshardware.com/pc-components/save-usd249-on-32gb-of-ddr5-with-this-3-item-newegg-bundle-score-32gb-of-g-skill-trident-z5-neox-ram-a-ryzen-7-9800x3d-and-an-msi-x870e-motherboard-for-only-usd1-094-99",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-15T13:41:01.232485"
+  },
+  {
+    "title": "ASML struggling to keep up with demand for chipmaking equipment as AI spending continues to boom",
+    "summary": "ASML says customers are already placing orders for advanced chipmaking tools years in advance, with AI-driven semiconductor demand remaining strong enough to strain capacity despite planned expansions",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-struggling-to-keep-up-with-demand-for-chipmaking-equipment-as-ai-spending-continues-to-boom-chipmakers-are-already-looking-to-place-orders-for-2029-and-2030-output-ceo-says-demand-could-surpass-capacity-despite-massive-expansion-plans",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-15T13:41:01.232578"
+  },
+  {
+    "title": "TSMC confirms it is considering Terafab chipmaking expansion with Elon Musk",
+    "summary": "TSMC's management confirms that the company is looking forward to expand U.S. capacity beyond Arizona and Texas is one of its options. However, to become a part of the Terafab project, it insists on running the whole fab.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-confirms-it-is-considering-terafab-chipmaking-expansion-with-elon-musk-ceo-insists-tsmc-would-have-to-run-texas-based-project",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-15T13:41:01.232669"
+  },
+  {
+    "title": "Elon Musk calls out memory makers over 'extortionate' chip pricing, says Micron is playing smart for long-term loyalty",
+    "summary": "Elon Musk condemns memory makers citing unreasonable prices of memory, but claims Micron is different.",
+    "link": "https://www.tomshardware.com/pc-components/dram/elon-musk-accuses-samsung-sk-hynix-of-unreasonable-memory-pricing",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-15T13:41:01.232755"
+  },
+  {
+    "title": "Russian chipmakers demo homegrown RISC-V and Arm chips with retro games",
+    "summary": "Russian semiconductor players shows off bespoke CPU and SoC designs Arm and Elbrus architectures on display",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/russian-semiconductor-players-shows-off-bespoke-cpu-and-soc-designs-arm-and-elbrus-architectures-on-display",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-15T13:41:01.232835"
+  },
+  {
+    "title": "Unsupervised AI agent deletes TV show s entire edit weeks before release; program can't air",
+    "summary": "The Challenge Sweden's season 2 edit was deleted by an AI agent put on the production server. The program director blames \"the human factor\" instead of AI.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-deletes-tv-shows-entire-edit-weeks-before-release-backup-failure-means-production-team-needs-to-re-edit",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-14T14:02:01.770677"
+    "processed_date": "2026-10-15T13:41:01.232930"
   },
   {
-    "title": "Nvidia says DLSS 5 is now twice as fast and uses 20% less VRAM",
-    "summary": "NBA 2K27 will receive an update this Friday that aims to make DLSS 5 twice as fast, increasing overall frame rates by up to 40% while maintaining similar visual quality. Future titles that receive official DLSS 5 support, starting later this year, will use the new, faster model by default. Read Entire Article",
-    "link": "https://www.techspot.com/news/114188-nvidia-dlss-5-now-twice-fast-uses-20.html",
+    "title": "Two killed, one seriously hurt in explosion at Intel s chip plant in Israel",
+    "summary": "Two workers have died in an explosion at Intel s Kiryat Gat chip plant; police suspect a gas cylinder malfunction.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/two-killed-one-seriously-hurt-in-explosion-at-intels-chip-plant-in-israel-police-suspect-a-gas-cylinder-malfunction-and-the-fire-involved-a-toxic-gas-used-to-clean-chipmaking-tools",
     "categories": [
-      "AI & ML",
-      "GPUs"
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-15T13:41:01.233007"
+  },
+  {
+    "title": "Grace Hopper Celebration canceled two weeks out as AnitaB.org runs short of funds",
+    "summary": "AnitaB.org canceled this month s Grace Hopper Celebration in Anaheim, saying registrations and sponsorships couldn t cover its costs.",
+    "link": "https://www.tomshardware.com/tech-industry/grace-hopper-celebration-for-women-in-computing-canceled-two-weeks-out-anitab-org-says-registrations-and-sponsorships-fell-short-of-covering-costs",
+    "categories": [
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-14T14:02:01.770780"
+    "processed_date": "2026-10-15T13:41:01.233085"
   },
   {
-    "title": "The developer who cloned Photoshop using AI has now created Word, Excel, and PowerPoint replicas with Claude",
-    "summary": "Called WordCraft, GridCraft, and DeckCraft, respectively, the open-source applications are written in Rust with Anthropic's Claude Opus 5.5, as the Adobe replicas were, and are available for download under MIT or Apache 2.0 licenses. They are, however, still at a relatively early stage of development and need a lot more... Read Entire Article",
-    "link": "https://www.techspot.com/news/114179-developer-who-cloned-photoshop-using-ai-has-now.html",
+    "title": "GFiber and Qualcomm announce Wi-Fi 8 gateway",
+    "summary": "Wi-Fi 8 hasn't been certified by the IEEE yet, but hardware announcements are still ramping up",
+    "link": "https://www.tomshardware.com/networking/routers/gfiber-and-qualcomm-announce-wi-fi-8-gateway-20-gig-customers-to-be-first-to-receive-next-gen-wireless-upgrade",
     "categories": [
-      "AI & ML",
-      "Tech News"
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-15T13:41:01.233159"
+  },
+  {
+    "title": "Epic Games vibe codes new launcher because 'programming is hard,' claims it starts 46% faster than Steam",
+    "summary": "Epic Games has introduced a redesigned launcher into preview, which the company says it vibe coded because \"programming is hard.\"",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/epic-games-vibe-codes-new-launcher-because-programming-is-hard-starts-46-percent-faster-than-steam-preview-is-available-now-but-not-recommended-for-competitive-players",
+    "categories": [
+      "Tech News",
+      "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-14T14:02:01.770893"
+    "processed_date": "2026-10-15T13:41:01.233245"
   },
   {
-    "title": "Acer Googlebook 14 reviewed: Premium hardware, unfinished software?",
-    "summary": "The first reviews of Acer's $899 Googlebook 14 praise its sleek 2-in-1 design, vibrant 3K OLED touchscreen, and snappy performance. The Android-based OS brings Gemini AI and tighter phone integration, but inconsistent app support, software quirks, and middling battery life make it a tough sell against established Windows and Mac alternatives. Read Entire Article",
-    "link": "https://www.techspot.com/products/laptops/acer-googlebook-14.330949/",
+    "title": "FBI shuts down over 40 North Korean laptop farms used by fake remote workers",
+    "summary": "CrowdStrike has helped the FBI identify these sites, which Pyongyang uses to earn as much as $500 million annually to help fund its nuclear and other weapons programs.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/fbi-shuts-down-over-40-north-korean-laptop-farms-used-by-fake-remote-workers-over-200-devices-seized-in-texas-although-no-arrests-were-made-so-far",
     "categories": [
       "Hardware",
-      "Tech News"
+      "Semiconductors"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-10-14T14:02:01.771003"
+    "quality_score": 5,
+    "processed_date": "2026-10-15T13:41:01.233339"
   },
   {
-    "title": "Epic Games' Disney shooter is going \"AI first,\" whether developers like it or not",
-    "summary": "Epic's first game under its Disney partnership is way behind schedule, and the publisher is willing to bet everything on generative AI to get it over the finish line. But the push to use AI across the entire development workflow could eventually tear the studio apart. Read Entire Article",
-    "link": "https://www.techspot.com/news/114181-epic-games-disney-shooter-going-ai-first-whether.html",
+    "title": "The official Tom s Hardware app is here 30 years of tech coverage and benchmarks in your pocket",
+    "summary": "Today we re introducing the Tom's Hardware app, a faster, easier way to access all of our content while on the go.",
+    "link": "https://www.tomshardware.com/software/applications/the-official-toms-hardware-app-is-here-30-years-of-tech-coverage-and-benchmarks-in-your-pocket",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-15T13:41:01.233418"
+  },
+  {
+    "title": "HPMicro HPM5100 RISC-V MCU integrates four 16-bit ADCs, four op-amps for analog sensing and motor control",
+    "summary": "HPMicro has introduced the HPM5100 series, a family of 32-bit RISC-V mixed-signal MCUs, starting with the HPM5151 parts. It features a 400 MHz RISC-V processor, 416 KB SRAM, 1 MB flash, four 16-bit ADCs, four operational amplifiers, and four analog comparators. It also includes a high-speed USB 2.0 OTG interface with an integrated PHY, CAN FD, multiple UART/SPI/I2C interfaces, and 32 PWM channels for motor control. The chip supports hardware floating-point operations and DSP instructions, while the integrated analog peripherals reduce the need for external ADCs and signal-conditioning circuits. HPMicro HPM5100 specifications: MCU core Single-core 32-bit RISC-V processor @ 400 MHz (up to 480 MHz in high-performance mode with external power supply) Hardware FPU, SIMD, and DSP instruction support 16 KB L1 instruction cache and 16 KB L1 data cache Up to 3.57 CoreMark/MHz Memory 416 KB SRAM 256 KB instruction local memory (ILM) 128 KB data local memory [...] The post HPMicro HPM5100 RISC-V MCU integrates four 16-bit ADCs, four op-amps for analog sensing and motor control appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/15/hpmicro-hpm5100-risc-v-mcu-integrates-four-16-bit-adcs-four-op-amps-for-analog-sensing-and-motor-control/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-10-15T13:41:01.233883"
+  },
+  {
+    "title": "Orange Pi O1 SBC features 16 TOPS SOPHGO BM1688 AI SoC, supports 4G/5G cellular connectivity",
+    "summary": "Orange Pi O1 is a new single board computer (SBC) based on the somewhat older SOPHGO BM1688 octa-core Cortex-A53 SoC with a built-in 16 TOPS AI accelerator/TPU, and support for decoding up to sixteen 1080p30 video streams, or encoding ten. The board comes with 8GB or 16GB memory, supports M.2 NVMe, eMMC module, SPI flash, SATA III, or microSD card storage, and offers HDMI and MIPI DSI display interfaces, two MIPI CSI camera connectors, dual GbE, WiFi 6E, Bluetooth 5.3, and optional 4G/5G cellular connectivity, as well as a few USB ports, audio interfaces, and a 26-pin GPIO header for expansion. Orange Pi O1 specifications: SoC SOPHGO BM1688 CPU 8-core Arm Cortex-A53 processor @ 1.65 GHz RISC-V C906 co-processor @ 1.2 GHz TPU SOPHGO Neural Network Acceleration Engine (TPU), delivering 16 TOPS @ INT8 VPU Video decoding H.264 & H.265 up to 16 channels at 1080p30 Video [...] The post Orange Pi O1 SBC features 16 TOPS SOPHGO BM1688 AI SoC, supports 4G/5G cellular connectivity appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/15/orange-pi-o1-sbc-features-16-tops-sophgo-bm1688-ai-soc-supports-4g-5g-cellular-connectivity/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-15T13:41:01.234042"
+  },
+  {
+    "title": "Apple launches sensor-driven HomeView smart home hub",
+    "summary": "The Amazon Echo rival features an indoor temperature and humidity sensor.",
+    "link": "https://www.fiercesensors.com/iot-connectivity/apple-launches-sensor-driven-homeview-smart-home-hub",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-15T13:41:01.235120"
+  },
+  {
+    "title": "TDK announces Invensense PositionSense availability",
+    "summary": "Two chip technology from TDK gives wearable manufacturers the ability to place a magnetometer at the edge of a board for less magnetic impedence.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/tdk-announces-invensense-positionsense-availability",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-15T13:41:01.235237"
+  },
+  {
+    "title": "Police seize humanoid robot after it allegedly sexually assaulted 16-year-old girl in Germany",
+    "summary": "The alleged incident took place overnight on October 10-11 in the city of Cologne, reports AP. Read Entire Article",
+    "link": "https://www.techspot.com/news/114217-police-seize-humanoid-robot-after-allegedly-sexually-assaulted.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-15T13:41:01.235598"
+  },
+  {
+    "title": "A new mod brings Apple's classic iPods into 2026 with Bluetooth, Wi-Fi, USB-C, and Spotify support",
+    "summary": "Interested iPod owners can now sign up for updates on the development of a mod that adds support for Bluetooth, Wi-Fi, USB-C, expandable storage, additional media formats, and more. Built from Raspberry Pi boards, the mod requires no soldering. Read Entire Article",
+    "link": "https://www.techspot.com/news/114210-new-mod-brings-apple-classic-ipods-2026-bluetooth.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-15T13:41:01.235693"
+  },
+  {
+    "title": "South Korea removes safety barriers to let humanoid robots work alongside humans in factories",
+    "summary": "South Korea's industry ministry announced the approval on October 13 through its regulatory sandbox program, which allows companies to test new technologies under exemptions from existing requirements. Read Entire Article",
+    "link": "https://www.techspot.com/news/114215-south-korea-removes-safety-barriers-humanoid-robots-work.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-15T13:41:01.235782"
+  },
+  {
+    "title": "Google Play now lets you install your own vibe-coded apps without publishing them",
+    "summary": "Google announced the feature this week for US users. Creators can use a standard Google account, and their apps stay private. They will not appear in Play's search results or public listings, and only the creator can access them at launch. Read Entire Article",
+    "link": "https://www.techspot.com/news/114208-google-play-now-you-install-own-vibe-coded.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-15T13:41:01.235871"
+  },
+  {
+    "title": "Meta's smart glasses were recording conversations without the wake phrase, company admits",
+    "summary": "A redditor recently wrote that they'd noticed something concerning with Meta's Ray-Ban glasses: they were capturing conversations when they were talking to other people despite the \"Hey Meta\" wake phrase not being used. Read Entire Article",
+    "link": "https://www.techspot.com/news/114214-meta-smart-glasses-secretly-recording-conversations-without-wake.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-15T13:41:01.235958"
+  },
+  {
+    "title": "Mozilla is betting Europe's digital sovereignty push can help fund Firefox",
+    "summary": "Mozilla has just launched a brand-new offering for its European customers. Firefox Enterprise is a version of the open source browser tailored to the specific needs of companies and other enterprise organizations, bundled with additional services designed to strengthen and protect digital sovereignty. For a price, of course. Read Entire Article",
+    "link": "https://www.techspot.com/news/114205-mozilla-betting-europe-digital-sovereignty-push-can-help.html",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-14T14:02:01.771109"
+    "processed_date": "2026-10-15T13:41:01.236056"
   },
   {
-    "title": "Apple finally enters the smart home hub market with $299 HomeView",
-    "summary": "Pre-orders are now open for the Apple HomeView, Cupertino's answer to the Amazon Echo Show 11 and Google Nest Hub Max. Priced at $299, the smart home hub will launch on November 13 in either a tabletop or wall-mounted configuration. Read Entire Article",
-    "link": "https://www.techspot.com/news/114185-apple-finally-enters-smart-home-hub-market-299.html",
+    "title": "Sony shut down Overdrive, the fake PlayStation Store for pirated PS5 games, but clones appeared within hours",
+    "summary": "The Overdrive \"project\" was released on GitHub on October 9, but it only took off after Edigax, a well-known PS5 modder and jailbreak tutorial creator, posted about it on social media two days later. The post racked up nearly 10 million views and drew more than 600 comments, bringing a... Read Entire Article",
+    "link": "https://www.techspot.com/news/114203-sony-shut-down-overdrive-fake-playstation-store-pirated.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-15T13:41:01.236157"
+  },
+  {
+    "title": "ESA calls Anbernic-style handhelds \"superfakes\" and wants the US to treat them as piracy hubs",
+    "summary": "The Entertainment Software Association (ESA) recently submitted its latest recommendations to the Office of the United States Trade Representative (USTR) regarding piracy. The submission identifies major offenders accused of infringing the intellectual property rights of the US entertainment industry, focusing on people and companies allegedly involved in large-scale piracy. Read Entire Article",
+    "link": "https://www.techspot.com/news/114191-esa-calls-anbernic-style-handhelds-superfakes-wants-us.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-15T13:41:01.236303"
+  },
+  {
+    "title": "Super Mario Galaxy's PC port arrives without Nintendo's blessing",
+    "summary": "The PC port comes courtesy of keepvaibin, and is described as a work in progress. The game is fully playable on Windows 10 and newer machines, and requires just 8GB of RAM at minimum. Visually, it supports aspect ratios from 4:3 to 32:9, anti-aliasing, anisotropic filtering, AMD FidelityFX FSR 1 upscaling, and per-pixel lighting. Read Entire Article",
+    "link": "https://www.techspot.com/news/114202-super-mario-galaxy-now-playable-pc-thanks-unofficial.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-15T13:41:01.236404"
+  },
+  {
+    "title": "HP's keyboard PC is back with AMD's Ryzen AI 400 chip, a 32Wh battery option, and a $3,000-plus price",
+    "summary": "The EliteBoard G2a is powered by AMD's Ryzen AI Pro 400-series \"Gorgon Point\" processors, an upgrade over the Ryzen AI 300-series chips in the G1a. It supports up to two 32GB DDR5-5600 SO-DIMM modules, for a total of 64GB of system memory, and can be configured with up to 2TB... Read Entire Article",
+    "link": "https://www.techspot.com/news/114198-hp-keyboard-pc-back-amd-ryzen-ai-400.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-15T13:41:01.236512"
+  },
+  {
+    "title": "One of the world's worst passwords, 123456, helped a hacker steal 8.8 million people's data in Denmark",
+    "summary": "Number sequences starting with 1 dominate lists of the most common passwords there were ten of them in last year's top 20. The most popular of them all topped the list: \"123456.\" Read Entire Article",
+    "link": "https://www.techspot.com/news/114199-one-world-worst-passwords-123456-allegedly-helped-hacker.html",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-15T13:41:01.236600"
+  },
+  {
+    "title": "Intel's Nova Lake lineup leaks with a cache-heavy Core Ultra 9 4970K BFC at the top",
+    "summary": "At first glance, the four LP-E cores look exclusive to the BFC models, however Intel leaker Jaykihn says the standard chips have them too, along with vPro support, but the table simply omits them. A previous 4950K CPU-Z leak supports this: it showed 28 cores, not 24. Without the LP-E... Read Entire Article",
+    "link": "https://www.techspot.com/news/114204-intel-nova-lake-lineup-leaks-cache-heavy-core.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-15T13:41:01.236698"
+  },
+  {
+    "title": "Epic Games' new \"vibe-coded\" launcher promises 30x faster loading and native Linux support",
+    "summary": "Epic's redesigned launcher is now available in Preview. The company openly describes the new client as \"vibe coded,\" claiming it loads game libraries 30x faster and starts up 46% faster than Steam. The overhaul also brings a cleaner interface, improved game management, and native Linux support for the first time. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7923-epic-games-launcher.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-15T13:41:01.236800"
+  },
+  {
+    "title": "Netflix slashes 1,000 jobs in largest workforce reduction in four years",
+    "summary": "The cuts equate to roughly 1,000 jobs, and mostly affect those in product, legal, tech, and human resources divisions. According to The Wall Street Journal, the round of layoffs is the company's largest since 2022. Read Entire Article",
+    "link": "https://www.techspot.com/news/114200-netflix-slashes-1000-jobs-largest-workforce-reduction-four.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-14T14:02:01.771205"
+    "processed_date": "2026-10-15T13:41:01.236883"
+  },
+  {
+    "title": "Steam adds new Big Picture features, faster startup, and better Linux compatibility",
+    "summary": "Valve continues to bring Steam closer to a console-like experience across TVs, handhelds, and Linux PCs. The latest update introduces Big Art Mode, customizable screensavers, faster startup, and improvements to Remote Play and Steam Input. Linux users gain Proton support for non-Steam Windows games. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/4961-steam.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-15T13:41:01.236984"
   }
 ]
