@@ -1,363 +1,222 @@
 [
   {
-    "title": "Gigabyte X870 Aorus Infinity Motherboard Review: limited-edition, designed for extreme overclocking, but pricey for X870",
-    "summary": "Gigabyte s limited-edition 40th-anniversary X870 Aorus Infinity motherboard is designed for extreme overclocking, with everything you need for daily use.",
-    "link": "https://www.tomshardware.com/pc-components/motherboards/gigabyte-x870-aorus-infinity-motherboard-review",
+    "title": "Taiwan targets illicit AI server exports to China with five-year prison terms",
+    "summary": "Taiwan is expanding the Foreign Trade Act to include AI servers and semiconductors in its list of controlled exports.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid",
     "categories": [
-      "Hardware",
-      "Tech News"
+      "AI & ML",
+      "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-10-16T13:31:39.945768"
+    "quality_score": 0,
+    "processed_date": "2026-10-17T12:24:13.029056"
   },
   {
-    "title": "Googlebooks are as poorly timed as Valve s Steam Machine, and may suffer a similar fate",
-    "summary": "Google attempted to take its Chromebook platform upscale with Googlebooks. But the timing could not have been worse. Phone support at launch is extremely limited, and most people use Android phones and Chromebooks because they re cheap.",
-    "link": "https://www.tomshardware.com/laptops/googlebooks-are-as-poorly-timed-as-valves-steam-machine-and-may-suffer-a-similar-fate",
+    "title": "Crafty OpenAI agent willingly stole crypto from an account it didn't own to complete a task during test",
+    "summary": "GPT5.6-Sol didn't have funds to deploy smart contracts, so it looked for exposed accounts with enough money to pay for the gas fees.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-agent-took-eth-from-another-account-without-authorization-justified-stealing-in-its-chain-of-thought",
     "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-16T13:31:39.945875"
-  },
-  {
-    "title": "Microsoft Surface Laptop Ultra review: RTX Spark in a straight-up beautiful Windows PC",
-    "summary": "Microsoft s Surface Laptop Ultra is its most beautiful laptop ever, but using Windows on it is the same as ever. Only AI enthusiasts will get the most out of RTX Spark.",
-    "link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review",
-    "categories": [
-      "Hardware",
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-10-16T13:31:39.945973"
+    "quality_score": 5,
+    "processed_date": "2026-10-17T12:24:13.029205"
   },
   {
-    "title": "Taiwan raising $4 billion to build industrial park in Texas to support US chipmaking supply chain",
-    "summary": "This $4 billion industrial park would make it easier for smaller Taiwanese companies who can't afford to build their own sites in the U.S. to expand and follow major Taiwanese manufacturers like TSMC and Foxconn.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-raising-usd4-billion-to-build-industrial-park-in-texas-to-support-us-chipmaking-supply-chain-project-to-support-countless-small-manufacturers-crucial-to-tsmc-foxconn-supply-chain",
+    "title": "Game decompilation hub freezes leaderboard after AI turns progress into a hollow numbers game amid explosion of 'AI slop'",
+    "summary": "decomp.dev has closed its public index of game decompilation projects, saying AI-driven forks and ports broke the community.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/game-decompilation-tracker-decomp-dev-shuts-its-public-leaderboard-saying-ai-has-broken-the-community-its-creator-blames-forks-that-use-ai-to-finish-other-teams-projects-and-races-to-ship-rough-pc-ports",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-17T12:24:13.029332"
+  },
+  {
+    "title": "Modder finishes nine-year Xbox 360 voltage glitch mod with a $4 microcontroller, cracks the console open",
+    "summary": "Modder glitch-hacks his Xbox 360 with the help of a $4 microcontroller operation shows the power of the Rasperry Pi Pico",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/modder-finishes-nine-year-xbox-360-voltage-glitch-mod-with-a-usd4-microcontroller-cracks-the-console-open-tiny-microcontroller-dumps-nand-and-flashes-timing-files-to-bypass-cpu-cryptography",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-17T12:24:13.029490"
+  },
+  {
+    "title": "US Army to use 3D-printed rocket motors for low-cost cruise missiles",
+    "summary": "X-Bow Systems has been tapped to 3D-print rocket motors for the U.S. Army's low-cost cruise missiles.",
+    "link": "https://www.tomshardware.com/3d-printing/us-army-to-use-3d-printed-rocket-motors-for-low-cost-cruise-missiles-additive-manufacturing-company-secures-deal-to-build-rocket-engines-for-the-arsenal-of-freedom",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-17T12:24:13.029614"
+  },
+  {
+    "title": "ASML's employee-only High-NA EUV Lego kit gets an open 810-piece fan replica",
+    "summary": "A Lego enthusiast recreated the rare ASML Lego kit, added their own customizations, and shared the plans for free on Rebrickable.",
+    "link": "https://www.tomshardware.com/tech-industry/employee-exclusive-asml-lego-set-now-available-on-rebrickable-custom-creation-modifies-original-version-to-add-more-details-now-requires-810-parts",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-16T13:31:39.946083"
+    "processed_date": "2026-10-17T12:24:13.029725"
   },
   {
-    "title": "Epic introduces an improved version of anti-cheat for Linux",
-    "summary": "Epic wants to work with developers and maintainers to find the best solution to making anti-cheat work seamlessly on Linux.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/epic-introduces-an-improved-version-of-anti-cheat-for-linux-eac-linux-v2-will-finally-allow-linux-gamers-to-play-fortnite",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-16T13:31:39.946168"
-  },
-  {
-    "title": "Experiment shows liquid metal TIM doesn t dry out; it turns solid",
-    "summary": "Der8auer s two-year electron microscope test shows liquid metal s gallium turns solid on copper and nickel-plated coolers.",
-    "link": "https://www.tomshardware.com/pc-components/cooling/experiment-shows-liquid-metal-tim-doesnt-dry-out-it-turns-solid-two-year-electron-microscope-test-finds-gallium-bonds-with-copper-coolers-and-nickel-plating-keeps-the-layer-about-10-times-thinner",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-16T13:31:39.946247"
-  },
-  {
-    "title": "Corsair's Vengeance RGB DDR5 32GB memory receives a $108 price cut",
-    "summary": "Save $108 on Corsair's Vengeance RGB RAM and bag 32GB of DDR5 memory for your PC.",
-    "link": "https://www.tomshardware.com/pc-components/ddr5/corsairs-vengeance-rgb-ddr5-32gb-memory-receives-a-usd108-price-cut-the-cheapest-ddr5-5600-kit-available-to-buy-right-now",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-16T13:31:39.946327"
-  },
-  {
-    "title": "Linus Torvalds posts his first AI-assisted patch to the Linux kernel, synthetic test clocks 23x performance leap",
-    "summary": "Linus Torvalds posts his first LLM-assisted patch to the Linux kernel after issuing clear pro-AI directives, the bossman makes use of AI tooling himself",
-    "link": "https://www.tomshardware.com/software/linux/linus-torvalds-posts-his-first-llm-assisted-patch-to-the-linux-kernel-after-issuing-clear-pro-ai-directives-the-bossman-makes-use-of-ai-tooling-himself",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-16T13:31:39.946419"
-  },
-  {
-    "title": "Thai cops bust 'audacious' cross-border fiberoptic cable running to Myanmar scam compound",
-    "summary": "Thai authorities have busted a cross-border fiber-optic internet cable being used to steal data.",
-    "link": "https://www.tomshardware.com/tech-industry/thai-cops-bust-audacious-cross-border-fiberoptic-cable-running-to-myanmar-scam-compound-350-meter-48-core-cable-was-supplying-illegal-border-casino-and-a-scam-center-with-6tb-of-data-per-day",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-16T13:31:39.946503"
-  },
-  {
-    "title": "Ukrainian drones hit Russian data centers, disrupting Russian apps and services",
-    "summary": "After Ukrainian long-range strike drones targeted Russian data centers, various Russian digital services and apps went down or faced severe disruption. There's even some suggestion that online bot activity may be down, but not by as much as initial reports claimed.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drones-hit-russian-data-centers-disrupting-russian-apps-and-services-attacks-highlight-the-fragility-of-the-countrys-digital-services",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-16T13:31:39.946598"
-  },
-  {
-    "title": "Newegg has slashed $260 off this all-AMD 4K gaming PC 9800X3D and Radeon RX 9070 XT combo comes with 32GB of DDR5 and a 2TB SSD",
-    "summary": "Save $260 on an all-AMD gaming PC with 9800X3D and Radeon RX 9070 XT.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/newegg-has-slashed-usd260-off-this-all-amd-4k-gaming-pc-9800x3d-and-radeon-rx-9070-xt-combo-comes-with-32gb-of-ddr5-and-a-2tb-ssd",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-16T13:31:39.946681"
-  },
-  {
-    "title": "Jailbroken PS5s can now run local AI models at over 100+ tokens per second",
-    "summary": "PS5LM gets a fork, allowing it to run natively and use the GPU and more RAM to run larger LLMs, even running Qwen3.8-27B at 20 tokens per second.",
-    "link": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-16T13:31:39.946766"
-  },
-  {
-    "title": "Formlabs Form Studio 1 Review: Professional status, consumer price tag",
-    "summary": "The Form Studio 1 is Formlabs first consumer-grade printer. It combines a 200 125 235 mm build volume with resin heating, automatic dispensing, and a free Open Material Mode.",
-    "link": "https://www.tomshardware.com/3d-printing/formlabs-form-studio-1-review",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-16T13:31:39.946854"
-  },
-  {
-    "title": "SK hynix denies playing hardball with Trump admin over 3D NAND fab",
-    "summary": "SK hynix reportedly conditions building new Solidigm 3D NAND fab in the U.S. to equipment exports to the Solidigm fab in Dalian, China.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/sk-hynix-reportedly-playing-hardball-with-trump-admin-over-3d-nand-fab-company-demands-increased-chipmaking-equipment-exports-to-china-in-exchange-for-us-fab",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-16T13:31:39.946938"
-  },
-  {
-    "title": "RTX 5090 disappears from Nvidia marketplace amid reports of a production halt",
-    "summary": "Micro Center has reclassified Nvidia GeForce RTX 5090 graphics cards as 'Not Carried,' and almost all units are out of stock at its stores.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-disappears-from-micro-center-amid-rumors-of-a-production-halt-retailer-flags-flagship-as-not-carried-as-stock-mysteriously-vanishes",
+    "title": "This could be your last chance to grab an RTX 5090",
+    "summary": "With no new Nvidia 5090 GPU replacement anticipated before at least 2028, this could well be your last opportunity to get your hands on a very powerful GPU for gaming.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/this-could-be-your-last-chance-to-grab-an-rtx-5090-how-to-secure-nvidias-top-rtx-gpu-as-rumors-of-discontinuation-swirl",
     "categories": [
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-16T13:31:39.947021"
+    "processed_date": "2026-10-17T12:24:13.029828"
   },
   {
-    "title": "Googlebooks from Dell, Lenovo, and HP tested: Nice hardware, but the OS isn't ready yet",
-    "summary": "Googlebook OS needs a lot of love to feel like something other than Android on a PC.",
-    "link": "https://www.tomshardware.com/laptops/googlebooks-from-dell-lenovo-and-hp-tested-nice-hardware-but-the-os-isnt-ready-yet",
+    "title": "China startup demoes prototype EUV light source",
+    "summary": "Chinese startup Langdao Silex showcased its laser-produced plasma EUV source at a trade show, but the technology will likely take many years before it gets to decent EUV power levels. Even if it does, China will need many more advancements to build a practical EUV lithography tool.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability",
     "categories": [
-      "Hardware",
+      "Semiconductors",
       "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-16T13:31:39.947110"
-  },
-  {
-    "title": "Sipeed reveals Chinese-made DGX Spark and Ryzen AI Halo rival, expected to cost $3,999",
-    "summary": "Sipeed s MaixStation pairs Axera s AX8860P with 128GB of LPDDR5X at 273 GB/s to take on Nvidia s DGX Spark and AMD s Ryzen AI Halo.",
-    "link": "https://www.tomshardware.com/desktops/mini-pcs/sipeed-reveals-chinese-made-dgx-spark-and-ryzen-ai-halo-rival-expected-to-cost-usd3-999-maixstation-pairs-axeras-ax8860p-with-128gb-of-lpddr5x-at-273-gb-s-with-promising-local-ai-performance-claims",
-    "categories": [
-      "GPUs",
-      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-16T13:31:39.947193"
+    "processed_date": "2026-10-17T12:24:13.029945"
   },
   {
-    "title": "Xerxes Pi 2026 and Xerxes Nano carrier boards offer NVMe, PoE, and OCuLink for Raspberry Pi and Jetson modules (Crowdfunding)",
-    "summary": "After a successful campaign for Xerxes Pi back in 2025, Rapid Analysis has returned with a Xerxes Home Lab ecosystem that includes the Xerxes Pi 2026 and Xerxes Nano carrier board. The upgrade includes M.2 NVMe storage support on the bottom of the board, an I2S Qwiic connector for digital audio, and added debug and boot jumper pins for easier headless deployment. Designed for home labs, edge AI developers, and small businesses, the Xerxes Pi 2026 supports Raspberry Pi CM4/CM5 and other CM modules, Gigabit Ethernet, optional PoE+, and CSI/HDMI expansion. The larger Xerxes Nano supports NVIDIA Jetson Orin Nano and Turing RK1 modules, adding M.2 PCIe, OCuLink, and SPI/UART connectivity. Both boards support active cooling and compact 1U rack installations. Xerxes Pi 2026 Xerxes Pi 2026 specifications: Supported SoMs Raspberry Pi CM4, CM5, and compatible alternatives via 2x 100-pin high-density mezzanine connectors Storage M.2 M-key PCIe Gen 2 [...] The post Xerxes Pi 2026 and Xerxes Nano carrier boards offer NVMe, PoE, and OCuLink for Raspberry Pi and Jetson modules (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/16/xerxes-pi-2026-and-xerxes-nano-carrier-boards-offer-nvme-poe-and-oculink-for-raspberry-pi-and-jetson-modules/",
+    "title": "Gun-rights activist unveils world's first 'AI-made' 3D-printed firearm .22 caliber handgun created by an 'AI that can generate guns' called GatGPT",
+    "summary": "A gun rights activist has unveiled the world's first AI-made 3D printed firearm.",
+    "link": "https://www.tomshardware.com/3d-printing/gun-rights-activist-unveils-worlds-first-ai-made-3d-printed-firearm-22-caliber-handgun-created-by-an-ai-that-can-generate-guns-called-gatgpt",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-17T12:24:13.030058"
+  },
+  {
+    "title": "Seeed Studio XIAO IPS display series features ESP32-S3 or nRF52840 SoC with 0.96-inch to 1.47-inch LCD options",
+    "summary": "Seeed Studio has introduced the XIAO IPS touch display series, a family of six compact development boards built around the XIAO ESP32-S3 Plus or XIAO nRF52840 Plus MCU, with 0.96-inch, 1.14-inch, and 1.47-inch IPS color displays. All six boards include a 6-axis IMU, a PDM digital microphone, user buttons, and LiPo battery support. The larger 1.47-inch version adds capacitive touch and a microSD card slot, whereas the 1.14-inch model includes a Grove I2C connector for connecting external sensors. The ESP32-S3 versions support Wi-Fi and Bluetooth LE connectivity, while the nRF52840 models focus on lower-power Bluetooth LE applications. The boards are designed for portable dashboards, smart home controllers, wearable devices, sensor monitoring, and other small IoT projects. XIAO IPS Display Series specifications: Wireless board (one or the other) XIAO nRF52840 Plus Wireless MCU Nordic nRF52840 Arm Cortex-M4F microcontroller @ up to 64 MHz with 1 MB flash, 256 KB SRAM, Bluetooth 5.0, [...] The post Seeed Studio XIAO IPS display series features ESP32-S3 or nRF52840 SoC with 0.96-inch to 1.47-inch LCD options appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/17/seeed-studio-xiao-ips-display-series-features-esp32-s3-or-nrf52840-soc-with-0-96-inch-to-1-47-inch-lcd-options/",
     "categories": [
       "Hardware",
-      "Tech News"
+      "Semiconductors"
     ],
     "quality_score": 15,
-    "processed_date": "2026-10-16T13:31:39.947643"
+    "processed_date": "2026-10-17T12:24:13.030624"
   },
   {
-    "title": "W1700K SDR turns a Wi-Fi 7 router into a 320 MSps software-defined radio receiver",
-    "summary": "Just a few days ago, we wrote about the ESP-SDR project, which turned an ESP32 into an SDR receiver (and now SDR transmitter), but the data was streamed over UART, which couldn t keep up with the sample rate. Now, developer h0m3us3r has released w1700k-sdr, also an open-source project that turns a Gemtek W1700K Wi-Fi 7 router into a wideband SDR receiver. The project uses the router s built-in MediaTek MT7996 radio to capture raw 14-bit I/Q samples at up to 320 MSps across the 2.4 GHz, 5 GHz, and 6 GHz bands. The captured data is then streamed over a 10 GbE connection using the router s Airoha AN7581 SoC to a Linux computer, where you can view the live spectrum and waterfall in a browser. To make this work, the project replaces the router s stock firmware with a custom Linux system and radio firmware, allowing it to capture raw I/Q data [...] The post W1700K SDR turns a Wi-Fi 7 router into a 320 MSps software-defined radio receiver appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/16/w1700k-sdr-turns-a-wi-fi-7-router-into-a-320-msps-software-defined-radio-receiver/",
+    "title": "Iridium NTN Direct getting integrated into Altair cellular IoT chipsets",
+    "summary": "The pairing will make it easier for product developers to support converged satellite-to-cellular IoT.",
+    "link": "https://www.fiercesensors.com/iot-connectivity/iridium-ntn-direct-getting-integrated-altair-cellular-iot-chipsets",
     "categories": [
-      "Hardware",
-      "AI & ML"
+      "AI & ML",
+      "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-10-16T13:31:39.947796"
+    "quality_score": 0,
+    "processed_date": "2026-10-17T12:24:13.031670"
   },
   {
-    "title": "Tesla's new Roadster can fly, drive upside down, and hit 60 mph in under 0.6 seconds",
-    "summary": "The Rocket configuration places thrusters around the car's perimeter to provide forward and upward acceleration as well as lateral rotation. All-electric actuators make small adjustments to stabilize the vehicle in flight. Read Entire Article",
-    "link": "https://www.techspot.com/news/114230-tesla-unveils-roadster-three-versions-including-one-can.html",
+    "title": "Windows Defender now works in Linux, because why not",
+    "summary": "Microsoft believes Linux systems also need a corporate-oriented security solution such as Defender. Redmond's anti-malware solution, notorious for its arguably excessive false positives, is now offering expanded support for major Linux distributions. This allows organizations to use the same security platform to protect heterogeneous enterprise environments where Windows and Linux... Read Entire Article",
+    "link": "https://www.techspot.com/news/114240-windows-defender-now-works-linux-because-why-not.html",
     "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-16T13:31:39.949189"
-  },
-  {
-    "title": "SK hynix reportedly offers to build a NAND fab in the US if Washington lets it expand in China",
-    "summary": "The equipment would go into unused space in Dalian's Mod B building. Completed in 2023, the building was never fully equipped because of the memory market downturn. Some tools are installed, but much of the space remains available. Read Entire Article",
-    "link": "https://www.techspot.com/news/114224-sk-hynix-reportedly-offers-build-nand-fab-us.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-16T13:31:39.949410"
-  },
-  {
-    "title": "Sega pulls Shogun 2 remaster after overwhelmingly negative reviews, with players citing AI-upscaled art",
-    "summary": "Total War: Shogun 2 Complete Edition, released October 13, was supposed to bring the 2011 RTS classic up to date for modern PCs with numerous visual, performance, and quality-of-life upgrades. Instead, it opened to overwhelmingly negative reviews on Steam, with complaints citing AI-upscaled art and other serious issues. Read Entire Article",
-    "link": "https://www.techspot.com/news/114226-sega-pulls-shogun-2-remaster-after-overwhelmingly-negative.html",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-10-16T13:31:39.949595"
-  },
-  {
-    "title": "Would you really give up ChatGPT to shut down data centers? Tech CEO highlights the hypocrisy of some AI critics",
-    "summary": "\"All the people that are saying they're anti-data center, that they're anti-AI in general, they're using it,\" said Verb boss Cyrus Beschloss at CNBC's Trading the Midterms event. Read Entire Article",
-    "link": "https://www.techspot.com/news/114234-would-you-really-give-up-chatgpt-shut-down.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-16T13:31:39.949754"
-  },
-  {
-    "title": "New proposed bill would make video games something you own, not rent",
-    "summary": "The \"Power to the Players Act\" bill would direct the FTC to write rules ensuring that buying a video game translates into ownership and not a revocable license. Games that depend on online servers would also have to offer an offline mode before those servers are switched off. Rep. Ritchie... Read Entire Article",
-    "link": "https://www.techspot.com/news/114225-new-proposed-bill-would-make-video-games-something.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-16T13:31:39.949919"
-  },
-  {
-    "title": "Memtest86+ adds Arm support, new memory tests, and USB reports",
-    "summary": "Memtest86+ 9.0 brings the popular open-source memory testing utility to ARM64 devices, including Snapdragon X laptops and Raspberry Pi boards. The update also introduces new RowHammer and memory bus stress tests. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/7507-memtest86-plus.html",
-    "categories": [
-      "Hardware",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-16T13:31:39.950093"
+    "processed_date": "2026-10-17T12:24:13.032126"
   },
   {
-    "title": "Nvidia and Cisco unveil next-gen network interface built for the AI data center boom",
-    "summary": "GPU maker Nvidia and networking specialist Cisco have unveiled a new network interface called Ultra-Dense Small Form Factor Pluggable (USFP). The new optical transceiver is designed to significantly increase bandwidth in data centers, helping accommodate the enormous data demands of modern AI models and training workloads. Read Entire Article",
-    "link": "https://www.techspot.com/news/114222-nvidia-cisco-unveil-next-gen-network-interface-built.html",
+    "title": "A Dota 2 pro says he talked his way out of a police raid by playing a match for the officers",
+    "summary": "In a Facebook post, 23savage said officers raided the facility, handcuffed him and teammates Fbz and Oli, and confiscated their belongings. They questioned why the team was in the city and whether its members were professional players. Read Entire Article",
+    "link": "https://www.techspot.com/news/114233-dota-2-pro-talked-way-out-police-raid.html",
     "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-16T13:31:39.950279"
-  },
-  {
-    "title": "TCL wants to build a 700Hz OLED gaming monitor, and it's betting on inkjet printing to do it",
-    "summary": "According to market research firm Omdia, TCL's planned 700Hz panels will come in 32- and 34-inch sizes and be manufactured at the company's Gen 8.6 OLED factory in Guangzhou, China. Production is expected to begin in 2028, although the potential launch timeframe remains unclear. Other specifications, including pixel resolution and... Read Entire Article",
-    "link": "https://www.techspot.com/news/114220-tcl-wants-build-700hz-oled-gaming-monitor-betting.html",
-    "categories": [
-      "GPUs",
       "AI & ML"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-10-16T13:31:39.950461"
+    "quality_score": 5,
+    "processed_date": "2026-10-17T12:24:13.032306"
   },
   {
-    "title": "Microsoft won't patch old Windows Servers, so a small security firm is doing it",
-    "summary": "The 0patch service recently unveiled a new set of patches for several \"dead\" versions of Windows Server. The updates are designed to address a dangerous security vulnerability Microsoft disclosed in August. Although the flaw has been fixed in supported Windows editions, it remains a threat to older versions that no... Read Entire Article",
-    "link": "https://www.techspot.com/news/114219-micropatching-service-0patch-releases-new-security-fixes-ancient.html",
+    "title": "Asus ROG Xbox Ally X20 debuts: It's all about that OLED",
+    "summary": "The ROG Xbox Ally X20 is receiving praises for its gorgeous 7.4\" OLED, premium design, improved controls and ergonomics. Performance is largely unchanged from last year's Xbox Ally X though, and then there's the very steep $1,300 price tag. Read Entire Article",
+    "link": "https://www.techspot.com/products/audio-video/asus-rog-xbox-ally-x20.330955/",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-17T12:24:13.032506"
+  },
+  {
+    "title": "First Surface Laptop Ultra reviews: a promising but pricey MacBook Pro rival",
+    "summary": "Microsoft Surface Laptop Ultra reviews have landed with a mixed verdict. Powered by RTX Spark, the premium Arm laptop earns praise for its MacBook-like build quality, AI capabilities, and versatility. However, its steep price, modest battery life, and Windows software limitations keep it from fully delivering on its ambitious promises. Read Entire Article",
+    "link": "https://www.techspot.com/products/laptops/microsoft-surface-laptop-ultra.330954/",
     "categories": [
       "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-16T13:31:39.950636"
-  },
-  {
-    "title": "Apple wants Chrome users to switch to Safari, claims up to five extra hours of video playback on a Mac",
-    "summary": "StatCounter figures put Chrome's browser market share at 66.36%, compared with Safari's 18.27%. Apple's campaign aims to narrow that gap by making browser efficiency a more prominent consideration. Read Entire Article",
-    "link": "https://www.techspot.com/news/114211-apple-wants-chrome-users-switch-safari-claims-up.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-16T13:31:39.950798"
-  },
-  {
-    "title": "Nvidia Broadcast 2.3 adds 4K video upscaling and frame generation",
-    "summary": "Nvidia Broadcast has received a major upgrade, bringing AI-powered 4K video upscaling and frame generation to webcams. The update also moves beyond live streaming, allowing users to enhance previously recorded videos and audio files. The features require compatible RTX GPUs. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/7304-nvidia-broadcast.html",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-16T13:31:39.950967"
-  },
-  {
-    "title": "Microsoft breaks Patch Tuesday record with more than 1,000 Windows security flaws fixed",
-    "summary": "Earlier this week, Microsoft released a new batch of security updates, traditionally known as Patch Tuesday. For October 2026, Redmond's Patch Tuesday is tasked with fixing 1,413 security bugs, each tracked under its own CVE record. Read Entire Article",
-    "link": "https://www.techspot.com/news/114207-microsoft-breaks-patch-tuesday-record-more-than-1000.html",
-    "categories": [
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-16T13:31:39.951141"
+    "processed_date": "2026-10-17T12:24:13.032713"
   },
   {
-    "title": "ASML says it won't be able to make enough chipmaking machines to meet demand through 2028",
-    "summary": "The demand is being driven primarily by customers' expectations of continued investment in AI, Fouquet said. It also comes as Samsung and TSMC committed during the third quarter to using ASML's High NA extreme ultraviolet (EUV) lithography machines. These next-generation tools are considered important to the Dutch equipment maker's future... Read Entire Article",
-    "link": "https://www.techspot.com/news/114213-asml-customers-looking-toward-2030-equipment-shortages-loom.html",
+    "title": "Researchers say an ad platform could identify targets and install spyware through online ads, no click needed",
+    "summary": "A new investigation by Citizen Lab has uncovered a large-scale covert operation designed to install spyware through online advertising. Dubbed \"AdFection\" by the University of Toronto research unit, the technique was allegedly used by unidentified Israeli actors to infect computers belonging to Al Jazeera's news network. Read Entire Article",
+    "link": "https://www.techspot.com/news/114231-researchers-ad-platform-could-identify-targets-install-spyware.html",
     "categories": [
-      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-17T12:24:13.032898"
+  },
+  {
+    "title": "Apple iPhone Duo is already backordered until 2027",
+    "summary": "Apple introduced the iPhone Duo as the centerpiece of its fall media event on September 9. The handset, which is set to do battle with Samsung's Galaxy Z Fold in the ultra-premium space, is powered by an A20 Pro SoC built by TSMC on its 2nm node and features a... Read Entire Article",
+    "link": "https://www.techspot.com/news/114238-iphone-duo-demand-outpaces-supply-apple-pushes-orders.html",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-17T12:24:13.033065"
+  },
+  {
+    "title": "The new Windows Photos app goes native for editing and viewing, but power users are mad about the web-based gallery",
+    "summary": "The new editor includes several useful tools. Crop helps adjust framing, composition, and aspect ratio, while Enhance fine-tunes light, color, and the overall look of a photo. Repair lets users fix flaws and imperfections, and Stylize changes the look and feel of an image. Read Entire Article",
+    "link": "https://www.techspot.com/news/114223-new-windows-photos-app-goes-native-editing-viewing.html",
+    "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-16T13:31:39.951318"
+    "processed_date": "2026-10-17T12:24:13.033244"
   },
   {
-    "title": "Valve Index VR drops to $400 as production ends, leaked code hints at 4K OLED Steam Frame upgrade",
-    "summary": "Valve has unsurprisingly ended production of its first VR headset, the Index, and has begun clearing stock with a 20% discount on the headset and all accessories. Meanwhile, although the company only recently launched the Index's successor, the Steam Frame, hints of an upgraded model have already emerged. Read Entire Article",
-    "link": "https://www.techspot.com/news/114212-valve-slashes-index-vr-headset-prices-20-leaked.html",
+    "title": "Microsoft says Windows 11 is up to 20% more responsive after its latest update, with big improvements for 8GB PCs",
+    "summary": "The changes follow Microsoft's earlier commitment to improve Windows 11's performance, reliability and overall experience. Read Entire Article",
+    "link": "https://www.techspot.com/news/114232-microsoft-windows-11-up-20-more-responsive-after.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-17T12:24:13.033452"
+  },
+  {
+    "title": "Switch games are the latest targets of AI-built PC ports, and Zelda: Link's Awakening is already playable",
+    "summary": "A free, fan-made PC port of the 2019 remake of The Legend of Zelda: Link's Awakening recently entered a public beta. Built almost entirely with Claude, it is believed to be the first Nintendo Switch PC port of its kind to reach GitHub. Read Entire Article",
+    "link": "https://www.techspot.com/news/114228-nintendo-switch-games-latest-targets-ai-built-pc.html",
     "categories": [
       "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-16T13:31:39.951509"
-  },
-  {
-    "title": "Anthropic ditched Git for its own version control system because Claude is writing too much code",
-    "summary": "Anthropic detailed the system in a recent engineering post, reporting that it averaged about 2,500 merged code changes a day in May. By September, that figure exceeded 30,000. Read Entire Article",
-    "link": "https://www.techspot.com/news/114209-anthropic-ditched-git-own-version-control-system-because.html",
-    "categories": [
-      "AI & ML"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-16T13:31:39.951668"
+    "processed_date": "2026-10-17T12:24:13.033636"
+  },
+  {
+    "title": "Cinema 4D adds procedural scattering, more realistic liquids, and faster rendering",
+    "summary": "Cinema 4D 2027 introduces a new procedural scattering system for creating detailed environments with vegetation, rocks, and other objects. The update also brings Liquid FX, which automatically generates foam, spray, and bubbles for more realistic fluid simulations, alongside Redshift performance improvements, expanded CAD support, and new node-based tools. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/5681-maxon-cinema-4d.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-17T12:24:13.033824"
   }
 ]
