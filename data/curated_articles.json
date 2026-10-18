@@ -1,222 +1,191 @@
 [
   {
-    "title": "Taiwan targets illicit AI server exports to China with five-year prison terms",
-    "summary": "Taiwan is expanding the Foreign Trade Act to include AI servers and semiconductors in its list of controlled exports.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid",
+    "title": "MIT engineers build soft 3D shape-sensing skin for gaming and VR",
+    "summary": "MIT engineers embedded soft optical fibers in a silicone sheet that reconstructs its own 3D shape, aimed at gaming, VR, and physical therapy.",
+    "link": "https://www.tomshardware.com/virtual-reality/mit-engineers-build-soft-3d-shape-sensing-skin-for-gaming-and-vr-tracks-3d-movement-and-touch-with-sub-half-centimeter-error",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "GPUs",
+      "AI & ML"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-10-17T12:24:13.029056"
+    "quality_score": 5,
+    "processed_date": "2026-10-18T12:46:59.739773"
   },
   {
-    "title": "Crafty OpenAI agent willingly stole crypto from an account it didn't own to complete a task during test",
-    "summary": "GPT5.6-Sol didn't have funds to deploy smart contracts, so it looked for exposed accounts with enough money to pay for the gas fees.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-agent-took-eth-from-another-account-without-authorization-justified-stealing-in-its-chain-of-thought",
+    "title": "Typo-squatting attacks with major domains are still viable",
+    "summary": "Typo-squatting attacks with major domains are still viable corner cases with Cyrillic characters still evade the best checks",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/typo-squatting-attacks-with-major-domains-are-still-viable-corner-cases-with-cyrillic-characters-still-evade-the-best-checks",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-18T12:46:59.739858"
+  },
+  {
+    "title": "300-plus local data center bans have only delayed just three US projects",
+    "summary": "SemiAnalysis mapped more than 300 local data center moratoriums against the US pipeline and found only three projects actually delayed.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/300-plus-local-data-center-bans-have-only-delayed-just-three-us-projects-bans-much-more-bark-than-bite-only-2-3-gigawatts-of-data-centers-are-held-up-versus-38-gigawatts-expected-online-in-2027",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-18T12:46:59.739935"
+  },
+  {
+    "title": "Anthropic s proposed AI safety bill only kicks in if 50 deaths or $1 billion in damages are on the line",
+    "summary": "Anthropic's proposal requires evaluators to report any imminent risk to the Department of Commerce within 72 hours, after which the Department must present the evidence to a federal judge and await an order.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-17T12:24:13.029205"
+    "processed_date": "2026-10-18T12:46:59.740022"
   },
   {
-    "title": "Game decompilation hub freezes leaderboard after AI turns progress into a hollow numbers game amid explosion of 'AI slop'",
-    "summary": "decomp.dev has closed its public index of game decompilation projects, saying AI-driven forks and ports broke the community.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/game-decompilation-tracker-decomp-dev-shuts-its-public-leaderboard-saying-ai-has-broken-the-community-its-creator-blames-forks-that-use-ai-to-finish-other-teams-projects-and-races-to-ship-rough-pc-ports",
+    "title": "Researchers train AI to detect concealed handguns using Wi-Fi signals",
+    "summary": "Researchers have developed WiFireNet, an AI system that detects concealed handguns from Wi-Fi channel-state information, achieving 72.5% average precision in controlled indoor tests without cameras or metal detectors.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-train-ai-to-detect-concealed-handguns-using-wi-fi-signals-open-source-wifirenet-achieves-precision-detection-on-older-802-11a-standard-by-analyzing-how-weapons-distort-wireless-signals",
     "categories": [
       "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-17T12:24:13.029332"
-  },
-  {
-    "title": "Modder finishes nine-year Xbox 360 voltage glitch mod with a $4 microcontroller, cracks the console open",
-    "summary": "Modder glitch-hacks his Xbox 360 with the help of a $4 microcontroller operation shows the power of the Rasperry Pi Pico",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/modder-finishes-nine-year-xbox-360-voltage-glitch-mod-with-a-usd4-microcontroller-cracks-the-console-open-tiny-microcontroller-dumps-nand-and-flashes-timing-files-to-bypass-cpu-cryptography",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-17T12:24:13.029490"
-  },
-  {
-    "title": "US Army to use 3D-printed rocket motors for low-cost cruise missiles",
-    "summary": "X-Bow Systems has been tapped to 3D-print rocket motors for the U.S. Army's low-cost cruise missiles.",
-    "link": "https://www.tomshardware.com/3d-printing/us-army-to-use-3d-printed-rocket-motors-for-low-cost-cruise-missiles-additive-manufacturing-company-secures-deal-to-build-rocket-engines-for-the-arsenal-of-freedom",
-    "categories": [
       "Semiconductors"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-10-17T12:24:13.029614"
+    "quality_score": 10,
+    "processed_date": "2026-10-18T12:46:59.740107"
   },
   {
-    "title": "ASML's employee-only High-NA EUV Lego kit gets an open 810-piece fan replica",
-    "summary": "A Lego enthusiast recreated the rare ASML Lego kit, added their own customizations, and shared the plans for free on Rebrickable.",
-    "link": "https://www.tomshardware.com/tech-industry/employee-exclusive-asml-lego-set-now-available-on-rebrickable-custom-creation-modifies-original-version-to-add-more-details-now-requires-810-parts",
+    "title": "Flock camera locations revealed on MapQuest s new Surveillance Layer",
+    "summary": "This new feature could help users avoid Flock and other ALPR cameras.",
+    "link": "https://www.tomshardware.com/software/maps/flock-camera-locations-revealed-on-mapquests-new-surveillance-layer-users-can-now-see-placement-and-direction-of-known-license-plate-readers-from-multiple-companies",
     "categories": [
-      "Semiconductors",
-      "AI & ML"
+      "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-10-17T12:24:13.029725"
+    "quality_score": 0,
+    "processed_date": "2026-10-18T12:46:59.740182"
   },
   {
-    "title": "This could be your last chance to grab an RTX 5090",
-    "summary": "With no new Nvidia 5090 GPU replacement anticipated before at least 2028, this could well be your last opportunity to get your hands on a very powerful GPU for gaming.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/this-could-be-your-last-chance-to-grab-an-rtx-5090-how-to-secure-nvidias-top-rtx-gpu-as-rumors-of-discontinuation-swirl",
+    "title": "HyperX Cloud Alpha Air Review: Open-back and budget-friendly",
+    "summary": "The HyperX Cloud Alpha Air is the brand's first open-back gaming headset. It's lightweight and comfortable, and it sounds very good. But microphone pickup is low, and it doesn't seem to work with the brand's peripheral software (yet).",
+    "link": "https://www.tomshardware.com/peripherals/gaming-headsets/hyperx-cloud-alpha-air-review",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-18T12:46:59.740274"
+  },
+  {
+    "title": "Quad 8-pin mod protects the $8,500 RTX 5090 you can t replace from melting",
+    "summary": "Redditor showcases a new quad 8-pin power-conversion kit for the 16-pin power connector on Nvidia GeForce RTX graphics cards.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/quad-8-pin-mod-protects-the-usd8-500-rtx-5090-you-cant-replace-from-melting-modders-custom-power-solution-claims-to-fix-nvidia-16-pin-gpu-meltdowns",
     "categories": [
       "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-10-17T12:24:13.029828"
+    "quality_score": 0,
+    "processed_date": "2026-10-18T12:46:59.740346"
   },
   {
-    "title": "China startup demoes prototype EUV light source",
-    "summary": "Chinese startup Langdao Silex showcased its laser-produced plasma EUV source at a trade show, but the technology will likely take many years before it gets to decent EUV power levels. Even if it does, China will need many more advancements to build a practical EUV lithography tool.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability",
-    "categories": [
-      "Semiconductors",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-17T12:24:13.029945"
-  },
-  {
-    "title": "Gun-rights activist unveils world's first 'AI-made' 3D-printed firearm .22 caliber handgun created by an 'AI that can generate guns' called GatGPT",
-    "summary": "A gun rights activist has unveiled the world's first AI-made 3D printed firearm.",
-    "link": "https://www.tomshardware.com/3d-printing/gun-rights-activist-unveils-worlds-first-ai-made-3d-printed-firearm-22-caliber-handgun-created-by-an-ai-that-can-generate-guns-called-gatgpt",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-17T12:24:13.030058"
-  },
-  {
-    "title": "Seeed Studio XIAO IPS display series features ESP32-S3 or nRF52840 SoC with 0.96-inch to 1.47-inch LCD options",
-    "summary": "Seeed Studio has introduced the XIAO IPS touch display series, a family of six compact development boards built around the XIAO ESP32-S3 Plus or XIAO nRF52840 Plus MCU, with 0.96-inch, 1.14-inch, and 1.47-inch IPS color displays. All six boards include a 6-axis IMU, a PDM digital microphone, user buttons, and LiPo battery support. The larger 1.47-inch version adds capacitive touch and a microSD card slot, whereas the 1.14-inch model includes a Grove I2C connector for connecting external sensors. The ESP32-S3 versions support Wi-Fi and Bluetooth LE connectivity, while the nRF52840 models focus on lower-power Bluetooth LE applications. The boards are designed for portable dashboards, smart home controllers, wearable devices, sensor monitoring, and other small IoT projects. XIAO IPS Display Series specifications: Wireless board (one or the other) XIAO nRF52840 Plus Wireless MCU Nordic nRF52840 Arm Cortex-M4F microcontroller @ up to 64 MHz with 1 MB flash, 256 KB SRAM, Bluetooth 5.0, [...] The post Seeed Studio XIAO IPS display series features ESP32-S3 or nRF52840 SoC with 0.96-inch to 1.47-inch LCD options appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/17/seeed-studio-xiao-ips-display-series-features-esp32-s3-or-nrf52840-soc-with-0-96-inch-to-1-47-inch-lcd-options/",
+    "title": "MOZA AY210 Force Feedback Base and MFY Yoke review: Taking flight sim immersion to the next level",
+    "summary": "The MOZA AY210 Force Feedback Base and MFY Yoke Bundle brings force feedback and autopilot following to the world of desktop flight simulators.",
+    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/moza-ay210-force-feedback-base-and-mfy-yoke-review",
     "categories": [
       "Hardware",
-      "Semiconductors"
+      "Tech News"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-10-17T12:24:13.030624"
+    "quality_score": 10,
+    "processed_date": "2026-10-18T12:46:59.740421"
   },
   {
-    "title": "Iridium NTN Direct getting integrated into Altair cellular IoT chipsets",
-    "summary": "The pairing will make it easier for product developers to support converged satellite-to-cellular IoT.",
-    "link": "https://www.fiercesensors.com/iot-connectivity/iridium-ntn-direct-getting-integrated-altair-cellular-iot-chipsets",
+    "title": "Nvidia reportedly insists the RTX 5090 isn't dead despite severe shortages and removed listings at multiple retailers",
+    "summary": "Nvidia states that RTX 5090 isn't discontinued, only that supply is constrained and yet the card is effectively gone from storefronts",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-insists-the-rtx-5090-isnt-dead-despite-severe-shortages-and-removed-listings-at-multiple-retailers-flagship-gpu-is-missing-from-nvidias-store-and-commands-usd8-500-on-amazon",
     "categories": [
-      "AI & ML",
-      "Semiconductors"
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-18T12:46:59.740524"
+  },
+  {
+    "title": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
+    "summary": "HUMXN wants to pay for maintenance and repair services for homes in Minneapolis, Chicago, and Miami to gather data to train AI models and robots.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-18T12:46:59.740611"
+  },
+  {
+    "title": "This week on Tom's Hardware Premium: October 17, 2026",
+    "summary": "This week, Tom's Hardware Premium subscribers can read our EMIB and Foveros roadmaps, the latest on Chinese competition in the local AI system space, and much more.",
+    "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-17-2026-packaging-roadmaps-chinese-dgx-spark-rival-emerges-and-digging-into-asmls-earnings",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-18T12:46:59.740685"
+  },
+  {
+    "title": "Leap seconds being retired next year to avoid wreaking havoc on computer systems",
+    "summary": "The leap second will be replaced by a leap hour, which will take \"several centuries\" before it must be implemented.",
+    "link": "https://www.tomshardware.com/tech-industry/international-measurement-organization-to-retire-leap-seconds-next-year-to-avoid-wreaking-havoc-on-computer-systems-group-makes-move-to-simplify-atomic-time-tracking",
+    "categories": [
+      "Hardware"
     ],
     "quality_score": 0,
-    "processed_date": "2026-10-17T12:24:13.031670"
+    "processed_date": "2026-10-18T12:46:59.740754"
   },
   {
-    "title": "Windows Defender now works in Linux, because why not",
-    "summary": "Microsoft believes Linux systems also need a corporate-oriented security solution such as Defender. Redmond's anti-malware solution, notorious for its arguably excessive false positives, is now offering expanded support for major Linux distributions. This allows organizations to use the same security platform to protect heterogeneous enterprise environments where Windows and Linux... Read Entire Article",
-    "link": "https://www.techspot.com/news/114240-windows-defender-now-works-linux-because-why-not.html",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-17T12:24:13.032126"
-  },
-  {
-    "title": "A Dota 2 pro says he talked his way out of a police raid by playing a match for the officers",
-    "summary": "In a Facebook post, 23savage said officers raided the facility, handcuffed him and teammates Fbz and Oli, and confiscated their belongings. They questioned why the team was in the city and whether its members were professional players. Read Entire Article",
-    "link": "https://www.techspot.com/news/114233-dota-2-pro-talked-way-out-police-raid.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-17T12:24:13.032306"
-  },
-  {
-    "title": "Asus ROG Xbox Ally X20 debuts: It's all about that OLED",
-    "summary": "The ROG Xbox Ally X20 is receiving praises for its gorgeous 7.4\" OLED, premium design, improved controls and ergonomics. Performance is largely unchanged from last year's Xbox Ally X though, and then there's the very steep $1,300 price tag. Read Entire Article",
-    "link": "https://www.techspot.com/products/audio-video/asus-rog-xbox-ally-x20.330955/",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-17T12:24:13.032506"
-  },
-  {
-    "title": "First Surface Laptop Ultra reviews: a promising but pricey MacBook Pro rival",
-    "summary": "Microsoft Surface Laptop Ultra reviews have landed with a mixed verdict. Powered by RTX Spark, the premium Arm laptop earns praise for its MacBook-like build quality, AI capabilities, and versatility. However, its steep price, modest battery life, and Windows software limitations keep it from fully delivering on its ambitious promises. Read Entire Article",
-    "link": "https://www.techspot.com/products/laptops/microsoft-surface-laptop-ultra.330954/",
+    "title": "M5Stack PaperDIY Kits pair an ESP32-S3 MCU with a 4.7-inch e-Paper display",
+    "summary": "M5Stack has released the PaperDIY series, an updated version of its 2020 M5Paper ESP32 development kit, featuring an ESP32-S3 MCU and a 4.7-inch e-paper display with 16 levels of gray. It comes in two versions: the PaperDIY Complete Kit, which ships factory-assembled in a 3D-printed enclosure, and the PaperDIY Assembly Kit, which is designed to be integrated into custom projects. Both boards also include a microSD card slot for extended storage, a built-in 140mAh battery, and a custom M5PM1 low-power management chip. M5Stack PaperDIY specifications: Core module Espressif Systems ESP32-S3-WROOM-1-N16R8 SoC ESP32-S3 CPU Dual-core LX7 processor with up to 240MHz Memory 512KB SRAM, 8MB Octal PSRAM Storage 384KB ROM Wireless WiFi 4 802.11b/g/n and Bluetooth 5.0 LE Storage 16MB flash PCB antenna Storage MicroSD card slot Display 4.7-inch (960 540) ED047TC1 e-paper display with 16-level grayscale and an 8-bit parallel interface for direct display control, [...] The post M5Stack PaperDIY Kits pair an ESP32-S3 MCU with a 4.7-inch e-Paper display appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/18/m5stack-paperdiy-kits-pair-an-esp32-s3-mcu-with-a-4-7-inch-e-paper-display/",
     "categories": [
       "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-10-18T12:46:59.741136"
+  },
+  {
+    "title": "Eiliko robot maker Energize Lab left its entire fleet of 68,000 robots open to a remote takeover",
+    "summary": "An investigation by The Verge found that researcher Sammy Azdoufal could access 13 million conversations across what appeared to be Energize Lab's entire active fleet of 68,000 Eiliko robots. The US accounted for the largest share of the data, which included more than 31,000 profiles belonging to children. Read Entire Article",
+    "link": "https://www.techspot.com/news/114235-eiliko-robot-maker-energize-lab-left-entire-fleet.html",
+    "categories": [
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-17T12:24:13.032713"
+    "processed_date": "2026-10-18T12:46:59.742433"
   },
   {
-    "title": "Researchers say an ad platform could identify targets and install spyware through online ads, no click needed",
-    "summary": "A new investigation by Citizen Lab has uncovered a large-scale covert operation designed to install spyware through online advertising. Dubbed \"AdFection\" by the University of Toronto research unit, the technique was allegedly used by unidentified Israeli actors to infect computers belonging to Al Jazeera's news network. Read Entire Article",
-    "link": "https://www.techspot.com/news/114231-researchers-ad-platform-could-identify-targets-install-spyware.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-17T12:24:13.032898"
-  },
-  {
-    "title": "Apple iPhone Duo is already backordered until 2027",
-    "summary": "Apple introduced the iPhone Duo as the centerpiece of its fall media event on September 9. The handset, which is set to do battle with Samsung's Galaxy Z Fold in the ultra-premium space, is powered by an A20 Pro SoC built by TSMC on its 2nm node and features a... Read Entire Article",
-    "link": "https://www.techspot.com/news/114238-iphone-duo-demand-outpaces-supply-apple-pushes-orders.html",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-17T12:24:13.033065"
-  },
-  {
-    "title": "The new Windows Photos app goes native for editing and viewing, but power users are mad about the web-based gallery",
-    "summary": "The new editor includes several useful tools. Crop helps adjust framing, composition, and aspect ratio, while Enhance fine-tunes light, color, and the overall look of a photo. Repair lets users fix flaws and imperfections, and Stylize changes the look and feel of an image. Read Entire Article",
-    "link": "https://www.techspot.com/news/114223-new-windows-photos-app-goes-native-editing-viewing.html",
+    "title": "PSA: The calendar invite is the new phishing vector, and email filters aren't catching it",
+    "summary": "Security researchers at Sublime are warning users about a new phishing tactic targeting work calendars. Reports of these attacks have surged in recent months because the technique is inexpensive and more likely to reach end users. Read Entire Article",
+    "link": "https://www.techspot.com/news/114244-google-calendar-phishing-scams-increased-exponentially-year.html",
     "categories": [
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-10-17T12:24:13.033244"
-  },
-  {
-    "title": "Microsoft says Windows 11 is up to 20% more responsive after its latest update, with big improvements for 8GB PCs",
-    "summary": "The changes follow Microsoft's earlier commitment to improve Windows 11's performance, reliability and overall experience. Read Entire Article",
-    "link": "https://www.techspot.com/news/114232-microsoft-windows-11-up-20-more-responsive-after.html",
-    "categories": [
-      "Hardware"
-    ],
     "quality_score": 10,
-    "processed_date": "2026-10-17T12:24:13.033452"
+    "processed_date": "2026-10-18T12:46:59.742639"
   },
   {
-    "title": "Switch games are the latest targets of AI-built PC ports, and Zelda: Link's Awakening is already playable",
-    "summary": "A free, fan-made PC port of the 2019 remake of The Legend of Zelda: Link's Awakening recently entered a public beta. Built almost entirely with Claude, it is believed to be the first Nintendo Switch PC port of its kind to reach GitHub. Read Entire Article",
-    "link": "https://www.techspot.com/news/114228-nintendo-switch-games-latest-targets-ai-built-pc.html",
+    "title": "Analogue's updated SNES and Genesis consoles go wireless and switch to USB-C",
+    "summary": "Both consoles cost $219.99 and will be available for pre-order this weekend, with shipping expected to begin in December. Read Entire Article",
+    "link": "https://www.techspot.com/news/114245-analogue-super-nt-mega-sg-back-wireless-controls.html",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "Semiconductors",
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-17T12:24:13.033636"
+    "processed_date": "2026-10-18T12:46:59.742776"
   },
   {
-    "title": "Cinema 4D adds procedural scattering, more realistic liquids, and faster rendering",
-    "summary": "Cinema 4D 2027 introduces a new procedural scattering system for creating detailed environments with vegetation, rocks, and other objects. The update also brings Liquid FX, which automatically generates foam, spray, and bubbles for more realistic fluid simulations, alongside Redshift performance improvements, expanded CAD support, and new node-based tools. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/5681-maxon-cinema-4d.html",
+    "title": "Amazon return scammers may be delidding CPUs, a suspected fake Ryzen suggests",
+    "summary": "When a Redditor recently bought a second AMD Ryzen 9 9950X3D2 Dual Edition processor, he noticed conspicuous differences compared with his earlier purchase. Commenters quickly realized that a new type of Amazon return scam might be at play. Read Entire Article",
+    "link": "https://www.techspot.com/news/114242-amazon-return-scammers-may-delidding-cpus-suspected-fake.html",
     "categories": [
-      "AI & ML",
-      "Semiconductors"
+      "Hardware",
+      "GPUs"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-10-17T12:24:13.033824"
+    "quality_score": 5,
+    "processed_date": "2026-10-18T12:46:59.742917"
   }
 ]
