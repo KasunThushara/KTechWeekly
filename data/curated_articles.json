@@ -1,361 +1,321 @@
 [
   {
-    "title": "U.S. Army developing program that would deploy AI agents to autonomously seek and destroy targets in enemy digital infrastructures",
-    "summary": "The U.S. Army is developing a program to deploy autonomous AI agents that can navigate digital and network infrastructures, identify targets, and neutralize them.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-army-reportedly-developing-program-that-would-deploy-ai-agents-to-autonomously-seek-and-destroy-targets-in-enemy-digital-infrastructures-experts-warn-echotribble-program-could-have-disastrous-consequences",
+    "title": "Trump announces mandate forcing AI data centers to pay energy dividends to the local community",
+    "summary": "Trump's latest post on Truth Social announces his plans to make data centers more popular among local communities.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/trump-announces-mandate-for-data-centers-to-pay-dividends-to-the-local-community-hopes-to-win-more-data-center-supporters-through-dividend-scheme",
     "categories": [
-      "AI & ML",
-      "Semiconductors"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-20T13:50:36.852789"
+    "processed_date": "2026-10-21T14:06:51.942377"
   },
   {
-    "title": "US restarts three shut-down nuclear reactors to feed AI data centers",
-    "summary": "The U.S. government is helping fund projects to bring nuclear reactors back online in an attempt to provide more energy capacity to AI data centers.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/us-takes-unprecedented-step-of-recommissioning-nuclear-plants-due-to-ai-power-demand-2-25-gw-currently-on-tap-from-refurbished-reactors",
+    "title": "Qualcomm to cut jobs globally in \"performance-based\" layoffs, as company pivots to AI data center and edge computing markets",
+    "summary": "Qualcomm will begin performance-based layoffs worldwide in November as the chipmaker reallocates resources toward AI infrastructure, data centers, automotive, PCs, and edge computing, amid weaker consumer electronics demand.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/qualcomm-to-cut-jobs-globally-in-performance-based-layoffs-ceo-says-move-will-build-stronger-performance-culture-as-company-pivots-to-ai-data-center-and-edge-products",
     "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-20T13:50:36.852874"
-  },
-  {
-    "title": "Oblivion gamer uses Claude AI to boost average FPS gains up to 48%, stutters slashed by 90%",
-    "summary": "The new Oblivion Remastered Performance Fix mod is a pure code fix, with no changes to game assets or the game's visuals, yet it offers massive gains.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/oblivion-gamer-uses-claude-ai-to-boost-average-fps-gains-up-to-48-percent-stutters-slashed-by-90-percent-performance-mod-doesnt-change-game-assets-or-alter-visuals",
-    "categories": [
+      "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-20T13:50:36.852955"
+    "processed_date": "2026-10-21T14:06:51.942509"
   },
   {
-    "title": "Buy a complete RTX 5070 Ti gaming PC from Newegg and save $450",
-    "summary": "Save $450 on Newegg s ABS Stratos II Aqua prebuilt open the box and start gaming tomorrow saving the trouble of building and supporting your own",
-    "link": "https://www.tomshardware.com/pc-components/buy-a-complete-rtx-5070-ti-gaming-pc-from-newegg-and-save-usd450-get-a-16gb-gpu-32gb-of-ram-an-i9-14900kf-processor-a-2tb-ssd-and-more-for-only-usd2-549",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-20T13:50:36.853029"
-  },
-  {
-    "title": "China s tech giants drop $35 billion on export-compliant Nvidia RTX Pro 5500 workstation GPU orders to power AI ambitions, according to reports",
-    "summary": "$35 billion worth of Nvidia RTX Pro 5500 GPUs have been bought by Chinese trio Tencent, Alibaba and ByteDance, with demand far exceeding Nvidia's planned production, according to report.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/chinas-tech-giants-drop-usd35-billion-on-export-compliant-nvidia-rtx-pro-5500-workstation-gpu-orders-to-power-ai-ambitions-according-to-reports-bytedance-alibaba-and-tencent-order-3-million-cards-despite-warnings-that-only-10-percent-of-orders-are-fulfillable",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-20T13:50:36.853114"
-  },
-  {
-    "title": "Modern software is built on the backs of low-paid maintainers, opening the door to potential threats",
-    "summary": "Modern computing remains vulnerable to the low bus factor of many open-source projects continued lack of funding and manpower for voluntary-maintained infrastructure makes for a perennial threat",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/modern-software-is-built-on-the-backs-of-low-paid-maintainers-opening-the-door-to-potential-threats-report-details-critically-underfunded-projects-that-remain-understaffed-or-unfunded",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-20T13:50:36.853194"
-  },
-  {
-    "title": "Mods can almost double DLSS 5 performance through Foveation, reducing resolution at the edges of frames",
-    "summary": "VR rendering technique of foveated imaging gets integrated into DLSS 5, making it much easier to run",
-    "link": "https://www.tomshardware.com/pc-components/gpus/mods-can-almost-double-dlss-5-performance-through-foveation-reducing-resolution-at-the-edges-of-frames-technique-makes-dlss-5-possible-on-high-resolution-ultrawide-monitors",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-20T13:50:36.853264"
-  },
-  {
-    "title": "Modal taps Nvidia Vera CPUs after firm's internal tests show 2x throughput over Intel and AMD chips",
-    "summary": "Nvidia's Vera CPU delivers twice the performance of Intel and AMD chips in AI agent workloads, Modal claims.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/nvidia-vera-cpu-deployed-at-ai-startup-modal-alongside-existing-x86-fleet-internal-testing-showed-2x-throughput-compared-to-amd-and-intel",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-20T13:50:36.853344"
-  },
-  {
-    "title": "Intel asks FCC for waiver to buy foreign robots",
-    "summary": "Intel is concerned that the sweeping ban on foreign-made robots means that it could not update or maintain its fleet of AGVs.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-asks-fcc-for-waiver-to-buy-foreign-robots-chipmakers-automated-guided-vehicles-could-run-afoul-of-agencys-sweeping-robot-ban",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-20T13:50:36.853411"
-  },
-  {
-    "title": "Windows 98 SE users get a Thunderbolt 4 driver, thanks to AI assistance",
-    "summary": "Windows 98 devotees now have (experimental) support for USB4 and Thunderbolt 3/4. Vibe coded driver also supports Windows Me, XP, Vista, and 7.",
-    "link": "https://www.tomshardware.com/peripherals/thunderbolt/windows-98-se-users-get-a-thunderbolt-4-driver-thanks-to-ai-assistance-vibe-coded-xhci98-driver-works-in-microsoft-oses-up-to-windows-7",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-20T13:50:36.853480"
-  },
-  {
-    "title": "Electronics hobbyist converts $120 DDR5 SODIMM kit into $1000 desktop kit to fight RAM crisis",
-    "summary": "A hobbyist converted a SK hynix 2x 16GB DDR5-5600 SODIMM kit they got off Facebook Marketplace for $120 into a DDR5-7800 desktop kit.",
-    "link": "https://www.tomshardware.com/pc-components/ddr5/electronics-hobbyist-converts-usd120-ddr5-sodimm-kit-into-usd1000-desktop-kit-to-fight-ram-crisis-ics-from-sk-hynix-ddr5-5600-16gb-modules-used-to-create-ddr5-7800-desktop-sticks",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-20T13:50:36.853548"
-  },
-  {
-    "title": "Chinese crime ring steals more than $5 million in gift cards from Staples customer service",
-    "summary": "Over $5 million worth of gift cards for retailers like Target and Sephora were stolen from Staples when thieves gained access to an internal system.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/chinese-crime-ring-steals-millions-of-dollars-in-gift-cards-from-staples-customer-service-system-group-acquired-more-than-15-000-gift-cards-worth-more-than-usd5-million",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-20T13:50:36.853618"
-  },
-  {
-    "title": "Pick up this DDR5 gaming PC for only $899",
-    "summary": "Pick up a brand-new iBuypower Slate PC for just $899, a great entry-level gaming PC option for 1080p gaming.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/pick-up-this-ddr5-gaming-pc-for-only-usd899-save-usd300-off-the-ibuypower-slate-pc-with-10gb-of-graphics-vram",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-20T13:50:36.853693"
-  },
-  {
-    "title": "Google DeepMind claims four AI agents beat Minecraft in 27 hours by writing 2,783 programs of their own",
-    "summary": "Google DeepMind researchers say four Gemini 4 Argon agents beat Minecraft in 27 hours, writing 2,783 programs with no human help.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-claims-four-gemini-4-agents-beat-minecraft-in-27-hours-by-writing-2-783-programs-of-their-own-the-ai-team-died-605-times-on-easy-difficulty-and-ran-up-an-estimated-usd520-in-tokens",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-20T13:50:36.853771"
-  },
-  {
-    "title": "Ukraine rescues wounded soldier using drone in daring 'world's first' UAV evacuation of a human",
-    "summary": "The Ukrainian military is claiming a world s first after using an unmanned drone to rescue an injured soldier on the eastern Kharkiv front.",
-    "link": "https://www.tomshardware.com/tech-industry/drones/ukraine-rescues-wounded-soldier-using-hexacopter-drone-in-daring-first-heavy-lift-uav-brought-the-injured-infantryman-11-miles-back-to-safety",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-20T13:50:36.853844"
-  },
-  {
-    "title": "You can now modify the vBIOS on Nvidia gaming GPUs without flashing thanks to a solo developer s project",
-    "summary": "Flashing the VBIOS is risky and can brick a GPU, but this VBIOS configurator uses an Nvidia register key to override VBIOS settings without flashing.",
-    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/vbios-on-rtx-cards-can-be-modified-without-flashing-thanks-to-a-solo-developers-project-provides-a-ui-for-quick-vbios-configuration",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-20T13:50:36.853915"
-  },
-  {
-    "title": "Semtech LR2021 LoRa chip gets the SDR treatment, supports 100 MHz to 2.74 GHz",
-    "summary": "Earlier this month, we saw how the humble ESP32-S3 could be turned into an SDR transmitter and receiver; then we saw developer h0m3us3r release the w1700k-sdr project, which turns a Gemtek W1700K Wi-Fi 7 router into a wideband SDR receiver. The LR2021-SDR open-source project by Samuel Reynolds (SAMS0N1TE) follows the same principle and turns the Semtech LR2021 LoRa transceiver into a software-defined radio (SDR) capable of receiving signals from 100 MHz to 2.74 GHz. Using an undocumented command in the chip s ROM, this project exposes raw 16-bit I/Q samples, allowing software to decode P25 Phase 1 digital voice, POCSAG pager messages, and analog FM signals without an external SDR dongle. LR2021-SDR firmware features: Supported hardware Semtech LR2021 running ROM 1.24; not compatible with the SX1262 variant for raw I/Q access. Receive frequency range 100 MHz to 2.74 GHz (experimentally tested), extending beyond the datasheet s specified 150 960 MHz and 1.5 2.5 [...] The post Semtech LR2021 LoRa chip gets the SDR treatment, supports 100 MHz to 2.74 GHz appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/20/semtech-lr2021-lora-chip-gets-the-sdr-treatment-supports-100-mhz-to-2-74-ghz/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-20T13:50:36.854280"
-  },
-  {
-    "title": "Linux 7.3 release Main Changes, Arm, RISC-V, and MIPS architectures",
-    "summary": "Linus Torvalds announced the release of Linux 7.3 on LKML last Sunday: It s Sunday afternoon, and this week I somehow kept my wits together long enough to keep track of the day of the week, so the release isn t randomly delayed. Will wonders never cease? Anyway, nothing very special seems to have happened this last week, so as expected the final 7.3 is out, and thus tomorrow the merge window for 7.4 opens. Except I m on my annual family vacation, so instead of merging anything first thing in the morning, I ll spend most of the day on a boat and under water. I ll get back to merging in the afternoon, but I expect my schedule to be a bit unusual for a while. I hope I can still complete the merge window in the usual two weeks, but it may be that I ll end up with an extra week of merging [...] The post Linux 7.3 release Main Changes, Arm, RISC-V, and MIPS architectures appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/20/linux-7-3-release-main-changes-arm-risc-v-and-mips-architectures/",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-10-20T13:50:36.854398"
-  },
-  {
-    "title": "ST veteran talks up the future for sensors and physical AI: Video",
-    "summary": "Francesco Doddo, a 26-yeasr veteran of STMicroelectronics, sat down with Edge AI Foundation CEO Pete Bernard for a discussion on the role of sensors in the physical AI era.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/sts-aiot-veteran-talks-future-sensors-and-robotics-video",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-20T13:50:36.855358"
-  },
-  {
-    "title": "Call for Speakers at Sensors Converge 2027",
-    "summary": "Forge's Sensors Converge has opened the 2027 call for speakers and early access registration for the event, June 8-10 in Santa Clara, Calif.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/call-speakers-sensors-converge-2027",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-20T13:50:36.855427"
-  },
-  {
-    "title": "As some propose slowing AI growth, forecasts remain strong for sensors in AI, like humanoids",
-    "summary": "Omdia analyst forecasts 68% CAGR in humanoid growth through 2035, including multiple sensors inside",
-    "link": "https://www.fiercesensors.com/sensors-fusion/some-propose-slowing-ai-growth-forecasts-remain-strong-sensors-ai-humanoids",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-20T13:50:36.855500"
-  },
-  {
-    "title": "Nvidia's RTX 6060 probably won't arrive until 2029, will be slower than the PS6",
-    "summary": "Prominent leaker Kepler_L2 recently suggested that Nvidia's next-generation mainstream graphics card, tentatively called the RTX 6060, could be delayed until as late as 2029. Memory supply shortages are the obvious cause. Read Entire Article",
-    "link": "https://www.techspot.com/news/114263-nvidia-rtx-6060-probably-wont-arrive-until-2029.html",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-20T13:50:36.855595"
-  },
-  {
-    "title": "\"I have to stop this\": Retired professor arrested for blocking delivery robots she says are taking human jobs",
-    "summary": "Carolyn Marvin, a professor emeritus at the University of Pennsylvania's Annenberg School of Communication, decided to take a literal stand against an oncoming Avride delivery robot from Uber Eats in Philadelphia's Center City. She repeatedly stood in its path so it couldn't move. Read Entire Article",
-    "link": "https://www.techspot.com/news/114268-have-stop-retired-professor-arrested-blocking-delivery-robots.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-20T13:50:36.855699"
-  },
-  {
-    "title": "Foxconn's latest EV push is a $727 million bet for half of Mitsubishi Electric's car parts business",
-    "summary": "The companies plan to combine Mitsubishi Electric's powertrain, autonomous-driving and in-car computing technology with Foxconn's manufacturing operations. They want to build EV platforms in Japan, sell them first to Japanese automakers and then seek customers overseas. Read Entire Article",
-    "link": "https://www.techspot.com/news/114262-foxconn-latest-ev-push-727-million-bet-half.html",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-20T13:50:36.855787"
-  },
-  {
-    "title": "This 3D-printed 1980s brick phone brings back the days when mobile phones were just for making calls",
-    "summary": "Cologne-based designer and maker Kevin Noki created the ADHD ONE, the first part of the name being an acronym for Anti Distraction Handset Device. Read Entire Article",
-    "link": "https://www.techspot.com/news/114267-3d-printed-1980s-brick-phone-brings-back-days.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-20T13:50:36.855862"
-  },
-  {
-    "title": "Can a Simple App Really Fix PC Game Stutters?",
-    "summary": "Shader compilation stutter has plagued PC gaming for years, causing frustrating hitches even on powerful hardware. The SCSKiller app promises to do something about it, but does it work? Read Entire Article",
-    "link": "https://www.techspot.com/review/3189-fix-shader-compilation-stutter/",
+    "title": "FADU puts the filesystem inside the SSD's flash to bypass host CPUs",
+    "summary": "FADU s FS-SSD carries NFSv3 file operations inside NVMe commands, letting GPUs, DPUs, and NICs read files without a host file system.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/fadu-puts-the-filesystem-inside-the-ssds-flash-to-bypass-host-cpus-file-semantic-pcie-6-0-ssd-delivers-460-000-ops-s-to-gpus-and-dpus-samples-due-by-q3-2027",
     "categories": [
       "Hardware",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-20T13:50:36.855934"
+    "processed_date": "2026-10-21T14:06:51.942622"
   },
   {
-    "title": "Steam on Linux is going 64-bit as Valve leans harder on the platform",
-    "summary": "A recent Steam Client Beta update brought the program into the 64-bit era on Linux. The native Linux version of the massively popular gaming client is now a 64-bit application, which means it gains access to a few significant enhancements and, hopefully, a more reliable software experience. Read Entire Article",
-    "link": "https://www.techspot.com/news/114260-steam-linux-going-64-bit-valve-leans-harder.html",
+    "title": "AMD and Intel will work together to create a single PyTorch code path for AI inference on CPUs",
+    "summary": "AMD and Intel are working together to bring CPU inference optimizations for PyTorch under the unified oneDNN library.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-and-intel-will-work-together-to-create-a-single-pytorch-code-path-for-ai-inference-on-cpus-amd-zendnn-library-gets-folded-into-intel-onednn-to-make-cpu-ai-simpler",
     "categories": [
       "AI & ML",
-      "GPUs"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-20T13:50:36.856016"
+    "processed_date": "2026-10-21T14:06:51.942732"
   },
   {
-    "title": "This mod lets Nvidia GeForce owners run a custom VBIOS without flashing the card",
-    "summary": "A developer has released three tools that let GeForce RTX 30, 40 and 50 series owners run a modified VBIOS without writing to the card's flash chip: a VBIOS editor for Windows and Linux, plus separate loaders for each operating system. Read Entire Article",
-    "link": "https://www.techspot.com/news/114257-mod-nvidia-geforce-owners-run-custom-vbios-without.html",
+    "title": "Iran threatens to attack undersea cables in the Strait of Hormuz, calls them 'legitimate new targets' in future conflict",
+    "summary": "Iran could attack seven undersea cables that run through the Strait of Hormuz, describing them as \"legitimate new targets\" in a potential \"third phase\" of further conflict with the United States.",
+    "link": "https://www.tomshardware.com/tech-industry/iran-threatens-to-attack-undersea-cables-in-the-strait-of-hormuz-calls-them-legitimate-new-targets-in-future-conflict-irgc-spokesman-warns-that-a-future-third-phase-in-war-with-us-could-lead-them-to-sever-global-data-links",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-21T14:06:51.942840"
+  },
+  {
+    "title": "Samsung and SK Hynix are upgrading Chinese factories to produce advanced RAM chips as AI data center competition ramps up",
+    "summary": "Samsung and SK Hynix are reportedly upgrading their factories to produce more advanced RAM chips designed for AI data centers in an attempt to fend off competition from Chinese companies.",
+    "link": "https://www.tomshardware.com/pc-components/dram/samsung-and-sk-hynix-are-upgrading-chinese-factories-to-produce-advanced-ram-chips-as-ai-data-center-competition-ramps-up-big-players-move-to-fight-off-the-threat-from-cxmt-and-co",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-21T14:06:51.942979"
+  },
+  {
+    "title": "Why you don't need an audiophile headset for gaming comfort, convenience, and a good mic win over pure audio fidelity",
+    "summary": "Headsets are mainly about audio, but that doesn't mean that the \"objectively\" best-sounding headset by audiophile standards translates to the best-sounding headset by gaming standards.",
+    "link": "https://www.tomshardware.com/peripherals/headphones-headsets/why-you-dont-need-an-audiophile-headset-for-gaming-comfort-convenience-and-a-good-mic-win-over-pure-audio-fidelity",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-21T14:06:51.943093"
+  },
+  {
+    "title": "Micron's Taiwan union will launch a one-day strike this week, threatening memory production",
+    "summary": "Micron's Taiwan union is set to conduct a one-day strike at the company's Taoyuan DRAM facility as workers demand bonuses for this year and transparent terms of bonuses for upcoming years.",
+    "link": "https://www.tomshardware.com/pc-components/dram/microns-taiwan-union-will-launch-a-one-day-strike-this-week-threatening-round-the-clock-fab-operations-workers-demand-concrete-terms-for-2026-bonus-and-clearer-profit-sharing-arrangements",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-21T14:06:51.943205"
+  },
+  {
+    "title": "HPE says it will run the first supercomputer benchmarks on the Moon",
+    "summary": "HPE s Spaceborne Computer-4 will ride Astrolab s FLIP rover to the Moon s south pole to run HPL, HPCG, and AI tests.",
+    "link": "https://www.tomshardware.com/tech-industry/supercomputers/hpe-says-it-will-run-the-first-supercomputer-benchmarks-on-the-moon-with-its-spaceborne-computer-4-system-will-ride-a-rover-to-the-lunar-south-pole-to-test-linpack-llms-and-lidar-mapping",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-21T14:06:51.943324"
+  },
+  {
+    "title": "Three workers killed, one in intensive care after fall at TSMC s 2nm fab construction site",
+    "summary": "Three contract workers died, and one is in intensive care after a fall at TSMC s Fab 22 construction site in Kaohsiung, Taiwan.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/three-workers-killed-one-in-intensive-care-after-fall-at-tsmcs-2nm-fab-construction-site-in-kaohsiung-broken-bolt-on-a-steel-connection-plate-suspected-as-cause-behind-tragic-accident",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-21T14:06:51.943425"
+  },
+  {
+    "title": "Jensen Huang Nvidia GTC keynote disrupted by Greenpeace protest over chips in Russian drones",
+    "summary": "Jensen Huang's Nvidia GTC keynote speech in Berlin was disrupted by a Greenpeace protest on Wednesday.",
+    "link": "https://www.tomshardware.com/tech-industry/jensen-huang-nvidia-gtc-keynote-disrupted-by-greenpeace-protest-over-chips-in-russian-drones-what-are-you-doing-about-that-heckler-demands-before-being-thrown-out",
     "categories": [
       "GPUs",
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-10-20T13:50:36.856094"
+    "quality_score": 0,
+    "processed_date": "2026-10-21T14:06:51.943521"
   },
   {
-    "title": "Modern Warfare 4 has the best Steam rating for a Call of Duty game in 16 years",
-    "summary": "The game currently has 4,068 total reviews on Steam, including 3,438 from verified buyers. Of those reviews, 94% are positive, earning it a \"Very Positive\" rating overall and making it the best-reviewed Call of Duty release on Steam since 2010's Black Ops. The SteamDB ratings were first reported by Insider... Read Entire Article",
-    "link": "https://www.techspot.com/news/114255-modern-warfare-4-has-best-steam-rating-call.html",
+    "title": "AMD's FSR 4.1 now works on Radeon RX 6000 cards, Xbox Series X and S, and Ryzen AI Max, AI 9, and Z2 SoCs",
+    "summary": "AMD has released a version of its cutting-edge FSR 4.1 upscaler that now works on Radeon RX 6000 GPUs, Xbox Series X and Series S consoles, and Ryzen AI Max, AI 9, and Z2 chips.",
+    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/amds-fsr-4-1-now-works-on-radeon-rx-6000-gpus-xbox-series-x-and-s-and-ryzen-ai-max-ai-9-and-z2-socs-new-release-brings-cutting-edge-tech-to-older-hardware-with-a-small-performance-cost",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-21T14:06:51.943627"
+  },
+  {
+    "title": "TP-Link proposes $1 billion US Wi-Fi router manufacturing alliance with Key Tronic",
+    "summary": "TP-Link is at the mercy of the FCC regarding its ready-to-go Wi-Fi 8 routers, so it has a sweetener in mind to move things along.",
+    "link": "https://www.tomshardware.com/networking/routers/tp-link-proposes-usd1-billion-us-wi-fi-router-manufacturing-alliance-with-key-tronic-potential-deal-seeks-to-end-ongoing-saga-blocking-its-wi-fi-8-products-from-american-homes",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-21T14:06:51.943722"
+  },
+  {
+    "title": "Mysterious AMD Zen 6 APU with 24GB of LPDDR5 memory appears in benchmarks",
+    "summary": "The engineering sample features six CPU cores, 24GB of LPDDR5 memory running at 9,600 MT/s, and an integrated GPU clocked at 2.4 GHz, although its connection to a future Steam Deck remains unconfirmed.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/mysterious-amd-zen-6-apu-with-24gb-of-lpddr5-memory-appears-in-benchmarks-chip-may-be-for-next-gen-steam-deck-or-gaming-handhelds",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-21T14:06:51.943824"
+  },
+  {
+    "title": "ESP-Mosaico An ESP32-S31-based modular development platform for AI-assisted hardware creation",
+    "summary": "Espressif Systems ESP-Mosaico is an ESP32-S31 development platform with a 480 480 OLED touchscreen, haptic feedback, a built-in battery, USB Type-C connectivity, and expansion I/O. It s specifically designed for AI <-> hardware integration and targets magnetic expansion toys, motion sensing, square touch display HMI, and edge voice/multimedia applications. ESP-Mosaico specifications: CoreBoard SoC ESP32-S31NRV16 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory 512 KB SRAM, 32 KB low-power SRAM, 16MB PSRAM Wireless 2.4 GHz WiFi 6 (802.11ax) Bluetooth 5.4 with support for LE Audio, direction finding, Bluetooth Mesh 1.1, and Classic (BR/EDR) 802.15.4 radio for Zigbee, Thread, and Matter Storage 1 Gbit (128 MB) SPI NAND flash for asset storage. 16 MB (128 Mbit) SPI NOR flash (GD25Q128EWIGR) for program and data storage. Display 2.16-inch QSPI touch display with 480 x 480 resolution; CO5300 driver + CST9220 [...] The post ESP-Mosaico An ESP32-S31-based modular development platform for AI-assisted hardware creation appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/21/esp-mosaico-an-esp32-s31-based-modular-development-platform-for-ai-assisted-hardware-creation/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-10-21T14:06:51.944310"
+  },
+  {
+    "title": "Omron buys Interlogic for $675M soon after spinout of Aratas for components",
+    "summary": "OnLogic s industrial PCs will be combined with Omron s sensing and robotics gear for bigger physical AI play.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/omron-buys-interlogic-675m-soon-after-spinout-aratas-components",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-21T14:06:51.945291"
+  },
+  {
+    "title": "AMD brings FSR 4.1 upscaling to Radeon 6000 GPUs, Ryzen AI Max, and handhelds like the ROG Xbox Ally",
+    "summary": "Owners of Radeon RX 6000 series GPUs and most of AMD's recent SoCs can now enable FSR 4.1 upscaling without mods like Optiscaler. The update, included in version 26.10.1 of AMD's graphics driver, aims to bring upscaling image quality closer to Nvidia's DLSS. Read Entire Article",
+    "link": "https://www.techspot.com/news/114277-amd-brings-fsr-41-upscaling-radeon-6000-gpus.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-21T14:06:51.945610"
+  },
+  {
+    "title": "Staples hackers created more than 15,000 gift cards, then went on a shopping spree",
+    "summary": "The attackers obtained the session data from the memory of a support application the retailer believed could only be reached from its own computers. The breach gave a Chinese organized crime group a way to generate gift cards for retailers including Target and Sephora. Members of the operation then used... Read Entire Article",
+    "link": "https://www.techspot.com/news/114279-hackers-stole-over-5-million-staples-gift-cards.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-21T14:06:51.945739"
+  },
+  {
+    "title": "Atlanta doesn't want a real-life RoboCop: City council unanimously backs ban on weaponized robots",
+    "summary": "Introduced by Council member Liliana Bakhtiari, the act prohibits city employees and contractors, including police, from buying or otherwise acquiring weaponized autonomous systems, drones and remotely operated machines. Read Entire Article",
+    "link": "https://www.techspot.com/news/114281-atlanta-doesnt-want-real-life-robocop-city-council.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-21T14:06:51.945846"
+  },
+  {
+    "title": "DLSS 5 Just Got a Lot Faster, but Is It Worth Using?",
+    "summary": "Nvidia's new DLSS 5 model nearly doubles neural rendering speed across the RTX 50 series. We put it to the test to see if the performance gains outweigh the heavy FPS penalty and lingering visual issues. Read Entire Article",
+    "link": "https://www.techspot.com/article/3190-dlss-5-performance-v2/",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-21T14:06:51.945991"
+  },
+  {
+    "title": "The next Xbox could arrive in 2028 for $1,200 to $1,800, Xbox handheld may launch in 2027",
+    "summary": "According to Fortune, Microsoft is aiming to launch its next-generation console, codenamed Helix, in time for the 2028 holiday season. As memory costs climb, its price has internally been projected at anywhere between $1,200 and $1,800, unless the company subsidizes the hardware. Read Entire Article",
+    "link": "https://www.techspot.com/news/114275-next-xbox-could-arrive-2028-1200-1800-xbox.html",
     "categories": [
       "Tech News",
-      "Hardware"
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-21T14:06:51.946120"
+  },
+  {
+    "title": "Millions of routers can be hijacked over Wi-Fi thanks to a 16-year-old bug",
+    "summary": "Security researcher Quentin Kaiser detailed the flaw at the Hexacon conference in Paris on October 16. He calls it WPSplinter, a name he only gave it because Broadcom refused to issue an official identifier. Read Entire Article",
+    "link": "https://www.techspot.com/news/114276-millions-routers-can-hijacked-over-wi-fi-thanks.html",
+    "categories": [
+      "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-20T13:50:36.856178"
+    "processed_date": "2026-10-21T14:06:51.946226"
   },
   {
-    "title": "Reseller says $470,000 worth of Nvidia RTX 5090s went missing at S o Paulo airport",
-    "summary": "Oder o Distribuidora is a Brazilian hardware distributor that has been in business for more than 38 years, about 18 of them importing computer hardware. According to a recent message from company president Oder o Matos, the company has lost an undisclosed number of GeForce RTX 5090 cards after two pallets went... Read Entire Article",
-    "link": "https://www.techspot.com/news/114248-reseller-470000-worth-nvidia-rtx-5090s-went-missing.html",
+    "title": "Update now: Hackers are exploiting Plex server vulnerabilities to install malware",
+    "summary": "Hackers are actively exploiting security vulnerabilities in outdated Plex Media Server installations to deploy cryptocurrency miners and proxy malware. Plex confirms widespread attacks against internet-facing servers, with the flaws allowing remote code execution without authentication. The vulnerabilities were patched in version 1.43.3.10861. Users running older versions are urged to update immediately. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/6739-plex-media-app.html",
     "categories": [
-      "GPUs",
-      "Hardware"
+      "Hardware",
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-20T13:50:36.856264"
+    "processed_date": "2026-10-21T14:06:51.946348"
   },
   {
-    "title": "VSDC Video Editor is a free alternative to resource-hungry editing suites",
-    "summary": "VSDC is a feature-rich video editor that runs smoothly on modest hardware. The free version supports 4K exports without watermarks, screen recording, visual effects, and a wide range of editing tools. While its unconventional interface takes some getting used to, it's a capable alternative to heavier editors. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/6284-vsdc-free-video-editor.html",
+    "title": "A judge lets Denuvo subpoena Discord, Reddit, and Steam to unmask the cracker Voices38",
+    "summary": "Denuvo's first attempt to uncover Voices38's real identity was unsuccessful because the company tried to obtain too much data at once. Now, a California federal judge has granted the Irdeto-owned DRM maker's revised subpoena requests. Several internet companies will soon have to respond to Denuvo's lawyers, but Voices38 could still... Read Entire Article",
+    "link": "https://www.techspot.com/news/114261-denuvo-first-attempt-identify-cracker-voices38-went-far.html",
     "categories": [
-      "Hardware"
+      "Semiconductors",
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-20T13:50:36.856347"
+    "processed_date": "2026-10-21T14:06:51.946472"
   },
   {
-    "title": "Super Mario 64's 30-year-old plaque mystery may finally be solved",
-    "summary": "The leading theory up to this point is that the text reads, \"L is real 2401.\" This theory gained traction after it was published in an April Fool's Day feature in Nintendo Power magazine in 1998 and without a better answer, it stuck. Read Entire Article",
-    "link": "https://www.techspot.com/news/114256-super-mario-64-30-year-old-plaque-mystery.html",
+    "title": "GTA 6 is on track to smash records as pre-orders exceed 6 million copies",
+    "summary": "As of October 20, Rockstar has pre-sold an estimated 6.45 million copies of the game earning roughly $630 million in the process. According to Sensor Tower, most 74% are buying the game for PlayStation 5. Broken down another way, it works out to 4.8 million copies sold for PS5 and 1.66 million on Xbox. Read Entire Article",
+    "link": "https://www.techspot.com/news/114272-gta-vi-track-smash-records-pre-orders-exceed.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-21T14:06:51.946578"
+  },
+  {
+    "title": "ChatGPT's Chrome extension can now control tabs, download files, and fill out forms",
+    "summary": "ChatGPT's Chrome extension gained the ability to access content from open tabs last July. The latest update introduces two distinct AI modes, Chat and Work, allowing ChatGPT to interact with browser tabs and perform a wide range of tasks, including filling out online forms using information from documents stored on... Read Entire Article",
+    "link": "https://www.techspot.com/news/114258-chatgpt-chrome-extension-can-now-control-tabs-download.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-20T13:50:36.856423"
+    "processed_date": "2026-10-21T14:06:51.946689"
   },
   {
-    "title": "Nvidia says the RTX 5090 isn't discontinued, but most listings are over $9,300",
-    "summary": "Prolific leaker MEGAsizeGPU last week wrote that Nvidia had \"confirmed\" the GB202 chip used in the RTX 5090 would no longer be used in new RTX 5090 cards. Instead, future supplies of the GPU would be used exclusively for RTX Pro Blackwell-based models. Read Entire Article",
-    "link": "https://www.techspot.com/news/114254-nvidia-rtx-5090-production-but-absence-company-us.html",
+    "title": "AI-assisted vibe coding brings Thunderbolt 4 support to Windows 98 SE",
+    "summary": "A developer by the name of Yeo Kheng Meng recently commissioned AI to create a driver that enables generic USB 3.x, USB4, and Thunderbolt 3/4 host controllers to work on ancient operating systems including Window 98 SE, ME, 2000, XP, Vista, and 7. Read Entire Article",
+    "link": "https://www.techspot.com/news/114271-ai-assisted-vibe-coding-brings-thunderbolt-4-support.html",
     "categories": [
-      "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-20T13:50:36.856502"
+    "processed_date": "2026-10-21T14:06:51.946791"
   },
   {
-    "title": "The PlayStation 5 is powered by a GPU roughly equal to which PC graphics card?",
-    "summary": "Is it closest to a Radeon, GeForce, or Intel graphics equivalent? Read Entire Article",
-    "link": "https://www.techspot.com/trivia/158-playstation-5-powered-gpu-roughly-equal-which-pc/",
+    "title": "Europe's four largest carriers want to build a Starlink rival, but they don't have satellites",
+    "summary": "Deutsche Telekom, Orange, Telef nica, and Vodafone have signed a letter of intent to explore a joint bid for Mobile Satellite Services spectrum in Europe. The agreement, announced on Monday, is an early step toward offering direct-to-device connectivity through their existing mobile networks. Read Entire Article",
+    "link": "https://www.techspot.com/news/114270-europe-push-ditch-us-tech-takes-aim-starlink.html",
     "categories": [
-      "GPUs",
-      "Hardware"
+      "Tech News"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-10-20T13:50:36.856570"
+    "quality_score": 10,
+    "processed_date": "2026-10-21T14:06:51.946901"
+  },
+  {
+    "title": "Bungie could be making Star Wars Battlefront 3 instead of longtime series developer DICE",
+    "summary": "Outside of DICE, which revived Star Wars Battlefront in 2015, Bungie might be the top contender to develop a new entry, according to EGM and prominent leaker Jeff Grubb. If accurate, the news suggests the project is years away, potentially resulting in the longest release gap in the franchise's history. Read Entire Article",
+    "link": "https://www.techspot.com/news/114266-bungie-could-making-star-wars-battlefront-3-instead.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-21T14:06:51.947027"
+  },
+  {
+    "title": "US bans DeepSeek from federal agencies, prompting angry response from China",
+    "summary": "The Department of Homeland Security's notice was made public on October 19, ahead of today's Federal Register publication. The underlying order dates back to late July, according to AP, making this a public disclosure of an earlier decision rather than a ban signed this week. Read Entire Article",
+    "link": "https://www.techspot.com/news/114269-us-bans-deepseek-ai-tools-built-models-federal.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-21T14:06:51.947143"
   }
 ]
