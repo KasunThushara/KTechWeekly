@@ -1,321 +1,378 @@
 [
   {
-    "title": "Trump announces mandate forcing AI data centers to pay energy dividends to the local community",
-    "summary": "Trump's latest post on Truth Social announces his plans to make data centers more popular among local communities.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/trump-announces-mandate-for-data-centers-to-pay-dividends-to-the-local-community-hopes-to-win-more-data-center-supporters-through-dividend-scheme",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-21T14:06:51.942377"
-  },
-  {
-    "title": "Qualcomm to cut jobs globally in \"performance-based\" layoffs, as company pivots to AI data center and edge computing markets",
-    "summary": "Qualcomm will begin performance-based layoffs worldwide in November as the chipmaker reallocates resources toward AI infrastructure, data centers, automotive, PCs, and edge computing, amid weaker consumer electronics demand.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/qualcomm-to-cut-jobs-globally-in-performance-based-layoffs-ceo-says-move-will-build-stronger-performance-culture-as-company-pivots-to-ai-data-center-and-edge-products",
+    "title": "TSMC is seeking chipmaking equipment that doesn't contain Chinese rare-earth magnets",
+    "summary": "TSMC is reportedly asking equipment suppliers for factory machinery that doesn't use rare-earth components, as the chipmaker seeks to reduce exposure to China s dominance of critical minerals and permanent magnets.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-seeking-chipmaking-equipment-that-doesnt-contain-chinese-rare-earth-magnets-asks-suppliers-to-provide-alternative-motors-as-export-controls-threaten-fab-operations",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-10-21T14:06:51.942509"
+    "quality_score": 5,
+    "processed_date": "2026-10-22T14:05:43.884658"
   },
   {
-    "title": "FADU puts the filesystem inside the SSD's flash to bypass host CPUs",
-    "summary": "FADU s FS-SSD carries NFSv3 file operations inside NVMe commands, letting GPUs, DPUs, and NICs read files without a host file system.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/fadu-puts-the-filesystem-inside-the-ssds-flash-to-bypass-host-cpus-file-semantic-pcie-6-0-ssd-delivers-460-000-ops-s-to-gpus-and-dpus-samples-due-by-q3-2027",
+    "title": "One easy change makes Microsoft's Surface Laptop Ultra with RTX Spark a better gaming system",
+    "summary": "Microsoft's Surface Laptop Ultra with RTX Spark might not be a gaming laptop first and foremost, but it certainly wants to game. We found that creating a custom 1920x1080-equivalent resolution for its 3:2 screen, missing from its out-of-the-box config, makes for a better experience.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/one-easy-change-makes-microsofts-surface-laptop-ultra-with-rtx-spark-a-better-gaming-system-custom-resolutions-make-dlss-easier-on-the-device",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-22T14:05:43.884796"
+  },
+  {
+    "title": "Leaked private keys for eight CA certificates let any attacker impersonate any domain",
+    "summary": "Leaked private keys for eight CA certificates let any attacker impersonate any domain billions of older devices and software installations may be vulnerable after round of fixes, patch yours immediately",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/leaked-private-keys-for-eight-ca-certificates-let-any-attacker-impersonate-any-domain-billions-of-older-devices-and-software-installations-may-be-vulnerable-after-round-of-fixes-patch-yours-immediately",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-22T14:05:43.884913"
+  },
+  {
+    "title": "AMD Ryzen 5 5500F review: Vermeer rides again for budget gaming PCs",
+    "summary": "After years with the Cezanne-based 5500, AMD has finally updated its $100 CPU to the 5500F in the Vermeer family, adding a 200 MHz boost in clock speed and a PCIe 4.0 upgrade.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-5500f-review",
     "categories": [
       "Hardware",
       "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-10-21T14:06:51.942622"
+    "quality_score": 10,
+    "processed_date": "2026-10-22T14:05:43.885027"
   },
   {
-    "title": "AMD and Intel will work together to create a single PyTorch code path for AI inference on CPUs",
-    "summary": "AMD and Intel are working together to bring CPU inference optimizations for PyTorch under the unified oneDNN library.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-and-intel-will-work-together-to-create-a-single-pytorch-code-path-for-ai-inference-on-cpus-amd-zendnn-library-gets-folded-into-intel-onednn-to-make-cpu-ai-simpler",
+    "title": "Micron pulls the plug on future 4F DRAM after two decades of research in dramatic shift",
+    "summary": "Micron believes that more advanced process technologies will present more benefits in terms of DRAM bit density than smaller memory cells.",
+    "link": "https://www.tomshardware.com/pc-components/dram/micron-pulls-the-plug-on-future-4f2-dram-after-two-decades-of-research-in-dramatic-shift-company-says-architecture-offers-no-meaningful-density-advantages-increases-manufacturing-complexity-and-costs-and-has-fundamental-scaling-limitations",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-22T14:05:43.885131"
+  },
+  {
+    "title": "Retro Atari VCS platform will end with the closure of its software store in February 2027",
+    "summary": "The modern Atari VCS is being officially retired with the firm s decision to shut down the Linux-based AMD APU-powered machine's software store early next year.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/retro-atari-vcs-platform-will-end-with-the-closure-of-its-software-store-in-february-2027-os-update-will-be-released-removing-reliance-on-atari-servers-and-opening-up-homebrew-development",
+    "categories": [
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-21T14:06:51.942732"
+    "processed_date": "2026-10-22T14:05:43.885254"
   },
   {
-    "title": "Iran threatens to attack undersea cables in the Strait of Hormuz, calls them 'legitimate new targets' in future conflict",
-    "summary": "Iran could attack seven undersea cables that run through the Strait of Hormuz, describing them as \"legitimate new targets\" in a potential \"third phase\" of further conflict with the United States.",
-    "link": "https://www.tomshardware.com/tech-industry/iran-threatens-to-attack-undersea-cables-in-the-strait-of-hormuz-calls-them-legitimate-new-targets-in-future-conflict-irgc-spokesman-warns-that-a-future-third-phase-in-war-with-us-could-lead-them-to-sever-global-data-links",
+    "title": "EA is closing BioWare, the studio behind Mass Effect and Dragon Age, after more than 30 years",
+    "summary": "EA is closing BioWare and its Edmonton studio after deciding not to move forward with early development of the next Mass Effect.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/ea-is-closing-bioware-the-studio-behind-mass-effect-and-dragon-age-after-more-than-30-years-early-development-of-the-next-mass-effect-game-killed",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-22T14:05:43.885356"
+  },
+  {
+    "title": "17 Russian trawlers logged mapping undersea cables connecting the US and Europe",
+    "summary": "An investigation claimed that Russian boats have been spending the past five years mapping and surveying undersea cables.",
+    "link": "https://www.tomshardware.com/tech-industry/17-russian-trawlers-logged-mapping-undersea-cables-connecting-the-us-and-europe-over-500-incidents-of-russian-vessels-loitering-over-critical-communications-cables-reported-in-under-5-years",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-21T14:06:51.942840"
+    "processed_date": "2026-10-22T14:05:43.885460"
   },
   {
-    "title": "Samsung and SK Hynix are upgrading Chinese factories to produce advanced RAM chips as AI data center competition ramps up",
-    "summary": "Samsung and SK Hynix are reportedly upgrading their factories to produce more advanced RAM chips designed for AI data centers in an attempt to fend off competition from Chinese companies.",
-    "link": "https://www.tomshardware.com/pc-components/dram/samsung-and-sk-hynix-are-upgrading-chinese-factories-to-produce-advanced-ram-chips-as-ai-data-center-competition-ramps-up-big-players-move-to-fight-off-the-threat-from-cxmt-and-co",
+    "title": "LTO roadmap extends to 365 TB per cartridge as tape storage refuses to die",
+    "summary": "Despite all odds, the AI boom is increasing relevance of tape storage as technology enables cheap storage with zero power consumption in idle and ultimate security with air gap.",
+    "link": "https://www.tomshardware.com/pc-components/storage/lto-roadmap-extends-to-365-tb-per-cartridge-as-tape-storage-refuses-to-die-25-year-old-format-sees-400x-capacity-increase-without-changing-form-factor",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-22T14:05:43.885563"
+  },
+  {
+    "title": "Best Buy has slashed $950 off this gorgeous Alienware 16X Aurora gaming laptop with OLED display",
+    "summary": "Save 33% on a new Alienware 16X Aurora gaming laptop at Best Buy. RTX 5070 graphics and a sharp OLED panel are highlights of this laptop build.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/best-buy-has-slashed-usd950-off-this-gorgeous-alienware-16x-aurora-gaming-laptop-with-oled-display-33-percent-price-reduction-on-arrow-lake-laptop-with-rtx-5070",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-22T14:05:43.885667"
+  },
+  {
+    "title": "OpenAI says ChatGPT Sol helped uncover critical PHP flaws that could affect 70% of websites",
+    "summary": "OpenAI says researchers using GPT-5.6 Sol uncovered two critical PHP vulnerabilities with severity scores of 9.2 and demonstrated working exploits, after which the company coordinated fixes.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/openai-says-gpt-5-6-sol-helped-uncover-critical-php-flaws-that-could-affect-70-percent-of-websites-ai-assisted-researchers-turned-two-year-old-bug-that-stumped-human-developers-into-working-exploits-in-two-weeks",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-22T14:05:43.885782"
+  },
+  {
+    "title": "Google s TPUs for AI workloads now run in Meta's data centers",
+    "summary": "Google s TPUs now serve AI in production at Meta, through new open-source engines that run PyTorch models natively on the chips.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/googles-tpus-for-ai-workloads-now-run-in-at-metas-data-centers-tpus-sold-to-external-customers-for-the-first-time-threaten-nvidias-market-dominance",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-10-21T14:06:51.942979"
+    "quality_score": 0,
+    "processed_date": "2026-10-22T14:05:43.885881"
   },
   {
-    "title": "Why you don't need an audiophile headset for gaming comfort, convenience, and a good mic win over pure audio fidelity",
-    "summary": "Headsets are mainly about audio, but that doesn't mean that the \"objectively\" best-sounding headset by audiophile standards translates to the best-sounding headset by gaming standards.",
-    "link": "https://www.tomshardware.com/peripherals/headphones-headsets/why-you-dont-need-an-audiophile-headset-for-gaming-comfort-convenience-and-a-good-mic-win-over-pure-audio-fidelity",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-21T14:06:51.943093"
-  },
-  {
-    "title": "Micron's Taiwan union will launch a one-day strike this week, threatening memory production",
-    "summary": "Micron's Taiwan union is set to conduct a one-day strike at the company's Taoyuan DRAM facility as workers demand bonuses for this year and transparent terms of bonuses for upcoming years.",
-    "link": "https://www.tomshardware.com/pc-components/dram/microns-taiwan-union-will-launch-a-one-day-strike-this-week-threatening-round-the-clock-fab-operations-workers-demand-concrete-terms-for-2026-bonus-and-clearer-profit-sharing-arrangements",
+    "title": "480,000 phishing emails sent from a PC hidden behind a fridge in a Japanese hotel room",
+    "summary": "Almost 500,000 phishing emails were sent from a PC hidden behind a fridge in a Kobe, Japan, hotel room.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/480-000-phishing-emails-sent-from-a-pc-hidden-behind-a-fridge-in-a-japanese-hotel-room-chinese-couple-arrested-over-fraud-operation-leaching-hotel-wi-fi",
     "categories": [
       "AI & ML",
-      "Tech News"
+      "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-10-21T14:06:51.943205"
+    "quality_score": 0,
+    "processed_date": "2026-10-22T14:05:43.885981"
   },
   {
-    "title": "HPE says it will run the first supercomputer benchmarks on the Moon",
-    "summary": "HPE s Spaceborne Computer-4 will ride Astrolab s FLIP rover to the Moon s south pole to run HPL, HPCG, and AI tests.",
-    "link": "https://www.tomshardware.com/tech-industry/supercomputers/hpe-says-it-will-run-the-first-supercomputer-benchmarks-on-the-moon-with-its-spaceborne-computer-4-system-will-ride-a-rover-to-the-lunar-south-pole-to-test-linpack-llms-and-lidar-mapping",
+    "title": "Intel installs production tools at Fab 62 in Arizona, provides updates on Ohio chip fab",
+    "summary": "Intel makes progress on its manufacturing expansion in Arizona and Ohio as it continues to expand advanced semiconductor manufacturing capacity in the U.S.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028",
     "categories": [
-      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-22T14:05:43.886080"
+  },
+  {
+    "title": "4TB Samsung 990 Pro M.2 SSD falls 27%, hits 20 cents per gigabyte",
+    "summary": "The 4TB Samsung 990 Pro has its astronomical AI-driven high price slashed by 27%.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/4tb-samsung-990-pro-m-2-ssd-falls-27-percent-hits-20-cents-per-gigabyte-our-favorite-high-capacity-pcie-gen-4-drive-is-the-ultimate-storage-for-your-game-library",
+    "categories": [
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-10-21T14:06:51.943324"
+    "quality_score": 0,
+    "processed_date": "2026-10-22T14:05:43.886171"
   },
   {
-    "title": "Three workers killed, one in intensive care after fall at TSMC s 2nm fab construction site",
-    "summary": "Three contract workers died, and one is in intensive care after a fall at TSMC s Fab 22 construction site in Kaohsiung, Taiwan.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/three-workers-killed-one-in-intensive-care-after-fall-at-tsmcs-2nm-fab-construction-site-in-kaohsiung-broken-bolt-on-a-steel-connection-plate-suspected-as-cause-behind-tragic-accident",
+    "title": "ASML and other critical semiconductor equipment suppliers expedite shipments to Musk's Terafab",
+    "summary": "Elon Musk says ASML and other semiconductor equipment suppliers are expediting deliveries for Terafab, as Tesla and SpaceX target volume chip production in Texas by late 2028 alongside a massive expansion in AI compute capacity.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-asml-and-other-critical-semiconductor-equipment-suppliers-will-expedite-shipments-to-terafab-facility-targets-volume-chip-production-by-q3-q4-2028-in-highly-aspirational-timeline",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-21T14:06:51.943425"
+    "processed_date": "2026-10-22T14:05:43.886296"
   },
   {
-    "title": "Jensen Huang Nvidia GTC keynote disrupted by Greenpeace protest over chips in Russian drones",
-    "summary": "Jensen Huang's Nvidia GTC keynote speech in Berlin was disrupted by a Greenpeace protest on Wednesday.",
-    "link": "https://www.tomshardware.com/tech-industry/jensen-huang-nvidia-gtc-keynote-disrupted-by-greenpeace-protest-over-chips-in-russian-drones-what-are-you-doing-about-that-heckler-demands-before-being-thrown-out",
+    "title": "AMD brings official Ryzen overclocking to Linux with AOD driver support",
+    "summary": "New driver enablement work from AMD brings full platform-level tuning control to Ryzen systems running Linux, finally.",
+    "link": "https://www.tomshardware.com/software/linux/amd-brings-official-ryzen-overclocking-to-linux-with-aod-driver-support-no-official-app-but-third-party-options-should-arrive-soon",
     "categories": [
-      "GPUs",
-      "Semiconductors"
+      "GPUs"
     ],
     "quality_score": 0,
-    "processed_date": "2026-10-21T14:06:51.943521"
+    "processed_date": "2026-10-22T14:05:43.886395"
   },
   {
-    "title": "AMD's FSR 4.1 now works on Radeon RX 6000 cards, Xbox Series X and S, and Ryzen AI Max, AI 9, and Z2 SoCs",
-    "summary": "AMD has released a version of its cutting-edge FSR 4.1 upscaler that now works on Radeon RX 6000 GPUs, Xbox Series X and Series S consoles, and Ryzen AI Max, AI 9, and Z2 chips.",
-    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/amds-fsr-4-1-now-works-on-radeon-rx-6000-gpus-xbox-series-x-and-s-and-ryzen-ai-max-ai-9-and-z2-socs-new-release-brings-cutting-edge-tech-to-older-hardware-with-a-small-performance-cost",
+    "title": "GL.iNet Mango 2 mini travel router features AC1300 WiFi 5 and dual Gigabit Ethernet",
+    "summary": "GL.iNet Mango 2 (GL-MG1300) mini dual-band WiFi 5 travel router is built around the MediaTek MT7621A dual-core processor. It is designed to share hotel WiFi, wired Ethernet, or mobile internet connections with multiple devices. The router measures just 89 x 63 x 15mm and weighs 100 grams. It supports WiFi speeds of up to 400 Mbps on the 2.4 GHz band and 866 Mbps on the 5 GHz band, along with WireGuard VPN speeds of up to 184 Mbps and OpenVPN speeds of up to 95 Mbps with DCO. Other features include dual Gigabit Ethernet ports, USB 3.0, USB-C power, and others. GL.iNet Mango 2 (GL-MG1300) specifications: Processor Mediatek MT7621A dual core MIPS 1004Kc processor @ 880Mhz Memory 128MB DDR3L RAM Storage 128MB SPI NAND flash + 2MB SPI NOR flash Networking 2x Gigabit Ethernet ports (WAN/LAN) Dual-band 802.11a/b/g/n/ac WiFi 5 2.4 GHz Up to 400 [...] The post GL.iNet Mango 2 mini travel router features AC1300 WiFi 5 and dual Gigabit Ethernet appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/22/gl-inet-mango-2-mini-travel-router-features-ac1300-wifi-5-and-dual-gigabit-ethernet/",
     "categories": [
-      "GPUs",
-      "AI & ML"
+      "Semiconductors",
+      "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-21T14:06:51.943627"
+    "processed_date": "2026-10-22T14:05:43.886831"
   },
   {
-    "title": "TP-Link proposes $1 billion US Wi-Fi router manufacturing alliance with Key Tronic",
-    "summary": "TP-Link is at the mercy of the FCC regarding its ready-to-go Wi-Fi 8 routers, so it has a sweetener in mind to move things along.",
-    "link": "https://www.tomshardware.com/networking/routers/tp-link-proposes-usd1-billion-us-wi-fi-router-manufacturing-alliance-with-key-tronic-potential-deal-seeks-to-end-ongoing-saga-blocking-its-wi-fi-8-products-from-american-homes",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-21T14:06:51.943722"
-  },
-  {
-    "title": "Mysterious AMD Zen 6 APU with 24GB of LPDDR5 memory appears in benchmarks",
-    "summary": "The engineering sample features six CPU cores, 24GB of LPDDR5 memory running at 9,600 MT/s, and an integrated GPU clocked at 2.4 GHz, although its connection to a future Steam Deck remains unconfirmed.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/mysterious-amd-zen-6-apu-with-24gb-of-lpddr5-memory-appears-in-benchmarks-chip-may-be-for-next-gen-steam-deck-or-gaming-handhelds",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-21T14:06:51.943824"
-  },
-  {
-    "title": "ESP-Mosaico An ESP32-S31-based modular development platform for AI-assisted hardware creation",
-    "summary": "Espressif Systems ESP-Mosaico is an ESP32-S31 development platform with a 480 480 OLED touchscreen, haptic feedback, a built-in battery, USB Type-C connectivity, and expansion I/O. It s specifically designed for AI <-> hardware integration and targets magnetic expansion toys, motion sensing, square touch display HMI, and edge voice/multimedia applications. ESP-Mosaico specifications: CoreBoard SoC ESP32-S31NRV16 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory 512 KB SRAM, 32 KB low-power SRAM, 16MB PSRAM Wireless 2.4 GHz WiFi 6 (802.11ax) Bluetooth 5.4 with support for LE Audio, direction finding, Bluetooth Mesh 1.1, and Classic (BR/EDR) 802.15.4 radio for Zigbee, Thread, and Matter Storage 1 Gbit (128 MB) SPI NAND flash for asset storage. 16 MB (128 Mbit) SPI NOR flash (GD25Q128EWIGR) for program and data storage. Display 2.16-inch QSPI touch display with 480 x 480 resolution; CO5300 driver + CST9220 [...] The post ESP-Mosaico An ESP32-S31-based modular development platform for AI-assisted hardware creation appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/21/esp-mosaico-an-esp32-s31-based-modular-development-platform-for-ai-assisted-hardware-creation/",
+    "title": "Rotary encoder with 1.8-inch touch display gets upgrade to ESP32-S31 SoC",
+    "summary": "Following our coverage of a 4.3-inch ESP32-S31 display development board, a Facebook reader pointed out the GUITION JC3636F118C-I-YR1 rotary encoder with a built-in 1.8-inch touchscreen display. It appears to be an update to an earlier ESP32-S3 model, now equipped with an ESP32-S31NRV16 WiFi 6, Bluetooth 5.4, and 802.15.4 SoC with 16MB of PSRAM. The rotary knob also includes 16MB SPI flash, a speaker, a microphone, and an optional rechargeable battery. GUITION JC3636F118C-I-YR1 specifications: SoC ESP32-S31NRV16 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory 512 KB SRAM, 32 KB low-power SRAM, 16MB PSRAM Wireless 2.4 GHz WiFi 6 (802.11ax) Bluetooth 5.4 with support for LE Audio, direction finding, Bluetooth Mesh 1.1, and Classic (BR/EDR) 802.15.4 radio for Zigbee, Thread, and Matter Storage 16 MB flash MicroSD card slot (for WiFi configuration, music or MJPEG video playback, etc.) Display 1.8-inch [...] The post Rotary encoder with 1.8-inch touch display gets upgrade to ESP32-S31 SoC appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/22/rotary-encoder-with-1-8-inch-touch-display-gets-upgrade-to-esp32-s31-soc/",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
     "quality_score": 20,
-    "processed_date": "2026-10-21T14:06:51.944310"
+    "processed_date": "2026-10-22T14:05:43.886997"
   },
   {
-    "title": "Omron buys Interlogic for $675M soon after spinout of Aratas for components",
-    "summary": "OnLogic s industrial PCs will be combined with Omron s sensing and robotics gear for bigger physical AI play.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/omron-buys-interlogic-675m-soon-after-spinout-aratas-components",
+    "title": "Musk spills on Optimus hand, Tesla s planned Optimus Academy",
+    "summary": "Musk and Tesla executives described building a sensor-rich Optimus hand that is squishy and resilient. Training many Optimi will happen in an Optimus Academy.",
+    "link": "https://www.fiercesensors.com/ai/musk-spills-optimus-hand-teslas-planned-optimus-academy",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-22T14:05:43.888002"
+  },
+  {
+    "title": "Schneider, HPE and Nvidia to boost process industries with AI Agents at the Edge",
+    "summary": "With several recent announcements, Physical AI moves to the factory floor beyond humanoids and robotaxis",
+    "link": "https://www.fiercesensors.com/ai/schneider-hpe-and-nvidia-boost-process-industries-ai-agents-edge",
     "categories": [
       "AI & ML",
-      "Hardware"
+      "GPUs"
     ],
     "quality_score": 0,
-    "processed_date": "2026-10-21T14:06:51.945291"
+    "processed_date": "2026-10-22T14:05:43.888156"
   },
   {
-    "title": "AMD brings FSR 4.1 upscaling to Radeon 6000 GPUs, Ryzen AI Max, and handhelds like the ROG Xbox Ally",
-    "summary": "Owners of Radeon RX 6000 series GPUs and most of AMD's recent SoCs can now enable FSR 4.1 upscaling without mods like Optiscaler. The update, included in version 26.10.1 of AMD's graphics driver, aims to bring upscaling image quality closer to Nvidia's DLSS. Read Entire Article",
-    "link": "https://www.techspot.com/news/114277-amd-brings-fsr-41-upscaling-radeon-6000-gpus.html",
+    "title": "Kansas farm equipment factory will put humanoid robots to work in 2027, promising they won't replace humans",
+    "summary": "AGCO, the farming giant behind Massey Ferguson and Fendt tractors, has partnered with Agility Robotics on a pilot program set to begin in 2027. Read Entire Article",
+    "link": "https://www.techspot.com/news/114297-kansas-farm-equipment-factory-put-humanoid-robots-work.html",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-22T14:05:43.888502"
+  },
+  {
+    "title": "Tesla claims privately owned Model Ys can join its Robotaxi fleet in Q2 2027 a deadline it will likely miss",
+    "summary": "During Tesla's third-quarter earnings call on October 21, VP for Autonomous Driving Ashok Elluswamy announced the company's aim to let some Model Y owners add their vehicles to Robotaxi's autonomous fleet around the second quarter of 2027. The feature, which would enable users to earn money from ride-hailing, has long... Read Entire Article",
+    "link": "https://www.techspot.com/news/114295-tesla-claims-privately-owned-model-ys-can-join.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-22T14:05:43.888643"
+  },
+  {
+    "title": "Woman spends three nights in jail and faces six years in prison over Cash App account she never opened",
+    "summary": "In April, Amanda Smith was shocked to discover officers at her upstate Pennsylvania home with a warrant for her arrest, writes 404 Media. The alleged crime took place in Arkansas more than a thousand miles away in a state she'd never visited. Smith was taken to the local jail,... Read Entire Article",
+    "link": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-22T14:05:43.888824"
+  },
+  {
+    "title": "EA closes legendary RPG studio BioWare following its $55 billion buyout",
+    "summary": "In a letter to staff on Wednesday, EA announced the closure of BioWare's Edmonton studio, its last, as part of broader cost-cutting layoffs. The storied RPG developer had begun early development on the next Mass Effect, informally known as Mass Effect 5, which has now been canceled. Read Entire Article",
+    "link": "https://www.techspot.com/news/114292-ea-closes-legendary-rpg-studio-bioware-following-55.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-10-22T14:05:43.889007"
+  },
+  {
+    "title": "Sony's latest PS5 firmware got cracked, just in time for GTA 6's November release",
+    "summary": "Just a few weeks after the massive \"Relapse\" exploit incident, someone has apparently already broken Sony's latest PlayStation 5 firmware update. A developer based in South Korea claims to have defeated the security protections in PS5 firmware version 14.10, which Sony recently released to close the Relapse exploit. Read Entire Article",
+    "link": "https://www.techspot.com/news/114290-sony-latest-ps5-firmware-got-cracked-time-gta.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-22T14:05:43.889133"
+  },
+  {
+    "title": "OpenAI says its AI agents disabled safety guardrails, and then lied about it",
+    "summary": "In a blog post disclosing the incidents, OpenAI said that, in the first case, an agent powered by GPT Sol 6.1 disabled automatic alerts after a team member asked it to create evaluation tasks using employee feedback collected via Slack. The agent was instructed not to send any messages about... Read Entire Article",
+    "link": "https://www.techspot.com/news/114286-openai-ai-agents-disabled-safety-guardrails-lied-about.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-22T14:05:43.889280"
+  },
+  {
+    "title": "iPhone Duo roundup: Apple gets the hardware right, but is it worth $2,000?",
+    "summary": "Apple's long-awaited foldable is off to a strong start. Reviewers agree that the iPhone Duo gets much of the hardware right, with a polished design and an impressive folding display. But for $2,000, it remains a first-gen product with compromises, and one that will struggle to convince most iPhone users to make the jump. Read Entire Article",
+    "link": "https://www.techspot.com/products/smartphones/apple-iphone-duo.330958/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-22T14:05:43.889403"
+  },
+  {
+    "title": "Two web emergencies in one week: guessable certificate keys and critical PHP bugs that leaked before patches",
+    "summary": "Eight intermediate certificates issued by India-based certificate authority eMudhra were found to have private keys so weak they can be calculated from the certificates themselves. Those certificates chained to roots trusted by Chrome, Firefox, Safari and Windows, as well as by operating systems and countless software trust stores. Anyone holding... Read Entire Article",
+    "link": "https://www.techspot.com/news/114293-two-web-emergencies-one-week-guessable-certificate-keys.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-22T14:05:43.889524"
+  },
+  {
+    "title": "Nvidia reportedly refused some neoclouds access to GTC Berlin for adding AMD and TPU chips",
+    "summary": "SemiAnalysis' latest \"shocking\" rumor allegedly confirms what the firm had already revealed in June. Several neocloud providers have reportedly been denied access to GTC Berlin, Nvidia's upcoming conference covering AI, GPUs, and related technologies. The Jensen Huang-led company apparently disapproves of cloud providers adding AMD GPUs, TPUs, and other third-party... Read Entire Article",
+    "link": "https://www.techspot.com/news/114273-nvidia-allegedly-punishing-cloud-providers-using-amd-hardware.html",
+    "categories": [
+      "GPUs",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-22T14:05:43.889653"
+  },
+  {
+    "title": "Nvidia GeForce drivers add support for Microsoft's Advanced Shader Delivery",
+    "summary": "Nvidia's latest Game Ready driver adds support for Microsoft's Advanced Shader Delivery , which aims to reduce shader compilation stuttering by delivering precompiled shaders for supported games, including Call of Duty: Modern Warfare 4 and Gears of War: E-Day. As our recent testing shows , shader stuttering remains a major headache for PC gamers, but efforts to eliminate it are gaining momentum. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/drivers/essentials/nvidia-geforce/",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-21T14:06:51.945610"
+    "processed_date": "2026-10-22T14:05:43.889777"
   },
   {
-    "title": "Staples hackers created more than 15,000 gift cards, then went on a shopping spree",
-    "summary": "The attackers obtained the session data from the memory of a support application the retailer believed could only be reached from its own computers. The breach gave a Chinese organized crime group a way to generate gift cards for retailers including Target and Sephora. Members of the operation then used... Read Entire Article",
-    "link": "https://www.techspot.com/news/114279-hackers-stole-over-5-million-staples-gift-cards.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-21T14:06:51.945739"
-  },
-  {
-    "title": "Atlanta doesn't want a real-life RoboCop: City council unanimously backs ban on weaponized robots",
-    "summary": "Introduced by Council member Liliana Bakhtiari, the act prohibits city employees and contractors, including police, from buying or otherwise acquiring weaponized autonomous systems, drones and remotely operated machines. Read Entire Article",
-    "link": "https://www.techspot.com/news/114281-atlanta-doesnt-want-real-life-robocop-city-council.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-21T14:06:51.945846"
-  },
-  {
-    "title": "DLSS 5 Just Got a Lot Faster, but Is It Worth Using?",
-    "summary": "Nvidia's new DLSS 5 model nearly doubles neural rendering speed across the RTX 50 series. We put it to the test to see if the performance gains outweigh the heavy FPS penalty and lingering visual issues. Read Entire Article",
-    "link": "https://www.techspot.com/article/3190-dlss-5-performance-v2/",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-21T14:06:51.945991"
-  },
-  {
-    "title": "The next Xbox could arrive in 2028 for $1,200 to $1,800, Xbox handheld may launch in 2027",
-    "summary": "According to Fortune, Microsoft is aiming to launch its next-generation console, codenamed Helix, in time for the 2028 holiday season. As memory costs climb, its price has internally been projected at anywhere between $1,200 and $1,800, unless the company subsidizes the hardware. Read Entire Article",
-    "link": "https://www.techspot.com/news/114275-next-xbox-could-arrive-2028-1200-1800-xbox.html",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-21T14:06:51.946120"
-  },
-  {
-    "title": "Millions of routers can be hijacked over Wi-Fi thanks to a 16-year-old bug",
-    "summary": "Security researcher Quentin Kaiser detailed the flaw at the Hexacon conference in Paris on October 16. He calls it WPSplinter, a name he only gave it because Broadcom refused to issue an official identifier. Read Entire Article",
-    "link": "https://www.techspot.com/news/114276-millions-routers-can-hijacked-over-wi-fi-thanks.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-21T14:06:51.946226"
-  },
-  {
-    "title": "Update now: Hackers are exploiting Plex server vulnerabilities to install malware",
-    "summary": "Hackers are actively exploiting security vulnerabilities in outdated Plex Media Server installations to deploy cryptocurrency miners and proxy malware. Plex confirms widespread attacks against internet-facing servers, with the flaws allowing remote code execution without authentication. The vulnerabilities were patched in version 1.43.3.10861. Users running older versions are urged to update immediately. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/6739-plex-media-app.html",
+    "title": "PSA: PHP patches two critical flaws, server admins urged to update",
+    "summary": "PHP has released emergency security updates addressing two critical vulnerabilities that could allow attackers to remotely execute code without authentication. With PHP powering nearly 70% of all websites, the potential impact is enormous. Apache deployments are particularly vulnerable, and security agencies are urging immediate updates. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/5680-php.html",
     "categories": [
       "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-21T14:06:51.946348"
-  },
-  {
-    "title": "A judge lets Denuvo subpoena Discord, Reddit, and Steam to unmask the cracker Voices38",
-    "summary": "Denuvo's first attempt to uncover Voices38's real identity was unsuccessful because the company tried to obtain too much data at once. Now, a California federal judge has granted the Irdeto-owned DRM maker's revised subpoena requests. Several internet companies will soon have to respond to Denuvo's lawyers, but Voices38 could still... Read Entire Article",
-    "link": "https://www.techspot.com/news/114261-denuvo-first-attempt-identify-cracker-voices38-went-far.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-21T14:06:51.946472"
-  },
-  {
-    "title": "GTA 6 is on track to smash records as pre-orders exceed 6 million copies",
-    "summary": "As of October 20, Rockstar has pre-sold an estimated 6.45 million copies of the game earning roughly $630 million in the process. According to Sensor Tower, most 74% are buying the game for PlayStation 5. Broken down another way, it works out to 4.8 million copies sold for PS5 and 1.66 million on Xbox. Read Entire Article",
-    "link": "https://www.techspot.com/news/114272-gta-vi-track-smash-records-pre-orders-exceed.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-21T14:06:51.946578"
-  },
-  {
-    "title": "ChatGPT's Chrome extension can now control tabs, download files, and fill out forms",
-    "summary": "ChatGPT's Chrome extension gained the ability to access content from open tabs last July. The latest update introduces two distinct AI modes, Chat and Work, allowing ChatGPT to interact with browser tabs and perform a wide range of tasks, including filling out online forms using information from documents stored on... Read Entire Article",
-    "link": "https://www.techspot.com/news/114258-chatgpt-chrome-extension-can-now-control-tabs-download.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-21T14:06:51.946689"
-  },
-  {
-    "title": "AI-assisted vibe coding brings Thunderbolt 4 support to Windows 98 SE",
-    "summary": "A developer by the name of Yeo Kheng Meng recently commissioned AI to create a driver that enables generic USB 3.x, USB4, and Thunderbolt 3/4 host controllers to work on ancient operating systems including Window 98 SE, ME, 2000, XP, Vista, and 7. Read Entire Article",
-    "link": "https://www.techspot.com/news/114271-ai-assisted-vibe-coding-brings-thunderbolt-4-support.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-21T14:06:51.946791"
-  },
-  {
-    "title": "Europe's four largest carriers want to build a Starlink rival, but they don't have satellites",
-    "summary": "Deutsche Telekom, Orange, Telef nica, and Vodafone have signed a letter of intent to explore a joint bid for Mobile Satellite Services spectrum in Europe. The agreement, announced on Monday, is an early step toward offering direct-to-device connectivity through their existing mobile networks. Read Entire Article",
-    "link": "https://www.techspot.com/news/114270-europe-push-ditch-us-tech-takes-aim-starlink.html",
-    "categories": [
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-21T14:06:51.946901"
+    "processed_date": "2026-10-22T14:05:43.889911"
   },
   {
-    "title": "Bungie could be making Star Wars Battlefront 3 instead of longtime series developer DICE",
-    "summary": "Outside of DICE, which revived Star Wars Battlefront in 2015, Bungie might be the top contender to develop a new entry, according to EGM and prominent leaker Jeff Grubb. If accurate, the news suggests the project is years away, potentially resulting in the longest release gap in the franchise's history. Read Entire Article",
-    "link": "https://www.techspot.com/news/114266-bungie-could-making-star-wars-battlefront-3-instead.html",
+    "title": "Meta suspends Muse sharing after sensitive documents turn up in shared chats",
+    "summary": "Each shared conversation had a hostname containing a descriptive title and a random identifier. Both could appear in searchable DNS records, giving researchers the information they needed to reconstruct the link and open the page. Read Entire Article",
+    "link": "https://www.techspot.com/news/114283-meta-suspends-muse-sharing-after-sensitive-documents-turn.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-22T14:05:43.890020"
+  },
+  {
+    "title": "Spotify is asking Family plan members to scan a QR code to prove they live with the account owner",
+    "summary": "Spotify revealed the new family plan verification process on an updated support page. The streaming service may ask some Premium Family members to verify that they live with the person managing their plan, using a QR code check that requires both people to be in the same place. Read Entire Article",
+    "link": "https://www.techspot.com/news/114285-spotify-thinks-rotating-qr-codes-stop-family-plan.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-21T14:06:51.947027"
+    "processed_date": "2026-10-22T14:05:43.890131"
   },
   {
-    "title": "US bans DeepSeek from federal agencies, prompting angry response from China",
-    "summary": "The Department of Homeland Security's notice was made public on October 19, ahead of today's Federal Register publication. The underlying order dates back to late July, according to AP, making this a public disclosure of an earlier decision rather than a ban signed this week. Read Entire Article",
-    "link": "https://www.techspot.com/news/114269-us-bans-deepseek-ai-tools-built-models-federal.html",
+    "title": "Citadel's Ken Griffin says investors are \"almost certainly\" in an AI bubble",
+    "summary": "\"Corporate America has been very uneven in its ability to extract value from its AI models,\" Griffin said at the Future of Global Markets Conference in New York on Tuesday. Read Entire Article",
+    "link": "https://www.techspot.com/news/114280-citadel-ken-griffin-investors-almost-certainly-ai-bubble.html",
     "categories": [
-      "Tech News"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-21T14:06:51.947143"
+    "processed_date": "2026-10-22T14:05:43.890257"
+  },
+  {
+    "title": "Elon Musk confirms Tesla and SpaceX merger talks",
+    "summary": "Speaking during SpaceX's third-quarter earnings call on October 20, Musk said independent directors are examining a potential agreement. He's staying out of their discussions because his position at both firms creates a conflict of interest. The committees have yet to agree on terms. Read Entire Article",
+    "link": "https://www.techspot.com/news/114284-elon-musk-confirms-tesla-spacex-merger-talks-but.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-22T14:05:43.890374"
   }
 ]

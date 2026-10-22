@@ -1,370 +1,4 @@
 {
-  "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-5500f-and-7500-show-up-at-retail-with-pricing-above-msrp-budget-cpus-are-usd20-more-expensive-than-list-price-even-from-first-party-sellers": {
-    "title": "AMD Ryzen 5 5500F and 7500 show up at retail with pricing above MSRP budget CPUs are $20 more expensive than list price, even from first-party sellers",
-    "fingerprint": "7e81310aa17561cae70af08144e56b1f",
-    "timestamp": 1790003966.639088,
-    "date": "2026-09-21T15:19:26.639091"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-shelves-global-ai-chip-rollout-as-chinas-own-demand-outstrips-supply-15-488-chip-atlas-clusters-leverage-optical-networking-to-counter-nvidia-scales-to-120-eflops": {
-    "title": "Huawei shelves global AI chip rollout as China's own demand outstrips supply 15,488-chip Atlas clusters leverage optical networking to counter Nvidia, scales to 120 EFLOPS",
-    "fingerprint": "e7a8ff3ff9b5602a94d447c06555f1cc",
-    "timestamp": 1790003966.639223,
-    "date": "2026-09-21T15:19:26.639224"
-  },
-  "https://www.tomshardware.com/pc-components/gpus/new-rtx-5070-autumn-limited-edition-gaming-gpu-doubles-as-an-air-freshener-with-built-in-e-sports-aromatherapy-ax-gamings-white-and-purple-card-also-features-an-anime-character-and-floral-graphics": {
-    "title": "New RTX 5070 Autumn Limited Edition gaming GPU doubles as an air freshener with built-in 'e-sports aromatherapy' AX Gaming's white and purple card also features an anime character and floral graphics",
-    "fingerprint": "7b1814f00261a82c4d721866c5ac994a",
-    "timestamp": 1790003966.639347,
-    "date": "2026-09-21T15:19:26.639348"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/president-trump-has-announced-plans-for-new-ai-force-and-ai-czar-amid-growing-ai-safety-concerns-new-unit-will-cherish-ai-and-not-stifle-it-trump-clarifies-while-dismissing-safety-warnings-as-hoaxes": {
-    "title": "President Trump has announced plans for new 'AI Force' and 'AI Czar' amid growing AI safety concerns new unit will 'cherish' AI and not 'stifle' it, Trump clarifies, while dismissing safety warnings as hoaxes",
-    "fingerprint": "637ae617446fbefbc86082050283c0ee",
-    "timestamp": 1790003966.639479,
-    "date": "2026-09-21T15:19:26.639479"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/typesafe-ais-jev-offers-an-alternative-to-llms-that-claims-to-be-193x-faster-and-445x-cheaper-system-one-type-model-is-bespoke-for-probabilistic-decision-making": {
-    "title": "TypeSafe AI's Jev offers an alternative to LLMs that claims to be 193x faster and 445x cheaper System One type model is bespoke for probabilistic decision-making",
-    "fingerprint": "61f714f255fe74004a8c0f064563ffd3",
-    "timestamp": 1790003966.639595,
-    "date": "2026-09-21T15:19:26.639595"
-  },
-  "https://www.tomshardware.com/pc-components/cpus/mediateks-next-gen-dimensity-cx-c10-max-will-power-new-googlebook-initiative-3nm-soc-has-similar-specs-to-kompanio-ultra-in-chromebook-plus-devices-despite-claims-of-elevating-computing-portfolio": {
-    "title": "MediaTek s next-gen Dimensity CX C10 Max will power new Googlebook initiative alongside Intel and Qualcomm 3nm SoC has similar specs to Kompanio Ultra in Chromebook Plus devices, despite claims of elevating computing portfolio",
-    "fingerprint": "5186d76382ea67ed230dbb4d32201638",
-    "timestamp": 1790003966.639718,
-    "date": "2026-09-21T15:19:26.639719"
-  },
-  "https://www.tomshardware.com/pc-components/gpu-drivers/playstation-3-emulation-devs-work-around-an-nvidia-bug-for-up-to-37-percent-faster-performance-open-source-coders-reach-out-to-nvidia-to-over-uncovered-bug": {
-    "title": "PlayStation 3 emulation devs work around an Nvidia bug for up to 37% faster performance open-source coders reach out to Nvidia to over uncovered bug",
-    "fingerprint": "58afea7777436e92e21cbf5b5e8407ed",
-    "timestamp": 1790003966.639833,
-    "date": "2026-09-21T15:19:26.639833"
-  },
-  "https://www.tomshardware.com/laptops/hands-on-with-googlebooks-five-models-the-new-googlebook-os-and-a-mac-style-experience-for-android-users-at-premium-prices": {
-    "title": "Hands-on with Googlebooks Five models, the new Googlebook OS, and a Mac-style experience for Android users at premium prices",
-    "fingerprint": "577c0af00e80d92a7c362d5b3219a3b9",
-    "timestamp": 1790003966.639944,
-    "date": "2026-09-21T15:19:26.639945"
-  },
-  "https://www.tomshardware.com/desktops/mini-pcs/apple-mac-mini-late-2026-review": {
-    "title": "Apple Mac mini (Late 2026) Review: Strong performance, but losing its grip on value",
-    "fingerprint": "07dccd746e4fb0f6114c5293a79413a3",
-    "timestamp": 1790003966.64006,
-    "date": "2026-09-21T15:19:26.640061"
-  },
-  "https://www.tomshardware.com/desktops/mini-pcs/apple-mac-studio-m5-ultra-review": {
-    "title": "Apple Mac Studio (M5 Ultra) review: Local model citizen outpaces DGX Spark and Threadripper",
-    "fingerprint": "77147946621e7101d88b8a7d8472246e",
-    "timestamp": 1790003966.640166,
-    "date": "2026-09-21T15:19:26.640167"
-  },
-  "https://www.tomshardware.com/tech-industry/china-crafts-working-3nm-gate-all-around-transistors-without-euv-stacked-nanosheets-target-3nm-without-euv-but-full-node-remains-distant": {
-    "title": "China crafts working 3nm gate-all-around transistors without EUV stacked nanosheets target 3nm without EUV, but full node remains distant",
-    "fingerprint": "37aa193d645c9cc82ea58ed4bc028be0",
-    "timestamp": 1790003966.640281,
-    "date": "2026-09-21T15:19:26.640282"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-projections-point-to-a-massive-usd278-billion-cash-burn-through-2030-that-exceeds-the-national-budgets-of-indonesia-and-norway-usd856-billion-compute-tab-outpaces-tenfold-revenue-surge": {
-    "title": "OpenAI projections point to a massive $278 billion cash burn through 2030 that exceeds the national budgets of Indonesia and Norway $856 billion compute tab outpaces tenfold revenue surge",
-    "fingerprint": "9b787bff5558de4b2fbc8b83ff6b5eb7",
-    "timestamp": 1790003966.640394,
-    "date": "2026-09-21T15:19:26.640394"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/devs-say-chinese-ai-company-silently-uploaded-hundreds-of-megabytes-of-local-workspace-data-z-ai-the-firm-behind-the-glm-models-didnt-ask-for-user-consent-and-made-564-attempts-to-exfiltrate-313mb-archive": {
-    "title": "Devs say Chinese AI company silently uploaded hundreds of megabytes of local workspace data, company apologizes Z.AI, the firm behind the GLM models, didn t ask for user consent and made 564 attempts to exfiltrate 313MB archive",
-    "fingerprint": "6b0151c8c257590b4a107e75211fddab",
-    "timestamp": 1790003966.640515,
-    "date": "2026-09-21T15:19:26.640515"
-  },
-  "https://www.tomshardware.com/software/cloudflare-saves-100-tb-of-ram-again-this-time-by-slashing-server-hashes-by-90-percent-cutting-100-000-entries-down-to-10-000-eliminates-massive-cache-bloat": {
-    "title": "Cloudflare saves 100 TB of RAM again, this time by slashing server hashes by 90% cutting 100,000 entries down to 10,000 eliminates massive cache bloat",
-    "fingerprint": "139d3552bf3c3a55af3483dff614bed0",
-    "timestamp": 1790003966.640619,
-    "date": "2026-09-21T15:19:26.640619"
-  },
-  "https://www.tomshardware.com/pc-components/improve-your-gaming-experience-with-this-27-inch-asrock-fhd-180hz-gaming-monitor-thats-at-an-all-time-low-of-just-usd96-quality-ips-panel-with-amd-freesync-hdr400-and-1ms-response-time-is-40-percent-off": {
-    "title": "Improve your gaming experience with this 27-inch ASRock FHD 180Hz gaming monitor that s at an all-time low of just $96 quality IPS panel with AMD Freesync, HDR400, and 1ms response time is 40% off",
-    "fingerprint": "5f1d40d8e9133b9a58c17a3897756ece",
-    "timestamp": 1790003966.640726,
-    "date": "2026-09-21T15:19:26.640726"
-  },
-  "https://www.tomshardware.com/3d-printing/texas-jury-hits-bambu-lab-with-usd27-6m-verdict-in-stratasys-patent-fight-x1-p1-and-a1-printers-found-to-infringe-prime-tower-and-bed-leveling-tech": {
-    "title": "Texas jury hits Bambu Lab with $27.6M verdict in Stratasys patent fight X1, P1, and A1 printers found to infringe prime tower and bed-leveling tech",
-    "fingerprint": "773e70e28fd02108e21b7fad3f4cb12e",
-    "timestamp": 1790003966.640831,
-    "date": "2026-09-21T15:19:26.640832"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-controlled-robot-arms-attempted-harmful-tasks-97-percent-of-the-time-experiments-included-stabbing-a-baby-doll-mixing-chemicals-openai-and-anthropic-models-try-mixing-bleach-and-stabbing-dolls-without-jailbreaks": {
-    "title": "AI-controlled robot arms attempted harmful tasks 97% of the time; experiments included stabbing a baby doll, mixing chemicals OpenAI and Anthropic models try mixing bleach and stabbing dolls without jailbreaks",
-    "fingerprint": "ba19d42b7b9ffb9b1530e0aa31d588c6",
-    "timestamp": 1790003966.640947,
-    "date": "2026-09-21T15:19:26.640948"
-  },
-  "https://www.tomshardware.com/pc-components/dram/acer-ceo-says-memory-makers-are-hyping-2030-shortage-fears-to-protect-margins-pc-prices-set-to-decline-by-late-2027-cheaper-chinese-capacity-coming-online-delivers-lower-memory-prices": {
-    "title": "Acer CEO says memory makers are hyping 2030 shortage fears to protect margins PC prices set to decline by late 2027, cheaper Chinese capacity coming online delivers lower memory prices",
-    "fingerprint": "b8f14ff82f0a72f21d0f3b4c31259564",
-    "timestamp": 1790003966.641089,
-    "date": "2026-09-21T15:19:26.641090"
-  },
-  "https://www.tomshardware.com/pc-components/gpus/nvidias-next-gen-rtx-60-gpus-might-not-be-released-until-2028-prominent-leaker-claims-gaming-takes-a-back-seat-as-company-focuses-on-delivering-data-center-products": {
-    "title": "Nvidia's next-gen RTX 60 GPUs might not be released until 2028, prominent leaker claims gaming takes a back seat as company focuses on delivering data center products",
-    "fingerprint": "b2d535b3c3aa1c80b2b9155268e0420e",
-    "timestamp": 1790003966.641215,
-    "date": "2026-09-21T15:19:26.641215"
-  },
-  "https://www.tomshardware.com/raspberry-pi/techie-makes-his-own-motherboard-to-refurbish-15-year-old-hp-proliant-n40l-tower-server-raspberry-pi-cm5-adds-nvme-and-usb-3-0": {
-    "title": "Techie makes his own motherboard to refurbish 15-year-old HP ProLiant N40L tower server Raspberry Pi CM5 adds NVMe and USB 3.0",
-    "fingerprint": "9fd39219e918273eab69a36b968b5a01",
-    "timestamp": 1790003966.641317,
-    "date": "2026-09-21T15:19:26.641317"
-  },
-  "https://www.tomshardware.com/pc-components/give-your-pc-the-deep-clean-it-deserves-the-wolfbox-mf60-air-duster-with-up-to-110-000-rpm-drops-to-usd33-99": {
-    "title": "Give your PC the deep clean it deserves the Wolfbox MF60 Air Duster with up to 110,000 RPM drops to $33.99",
-    "fingerprint": "e9f41675d755dffc6830a05f188ac74c",
-    "timestamp": 1790003966.641432,
-    "date": "2026-09-21T15:19:26.641432"
-  },
-  "https://www.tomshardware.com/peripherals/webcams/dell-pro-7-webcam-4k-review": {
-    "title": "Dell Pro 7 Webcam 4K Review: Sounds surprisingly great",
-    "fingerprint": "b301474d74e58b375da042782f440e17",
-    "timestamp": 1790003966.64153,
-    "date": "2026-09-21T15:19:26.641531"
-  },
-  "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving": {
-    "title": "Anthropic, OpenAI, SpaceXAI, and Google face antitrust lawsuit for agreeing to slow AI development plaintiffs say plan has been in motion for months before, calls agreement self-serving ",
-    "fingerprint": "30d961f9e25a002cee651fd45ca4ca5c",
-    "timestamp": 1790003966.641658,
-    "date": "2026-09-21T15:19:26.641659"
-  },
-  "https://www.tomshardware.com/pc-components/gpus/the-pc-gaming-ray-tracing-obsession-began-with-the-first-rtx-20-graphics-cards-released-on-this-day-in-2018-the-geforce-rtx-2080-and-2080-ti-led-the-charge-but-games-were-thin-on-the-ground": {
-    "title": "The PC gaming ray tracing obsession began with the first RTX 20 graphics cards released on this day in 2018 the GeForce RTX 2080 and 2080 Ti led the charge, but games were thin on the ground",
-    "fingerprint": "8798427f69a7cc74b7afd8a129a0872d",
-    "timestamp": 1790003966.641769,
-    "date": "2026-09-21T15:19:26.641769"
-  },
-  "https://www.tomshardware.com/tech-industry/drones/researchers-build-a-drone-that-navigates-with-physical-whiskers-to-operate-in-dark-dusty-or-smoky-places-where-cameras-or-gps-can-fail-sub-100-gram-drones-run-34kb-software-to-enable-sub-millimeter-precision": {
-    "title": "Researchers build a drone that navigates with physical whiskers to operate in dark, dusty or smoky places where cameras or GPS can fail sub-100 gram drones run 34KB software to enable sub-millimeter precision",
-    "fingerprint": "163c121abcd5b44fa59cd186df0b0de9",
-    "timestamp": 1790003966.641893,
-    "date": "2026-09-21T15:19:26.641893"
-  },
-  "https://www.tomshardware.com/video-games/final-fantasy-vii-revelation-might-use-upwards-of-200-gb-and-requires-an-additional-download-latest-entry-in-the-series-of-remakes-may-set-a-new-record-for-the-size-of-a-base-install": {
-    "title": "Final Fantasy VII Revelation might use upwards of 200 GB and requires an additional download latest entry in the series of remakes may set a new record for the size of a base install",
-    "fingerprint": "0e880110ea7dd2c7dab6444baede94d3",
-    "timestamp": 1790003966.642016,
-    "date": "2026-09-21T15:19:26.642016"
-  },
-  "https://www.cnx-software.com/2026/09/21/realtek-rtl8773j-a-bluetooth-7-ready-cortex-m55-m33-microcontroller-with-hdt-support/": {
-    "title": "Realtek RTL8773J A Bluetooth 7-ready Cortex-M55/M33 microcontroller with HDT support",
-    "fingerprint": "6f8f851614912435e0ab64e3219c4331",
-    "timestamp": 1790003966.642426,
-    "date": "2026-09-21T15:19:26.642426"
-  },
-  "https://www.cnx-software.com/2026/09/21/brainchip-akd1500-m-2-and-pcie-edge-ai-cards-brainboard-1500-spi-module/": {
-    "title": "Brainchip AKD1500 M.2 and PCIe Edge AI cards, BrainBoard 1500 SPI module now available for $99 and up",
-    "fingerprint": "8c3a9bf5b03f8eddf1b0f443f978909a",
-    "timestamp": 1790003966.642597,
-    "date": "2026-09-21T15:19:26.642597"
-  },
-  "https://www.techspot.com/news/113921-putin-awkward-online-voting-video-features-dell-pc.html": {
-    "title": "Putin's awkward online voting video features a Dell PC and an \"Activate Windows\" watermark",
-    "fingerprint": "d2c6f2e2911955f26f05a095f8507c2a",
-    "timestamp": 1790003966.643862,
-    "date": "2026-09-21T15:19:26.643864"
-  },
-  "https://www.techspot.com/news/113920-another-major-gpu-leaker-nvidia-rtx-6000-series.html": {
-    "title": "Another major GPU leaker says Nvidia's RTX 6000 series may not arrive until 2028",
-    "fingerprint": "3893ac9bb794c638271dbc12e5c3636f",
-    "timestamp": 1790003966.644056,
-    "date": "2026-09-21T15:19:26.644058"
-  },
-  "https://www.techspot.com/news/113917-anthropic-openai-google-spacexai-face-lawsuit-claiming-their.html": {
-    "title": "Anthropic, OpenAI, Google and SpaceXAI face lawsuit claiming AI slowdown harms subscribers and violates antitrust laws",
-    "fingerprint": "3d97eecf1f39e3aec0170e18ed406535",
-    "timestamp": 1790003966.644235,
-    "date": "2026-09-21T15:19:26.644236"
-  },
-  "https://www.techspot.com/news/113916-north-korean-hackers-use-fake-coding-tests-infect.html": {
-    "title": "Hackers use fake coding tests to infect 30,000 devices and steal $10 million in crypto",
-    "fingerprint": "6f0113539a9a76bbc28089eedc024021",
-    "timestamp": 1790003966.644415,
-    "date": "2026-09-21T15:19:26.644416"
-  },
-  "https://www.techspot.com/news/113919-us-china-could-start-warning-each-other-about.html": {
-    "title": "US and China could start warning each other about dangerous AI incidents under new proposal",
-    "fingerprint": "7fc1c72d3e80f407534aa4149b7b3281",
-    "timestamp": 1790003966.644576,
-    "date": "2026-09-21T15:19:26.644577"
-  },
-  "https://www.techspot.com/news/113908-new-ultra-compact-fpga-game-boy-clone-costs.html": {
-    "title": "This new ultra-compact FPGA Game Boy clone costs just $90",
-    "fingerprint": "0071a0d18f6959f767734170ea04e911",
-    "timestamp": 1790003966.64474,
-    "date": "2026-09-21T15:19:26.644741"
-  },
-  "https://www.techspot.com/news/113909-microsoft-patent-describes-game-advertising-triggered-boss-fights.html": {
-    "title": "Microsoft patent describes in-game advertising triggered by boss fights, loading screens, and cutscenes",
-    "fingerprint": "a42bb6640c49a24260b134e2bbaeeca6",
-    "timestamp": 1790003966.644903,
-    "date": "2026-09-21T15:19:26.644904"
-  },
-  "https://www.techspot.com/news/113913-gemini-ai-hacked-three-companies-during-security-tests.html": {
-    "title": "Gemini hacked three companies during security tests, and Google kept it quiet for months",
-    "fingerprint": "b995d9b1b456e12b3279541f233f4d04",
-    "timestamp": 1790003966.645102,
-    "date": "2026-09-21T15:19:26.645104"
-  },
-  "https://www.tomshardware.com/peripherals/gaming-keyboards/glorious-gmmk-eternal-review": {
-    "title": "Glorious GMMK Eternal Review: Fits anywhere, sounds great",
-    "fingerprint": "1e1959766f68d654173ac81fa8611330",
-    "timestamp": 1790084382.871932,
-    "date": "2026-09-22T13:39:42.871935"
-  },
-  "https://www.tomshardware.com/tech-industry/cryptomining/well-be-the-first-to-mine-bitcoin-in-space-says-nvidia-backed-startup-starcloud-will-fire-up-its-asics-after-its-second-spacecraft-reaches-orbit-later-this-year": {
-    "title": " We ll be the first to mine Bitcoin in space says Nvidia-backed startup",
-    "fingerprint": "dd9b28a3dc3e83b44aad2fc097036a16",
-    "timestamp": 1790084382.872048,
-    "date": "2026-09-22T13:39:42.872049"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-and-china-propose-hotline-to-de-escalate-ai-threats-ahead-of-washington-summit-comms-channel-between-both-nations-to-be-left-open-in-case-of-national-security-threats-posed-by-autonomous-artificial-intelligence": {
-    "title": "US and China propose hotline to de-escalate AI threats ahead of Washington summit",
-    "fingerprint": "3cfb747f98c151f7a46ce3128e235b1a",
-    "timestamp": 1790084382.872163,
-    "date": "2026-09-22T13:39:42.872163"
-  },
-  "https://www.tomshardware.com/pc-components/dram/dram-is-now-more-expensive-than-compute-chips-on-per-area-basis-ai-demand-drives-memory-die-value-past-leading-edge-silicon": {
-    "title": "Memory chips are now more expensive than compute chips on a per-area basis",
-    "fingerprint": "0612cb1c8235cb8699090dbefa75acef",
-    "timestamp": 1790084382.872276,
-    "date": "2026-09-22T13:39:42.872276"
-  },
-  "https://www.tomshardware.com/raspberry-pi/raspberry-pi-locks-boards-to-factory-ram-capacities-in-firmware-engineer-tells-diy-modders-dont-waste-your-time-trying-repairs-or-upgrades-company-cites-shady-reseller-scams": {
-    "title": "Raspberry Pi locks boards to factory RAM capacities in firmware",
-    "fingerprint": "10426cba479977a62bddda22747b14de",
-    "timestamp": 1790084382.872379,
-    "date": "2026-09-22T13:39:42.872380"
-  },
-  "https://www.tomshardware.com/pc-components/ssds/dapustor-splits-qlc-ssd-to-create-a-fast-pslc-region-in-dual-mode-drive-trades-6-percent-to-20-percent-of-its-qlc-capacity-for-more-than-7x-faster-random-writes": {
-    "title": "New DapuStor SSD pairs high-capacity QLC with a permanent pSLC region",
-    "fingerprint": "fe898364f55fc0ab28c733973cbabbff",
-    "timestamp": 1790084382.872489,
-    "date": "2026-09-22T13:39:42.872489"
-  },
-  "https://www.tomshardware.com/pc-components/dram/chinas-cxmt-hits-12nm-class-dram-milestone-new-5th-gen-dram-tech-uses-quadruple-patterning-to-boost-die-capacity-by-50-percent": {
-    "title": "China's CXMT hits 12nm-class DRAM milestone",
-    "fingerprint": "4607c90f25d5274089550fda35782c16",
-    "timestamp": 1790084382.872581,
-    "date": "2026-09-22T13:39:42.872581"
-  },
-  "https://www.tomshardware.com/pc-components/ssds/iphone-18-pro-max-storage-can-drop-lower-than-a-hard-drive-at-1-1-mb-s-during-heavy-writes-qlc-nand-offers-higher-capacity-but-reportedly-suffers-38-percent-drop-compared-to-tlc-based-pro": {
-    "title": "iPhone 18 Pro Max storage can drop lower than a hard drive at 1.1 MB/s during heavy writes",
-    "fingerprint": "5437874759e5540aa85767d6b0f39c7b",
-    "timestamp": 1790084382.872718,
-    "date": "2026-09-22T13:39:42.872719"
-  },
-  "https://www.tomshardware.com/desktops/gaming-pcs/get-the-worlds-fastest-gaming-cpu-and-a-dlss-5-capable-gpu-in-a-gaming-pc-for-usd2-299-fully-loaded-powerhouse-sports-ryzen-7-9800x3d-rtx-5080-founders-edition-32gb-ram-and-1tb-ssd": {
-    "title": "Get the world s fastest gaming CPU and a DLSS 5-capable GPU in a gaming PC for $2,299",
-    "fingerprint": "3addeea8f790cff15c36d6e91a464fc6",
-    "timestamp": 1790084382.872826,
-    "date": "2026-09-22T13:39:42.872826"
-  },
-  "https://www.tomshardware.com/tech-industry/data-centers/local-opposition-blocked-usd68-billion-worth-of-data-center-projects-in-the-second-quarter-of-2026-data-center-investments-reportedly-still-on-track-to-hit-usd32-trillion-by-2050": {
-    "title": "Local opposition blocked $68 billion worth of data center projects in the second quarter of 2026",
-    "fingerprint": "0cfda33dbe295ffb15a6df693247c50b",
-    "timestamp": 1790084382.872928,
-    "date": "2026-09-22T13:39:42.872929"
-  },
-  "https://www.tomshardware.com/tech-industry/amd-beats-intel-to-the-trillion-dollar-club-as-stock-price-soars-firm-joins-nvidia-broadcom-and-sk-hynix-for-companies-worth-over-usd1-trillion": {
-    "title": "AMD beats Intel to the trillion-dollar club as stock price soars",
-    "fingerprint": "d6745f7be4cf17f84a39e94500a70649",
-    "timestamp": 1790084382.873025,
-    "date": "2026-09-22T13:39:42.873025"
-  },
-  "https://www.fiercesensors.com/embedded/companies-worry-about-robot-safety-also-see-potential": {
-    "title": "Companies worry about robot safety, but also see potential",
-    "fingerprint": "46f35a63be5c00fc217c89e39933dbb5",
-    "timestamp": 1790084382.873555,
-    "date": "2026-09-22T13:39:42.873556"
-  },
-  "https://www.techspot.com/news/113933-android-based-googlebook-laptops-acer-asus-dell-hp.html": {
-    "title": "Google's new Googlebook laptops start at $899 and directly target Windows and macOS",
-    "fingerprint": "909afe742bb35e38dfeec0f9ba3d3a30",
-    "timestamp": 1790084382.873728,
-    "date": "2026-09-22T13:39:42.873729"
-  },
-  "https://www.techspot.com/news/113938-waymo-drives-denver-farmers-market-leaving-vendors-wondering.html": {
-    "title": "Waymo drives into Denver farmers market, leaving vendors wondering how to tell a driverless car to stop",
-    "fingerprint": "0728bc88f018a17bca377de0b835a7b8",
-    "timestamp": 1790084382.873842,
-    "date": "2026-09-22T13:39:42.873842"
-  },
-  "https://www.techspot.com/news/113932-airbus-using-steam-deck-drive-mars-rover-prototype.html": {
-    "title": "Airbus is using a Steam Deck to drive a Mars rover prototype",
-    "fingerprint": "2853bd91325dc84ec58063694d93a52d",
-    "timestamp": 1790084382.873951,
-    "date": "2026-09-22T13:39:42.873952"
-  },
-  "https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html": {
-    "title": "Engineer says Claude Code has made his job \"soul-sucking\" as workers spend 12-hour days pressing enter",
-    "fingerprint": "589bfeafa5c1eee6255f4f45c7e6b298",
-    "timestamp": 1790084382.874132,
-    "date": "2026-09-22T13:39:42.874133"
-  },
-  "https://www.techspot.com/news/113931-acer-ceo-pc-prices-could-fall-2027-accuses.html": {
-    "title": "Acer CEO says PC prices could fall by 2027, accuses rivals of milking the RAM shortage for profit",
-    "fingerprint": "76ea118e5749e88c6da4177adf64b52c",
-    "timestamp": 1790084382.874317,
-    "date": "2026-09-22T13:39:42.874318"
-  },
-  "https://www.techspot.com/news/113926-amd-eclipses-1-trillion-valuation-beating-intel-milestone.html": {
-    "title": "AMD just joined the $1 trillion club, beating Intel to the milestone",
-    "fingerprint": "c87a2a8c7f4afa3e282b6af28030306a",
-    "timestamp": 1790084382.874479,
-    "date": "2026-09-22T13:39:42.874480"
-  },
-  "https://www.techspot.com/news/113924-internet-explorer-finally-truly-dying-microsoft-wants-you.html": {
-    "title": "Internet Explorer is finally, truly dying, and Microsoft wants you ready by 2029",
-    "fingerprint": "cefda8ffdcf063d1ea7be3f7b6a73246",
-    "timestamp": 1790084382.874597,
-    "date": "2026-09-22T13:39:42.874597"
-  },
-  "https://www.techspot.com/products/pc-games/silent-hill-townfall.330933/": {
-    "title": "Silent Hill: Townfall debuts in a haunting return to psychological horror",
-    "fingerprint": "16ac4260809af5445e8ed06a62cc36c2",
-    "timestamp": 1790084382.874737,
-    "date": "2026-09-22T13:39:42.874737"
-  },
-  "https://www.techspot.com/news/113929-one-command-trick-can-put-localhost-internet-no.html": {
-    "title": "This one-command trick can put your localhost on the internet, no port forwarding required",
-    "fingerprint": "b0eca8bc9f4a5c5021b7ea6d5fbe36c5",
-    "timestamp": 1790084382.874852,
-    "date": "2026-09-22T13:39:42.874853"
-  },
-  "https://www.techspot.com/downloads/7908-comfy-desktop.html": {
-    "title": "Comfy Desktop makes running local AI models on your PC much easier",
-    "fingerprint": "4566fe01dd6f5c0f6370abf5f2cfca7f",
-    "timestamp": 1790084382.874971,
-    "date": "2026-09-22T13:39:42.874972"
-  },
-  "https://www.techspot.com/news/113915-cd-projekt-ceo-reveals-why-company-decided-use.html": {
-    "title": "CD Projekt CEO reveals why the company decided to use Unreal Engine for The Witcher 4",
-    "fingerprint": "c836ac4c8b110985f6310b68060c3ea5",
-    "timestamp": 1790084382.875085,
-    "date": "2026-09-22T13:39:42.875086"
-  },
-  "https://www.techspot.com/products/desktop-pcs/apple-mac-mini-m6.330931/": {
-    "title": "Apple Mac mini M6 debuts: more performance at a higher price",
-    "fingerprint": "50e35162adff01dfe4467ee6dcfa1997",
-    "timestamp": 1790084382.875203,
-    "date": "2026-09-22T13:39:42.875204"
-  },
-  "https://www.techspot.com/news/113922-iphone-18-pro-teardown-highlights-mechanical-camera-aperture.html": {
-    "title": "iPhone 18 Pro teardown highlights mechanical camera aperture and a major thermal redesign",
-    "fingerprint": "7f6cee6de029d5c85e81a7bafdd216e6",
-    "timestamp": 1790084382.875314,
-    "date": "2026-09-22T13:39:42.875314"
-  },
   "https://www.tomshardware.com/pc-components/case-mods/usd14-000-gaming-pc-features-70-handcrafted-titanium-cherry-blossoms-which-unfurl-as-temperatures-rise-zotac-designed-rtx-5080-system-features-impressive-sculpture-and-an-eye-watering-price-tag-to-match": {
     "title": "$14,000 gaming PC features 70 handcrafted titanium cherry blossoms which unfurl as temperatures rise",
     "fingerprint": "72269d2137e2a296585b6fe3b8bf0e46",
@@ -5470,5 +5104,221 @@
     "fingerprint": "a9e3a73540293d422070929ca0991ea9",
     "timestamp": 1792591611.947141,
     "date": "2026-10-21T14:06:51.947142"
+  },
+  "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-seeking-chipmaking-equipment-that-doesnt-contain-chinese-rare-earth-magnets-asks-suppliers-to-provide-alternative-motors-as-export-controls-threaten-fab-operations": {
+    "title": "TSMC is seeking chipmaking equipment that doesn't contain Chinese rare-earth magnets",
+    "fingerprint": "de6b1c85fabb00b30fd773fb9512f464",
+    "timestamp": 1792677943.884649,
+    "date": "2026-10-22T14:05:43.884653"
+  },
+  "https://www.tomshardware.com/video-games/pc-gaming/one-easy-change-makes-microsofts-surface-laptop-ultra-with-rtx-spark-a-better-gaming-system-custom-resolutions-make-dlss-easier-on-the-device": {
+    "title": "One easy change makes Microsoft's Surface Laptop Ultra with RTX Spark a better gaming system",
+    "fingerprint": "c36eb5a70bc45e9cfef82f64148fb62f",
+    "timestamp": 1792677943.884793,
+    "date": "2026-10-22T14:05:43.884794"
+  },
+  "https://www.tomshardware.com/tech-industry/cyber-security/leaked-private-keys-for-eight-ca-certificates-let-any-attacker-impersonate-any-domain-billions-of-older-devices-and-software-installations-may-be-vulnerable-after-round-of-fixes-patch-yours-immediately": {
+    "title": "Leaked private keys for eight CA certificates let any attacker impersonate any domain",
+    "fingerprint": "0698eed33014d12d15dd5b4530ae4516",
+    "timestamp": 1792677943.88491,
+    "date": "2026-10-22T14:05:43.884910"
+  },
+  "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-5500f-review": {
+    "title": "AMD Ryzen 5 5500F review: Vermeer rides again for budget gaming PCs",
+    "fingerprint": "103a719ea692e450cb1c9a2605b5c4bd",
+    "timestamp": 1792677943.885024,
+    "date": "2026-10-22T14:05:43.885025"
+  },
+  "https://www.tomshardware.com/pc-components/dram/micron-pulls-the-plug-on-future-4f2-dram-after-two-decades-of-research-in-dramatic-shift-company-says-architecture-offers-no-meaningful-density-advantages-increases-manufacturing-complexity-and-costs-and-has-fundamental-scaling-limitations": {
+    "title": "Micron pulls the plug on future 4F DRAM after two decades of research in dramatic shift",
+    "fingerprint": "60357d1547ab7751c01b141d1b93776d",
+    "timestamp": 1792677943.885128,
+    "date": "2026-10-22T14:05:43.885129"
+  },
+  "https://www.tomshardware.com/video-games/retro-gaming/retro-atari-vcs-platform-will-end-with-the-closure-of-its-software-store-in-february-2027-os-update-will-be-released-removing-reliance-on-atari-servers-and-opening-up-homebrew-development": {
+    "title": "Retro Atari VCS platform will end with the closure of its software store in February 2027",
+    "fingerprint": "953cdac1e0ff61d13f33b34fbff32513",
+    "timestamp": 1792677943.885251,
+    "date": "2026-10-22T14:05:43.885251"
+  },
+  "https://www.tomshardware.com/video-games/pc-gaming/ea-is-closing-bioware-the-studio-behind-mass-effect-and-dragon-age-after-more-than-30-years-early-development-of-the-next-mass-effect-game-killed": {
+    "title": "EA is closing BioWare, the studio behind Mass Effect and Dragon Age, after more than 30 years",
+    "fingerprint": "4c90ed19888b59054a1363812c38c924",
+    "timestamp": 1792677943.885353,
+    "date": "2026-10-22T14:05:43.885354"
+  },
+  "https://www.tomshardware.com/tech-industry/17-russian-trawlers-logged-mapping-undersea-cables-connecting-the-us-and-europe-over-500-incidents-of-russian-vessels-loitering-over-critical-communications-cables-reported-in-under-5-years": {
+    "title": "17 Russian trawlers logged mapping undersea cables connecting the US and Europe",
+    "fingerprint": "4968e4107b2b5cce6e4c9f9926caf8b1",
+    "timestamp": 1792677943.885457,
+    "date": "2026-10-22T14:05:43.885458"
+  },
+  "https://www.tomshardware.com/pc-components/storage/lto-roadmap-extends-to-365-tb-per-cartridge-as-tape-storage-refuses-to-die-25-year-old-format-sees-400x-capacity-increase-without-changing-form-factor": {
+    "title": "LTO roadmap extends to 365 TB per cartridge as tape storage refuses to die",
+    "fingerprint": "3390535bbcd2b65fcdd50c8bf3a535fa",
+    "timestamp": 1792677943.885561,
+    "date": "2026-10-22T14:05:43.885561"
+  },
+  "https://www.tomshardware.com/pc-components/ssds/best-buy-has-slashed-usd950-off-this-gorgeous-alienware-16x-aurora-gaming-laptop-with-oled-display-33-percent-price-reduction-on-arrow-lake-laptop-with-rtx-5070": {
+    "title": "Best Buy has slashed $950 off this gorgeous Alienware 16X Aurora gaming laptop with OLED display",
+    "fingerprint": "f481acedb3c0df4b0bbe2376e5738088",
+    "timestamp": 1792677943.885665,
+    "date": "2026-10-22T14:05:43.885666"
+  },
+  "https://www.tomshardware.com/tech-industry/cyber-security/openai-says-gpt-5-6-sol-helped-uncover-critical-php-flaws-that-could-affect-70-percent-of-websites-ai-assisted-researchers-turned-two-year-old-bug-that-stumped-human-developers-into-working-exploits-in-two-weeks": {
+    "title": "OpenAI says ChatGPT Sol helped uncover critical PHP flaws that could affect 70% of websites",
+    "fingerprint": "ba27069292a6a8a38874385af91b8cad",
+    "timestamp": 1792677943.885779,
+    "date": "2026-10-22T14:05:43.885780"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/googles-tpus-for-ai-workloads-now-run-in-at-metas-data-centers-tpus-sold-to-external-customers-for-the-first-time-threaten-nvidias-market-dominance": {
+    "title": "Google s TPUs for AI workloads now run in Meta's data centers",
+    "fingerprint": "03fd16eedf121df45776be4d56deaa36",
+    "timestamp": 1792677943.885879,
+    "date": "2026-10-22T14:05:43.885880"
+  },
+  "https://www.tomshardware.com/tech-industry/cyber-security/480-000-phishing-emails-sent-from-a-pc-hidden-behind-a-fridge-in-a-japanese-hotel-room-chinese-couple-arrested-over-fraud-operation-leaching-hotel-wi-fi": {
+    "title": "480,000 phishing emails sent from a PC hidden behind a fridge in a Japanese hotel room",
+    "fingerprint": "21626d2657bc813f0d4c438258ff1411",
+    "timestamp": 1792677943.885979,
+    "date": "2026-10-22T14:05:43.885979"
+  },
+  "https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028": {
+    "title": "Intel installs production tools at Fab 62 in Arizona, provides updates on Ohio chip fab",
+    "fingerprint": "0f1db2a42ba621e77d82b96384b1512b",
+    "timestamp": 1792677943.886078,
+    "date": "2026-10-22T14:05:43.886079"
+  },
+  "https://www.tomshardware.com/pc-components/ssds/4tb-samsung-990-pro-m-2-ssd-falls-27-percent-hits-20-cents-per-gigabyte-our-favorite-high-capacity-pcie-gen-4-drive-is-the-ultimate-storage-for-your-game-library": {
+    "title": "4TB Samsung 990 Pro M.2 SSD falls 27%, hits 20 cents per gigabyte",
+    "fingerprint": "733375169c307e8e5455905754b7bcd9",
+    "timestamp": 1792677943.886169,
+    "date": "2026-10-22T14:05:43.886170"
+  },
+  "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-asml-and-other-critical-semiconductor-equipment-suppliers-will-expedite-shipments-to-terafab-facility-targets-volume-chip-production-by-q3-q4-2028-in-highly-aspirational-timeline": {
+    "title": "ASML and other critical semiconductor equipment suppliers expedite shipments to Musk's Terafab",
+    "fingerprint": "1e7984470d2ce35001116dd6c16057c1",
+    "timestamp": 1792677943.886293,
+    "date": "2026-10-22T14:05:43.886294"
+  },
+  "https://www.tomshardware.com/software/linux/amd-brings-official-ryzen-overclocking-to-linux-with-aod-driver-support-no-official-app-but-third-party-options-should-arrive-soon": {
+    "title": "AMD brings official Ryzen overclocking to Linux with AOD driver support",
+    "fingerprint": "007be15caa0e46bdc2055503edf5b644",
+    "timestamp": 1792677943.886393,
+    "date": "2026-10-22T14:05:43.886393"
+  },
+  "https://www.cnx-software.com/2026/10/22/gl-inet-mango-2-mini-travel-router-features-ac1300-wifi-5-and-dual-gigabit-ethernet/": {
+    "title": "GL.iNet Mango 2 mini travel router features AC1300 WiFi 5 and dual Gigabit Ethernet",
+    "fingerprint": "765ba360aba6b0e9f0f0a816c0a2fa0b",
+    "timestamp": 1792677943.886829,
+    "date": "2026-10-22T14:05:43.886829"
+  },
+  "https://www.cnx-software.com/2026/10/22/rotary-encoder-with-1-8-inch-touch-display-gets-upgrade-to-esp32-s31-soc/": {
+    "title": "Rotary encoder with 1.8-inch touch display gets upgrade to ESP32-S31 SoC",
+    "fingerprint": "af692fe920dc2ff85b9327991d6f09f7",
+    "timestamp": 1792677943.886995,
+    "date": "2026-10-22T14:05:43.886996"
+  },
+  "https://www.fiercesensors.com/ai/musk-spills-optimus-hand-teslas-planned-optimus-academy": {
+    "title": "Musk spills on Optimus hand, Tesla s planned Optimus Academy",
+    "fingerprint": "d96a894ba50d7296eee5bb6c37ceefa9",
+    "timestamp": 1792677943.887995,
+    "date": "2026-10-22T14:05:43.887997"
+  },
+  "https://www.fiercesensors.com/ai/schneider-hpe-and-nvidia-boost-process-industries-ai-agents-edge": {
+    "title": "Schneider, HPE and Nvidia to boost process industries with AI Agents at the Edge",
+    "fingerprint": "e6777a5b197497fe12957ec64bb917c4",
+    "timestamp": 1792677943.888151,
+    "date": "2026-10-22T14:05:43.888153"
+  },
+  "https://www.techspot.com/news/114297-kansas-farm-equipment-factory-put-humanoid-robots-work.html": {
+    "title": "Kansas farm equipment factory will put humanoid robots to work in 2027, promising they won't replace humans",
+    "fingerprint": "3e7216b9c99049c132833f15c32038a6",
+    "timestamp": 1792677943.888498,
+    "date": "2026-10-22T14:05:43.888499"
+  },
+  "https://www.techspot.com/news/114295-tesla-claims-privately-owned-model-ys-can-join.html": {
+    "title": "Tesla claims privately owned Model Ys can join its Robotaxi fleet in Q2 2027 a deadline it will likely miss",
+    "fingerprint": "1769dd1559cd0677ef89deb5801ff5b4",
+    "timestamp": 1792677943.888637,
+    "date": "2026-10-22T14:05:43.888639"
+  },
+  "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html": {
+    "title": "Woman spends three nights in jail and faces six years in prison over Cash App account she never opened",
+    "fingerprint": "fbf8b3e2d15024ccfdf4cc613f4f4892",
+    "timestamp": 1792677943.888817,
+    "date": "2026-10-22T14:05:43.888819"
+  },
+  "https://www.techspot.com/news/114292-ea-closes-legendary-rpg-studio-bioware-following-55.html": {
+    "title": "EA closes legendary RPG studio BioWare following its $55 billion buyout",
+    "fingerprint": "e7007d8431a6ca8ebc1d34c6eab101c9",
+    "timestamp": 1792677943.888994,
+    "date": "2026-10-22T14:05:43.888996"
+  },
+  "https://www.techspot.com/news/114290-sony-latest-ps5-firmware-got-cracked-time-gta.html": {
+    "title": "Sony's latest PS5 firmware got cracked, just in time for GTA 6's November release",
+    "fingerprint": "b4d1b78088d4ff082755d735104b9a99",
+    "timestamp": 1792677943.88913,
+    "date": "2026-10-22T14:05:43.889131"
+  },
+  "https://www.techspot.com/news/114286-openai-ai-agents-disabled-safety-guardrails-lied-about.html": {
+    "title": "OpenAI says its AI agents disabled safety guardrails, and then lied about it",
+    "fingerprint": "37379ecb25b432562451a9a78c2320ae",
+    "timestamp": 1792677943.889277,
+    "date": "2026-10-22T14:05:43.889278"
+  },
+  "https://www.techspot.com/products/smartphones/apple-iphone-duo.330958/": {
+    "title": "iPhone Duo roundup: Apple gets the hardware right, but is it worth $2,000?",
+    "fingerprint": "b6bef945d081da6636a150b7e76d7c92",
+    "timestamp": 1792677943.8894,
+    "date": "2026-10-22T14:05:43.889401"
+  },
+  "https://www.techspot.com/news/114293-two-web-emergencies-one-week-guessable-certificate-keys.html": {
+    "title": "Two web emergencies in one week: guessable certificate keys and critical PHP bugs that leaked before patches",
+    "fingerprint": "afac1ab837734db677a457e6fcc8003f",
+    "timestamp": 1792677943.889521,
+    "date": "2026-10-22T14:05:43.889522"
+  },
+  "https://www.techspot.com/news/114273-nvidia-allegedly-punishing-cloud-providers-using-amd-hardware.html": {
+    "title": "Nvidia reportedly refused some neoclouds access to GTC Berlin for adding AMD and TPU chips",
+    "fingerprint": "d9578c3ce3593381721a9d7540ebd8fe",
+    "timestamp": 1792677943.889651,
+    "date": "2026-10-22T14:05:43.889651"
+  },
+  "https://www.techspot.com/downloads/drivers/essentials/nvidia-geforce/": {
+    "title": "Nvidia GeForce drivers add support for Microsoft's Advanced Shader Delivery",
+    "fingerprint": "247c519f8b20fbf85d88edfd9c77a169",
+    "timestamp": 1792677943.889775,
+    "date": "2026-10-22T14:05:43.889775"
+  },
+  "https://www.techspot.com/downloads/5680-php.html": {
+    "title": "PSA: PHP patches two critical flaws, server admins urged to update",
+    "fingerprint": "2f6240c2b245a5070668f0bad7a64e3a",
+    "timestamp": 1792677943.889909,
+    "date": "2026-10-22T14:05:43.889909"
+  },
+  "https://www.techspot.com/news/114283-meta-suspends-muse-sharing-after-sensitive-documents-turn.html": {
+    "title": "Meta suspends Muse sharing after sensitive documents turn up in shared chats",
+    "fingerprint": "bd424724c99a844bbe242d78f456e12a",
+    "timestamp": 1792677943.890018,
+    "date": "2026-10-22T14:05:43.890019"
+  },
+  "https://www.techspot.com/news/114285-spotify-thinks-rotating-qr-codes-stop-family-plan.html": {
+    "title": "Spotify is asking Family plan members to scan a QR code to prove they live with the account owner",
+    "fingerprint": "618b2b9b2e65a22795ac3f3670facbce",
+    "timestamp": 1792677943.890129,
+    "date": "2026-10-22T14:05:43.890129"
+  },
+  "https://www.techspot.com/news/114280-citadel-ken-griffin-investors-almost-certainly-ai-bubble.html": {
+    "title": "Citadel's Ken Griffin says investors are \"almost certainly\" in an AI bubble",
+    "fingerprint": "1c8dcc406239e2b7d413447832d46fd3",
+    "timestamp": 1792677943.890255,
+    "date": "2026-10-22T14:05:43.890255"
+  },
+  "https://www.techspot.com/news/114284-elon-musk-confirms-tesla-spacex-merger-talks-but.html": {
+    "title": "Elon Musk confirms Tesla and SpaceX merger talks",
+    "fingerprint": "08e6eae3fe861ab27b2c49ae51d6c996",
+    "timestamp": 1792677943.890372,
+    "date": "2026-10-22T14:05:43.890373"
   }
 }
