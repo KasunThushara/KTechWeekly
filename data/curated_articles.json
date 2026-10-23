@@ -1,378 +1,275 @@
 [
   {
-    "title": "TSMC is seeking chipmaking equipment that doesn't contain Chinese rare-earth magnets",
-    "summary": "TSMC is reportedly asking equipment suppliers for factory machinery that doesn't use rare-earth components, as the chipmaker seeks to reduce exposure to China s dominance of critical minerals and permanent magnets.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-seeking-chipmaking-equipment-that-doesnt-contain-chinese-rare-earth-magnets-asks-suppliers-to-provide-alternative-motors-as-export-controls-threaten-fab-operations",
+    "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia",
+    "summary": "Amazon has ditched its plans to build four new data centers in Loudoun County, Northern Virginia, following an outcry from local residents and officials. The land will now be repurposed for mixed and residential use.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-bows-to-local-backlash-over-ai-data-centers-scraps-plans-to-build-four-new-facilities-in-northern-virginia-site-to-be-repurposed-for-mixed-use-and-residential-development",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-23T13:48:38.998025"
+  },
+  {
+    "title": "China can make advanced chips without EUV, but the bill keeps growing",
+    "summary": "China has stretched older DUV lithography far further than expected, using multiple patterning to approach 5nm-class without EUV. But experts say the trade-offs in cost, yield, and die size mean further advancements are unlikely to be economically viable.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-can-make-advanced-chips-without-euv-but-the-bill-keeps-growing-duv-multiple-patterning-means-bigger-dies-lower-yields-and-longer-manufacturing-times",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-23T13:48:38.998166"
+  },
+  {
+    "title": "Bambu Lab teases its mysterious H3C tool changer 3D printer features nine tools and a drop-down rack, slated for November 3 launch",
+    "summary": "Bambu Lab s long-awaited tool changer H3C launches Nov. 3, 2026.",
+    "link": "https://www.tomshardware.com/3d-printing/bambu-lab-teases-its-mysterious-h3c-tool-changer-3d-printer-features-nine-tools-and-a-drop-down-rack-slated-for-november-3-launch",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-23T13:48:38.998282"
+  },
+  {
+    "title": "Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network",
+    "summary": "A security firm has been able to identify 32 Nvidia Blackwell Ultra B300 AI chips running inside a China Telecom network, but it's unclear where the export-barred components are physically located.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/illegal-nvidia-blackwell-ultra-b300-gpus-found-inside-state-owned-china-telecoms-network-nvidia-says-chip-smuggling-a-drop-in-the-bucket-insists-smuggling-remains-a-nonfactor",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-23T13:48:38.998402"
+  },
+  {
+    "title": "FCC issues first bans under new chip-level rule",
+    "summary": "FCC bans a dashcam and wireless video transmitter produced by HiSilicon, a subsidiary of Huawei for containing an AI chip that advertises face detection algorithms.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/fcc-bans-first-two-devices-from-the-us-under-new-chip-level-rule-huawei-subsidiary-chip-boasts-face-detection-algorithm",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-22T14:05:43.884658"
+    "processed_date": "2026-10-23T13:48:38.998509"
   },
   {
-    "title": "One easy change makes Microsoft's Surface Laptop Ultra with RTX Spark a better gaming system",
-    "summary": "Microsoft's Surface Laptop Ultra with RTX Spark might not be a gaming laptop first and foremost, but it certainly wants to game. We found that creating a custom 1920x1080-equivalent resolution for its 3:2 screen, missing from its out-of-the-box config, makes for a better experience.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/one-easy-change-makes-microsofts-surface-laptop-ultra-with-rtx-spark-a-better-gaming-system-custom-resolutions-make-dlss-easier-on-the-device",
+    "title": "Deepseek's latest AI model is smarter than ever, but its low running costs come at a price",
+    "summary": "Deepseek 4.1 Flash 1017 drives cost-per-task further down still open-weight model is fit for agentic workloads and exceedingly cheap to run",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-latest-ai-model-is-smarter-than-ever-but-its-low-running-costs-come-at-a-price-open-weight-model-is-fit-for-agentic-workloads-but-is-more-prone-to-hallucination-than-proprietary-competitors",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-23T13:48:38.998612"
+  },
+  {
+    "title": "UK proposes 14-year prison sentences for undersea cable saboteurs amid Russian trawler threats",
+    "summary": "The UK government has outlined plans for new powers and criminal offenses to help protect undersea cables in UK waters amid fears of Russian interference.",
+    "link": "https://www.tomshardware.com/tech-industry/uk-proposes-14-year-prison-sentences-for-undersea-cable-saboteurs-amid-russian-trawler-threats-government-responds-to-growing-threats-with-new-criminal-offences-and-emergency-powers-to-shut-down-services",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-23T13:48:38.998716"
+  },
+  {
+    "title": "US banks scramble to restrict AI agent activity",
+    "summary": "Several U.S. banks are blocking AI agents from making transactions on their platforms. They fear that those agents could go rogue and there's no way to tell if the moves they make are legitimate or not.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/us-banks-scramble-to-restrict-ai-agent-activity-agents-detected-accessing-customer-accounts-or-even-attempting-to-make-transactions-in-breach-of-policy",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-23T13:48:38.998821"
+  },
+  {
+    "title": "Consultant comes clean for sparking worldwide panic by accidentally breaking the PHP vulnerability embargo",
+    "summary": "The user said that they only wanted to alert others about the importance of the upcoming CVE releases and weren't told about the embargo.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/devastated-forum-user-who-accidentally-broke-the-php-news-embargo-comes-clean-user-says-they-were-unaware-of-disclosure-restrictions-move-clearly-backfired-in-a-pretty-wild-fashion",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-23T13:48:38.998946"
+  },
+  {
+    "title": "Claude and Grok among AI agents used to automate attacks on Latin American institutions",
+    "summary": "Claude and Grok are among the AI agents that are being used to automate attacks on Latin American institutions, including banks and payment apps, by a group calling themselves CyberCartel.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/cybercartel-hacking-gang-used-claude-and-grok-ai-agents-to-automate-attacks-on-latin-american-institutions-passwords-and-details-stolen-from-over-400-institutions-including-banks-and-payment-apps",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-23T13:48:38.999056"
+  },
+  {
+    "title": "China-aligned hackers deploy AI agents in massive ConnectWise supply chain attack",
+    "summary": "Microsoft says China-aligned Storm-0940 used the ARTEX AI agent framework in the ConnectWise Cloud Backup supply chain attack.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-says-china-aligned-hackers-used-ai-agents-in-connectwise-supply-chain-attack-agents-attempted-sign-ins-at-more-than-2-250-microsoft-365-tenants-with-some-of-the-groups-attacks-reaching-privileged-access-in-under-three-hours",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-23T13:48:38.999155"
+  },
+  {
+    "title": "Save $450 on this 4K gaming PC with an RTX 5070 Ti and 9800X3D, now $2,549.99",
+    "summary": "You can save $450 on this 4K-capable gaming machine from Newegg's ABS brand, featuring the powerful RTX 5070 Ti, AMD Ryzen 7 9800X3D, 32GB DDR5, and a 2TB SSD for $2,549.99.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd450-on-this-4k-gaming-pc-with-an-rtx-5070-ti-and-9800x3d-now-usd2-549-99-liquid-cooled-abs-stratos-ii-ruby-rig-comes-with-32gb-ddr5-and-a-2tb-ssd",
     "categories": [
       "GPUs",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-22T14:05:43.884796"
+    "processed_date": "2026-10-23T13:48:38.999256"
   },
   {
-    "title": "Leaked private keys for eight CA certificates let any attacker impersonate any domain",
-    "summary": "Leaked private keys for eight CA certificates let any attacker impersonate any domain billions of older devices and software installations may be vulnerable after round of fixes, patch yours immediately",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/leaked-private-keys-for-eight-ca-certificates-let-any-attacker-impersonate-any-domain-billions-of-older-devices-and-software-installations-may-be-vulnerable-after-round-of-fixes-patch-yours-immediately",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-22T14:05:43.884913"
-  },
-  {
-    "title": "AMD Ryzen 5 5500F review: Vermeer rides again for budget gaming PCs",
-    "summary": "After years with the Cezanne-based 5500, AMD has finally updated its $100 CPU to the 5500F in the Vermeer family, adding a 200 MHz boost in clock speed and a PCIe 4.0 upgrade.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-5500f-review",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-22T14:05:43.885027"
-  },
-  {
-    "title": "Micron pulls the plug on future 4F DRAM after two decades of research in dramatic shift",
-    "summary": "Micron believes that more advanced process technologies will present more benefits in terms of DRAM bit density than smaller memory cells.",
-    "link": "https://www.tomshardware.com/pc-components/dram/micron-pulls-the-plug-on-future-4f2-dram-after-two-decades-of-research-in-dramatic-shift-company-says-architecture-offers-no-meaningful-density-advantages-increases-manufacturing-complexity-and-costs-and-has-fundamental-scaling-limitations",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-22T14:05:43.885131"
-  },
-  {
-    "title": "Retro Atari VCS platform will end with the closure of its software store in February 2027",
-    "summary": "The modern Atari VCS is being officially retired with the firm s decision to shut down the Linux-based AMD APU-powered machine's software store early next year.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/retro-atari-vcs-platform-will-end-with-the-closure-of-its-software-store-in-february-2027-os-update-will-be-released-removing-reliance-on-atari-servers-and-opening-up-homebrew-development",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-22T14:05:43.885254"
-  },
-  {
-    "title": "EA is closing BioWare, the studio behind Mass Effect and Dragon Age, after more than 30 years",
-    "summary": "EA is closing BioWare and its Edmonton studio after deciding not to move forward with early development of the next Mass Effect.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/ea-is-closing-bioware-the-studio-behind-mass-effect-and-dragon-age-after-more-than-30-years-early-development-of-the-next-mass-effect-game-killed",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-22T14:05:43.885356"
-  },
-  {
-    "title": "17 Russian trawlers logged mapping undersea cables connecting the US and Europe",
-    "summary": "An investigation claimed that Russian boats have been spending the past five years mapping and surveying undersea cables.",
-    "link": "https://www.tomshardware.com/tech-industry/17-russian-trawlers-logged-mapping-undersea-cables-connecting-the-us-and-europe-over-500-incidents-of-russian-vessels-loitering-over-critical-communications-cables-reported-in-under-5-years",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-22T14:05:43.885460"
-  },
-  {
-    "title": "LTO roadmap extends to 365 TB per cartridge as tape storage refuses to die",
-    "summary": "Despite all odds, the AI boom is increasing relevance of tape storage as technology enables cheap storage with zero power consumption in idle and ultimate security with air gap.",
-    "link": "https://www.tomshardware.com/pc-components/storage/lto-roadmap-extends-to-365-tb-per-cartridge-as-tape-storage-refuses-to-die-25-year-old-format-sees-400x-capacity-increase-without-changing-form-factor",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-22T14:05:43.885563"
-  },
-  {
-    "title": "Best Buy has slashed $950 off this gorgeous Alienware 16X Aurora gaming laptop with OLED display",
-    "summary": "Save 33% on a new Alienware 16X Aurora gaming laptop at Best Buy. RTX 5070 graphics and a sharp OLED panel are highlights of this laptop build.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/best-buy-has-slashed-usd950-off-this-gorgeous-alienware-16x-aurora-gaming-laptop-with-oled-display-33-percent-price-reduction-on-arrow-lake-laptop-with-rtx-5070",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-22T14:05:43.885667"
-  },
-  {
-    "title": "OpenAI says ChatGPT Sol helped uncover critical PHP flaws that could affect 70% of websites",
-    "summary": "OpenAI says researchers using GPT-5.6 Sol uncovered two critical PHP vulnerabilities with severity scores of 9.2 and demonstrated working exploits, after which the company coordinated fixes.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/openai-says-gpt-5-6-sol-helped-uncover-critical-php-flaws-that-could-affect-70-percent-of-websites-ai-assisted-researchers-turned-two-year-old-bug-that-stumped-human-developers-into-working-exploits-in-two-weeks",
+    "title": "Wolves roam into Finnish villages after Google destroys 1,300 acres of forest for AI data centers",
+    "summary": "Wolves, who used to live in the forests recently cleared for Google data center development, are now roaming into Finnish villages nearby.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-live-are-now-an-expanse-of-mud",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-22T14:05:43.885782"
+    "processed_date": "2026-10-23T13:48:38.999362"
   },
   {
-    "title": "Google s TPUs for AI workloads now run in Meta's data centers",
-    "summary": "Google s TPUs now serve AI in production at Meta, through new open-source engines that run PyTorch models natively on the chips.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/googles-tpus-for-ai-workloads-now-run-in-at-metas-data-centers-tpus-sold-to-external-customers-for-the-first-time-threaten-nvidias-market-dominance",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-22T14:05:43.885881"
-  },
-  {
-    "title": "480,000 phishing emails sent from a PC hidden behind a fridge in a Japanese hotel room",
-    "summary": "Almost 500,000 phishing emails were sent from a PC hidden behind a fridge in a Kobe, Japan, hotel room.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/480-000-phishing-emails-sent-from-a-pc-hidden-behind-a-fridge-in-a-japanese-hotel-room-chinese-couple-arrested-over-fraud-operation-leaching-hotel-wi-fi",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-22T14:05:43.885981"
-  },
-  {
-    "title": "Intel installs production tools at Fab 62 in Arizona, provides updates on Ohio chip fab",
-    "summary": "Intel makes progress on its manufacturing expansion in Arizona and Ohio as it continues to expand advanced semiconductor manufacturing capacity in the U.S.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-22T14:05:43.886080"
-  },
-  {
-    "title": "4TB Samsung 990 Pro M.2 SSD falls 27%, hits 20 cents per gigabyte",
-    "summary": "The 4TB Samsung 990 Pro has its astronomical AI-driven high price slashed by 27%.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/4tb-samsung-990-pro-m-2-ssd-falls-27-percent-hits-20-cents-per-gigabyte-our-favorite-high-capacity-pcie-gen-4-drive-is-the-ultimate-storage-for-your-game-library",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-22T14:05:43.886171"
-  },
-  {
-    "title": "ASML and other critical semiconductor equipment suppliers expedite shipments to Musk's Terafab",
-    "summary": "Elon Musk says ASML and other semiconductor equipment suppliers are expediting deliveries for Terafab, as Tesla and SpaceX target volume chip production in Texas by late 2028 alongside a massive expansion in AI compute capacity.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-asml-and-other-critical-semiconductor-equipment-suppliers-will-expedite-shipments-to-terafab-facility-targets-volume-chip-production-by-q3-q4-2028-in-highly-aspirational-timeline",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-22T14:05:43.886296"
-  },
-  {
-    "title": "AMD brings official Ryzen overclocking to Linux with AOD driver support",
-    "summary": "New driver enablement work from AMD brings full platform-level tuning control to Ryzen systems running Linux, finally.",
-    "link": "https://www.tomshardware.com/software/linux/amd-brings-official-ryzen-overclocking-to-linux-with-aod-driver-support-no-official-app-but-third-party-options-should-arrive-soon",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-22T14:05:43.886395"
-  },
-  {
-    "title": "GL.iNet Mango 2 mini travel router features AC1300 WiFi 5 and dual Gigabit Ethernet",
-    "summary": "GL.iNet Mango 2 (GL-MG1300) mini dual-band WiFi 5 travel router is built around the MediaTek MT7621A dual-core processor. It is designed to share hotel WiFi, wired Ethernet, or mobile internet connections with multiple devices. The router measures just 89 x 63 x 15mm and weighs 100 grams. It supports WiFi speeds of up to 400 Mbps on the 2.4 GHz band and 866 Mbps on the 5 GHz band, along with WireGuard VPN speeds of up to 184 Mbps and OpenVPN speeds of up to 95 Mbps with DCO. Other features include dual Gigabit Ethernet ports, USB 3.0, USB-C power, and others. GL.iNet Mango 2 (GL-MG1300) specifications: Processor Mediatek MT7621A dual core MIPS 1004Kc processor @ 880Mhz Memory 128MB DDR3L RAM Storage 128MB SPI NAND flash + 2MB SPI NOR flash Networking 2x Gigabit Ethernet ports (WAN/LAN) Dual-band 802.11a/b/g/n/ac WiFi 5 2.4 GHz Up to 400 [...] The post GL.iNet Mango 2 mini travel router features AC1300 WiFi 5 and dual Gigabit Ethernet appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/22/gl-inet-mango-2-mini-travel-router-features-ac1300-wifi-5-and-dual-gigabit-ethernet/",
-    "categories": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-22T14:05:43.886831"
-  },
-  {
-    "title": "Rotary encoder with 1.8-inch touch display gets upgrade to ESP32-S31 SoC",
-    "summary": "Following our coverage of a 4.3-inch ESP32-S31 display development board, a Facebook reader pointed out the GUITION JC3636F118C-I-YR1 rotary encoder with a built-in 1.8-inch touchscreen display. It appears to be an update to an earlier ESP32-S3 model, now equipped with an ESP32-S31NRV16 WiFi 6, Bluetooth 5.4, and 802.15.4 SoC with 16MB of PSRAM. The rotary knob also includes 16MB SPI flash, a speaker, a microphone, and an optional rechargeable battery. GUITION JC3636F118C-I-YR1 specifications: SoC ESP32-S31NRV16 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory 512 KB SRAM, 32 KB low-power SRAM, 16MB PSRAM Wireless 2.4 GHz WiFi 6 (802.11ax) Bluetooth 5.4 with support for LE Audio, direction finding, Bluetooth Mesh 1.1, and Classic (BR/EDR) 802.15.4 radio for Zigbee, Thread, and Matter Storage 16 MB flash MicroSD card slot (for WiFi configuration, music or MJPEG video playback, etc.) Display 1.8-inch [...] The post Rotary encoder with 1.8-inch touch display gets upgrade to ESP32-S31 SoC appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/22/rotary-encoder-with-1-8-inch-touch-display-gets-upgrade-to-esp32-s31-soc/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-10-22T14:05:43.886997"
-  },
-  {
-    "title": "Musk spills on Optimus hand, Tesla s planned Optimus Academy",
-    "summary": "Musk and Tesla executives described building a sensor-rich Optimus hand that is squishy and resilient. Training many Optimi will happen in an Optimus Academy.",
-    "link": "https://www.fiercesensors.com/ai/musk-spills-optimus-hand-teslas-planned-optimus-academy",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-22T14:05:43.888002"
-  },
-  {
-    "title": "Schneider, HPE and Nvidia to boost process industries with AI Agents at the Edge",
-    "summary": "With several recent announcements, Physical AI moves to the factory floor beyond humanoids and robotaxis",
-    "link": "https://www.fiercesensors.com/ai/schneider-hpe-and-nvidia-boost-process-industries-ai-agents-edge",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-22T14:05:43.888156"
-  },
-  {
-    "title": "Kansas farm equipment factory will put humanoid robots to work in 2027, promising they won't replace humans",
-    "summary": "AGCO, the farming giant behind Massey Ferguson and Fendt tractors, has partnered with Agility Robotics on a pilot program set to begin in 2027. Read Entire Article",
-    "link": "https://www.techspot.com/news/114297-kansas-farm-equipment-factory-put-humanoid-robots-work.html",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-22T14:05:43.888502"
-  },
-  {
-    "title": "Tesla claims privately owned Model Ys can join its Robotaxi fleet in Q2 2027 a deadline it will likely miss",
-    "summary": "During Tesla's third-quarter earnings call on October 21, VP for Autonomous Driving Ashok Elluswamy announced the company's aim to let some Model Y owners add their vehicles to Robotaxi's autonomous fleet around the second quarter of 2027. The feature, which would enable users to earn money from ride-hailing, has long... Read Entire Article",
-    "link": "https://www.techspot.com/news/114295-tesla-claims-privately-owned-model-ys-can-join.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-22T14:05:43.888643"
-  },
-  {
-    "title": "Woman spends three nights in jail and faces six years in prison over Cash App account she never opened",
-    "summary": "In April, Amanda Smith was shocked to discover officers at her upstate Pennsylvania home with a warrant for her arrest, writes 404 Media. The alleged crime took place in Arkansas more than a thousand miles away in a state she'd never visited. Smith was taken to the local jail,... Read Entire Article",
-    "link": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-22T14:05:43.888824"
-  },
-  {
-    "title": "EA closes legendary RPG studio BioWare following its $55 billion buyout",
-    "summary": "In a letter to staff on Wednesday, EA announced the closure of BioWare's Edmonton studio, its last, as part of broader cost-cutting layoffs. The storied RPG developer had begun early development on the next Mass Effect, informally known as Mass Effect 5, which has now been canceled. Read Entire Article",
-    "link": "https://www.techspot.com/news/114292-ea-closes-legendary-rpg-studio-bioware-following-55.html",
+    "title": "The original Apple iPod debuted 25 years ago today",
+    "summary": "On this day in 2001, Apple CEO Steve Jobs unveiled the original iPod. He began the presentation by teasing 'a breakthrough digital device that s not a Mac.'",
+    "link": "https://www.tomshardware.com/tech-industry/the-original-apple-ipod-debuted-25-years-ago-today-steve-jobs-usd399-device-fit-1-000-songs-into-a-package-the-size-of-a-deck-of-cards-with-5-gigabytes-of-storage",
     "categories": [
       "Tech News"
     ],
     "quality_score": 15,
-    "processed_date": "2026-10-22T14:05:43.889007"
+    "processed_date": "2026-10-23T13:48:38.999471"
   },
   {
-    "title": "Sony's latest PS5 firmware got cracked, just in time for GTA 6's November release",
-    "summary": "Just a few weeks after the massive \"Relapse\" exploit incident, someone has apparently already broken Sony's latest PlayStation 5 firmware update. A developer based in South Korea claims to have defeated the security protections in PS5 firmware version 14.10, which Sony recently released to close the Relapse exploit. Read Entire Article",
-    "link": "https://www.techspot.com/news/114290-sony-latest-ps5-firmware-got-cracked-time-gta.html",
+    "title": "Sony Japan marks last standalone 4K Blu-ray player as Discontinued ",
+    "summary": "Sony is following the footsteps of LG in ending Blu-ray player production.",
+    "link": "https://www.tomshardware.com/tech-industry/sony-japan-marks-last-standalone-4k-blu-ray-player-as-discontinued-playstation-5-now-the-only-blu-ray-player-left-in-sonys-lineup",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-23T13:48:38.999573"
+  },
+  {
+    "title": "LILYGO T-Halow P4 An M.2 2280 board with ESP32-P4, WiFi HaLow, and ESP32-C6",
+    "summary": "LILYGO T-Halow P4 is a compact M.2 development board that combines an ESP32-P4 MCU, an ESP32-C6 wireless co-processor, and a Taixin TX-AH WiFi HaLow module for long-range wireless connectivity. The board measures just 80 x 22mm (M.2 2280) and uses an M.2 B-key connector to expose GPIO pins and other interfaces for integration into custom carrier boards. It also supports MIPI CSI cameras and MIPI DSI displays, along with hardware H.264 video encoding at up to 1080p30, making it suitable for compact IoT gateways, remote cameras, and industrial monitoring applications. LILYGO T-Halow P4 specifications: SoC Espressif Systems ESP32-P4NRW32X CPU Dual-core RISC-V @ 400 MHz with AI instruction extensions and single-precision FPU Single-core RISC-V LP (low-power) MCU @ up to 40 MHz GPU 2D Pixel Processing Accelerator (PPA) VPU H.264 and JPEG codec support Memory 768 KB HP L2MEM, 32 KB LP SRAM, 8 KB TCM, 32MB [...] The post LILYGO T-Halow P4 An M.2 2280 board with ESP32-P4, WiFi HaLow, and ESP32-C6 appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/23/lilygo-t-halow-p4-a-m-2-2280-board-with-esp32-p4-wifi-halow-and-esp32-c6/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-10-23T13:48:39.000041"
+  },
+  {
+    "title": "RoboParty RP1 (ROBOTO 01) A full-stack open-source humanoid robot with up to 30 degrees of freedom",
+    "summary": "Shanghai-based RoboParty has introduced the RP1 (ROBOTO 01), an open-source humanoid robot designed for robotics research, embodied AI development, and motion-control experiments. The robot is available in two configurations: the standard RP1 with 24 active degrees of freedom (DoF) and the RP1 Pro with 30 DoF. The robot stands 1.35 meters (~4.43 feet) tall and is built around a Rockchip RK3588 processor, with the Pro model adding an Allwinner A733 processor and an NVIDIA Jetson Orin NX development computing module. Other features include in-house ROMOMO joint actuators with up to 160 N m peak torque, interchangeable head modules, optional dexterous hands, and a 10Ah battery rated for up to three hours of operation. A separate 480MHz MCU handles real-time motion control, while a dual-voltage battery system supports hot-swapping without shutting down the robot. RoboParty RP1 specifications: Computing RP1 Rockchip RK3588 processor with a 6 TOPS NPU, 8GB LPDDR4x RAM, and [...] The post RoboParty RP1 (ROBOTO 01) A full-stack open-source humanoid robot with up to 30 degrees of freedom appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/23/roboparty-rp1-roboto-01-a-full-stack-open-source-humanoid-robot-with-up-to-30-degrees-of-freedom/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-10-23T13:48:39.000218"
+  },
+  {
+    "title": "Three airport workers implicated in $470,000 RTX 5090 heist as one of the stolen cards appears online",
+    "summary": "Oder o Distribuidora, a Brazilian importer and distributor of computer hardware, recently revealed that the two pallets of RTX 5090s imported from the US went missing at the S o Paulo airport while on the way to the company. Read Entire Article",
+    "link": "https://www.techspot.com/news/114311-three-airport-workers-implicated-470000-rtx-5090-heist.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-23T13:48:39.001506"
+  },
+  {
+    "title": "Think the iPhone Duo is expensive? Wait until you see how much Apple charges to repair it",
+    "summary": "Apple's first-ever foldable phone, the iPhone Duo, launches today. With a price ranging from $1,999 to $3,199, it's Cupertino's most expensive phone to date, but buying one without AppleCare could prove even more costly. Read Entire Article",
+    "link": "https://www.techspot.com/news/114309-think-iphone-duo-expensive-wait-until-you-see.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-23T13:48:39.001696"
+  },
+  {
+    "title": "Canva launches Craft, its first AI image generator, available to free users",
+    "summary": "Canva has launched Craft, its first in-house AI image generation model, available to free and paid users. Unlike conventional image generators, Craft plans the composition before rendering, aiming to improve text accuracy and object placement. It supports 2K resolution, more than 30 aspect ratios, and text generation in 55 languages. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7510-canva.html",
     "categories": [
       "Tech News",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-22T14:05:43.889133"
+    "processed_date": "2026-10-23T13:48:39.001877"
   },
   {
-    "title": "OpenAI says its AI agents disabled safety guardrails, and then lied about it",
-    "summary": "In a blog post disclosing the incidents, OpenAI said that, in the first case, an agent powered by GPT Sol 6.1 disabled automatic alerts after a team member asked it to create evaluation tasks using employee feedback collected via Slack. The agent was instructed not to send any messages about... Read Entire Article",
-    "link": "https://www.techspot.com/news/114286-openai-ai-agents-disabled-safety-guardrails-lied-about.html",
+    "title": "Valve publicly mentions HLX, which might be Half-Life 3, for the first time",
+    "summary": "Valve hasn't offered substantial details about a new Half-Life project since launching Half-Life: Alyx in 2020, but a quick name-drop has revived debate over whether Half-Life 3 is in advanced development. Code recently added to Deadlock and other Valve games also sheds more light on the game's features, if it indeed exists. Read Entire Article",
+    "link": "https://www.techspot.com/news/114306-valve-publicly-mentions-hlx-which-might-half-life.html",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-22T14:05:43.889280"
-  },
-  {
-    "title": "iPhone Duo roundup: Apple gets the hardware right, but is it worth $2,000?",
-    "summary": "Apple's long-awaited foldable is off to a strong start. Reviewers agree that the iPhone Duo gets much of the hardware right, with a polished design and an impressive folding display. But for $2,000, it remains a first-gen product with compromises, and one that will struggle to convince most iPhone users to make the jump. Read Entire Article",
-    "link": "https://www.techspot.com/products/smartphones/apple-iphone-duo.330958/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
+      "AI & ML",
+      "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-22T14:05:43.889403"
+    "processed_date": "2026-10-23T13:48:39.002134"
   },
   {
-    "title": "Two web emergencies in one week: guessable certificate keys and critical PHP bugs that leaked before patches",
-    "summary": "Eight intermediate certificates issued by India-based certificate authority eMudhra were found to have private keys so weak they can be calculated from the certificates themselves. Those certificates chained to roots trusted by Chrome, Firefox, Safari and Windows, as well as by operating systems and countless software trust stores. Anyone holding... Read Entire Article",
-    "link": "https://www.techspot.com/news/114293-two-web-emergencies-one-week-guessable-certificate-keys.html",
+    "title": "Super Smash Bros. creator thinks AI will make a lot of games, most won't make money",
+    "summary": "In a recent interview with Japanese website Denfaminicogamer, Sakurai shared his well-informed opinions on how generative AI is going to impact the video game business. Developing new game \"products\" is becoming easier than ever, he said, but turning AI-generated slop into a profitable venture will take a lot more than... Read Entire Article",
+    "link": "https://www.techspot.com/news/114300-super-smash-bros-creator-thinks-ai-make-lot.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-22T14:05:43.889524"
+    "processed_date": "2026-10-23T13:48:39.002319"
   },
   {
-    "title": "Nvidia reportedly refused some neoclouds access to GTC Berlin for adding AMD and TPU chips",
-    "summary": "SemiAnalysis' latest \"shocking\" rumor allegedly confirms what the firm had already revealed in June. Several neocloud providers have reportedly been denied access to GTC Berlin, Nvidia's upcoming conference covering AI, GPUs, and related technologies. The Jensen Huang-led company apparently disapproves of cloud providers adding AMD GPUs, TPUs, and other third-party... Read Entire Article",
-    "link": "https://www.techspot.com/news/114273-nvidia-allegedly-punishing-cloud-providers-using-amd-hardware.html",
+    "title": "Nintendo Switch 2 jailbreaking is here, with homebrew, modding, and reverse engineering",
+    "summary": "The Nintendo Switch 2's first public jailbreak is now in the wild. Unfortunately, anyone who hasn't already bought the coding tool SmileBASIC 4 for the Switch is out of luck, as it has already disappeared from the Nintendo eShop. Read Entire Article",
+    "link": "https://www.techspot.com/news/114303-nintendo-switch-2-jailbreaking-here-homebrew-modding-reverse.html",
     "categories": [
-      "GPUs",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-22T14:05:43.889653"
-  },
-  {
-    "title": "Nvidia GeForce drivers add support for Microsoft's Advanced Shader Delivery",
-    "summary": "Nvidia's latest Game Ready driver adds support for Microsoft's Advanced Shader Delivery , which aims to reduce shader compilation stuttering by delivering precompiled shaders for supported games, including Call of Duty: Modern Warfare 4 and Gears of War: E-Day. As our recent testing shows , shader stuttering remains a major headache for PC gamers, but efforts to eliminate it are gaining momentum. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/drivers/essentials/nvidia-geforce/",
-    "categories": [
-      "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-22T14:05:43.889777"
+    "processed_date": "2026-10-23T13:48:39.002489"
   },
   {
-    "title": "PSA: PHP patches two critical flaws, server admins urged to update",
-    "summary": "PHP has released emergency security updates addressing two critical vulnerabilities that could allow attackers to remotely execute code without authentication. With PHP powering nearly 70% of all websites, the potential impact is enormous. Apache deployments are particularly vulnerable, and security agencies are urging immediate updates. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/5680-php.html",
+    "title": "1Password now lets AI agents sign in to websites without seeing your passwords",
+    "summary": "1Password is expanding its AI integrations beyond Claude, allowing agents like ChatGPT Work, Dots, Meta Muse, and Grok Bot to securely sign in to websites on your behalf. 1Password for Agents feature requires user approval before filling in credentials, keeping passwords and authentication codes hidden from AI models. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/5626-1password.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-23T13:48:39.002663"
+  },
+  {
+    "title": "Discord improves Markdown previews, server organization, and media sharing",
+    "summary": "Discord's latest update brings some welcome quality-of-life improvements. Markdown files now display properly formatted previews, while a new \"Move to...\" option makes organizing servers and channels easier. Behind the scenes, a rewritten Rust engine promises better color accuracy and more reliable image and video sharing. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/6871-discord.html",
     "categories": [
       "Hardware",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-22T14:05:43.889911"
+    "processed_date": "2026-10-23T13:48:39.002841"
   },
   {
-    "title": "Meta suspends Muse sharing after sensitive documents turn up in shared chats",
-    "summary": "Each shared conversation had a hostname containing a descriptive title and a random identifier. Both could appear in searchable DNS records, giving researchers the information they needed to reconstruct the link and open the page. Read Entire Article",
-    "link": "https://www.techspot.com/news/114283-meta-suspends-muse-sharing-after-sensitive-documents-turn.html",
+    "title": "PEGI is giving games with paid loot boxes a PEGI 16 rating, and EA FC 27 is the first big example",
+    "summary": "Earlier this year, the Pan-European Game Information (PEGI) system announced a new rating regime for video games built around selling randomized content to players. Now, the organization responsible for administering PEGI in the United Kingdom has confirmed that the changes are finally being implemented. Major game releases have already been... Read Entire Article",
+    "link": "https://www.techspot.com/news/114294-pegi-raises-age-ratings-games-featuring-loot-boxes.html",
     "categories": [
+      "Tech News",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-22T14:05:43.890020"
-  },
-  {
-    "title": "Spotify is asking Family plan members to scan a QR code to prove they live with the account owner",
-    "summary": "Spotify revealed the new family plan verification process on an updated support page. The streaming service may ask some Premium Family members to verify that they live with the person managing their plan, using a QR code check that requires both people to be in the same place. Read Entire Article",
-    "link": "https://www.techspot.com/news/114285-spotify-thinks-rotating-qr-codes-stop-family-plan.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-22T14:05:43.890131"
-  },
-  {
-    "title": "Citadel's Ken Griffin says investors are \"almost certainly\" in an AI bubble",
-    "summary": "\"Corporate America has been very uneven in its ability to extract value from its AI models,\" Griffin said at the Future of Global Markets Conference in New York on Tuesday. Read Entire Article",
-    "link": "https://www.techspot.com/news/114280-citadel-ken-griffin-investors-almost-certainly-ai-bubble.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-22T14:05:43.890257"
-  },
-  {
-    "title": "Elon Musk confirms Tesla and SpaceX merger talks",
-    "summary": "Speaking during SpaceX's third-quarter earnings call on October 20, Musk said independent directors are examining a potential agreement. He's staying out of their discussions because his position at both firms creates a conflict of interest. The committees have yet to agree on terms. Read Entire Article",
-    "link": "https://www.techspot.com/news/114284-elon-musk-confirms-tesla-spacex-merger-talks-but.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-22T14:05:43.890374"
+    "processed_date": "2026-10-23T13:48:39.003086"
   }
 ]
