@@ -1,275 +1,224 @@
 [
   {
-    "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia",
-    "summary": "Amazon has ditched its plans to build four new data centers in Loudoun County, Northern Virginia, following an outcry from local residents and officials. The land will now be repurposed for mixed and residential use.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-bows-to-local-backlash-over-ai-data-centers-scraps-plans-to-build-four-new-facilities-in-northern-virginia-site-to-be-repurposed-for-mixed-use-and-residential-development",
+    "title": "This week on Tom's Hardware Premium: October 24, 2026",
+    "summary": "We give you a glimpse at some of the biggest stories we've published over on Tom's Hardware Premium this week, including reports on TP-Link's struggles over sales of its Wi-Fi 8 routers, FADU's new SSD, and how to juice better gaming performance from RTX Spark.",
+    "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-24-2026-tp-links-fcc-saga-file-semantic-ssds-and-unlocking-better-gaming-performance-from-rtx-spark",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-23T13:48:38.998025"
-  },
-  {
-    "title": "China can make advanced chips without EUV, but the bill keeps growing",
-    "summary": "China has stretched older DUV lithography far further than expected, using multiple patterning to approach 5nm-class without EUV. But experts say the trade-offs in cost, yield, and die size mean further advancements are unlikely to be economically viable.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-can-make-advanced-chips-without-euv-but-the-bill-keeps-growing-duv-multiple-patterning-means-bigger-dies-lower-yields-and-longer-manufacturing-times",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-23T13:48:38.998166"
-  },
-  {
-    "title": "Bambu Lab teases its mysterious H3C tool changer 3D printer features nine tools and a drop-down rack, slated for November 3 launch",
-    "summary": "Bambu Lab s long-awaited tool changer H3C launches Nov. 3, 2026.",
-    "link": "https://www.tomshardware.com/3d-printing/bambu-lab-teases-its-mysterious-h3c-tool-changer-3d-printer-features-nine-tools-and-a-drop-down-rack-slated-for-november-3-launch",
-    "categories": [
-      "Tech News",
-      "AI & ML"
+      "GPUs",
+      "Hardware"
     ],
     "quality_score": 0,
-    "processed_date": "2026-10-23T13:48:38.998282"
+    "processed_date": "2026-10-24T12:55:13.354008"
   },
   {
-    "title": "Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network",
-    "summary": "A security firm has been able to identify 32 Nvidia Blackwell Ultra B300 AI chips running inside a China Telecom network, but it's unclear where the export-barred components are physically located.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/illegal-nvidia-blackwell-ultra-b300-gpus-found-inside-state-owned-china-telecoms-network-nvidia-says-chip-smuggling-a-drop-in-the-bucket-insists-smuggling-remains-a-nonfactor",
+    "title": "Valve adds CD-ROM drive support to Steam Frame kernel, took less than ten minutes",
+    "summary": "Valve practically just flipped a switch to give gamers the ability to read optical drives directly from the Steam Frame.",
+    "link": "https://www.tomshardware.com/virtual-reality/valve-adds-cd-rom-drive-support-to-steam-frame-kernel-took-less-than-ten-minutes-update-comes-one-day-after-user-requests-for-capability-in-the-steam-community-forum",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-24T12:55:13.354124"
+  },
+  {
+    "title": "Texas has suspended 17 data center construction permits and shut down automated portal that rubber-stamped projects",
+    "summary": "Texas has suspended 17 data center construction permits and shut down the automated portal used to approve them",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/texas-has-suspended-17-data-center-construction-permits-and-shut-down-automated-portal-used-to-approve-them-site-was-left-running-for-a-month-after-greg-abbott-called-for-a-pause-on-approvals",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-24T12:55:13.354250"
+  },
+  {
+    "title": "Leaked video exposes how industrial-scale Chinese factories are dismantling RTX 5090s by the thousands to fuel AI servers",
+    "summary": "Wondering why RTX 5090s are so hard to find? Leaked footage shows thousands of consumer GPUs, including Founders Editions, being torn apart for AI servers.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/leaked-video-exposes-how-chinese-factories-are-stripping-rtx-5090s-to-fuel-ai-custom-partner-cards-to-nvidia-founders-editions-on-the-chopping-block",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-23T13:48:38.998402"
+    "processed_date": "2026-10-24T12:55:13.354408"
   },
   {
-    "title": "FCC issues first bans under new chip-level rule",
-    "summary": "FCC bans a dashcam and wireless video transmitter produced by HiSilicon, a subsidiary of Huawei for containing an AI chip that advertises face detection algorithms.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/fcc-bans-first-two-devices-from-the-us-under-new-chip-level-rule-huawei-subsidiary-chip-boasts-face-detection-algorithm",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-23T13:48:38.998509"
-  },
-  {
-    "title": "Deepseek's latest AI model is smarter than ever, but its low running costs come at a price",
-    "summary": "Deepseek 4.1 Flash 1017 drives cost-per-task further down still open-weight model is fit for agentic workloads and exceedingly cheap to run",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-latest-ai-model-is-smarter-than-ever-but-its-low-running-costs-come-at-a-price-open-weight-model-is-fit-for-agentic-workloads-but-is-more-prone-to-hallucination-than-proprietary-competitors",
+    "title": "Russia deploys 3D-printed cruise missiles with US electronics in Ukraine, can hit 500mph with a 745-mile range",
+    "summary": "The Filin missile, which was deployed between late September and early October of this year, reportedly used 3D-printed and commercial parts to save on cost.",
+    "link": "https://www.tomshardware.com/3d-printing/russia-deploys-3d-printed-cruise-missiles-in-ukraine-can-hit-500mph-with-a-745-mile-range-fears-high-that-cheap-filin-missile-will-be-used-for-missile-spam-tactics",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-23T13:48:38.998612"
+    "processed_date": "2026-10-24T12:55:13.354526"
   },
   {
-    "title": "UK proposes 14-year prison sentences for undersea cable saboteurs amid Russian trawler threats",
-    "summary": "The UK government has outlined plans for new powers and criminal offenses to help protect undersea cables in UK waters amid fears of Russian interference.",
-    "link": "https://www.tomshardware.com/tech-industry/uk-proposes-14-year-prison-sentences-for-undersea-cable-saboteurs-amid-russian-trawler-threats-government-responds-to-growing-threats-with-new-criminal-offences-and-emergency-powers-to-shut-down-services",
+    "title": "YouTuber escapes the modern AI tech market by recreating his 1996 PC",
+    "summary": "Exhaustion with tech market prompt Youtuber to remake their first PC 1996 build fueled by nostalgia and AI weariness",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/exhaustion-with-tech-market-prompts-youtuber-to-remake-their-first-pc-1996-build-fueled-by-nostalgia-and-ai-weariness",
     "categories": [
-      "Semiconductors"
+      "AI & ML",
+      "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-10-23T13:48:38.998716"
+    "quality_score": 0,
+    "processed_date": "2026-10-24T12:55:13.354631"
   },
   {
-    "title": "US banks scramble to restrict AI agent activity",
-    "summary": "Several U.S. banks are blocking AI agents from making transactions on their platforms. They fear that those agents could go rogue and there's no way to tell if the moves they make are legitimate or not.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/us-banks-scramble-to-restrict-ai-agent-activity-agents-detected-accessing-customer-accounts-or-even-attempting-to-make-transactions-in-breach-of-policy",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-23T13:48:38.998821"
-  },
-  {
-    "title": "Consultant comes clean for sparking worldwide panic by accidentally breaking the PHP vulnerability embargo",
-    "summary": "The user said that they only wanted to alert others about the importance of the upcoming CVE releases and weren't told about the embargo.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/devastated-forum-user-who-accidentally-broke-the-php-news-embargo-comes-clean-user-says-they-were-unaware-of-disclosure-restrictions-move-clearly-backfired-in-a-pretty-wild-fashion",
+    "title": "Rare archival footage tours the CompUSA NYC store in November 2000",
+    "summary": "Fascinating footage captured inside a busy CompUSA retail store in Y2K lets you relive the PC era when translucent acrylic Presarios and iMacs roamed the Earth.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/rare-archival-footage-tours-the-compusa-nyc-store-in-november-2000-soak-up-some-y2k-pentium-iii-athlon-powerpc-windows-me-chunky-laptop-and-bulging-crt-nostalgia-in-glorious-360p",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-23T13:48:38.998946"
+    "processed_date": "2026-10-24T12:55:13.354740"
   },
   {
-    "title": "Claude and Grok among AI agents used to automate attacks on Latin American institutions",
-    "summary": "Claude and Grok are among the AI agents that are being used to automate attacks on Latin American institutions, including banks and payment apps, by a group calling themselves CyberCartel.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/cybercartel-hacking-gang-used-claude-and-grok-ai-agents-to-automate-attacks-on-latin-american-institutions-passwords-and-details-stolen-from-over-400-institutions-including-banks-and-payment-apps",
+    "title": "Razer Basilisk V4 Pro Review: Tried and true and now with AI",
+    "summary": "Razer's Basilisk V4 Pro gaming mouse features an ergonomic shape, a lighter weight, and a couple of extra buttons, plus Razer's Focus Pro 50K optical sensor.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-mice/razer-basilisk-v4-pro-review",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-23T13:48:38.999056"
-  },
-  {
-    "title": "China-aligned hackers deploy AI agents in massive ConnectWise supply chain attack",
-    "summary": "Microsoft says China-aligned Storm-0940 used the ARTEX AI agent framework in the ConnectWise Cloud Backup supply chain attack.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-says-china-aligned-hackers-used-ai-agents-in-connectwise-supply-chain-attack-agents-attempted-sign-ins-at-more-than-2-250-microsoft-365-tenants-with-some-of-the-groups-attacks-reaching-privileged-access-in-under-three-hours",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-23T13:48:38.999155"
-  },
-  {
-    "title": "Save $450 on this 4K gaming PC with an RTX 5070 Ti and 9800X3D, now $2,549.99",
-    "summary": "You can save $450 on this 4K-capable gaming machine from Newegg's ABS brand, featuring the powerful RTX 5070 Ti, AMD Ryzen 7 9800X3D, 32GB DDR5, and a 2TB SSD for $2,549.99.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd450-on-this-4k-gaming-pc-with-an-rtx-5070-ti-and-9800x3d-now-usd2-549-99-liquid-cooled-abs-stratos-ii-ruby-rig-comes-with-32gb-ddr5-and-a-2tb-ssd",
-    "categories": [
-      "GPUs",
+      "AI & ML",
       "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-10-23T13:48:38.999256"
-  },
-  {
-    "title": "Wolves roam into Finnish villages after Google destroys 1,300 acres of forest for AI data centers",
-    "summary": "Wolves, who used to live in the forests recently cleared for Google data center development, are now roaming into Finnish villages nearby.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-live-are-now-an-expanse-of-mud",
-    "categories": [
-      "AI & ML"
-    ],
     "quality_score": 10,
-    "processed_date": "2026-10-23T13:48:38.999362"
+    "processed_date": "2026-10-24T12:55:13.354850"
   },
   {
-    "title": "The original Apple iPod debuted 25 years ago today",
-    "summary": "On this day in 2001, Apple CEO Steve Jobs unveiled the original iPod. He began the presentation by teasing 'a breakthrough digital device that s not a Mac.'",
-    "link": "https://www.tomshardware.com/tech-industry/the-original-apple-ipod-debuted-25-years-ago-today-steve-jobs-usd399-device-fit-1-000-songs-into-a-package-the-size-of-a-deck-of-cards-with-5-gigabytes-of-storage",
+    "title": "Micron's next-generation 3D NAND to double bit density with over 400 layers, offering extreme performance",
+    "summary": "Micron's G11 3D NAND promises 42 Gb/mm2 and 5,400 MT/s interface speed, enabling SSDs with extreme capacity and performance.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/microns-next-generation-3d-nand-to-double-bit-density-with-over-400-layers-offering-extreme-performance-g11-3d-nand-promises-42-gb-mm2-and-5-400-mt-s-interface-speed",
     "categories": [
       "Tech News"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-10-23T13:48:38.999471"
+    "quality_score": 10,
+    "processed_date": "2026-10-24T12:55:13.354953"
   },
   {
-    "title": "Sony Japan marks last standalone 4K Blu-ray player as Discontinued ",
-    "summary": "Sony is following the footsteps of LG in ending Blu-ray player production.",
-    "link": "https://www.tomshardware.com/tech-industry/sony-japan-marks-last-standalone-4k-blu-ray-player-as-discontinued-playstation-5-now-the-only-blu-ray-player-left-in-sonys-lineup",
+    "title": "Solidigm confirms plans to build a fab in the US, abandons IPO plans",
+    "summary": "SK hynix abandons IPO plans for Solidigm, confirms plans to build a Solidigm 3D NAND fab in the U.S.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/solidigm-confirms-plans-to-build-a-fab-in-the-us-abandons-ipo-plans-unfavorable-stock-market-conditions-and-semiconductor-share-price-trends-reasons-given",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-24T12:55:13.355051"
+  },
+  {
+    "title": "Gigabyte Z890M Aorus Elite WiFi7 Motherboard Review: Icy-white SFF board offers full-size features for Intel",
+    "summary": "The $209 Gigabyte Z890M Aorus Elite Wifi 7 Ice is one of the better-looking Micro ATX boards, with an icy-white aesthetic and full heatsink coverage that give it a premium vibe for white-themed Intel builds.",
+    "link": "https://www.tomshardware.com/pc-components/motherboards/gigabyte-z890m-aorus-elite-wifi7-motherboard-review",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-24T12:55:13.355165"
+  },
+  {
+    "title": "ZOTAC ZBOX PRO CM5-PICO A compact Raspberry Pi CM5-based fanless industrial mini PC",
+    "summary": "ZOTAC ZBOX PRO CM5-PICO is a compact fanless industrial mini PC built around the Raspberry Pi Compute Module 5 (CM5) with up to 16 GB LPDDR4x memory, optional WiFi 5 and Bluetooth 5.0 wireless connectivity. The mini PC measures 114.8 x 76 x 31.3 mm and features two 4K HDMI outputs, Gigabit Ethernet, and M.2 expansion for NVMe storage or AI accelerators, along with an internal 40-pin GPIO header, camera interfaces, and a wide 5V to 20V DC input for industrial automation, digital signage, and IoT gateway applications. All I/O ports are placed on a single side to simplify cable management and stacking. ZOTAC ZBOX PRO CM5-PICO specifications: SoM Raspberry Pi Compute Module 5 (CM5) SoC Broadcom BCM2712 CPU Quad-core Arm Cortex-A76 @ 2.4 GHz GPU VideoCore VII @ 800 MHz with H.265 hardware video decoding Memory 2GB, 4GB, 8GB, or 16GB LPDDR4x RAM Storage [...] The post ZOTAC ZBOX PRO CM5-PICO A compact Raspberry Pi CM5-based fanless industrial mini PC appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/24/zotac-zbox-pro-cm5-pico-a-compact-raspberry-pi-cm5-based-fanless-industrial-mini-pc/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-24T12:55:13.355691"
+  },
+  {
+    "title": "How many sensors in a humanoid hand? (XELA counts 368.)",
+    "summary": "Humanoid hands will need hundreds of sensors for tactile, force and more. One company already counts 368 sensors per hand.",
+    "link": "https://www.fiercesensors.com/ai/how-many-sensors-humanoid-hand-xela-counts-368",
     "categories": [
       "Tech News"
     ],
     "quality_score": 0,
-    "processed_date": "2026-10-23T13:48:38.999573"
+    "processed_date": "2026-10-24T12:55:13.356712"
   },
   {
-    "title": "LILYGO T-Halow P4 An M.2 2280 board with ESP32-P4, WiFi HaLow, and ESP32-C6",
-    "summary": "LILYGO T-Halow P4 is a compact M.2 development board that combines an ESP32-P4 MCU, an ESP32-C6 wireless co-processor, and a Taixin TX-AH WiFi HaLow module for long-range wireless connectivity. The board measures just 80 x 22mm (M.2 2280) and uses an M.2 B-key connector to expose GPIO pins and other interfaces for integration into custom carrier boards. It also supports MIPI CSI cameras and MIPI DSI displays, along with hardware H.264 video encoding at up to 1080p30, making it suitable for compact IoT gateways, remote cameras, and industrial monitoring applications. LILYGO T-Halow P4 specifications: SoC Espressif Systems ESP32-P4NRW32X CPU Dual-core RISC-V @ 400 MHz with AI instruction extensions and single-precision FPU Single-core RISC-V LP (low-power) MCU @ up to 40 MHz GPU 2D Pixel Processing Accelerator (PPA) VPU H.264 and JPEG codec support Memory 768 KB HP L2MEM, 32 KB LP SRAM, 8 KB TCM, 32MB [...] The post LILYGO T-Halow P4 An M.2 2280 board with ESP32-P4, WiFi HaLow, and ESP32-C6 appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/23/lilygo-t-halow-p4-a-m-2-2280-board-with-esp32-p4-wifi-halow-and-esp32-c6/",
+    "title": "PowerToys adds smarter mouse controls and more Windows customization",
+    "summary": "Microsoft's latest PowerToys update introduces Mouse Button Lock, which lets you drag and select without holding down a button, and CursorHide, which automatically hides the pointer while typing. The release also adds a quick-access shelf to Command Palette, more keyboard remapping options, and offline voice dictation for ZoomIt screenshots. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7185-microsoft-powertoys.html",
     "categories": [
       "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-24T12:55:13.357167"
+  },
+  {
+    "title": "The iPhone Duo's screen is cracking in the same weird L-shape for multiple owners",
+    "summary": "The iPhone Duo subreddit alone already has multiple threads from users complaining about, and sharing pictures of, cracked screens. Some report that Apple has been generous with replacements for the $2,000 phone so far, but it remains to be seen how the company's policy will evolve as it works through... Read Entire Article",
+    "link": "https://www.techspot.com/news/114320-iphone-duos-already-malfunctioning-same-spot-not-hinge.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-24T12:55:13.357372"
+  },
+  {
+    "title": "Micron's 2027 roadmap: DDR6 with 2x DDR5 bandwidth, 1TB RDIMMs, and 400+ layer NAND",
+    "summary": "Micron has detailed its 1 (1-Delta) node as the follow-up to 1 (1-Gamma). The new node, which features angstrom-level process control and HKMG CMOS structure, will reportedly deliver roughly 25% higher bit density than its predecessor when manufacturing advanced DRAM products. Read Entire Article",
+    "link": "https://www.techspot.com/news/114313-micron-2027-roadmap-ddr6-2x-ddr5-bandwidth-1tb.html",
+    "categories": [
+      "AI & ML",
       "Semiconductors"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-10-23T13:48:39.000041"
+    "quality_score": 5,
+    "processed_date": "2026-10-24T12:55:13.357556"
   },
   {
-    "title": "RoboParty RP1 (ROBOTO 01) A full-stack open-source humanoid robot with up to 30 degrees of freedom",
-    "summary": "Shanghai-based RoboParty has introduced the RP1 (ROBOTO 01), an open-source humanoid robot designed for robotics research, embodied AI development, and motion-control experiments. The robot is available in two configurations: the standard RP1 with 24 active degrees of freedom (DoF) and the RP1 Pro with 30 DoF. The robot stands 1.35 meters (~4.43 feet) tall and is built around a Rockchip RK3588 processor, with the Pro model adding an Allwinner A733 processor and an NVIDIA Jetson Orin NX development computing module. Other features include in-house ROMOMO joint actuators with up to 160 N m peak torque, interchangeable head modules, optional dexterous hands, and a 10Ah battery rated for up to three hours of operation. A separate 480MHz MCU handles real-time motion control, while a dual-voltage battery system supports hot-swapping without shutting down the robot. RoboParty RP1 specifications: Computing RP1 Rockchip RK3588 processor with a 6 TOPS NPU, 8GB LPDDR4x RAM, and [...] The post RoboParty RP1 (ROBOTO 01) A full-stack open-source humanoid robot with up to 30 degrees of freedom appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/23/roboparty-rp1-roboto-01-a-full-stack-open-source-humanoid-robot-with-up-to-30-degrees-of-freedom/",
+    "title": "Vibe-coded emulator adds color to Virtual Boy's red monochrome games",
+    "summary": "Despite selling just 770,000 units worldwide, Nintendo's Virtual Boy still has a small but dedicated fan base experimenting with new ways to use the console. The stereoscopic system failed to achieve commercial success and could display games only in monochrome red hues. Now, a new emulator called VBoy Color aims... Read Entire Article",
+    "link": "https://www.techspot.com/news/114314-vibe-coded-emulator-adds-color-virtual-boy-red.html",
     "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-10-23T13:48:39.000218"
-  },
-  {
-    "title": "Three airport workers implicated in $470,000 RTX 5090 heist as one of the stolen cards appears online",
-    "summary": "Oder o Distribuidora, a Brazilian importer and distributor of computer hardware, recently revealed that the two pallets of RTX 5090s imported from the US went missing at the S o Paulo airport while on the way to the company. Read Entire Article",
-    "link": "https://www.techspot.com/news/114311-three-airport-workers-implicated-470000-rtx-5090-heist.html",
-    "categories": [
-      "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-23T13:48:39.001506"
+    "processed_date": "2026-10-24T12:55:13.357736"
   },
   {
-    "title": "Think the iPhone Duo is expensive? Wait until you see how much Apple charges to repair it",
-    "summary": "Apple's first-ever foldable phone, the iPhone Duo, launches today. With a price ranging from $1,999 to $3,199, it's Cupertino's most expensive phone to date, but buying one without AppleCare could prove even more costly. Read Entire Article",
-    "link": "https://www.techspot.com/news/114309-think-iphone-duo-expensive-wait-until-you-see.html",
+    "title": "Jensen Huang says Nvidia's AI chips carry \"the lowest\" risk of any asset and could serve as collateral for debt",
+    "summary": "Speaking with Yahoo Finance's Deirdre Bosa on the sidelines of Nvidia's GTC conference in Berlin, CEO Jensen Huang described the company's AI accelerators as \"productive,\" \"fungible,\" and \"durable.\" He argued that investors and lenders should rethink how they evaluate investments in AI infrastructure. Read Entire Article",
+    "link": "https://www.techspot.com/news/114302-jensen-huang-nvidia-ai-chips-carry-lowest-risk.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-24T12:55:13.357925"
+  },
+  {
+    "title": "Modern Warfare 4 is earning widespread critical acclaim",
+    "summary": "Following early positive reception from Steam players, Call of Duty: Modern Warfare 4 is now earning strong reviews from critics for its engaging campaign, refined multiplayer, and expanded DMZ mode, with some calling it one of the best entries in the franchise. Read Entire Article",
+    "link": "https://www.techspot.com/products/pc-games/call-of-duty-modern-warfare-4.330956/",
     "categories": [
       "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-24T12:55:13.358097"
+  },
+  {
+    "title": "Cambridge Analytica's fallout is still costing Meta, this time $25 billion in New Mexico",
+    "summary": "Santa Fe District Court Judge Francis J. Mathew recently imposed a $25 billion fine on Meta, Facebook's parent company. The ruling follows a jury verdict in September that found the social network had deprived New Mexico residents of their privacy and their right to know how major technology companies use... Read Entire Article",
+    "link": "https://www.techspot.com/news/114304-cambridge-analytica-fallout-costing-meta-time-25-billion.html",
+    "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-23T13:48:39.001696"
+    "processed_date": "2026-10-24T12:55:13.358272"
   },
   {
-    "title": "Canva launches Craft, its first AI image generator, available to free users",
-    "summary": "Canva has launched Craft, its first in-house AI image generation model, available to free and paid users. Unlike conventional image generators, Craft plans the composition before rendering, aiming to improve text accuracy and object placement. It supports 2K resolution, more than 30 aspect ratios, and text generation in 55 languages. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/7510-canva.html",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-23T13:48:39.001877"
-  },
-  {
-    "title": "Valve publicly mentions HLX, which might be Half-Life 3, for the first time",
-    "summary": "Valve hasn't offered substantial details about a new Half-Life project since launching Half-Life: Alyx in 2020, but a quick name-drop has revived debate over whether Half-Life 3 is in advanced development. Code recently added to Deadlock and other Valve games also sheds more light on the game's features, if it indeed exists. Read Entire Article",
-    "link": "https://www.techspot.com/news/114306-valve-publicly-mentions-hlx-which-might-half-life.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-23T13:48:39.002134"
-  },
-  {
-    "title": "Super Smash Bros. creator thinks AI will make a lot of games, most won't make money",
-    "summary": "In a recent interview with Japanese website Denfaminicogamer, Sakurai shared his well-informed opinions on how generative AI is going to impact the video game business. Developing new game \"products\" is becoming easier than ever, he said, but turning AI-generated slop into a profitable venture will take a lot more than... Read Entire Article",
-    "link": "https://www.techspot.com/news/114300-super-smash-bros-creator-thinks-ai-make-lot.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-23T13:48:39.002319"
-  },
-  {
-    "title": "Nintendo Switch 2 jailbreaking is here, with homebrew, modding, and reverse engineering",
-    "summary": "The Nintendo Switch 2's first public jailbreak is now in the wild. Unfortunately, anyone who hasn't already bought the coding tool SmileBASIC 4 for the Switch is out of luck, as it has already disappeared from the Nintendo eShop. Read Entire Article",
-    "link": "https://www.techspot.com/news/114303-nintendo-switch-2-jailbreaking-here-homebrew-modding-reverse.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-23T13:48:39.002489"
-  },
-  {
-    "title": "1Password now lets AI agents sign in to websites without seeing your passwords",
-    "summary": "1Password is expanding its AI integrations beyond Claude, allowing agents like ChatGPT Work, Dots, Meta Muse, and Grok Bot to securely sign in to websites on your behalf. 1Password for Agents feature requires user approval before filling in credentials, keeping passwords and authentication codes hidden from AI models. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/5626-1password.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-23T13:48:39.002663"
-  },
-  {
-    "title": "Discord improves Markdown previews, server organization, and media sharing",
-    "summary": "Discord's latest update brings some welcome quality-of-life improvements. Markdown files now display properly formatted previews, while a new \"Move to...\" option makes organizing servers and channels easier. Behind the scenes, a rewritten Rust engine promises better color accuracy and more reliable image and video sharing. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/6871-discord.html",
+    "title": "UK detective investigated for allegedly using Microsoft Copilot to make decisions in criminal cases",
+    "summary": "The senior Derbyshire Constabulary officer is facing an investigation by the Independent Office for Police Conduct (IOPC) over alleged gross misconduct. According to the BBC, the inquiry began in August, following a voluntary referral from the force on June 23 after an internal review of the detective's AI use. Read Entire Article",
+    "link": "https://www.techspot.com/news/114312-uk-police-detective-investigated-allegedly-using-microsoft-copilot.html",
     "categories": [
       "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-23T13:48:39.002841"
-  },
-  {
-    "title": "PEGI is giving games with paid loot boxes a PEGI 16 rating, and EA FC 27 is the first big example",
-    "summary": "Earlier this year, the Pan-European Game Information (PEGI) system announced a new rating regime for video games built around selling randomized content to players. Now, the organization responsible for administering PEGI in the United Kingdom has confirmed that the changes are finally being implemented. Major game releases have already been... Read Entire Article",
-    "link": "https://www.techspot.com/news/114294-pegi-raises-age-ratings-games-featuring-loot-boxes.html",
-    "categories": [
-      "Tech News",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-23T13:48:39.003086"
+    "processed_date": "2026-10-24T12:55:13.358480"
   }
 ]
