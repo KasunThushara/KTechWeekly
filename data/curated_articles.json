@@ -1,224 +1,184 @@
 [
   {
-    "title": "This week on Tom's Hardware Premium: October 24, 2026",
-    "summary": "We give you a glimpse at some of the biggest stories we've published over on Tom's Hardware Premium this week, including reports on TP-Link's struggles over sales of its Wi-Fi 8 routers, FADU's new SSD, and how to juice better gaming performance from RTX Spark.",
-    "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-24-2026-tp-links-fcc-saga-file-semantic-ssds-and-unlocking-better-gaming-performance-from-rtx-spark",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-24T12:55:13.354008"
-  },
-  {
-    "title": "Valve adds CD-ROM drive support to Steam Frame kernel, took less than ten minutes",
-    "summary": "Valve practically just flipped a switch to give gamers the ability to read optical drives directly from the Steam Frame.",
-    "link": "https://www.tomshardware.com/virtual-reality/valve-adds-cd-rom-drive-support-to-steam-frame-kernel-took-less-than-ten-minutes-update-comes-one-day-after-user-requests-for-capability-in-the-steam-community-forum",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-24T12:55:13.354124"
-  },
-  {
-    "title": "Texas has suspended 17 data center construction permits and shut down automated portal that rubber-stamped projects",
-    "summary": "Texas has suspended 17 data center construction permits and shut down the automated portal used to approve them",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/texas-has-suspended-17-data-center-construction-permits-and-shut-down-automated-portal-used-to-approve-them-site-was-left-running-for-a-month-after-greg-abbott-called-for-a-pause-on-approvals",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-24T12:55:13.354250"
-  },
-  {
-    "title": "Leaked video exposes how industrial-scale Chinese factories are dismantling RTX 5090s by the thousands to fuel AI servers",
-    "summary": "Wondering why RTX 5090s are so hard to find? Leaked footage shows thousands of consumer GPUs, including Founders Editions, being torn apart for AI servers.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/leaked-video-exposes-how-chinese-factories-are-stripping-rtx-5090s-to-fuel-ai-custom-partner-cards-to-nvidia-founders-editions-on-the-chopping-block",
+    "title": "Nvidia discusses $2,000-per-GPU annual software fee for running agents on AI infrastructure",
+    "summary": "Nvidia CEO Jensen Huang is reportedly weighing annual software fees of around $2,000 per GPU for enterprise AI, a model that could generate $10 billion a year if five million licenses were sold. The pricing and launch timeline remain unconfirmed, while Nvidia continues to expand its AI software and security tools for enterprise customers.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-24T12:55:13.354408"
+    "processed_date": "2026-10-25T13:20:54.463431"
   },
   {
-    "title": "Russia deploys 3D-printed cruise missiles with US electronics in Ukraine, can hit 500mph with a 745-mile range",
-    "summary": "The Filin missile, which was deployed between late September and early October of this year, reportedly used 3D-printed and commercial parts to save on cost.",
-    "link": "https://www.tomshardware.com/3d-printing/russia-deploys-3d-printed-cruise-missiles-in-ukraine-can-hit-500mph-with-a-745-mile-range-fears-high-that-cheap-filin-missile-will-be-used-for-missile-spam-tactics",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-24T12:55:13.354526"
-  },
-  {
-    "title": "YouTuber escapes the modern AI tech market by recreating his 1996 PC",
-    "summary": "Exhaustion with tech market prompt Youtuber to remake their first PC 1996 build fueled by nostalgia and AI weariness",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/exhaustion-with-tech-market-prompts-youtuber-to-remake-their-first-pc-1996-build-fueled-by-nostalgia-and-ai-weariness",
+    "title": "Jailbroken PS5s can now run Steam PC games",
+    "summary": "Playden for PS5 creates an app for each Steam game that it downloads, allowing it to appear as a separate tile on the console's home screen.",
+    "link": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-steam-pc-games-you-can-now-sign-in-with-your-steam-account-and-install-games-from-your-library-directly-to-the-console",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 0,
-    "processed_date": "2026-10-24T12:55:13.354631"
+    "processed_date": "2026-10-25T13:20:54.463502"
   },
   {
-    "title": "Rare archival footage tours the CompUSA NYC store in November 2000",
-    "summary": "Fascinating footage captured inside a busy CompUSA retail store in Y2K lets you relive the PC era when translucent acrylic Presarios and iMacs roamed the Earth.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/rare-archival-footage-tours-the-compusa-nyc-store-in-november-2000-soak-up-some-y2k-pentium-iii-athlon-powerpc-windows-me-chunky-laptop-and-bulging-crt-nostalgia-in-glorious-360p",
+    "title": "Windows XP debuted 25 years ago today",
+    "summary": "Windows XP became available at retailers for the first time on this day back in 2001.",
+    "link": "https://www.tomshardware.com/software/windows/windows-xp-debuted-25-years-ago-today-microsofts-biggest-launch-since-95-was-its-first-consumer-os-to-remove-the-dos-underpinnings",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-25T13:20:54.463579"
+  },
+  {
+    "title": "New CD players keep launching, but a drive shortage could make them unfixable",
+    "summary": "The lack of optical drive manufacturers is raising questions about the repairability and longevity of new CD players that are coming out on the market today.",
+    "link": "https://www.tomshardware.com/peripherals/new-cd-players-keep-launching-but-a-drive-shortage-could-make-them-unfixable-almost-nobody-makes-the-drives-anymore",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-25T13:20:54.463647"
+  },
+  {
+    "title": "OpenAI's isolated red-team agents built a hidden CPU cache channel to talk with no network or shared files",
+    "summary": "OpenAI s red-team agents passed hidden messages through the CPU cache, a covert trick already shown to move data between cloud VMs.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-isolated-red-team-ai-agents-built-a-hidden-cpu-cache-channel-to-talk-with-no-network-or-shared-files-exploited-cpu-cache-timing-to-bypass-microvm-sandboxes",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-24T12:55:13.354740"
+    "processed_date": "2026-10-25T13:20:54.463720"
   },
   {
-    "title": "Razer Basilisk V4 Pro Review: Tried and true and now with AI",
-    "summary": "Razer's Basilisk V4 Pro gaming mouse features an ergonomic shape, a lighter weight, and a couple of extra buttons, plus Razer's Focus Pro 50K optical sensor.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-mice/razer-basilisk-v4-pro-review",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-24T12:55:13.354850"
-  },
-  {
-    "title": "Micron's next-generation 3D NAND to double bit density with over 400 layers, offering extreme performance",
-    "summary": "Micron's G11 3D NAND promises 42 Gb/mm2 and 5,400 MT/s interface speed, enabling SSDs with extreme capacity and performance.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/microns-next-generation-3d-nand-to-double-bit-density-with-over-400-layers-offering-extreme-performance-g11-3d-nand-promises-42-gb-mm2-and-5-400-mt-s-interface-speed",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-24T12:55:13.354953"
-  },
-  {
-    "title": "Solidigm confirms plans to build a fab in the US, abandons IPO plans",
-    "summary": "SK hynix abandons IPO plans for Solidigm, confirms plans to build a Solidigm 3D NAND fab in the U.S.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/solidigm-confirms-plans-to-build-a-fab-in-the-us-abandons-ipo-plans-unfavorable-stock-market-conditions-and-semiconductor-share-price-trends-reasons-given",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-24T12:55:13.355051"
-  },
-  {
-    "title": "Gigabyte Z890M Aorus Elite WiFi7 Motherboard Review: Icy-white SFF board offers full-size features for Intel",
-    "summary": "The $209 Gigabyte Z890M Aorus Elite Wifi 7 Ice is one of the better-looking Micro ATX boards, with an icy-white aesthetic and full heatsink coverage that give it a premium vibe for white-themed Intel builds.",
-    "link": "https://www.tomshardware.com/pc-components/motherboards/gigabyte-z890m-aorus-elite-wifi7-motherboard-review",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-24T12:55:13.355165"
-  },
-  {
-    "title": "ZOTAC ZBOX PRO CM5-PICO A compact Raspberry Pi CM5-based fanless industrial mini PC",
-    "summary": "ZOTAC ZBOX PRO CM5-PICO is a compact fanless industrial mini PC built around the Raspberry Pi Compute Module 5 (CM5) with up to 16 GB LPDDR4x memory, optional WiFi 5 and Bluetooth 5.0 wireless connectivity. The mini PC measures 114.8 x 76 x 31.3 mm and features two 4K HDMI outputs, Gigabit Ethernet, and M.2 expansion for NVMe storage or AI accelerators, along with an internal 40-pin GPIO header, camera interfaces, and a wide 5V to 20V DC input for industrial automation, digital signage, and IoT gateway applications. All I/O ports are placed on a single side to simplify cable management and stacking. ZOTAC ZBOX PRO CM5-PICO specifications: SoM Raspberry Pi Compute Module 5 (CM5) SoC Broadcom BCM2712 CPU Quad-core Arm Cortex-A76 @ 2.4 GHz GPU VideoCore VII @ 800 MHz with H.265 hardware video decoding Memory 2GB, 4GB, 8GB, or 16GB LPDDR4x RAM Storage [...] The post ZOTAC ZBOX PRO CM5-PICO A compact Raspberry Pi CM5-based fanless industrial mini PC appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/24/zotac-zbox-pro-cm5-pico-a-compact-raspberry-pi-cm5-based-fanless-industrial-mini-pc/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-24T12:55:13.355691"
-  },
-  {
-    "title": "How many sensors in a humanoid hand? (XELA counts 368.)",
-    "summary": "Humanoid hands will need hundreds of sensors for tactile, force and more. One company already counts 368 sensors per hand.",
-    "link": "https://www.fiercesensors.com/ai/how-many-sensors-humanoid-hand-xela-counts-368",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-24T12:55:13.356712"
-  },
-  {
-    "title": "PowerToys adds smarter mouse controls and more Windows customization",
-    "summary": "Microsoft's latest PowerToys update introduces Mouse Button Lock, which lets you drag and select without holding down a button, and CursorHide, which automatically hides the pointer while typing. The release also adds a quick-access shelf to Command Palette, more keyboard remapping options, and offline voice dictation for ZoomIt screenshots. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/7185-microsoft-powertoys.html",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-24T12:55:13.357167"
-  },
-  {
-    "title": "The iPhone Duo's screen is cracking in the same weird L-shape for multiple owners",
-    "summary": "The iPhone Duo subreddit alone already has multiple threads from users complaining about, and sharing pictures of, cracked screens. Some report that Apple has been generous with replacements for the $2,000 phone so far, but it remains to be seen how the company's policy will evolve as it works through... Read Entire Article",
-    "link": "https://www.techspot.com/news/114320-iphone-duos-already-malfunctioning-same-spot-not-hinge.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-24T12:55:13.357372"
-  },
-  {
-    "title": "Micron's 2027 roadmap: DDR6 with 2x DDR5 bandwidth, 1TB RDIMMs, and 400+ layer NAND",
-    "summary": "Micron has detailed its 1 (1-Delta) node as the follow-up to 1 (1-Gamma). The new node, which features angstrom-level process control and HKMG CMOS structure, will reportedly deliver roughly 25% higher bit density than its predecessor when manufacturing advanced DRAM products. Read Entire Article",
-    "link": "https://www.techspot.com/news/114313-micron-2027-roadmap-ddr6-2x-ddr5-bandwidth-1tb.html",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-24T12:55:13.357556"
-  },
-  {
-    "title": "Vibe-coded emulator adds color to Virtual Boy's red monochrome games",
-    "summary": "Despite selling just 770,000 units worldwide, Nintendo's Virtual Boy still has a small but dedicated fan base experimenting with new ways to use the console. The stereoscopic system failed to achieve commercial success and could display games only in monochrome red hues. Now, a new emulator called VBoy Color aims... Read Entire Article",
-    "link": "https://www.techspot.com/news/114314-vibe-coded-emulator-adds-color-virtual-boy-red.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-24T12:55:13.357736"
-  },
-  {
-    "title": "Jensen Huang says Nvidia's AI chips carry \"the lowest\" risk of any asset and could serve as collateral for debt",
-    "summary": "Speaking with Yahoo Finance's Deirdre Bosa on the sidelines of Nvidia's GTC conference in Berlin, CEO Jensen Huang described the company's AI accelerators as \"productive,\" \"fungible,\" and \"durable.\" He argued that investors and lenders should rethink how they evaluate investments in AI infrastructure. Read Entire Article",
-    "link": "https://www.techspot.com/news/114302-jensen-huang-nvidia-ai-chips-carry-lowest-risk.html",
+    "title": "AMD CEO Lisa Su proposed bringing back the Ryzen 7 5800X3D, set plan in motion before DDR5 shortages",
+    "summary": "AMD Director Travis Kirsch confirmed the rationale for relaunching the first X3D chip and explained why the company no longer offers many Ryzen 3 SKUs.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-ceo-lisa-su-proposed-bringing-back-the-ryzen-7-5800x3d-set-plan-in-motion-before-ddr5-shortages-am4-cpu-considered-a-final-gift-to-loyal-fans-of-the-decade-old-socket",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-24T12:55:13.357925"
+    "processed_date": "2026-10-25T13:20:54.463788"
   },
   {
-    "title": "Modern Warfare 4 is earning widespread critical acclaim",
-    "summary": "Following early positive reception from Steam players, Call of Duty: Modern Warfare 4 is now earning strong reviews from critics for its engaging campaign, refined multiplayer, and expanded DMZ mode, with some calling it one of the best entries in the franchise. Read Entire Article",
-    "link": "https://www.techspot.com/products/pc-games/call-of-duty-modern-warfare-4.330956/",
+    "title": "Nvidia eyes converting old nuclear plants into massive AI data centers",
+    "summary": "Nvidia and PreussenElektra are studying whether decommissioned sites of German nuclear power plants can be repurposed as AI data centers, potentially cutting development time by reusing existing grid connections, land, and industrial infrastructure.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
     "categories": [
       "AI & ML",
-      "Hardware"
+      "GPUs"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-24T12:55:13.358097"
+    "processed_date": "2026-10-25T13:20:54.463859"
   },
   {
-    "title": "Cambridge Analytica's fallout is still costing Meta, this time $25 billion in New Mexico",
-    "summary": "Santa Fe District Court Judge Francis J. Mathew recently imposed a $25 billion fine on Meta, Facebook's parent company. The ruling follows a jury verdict in September that found the social network had deprived New Mexico residents of their privacy and their right to know how major technology companies use... Read Entire Article",
-    "link": "https://www.techspot.com/news/114304-cambridge-analytica-fallout-costing-meta-time-25-billion.html",
+    "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio and screenshots for ads",
+    "summary": "A hacker reverse-engineered his own Samsung TV and found alarming spying activity, including code that used connected devices' microphones to listen to users.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-25T13:20:54.463931"
+  },
+  {
+    "title": "Proton hosts Flock map revealing over 300,000 cameras, defying cease-and-desist threats against creator",
+    "summary": "Privacy-focused firm Proton AG just decided to host the Flock camera map that a security researcher published last month.",
+    "link": "https://www.tomshardware.com/software/maps/proton-hosts-flock-map-revealing-over-300-000-cameras-defying-cease-and-desist-threats-against-creator-privacy-focused-company-hosts-site-on-swiss-servers-says-users-have-the-right-to-know-whos-recording-them",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-25T13:20:54.464003"
+  },
+  {
+    "title": "Edifier Hecate G2000 Pro Review: Clear and Colorful",
+    "summary": "The Edifier Hecate G2000 Pro speakers offer a uniquely designed RGB experience, all within a set of above-average 2.0 Stereo PC gaming speakers. They deliver an audio experience far surpassing their looks and size.",
+    "link": "https://www.tomshardware.com/speakers/edifier-hecate-g2000-pro-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-25T13:20:54.464071"
+  },
+  {
+    "title": "Deki Engine ESP32 gets an open source Unity-style editor and C++ 2D game engine",
+    "summary": "Deki Engine is an open-source modular C++ engine with a Unity-style visual editor for embedded devices, currently optimized for ESP32 platforms such as LilyGO T-Deck Plus, T-Display S3 AMOLED, and soon Elecrow CrowPanel Advanced 7 ESP32-P4. The editor is available for Windows and Linux with a compiler for the 2D graphics engine, and everything is released under an Apache 2.0 license on GitHub. The project also works on desktop through SDL3, which may be convenient during development. Some of the highlights of the Deki Engine project: Workflow Build scenes visually (sprites, text, particles, tilemaps, state machines, tweens) Pick a board in the editor s Build panel Flash it. The project also runs on desktop through SDL3, or headless with no renderer Performance 60 FPS on ESP32-S3 (See demo video below) Package-based solution Hardware packages LilyGO T-Deck Plus with support for display, touch, keyboard, trackball, SD card, GPS and LoRa (SX1262) [...] The post Deki Engine ESP32 gets an open source Unity-style editor and C++ 2D game engine appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/25/deki-engine-esp32-gets-an-open-source-unity-style-editor-and-c-2d-game-engine/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-10-25T13:20:54.464495"
+  },
+  {
+    "title": "From RAIN to AI data downpour, Impinj focuses on Physical Intelligence",
+    "summary": "Long-time RFID leader Impinj created a new company logo and platform around Physical Intelligence to stress the link between billions of physical items and AI.",
+    "link": "https://www.fiercesensors.com/ai/rain-ai-data-downpour-impinj-focuses-physical-intelligence",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-25T13:20:54.465543"
+  },
+  {
+    "title": "Comcast lost 144,000 broadband customers last quarter, is planning layoffs so AI agents can take over customer service",
+    "summary": "Comcast released its Q3 2026 financial results this week, showing lower revenue and adjusted profit amid an exodus of subscribers from its broadband business. The company reported $29.3 billion in total revenue, down 6.1% year over year from $31.2 billion on a reported basis, reflecting the Versant separation and the... Read Entire Article",
+    "link": "https://www.techspot.com/news/114319-comcast-lost-144000-broadband-customers-last-quarter-planning.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-25T13:20:54.465692"
+  },
+  {
+    "title": "Only one person in the world can play this free Steam game at a time",
+    "summary": "Jono is the work of Tuomas Erikoinen, the artist behind the original Angry Birds, who now makes games on his own as Part Time Monkey. In the game, when your turn finally comes up, you get exactly one minute to steer the tiny pixel-art hero past spikes, crushers, ice, and... Read Entire Article",
+    "link": "https://www.techspot.com/news/114323-only-one-person-world-can-play-free-steam.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-24T12:55:13.358272"
+    "processed_date": "2026-10-25T13:20:54.465789"
   },
   {
-    "title": "UK detective investigated for allegedly using Microsoft Copilot to make decisions in criminal cases",
-    "summary": "The senior Derbyshire Constabulary officer is facing an investigation by the Independent Office for Police Conduct (IOPC) over alleged gross misconduct. According to the BBC, the inquiry began in August, following a voluntary referral from the force on June 23 after an internal review of the detective's AI use. Read Entire Article",
-    "link": "https://www.techspot.com/news/114312-uk-police-detective-investigated-allegedly-using-microsoft-copilot.html",
+    "title": "SK hynix will build a US fab for Solidigm, but scraps IPO plans",
+    "summary": "A new facility would support Solidigm's high-capacity enterprise SSD business. Its existing manufacturing capacity barely covers projected requirements, making additional production a priority for parent company SK hynix. Read Entire Article",
+    "link": "https://www.techspot.com/news/114321-sk-hynix-build-us-fab-solidigm-but-scraps.html",
     "categories": [
-      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-25T13:20:54.465866"
+  },
+  {
+    "title": "What the canceled Mass Effect would have been: a sci-fi spy thriller built around player choice",
+    "summary": "A Redditor shared a trailer for the next Mass Effect game, revealed to be called Mass Effect: Universe, shortly after EA canceled the game and closed BioWare. Bloomberg's Jason Schreier and IGN later confirmed the trailer's authenticity, and others involved with BioWare have added some context. Read Entire Article",
+    "link": "https://www.techspot.com/news/114318-what-canceled-mass-effect-would-have-sci-fi.html",
+    "categories": [
       "AI & ML"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-10-24T12:55:13.358480"
+    "quality_score": 5,
+    "processed_date": "2026-10-25T13:20:54.465941"
+  },
+  {
+    "title": "\"Dark GPUs\" at Amazon show the limits of the AI buildout: chips are easy to buy, power is not",
+    "summary": "Amazon is allegedly taking in billions of dollars' worth of Nvidia racks every month, even though some sites aren't ready for them and there is no electricity to feed the AI accelerators just yet. According to internal emails seen by Business Insider, Amazon is willing to tie up billions in... Read Entire Article",
+    "link": "https://www.techspot.com/news/114315-dark-gpus-amazon-show-limits-ai-buildout-chips.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-25T13:20:54.466018"
   }
 ]
