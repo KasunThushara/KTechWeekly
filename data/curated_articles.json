@@ -1,184 +1,350 @@
 [
   {
-    "title": "Nvidia discusses $2,000-per-GPU annual software fee for running agents on AI infrastructure",
-    "summary": "Nvidia CEO Jensen Huang is reportedly weighing annual software fees of around $2,000 per GPU for enterprise AI, a model that could generate $10 billion a year if five million licenses were sold. The pricing and launch timeline remain unconfirmed, while Nvidia continues to expand its AI software and security tools for enterprise customers.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
+    "title": "Asus ROG Xbox Ally X20 tested: Same performance, more comfortable, and a glorious OLED screen",
+    "summary": "Asus adds an OLED screen, TMR sticks, and more comfortable grips to its AMD-powered gaming handheld.",
+    "link": "https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-x20-tested-same-performance-more-comfortable-and-a-glorious-oled-screen",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-26T15:27:54.223588"
+  },
+  {
+    "title": "3.2 Petabits per second real-time optical fiber transfer speed world record claimed by Chinese team",
+    "summary": "A Chinese team has claimed a new world record for real-time transfer speeds across a 24-core optical fiber cable.",
+    "link": "https://www.tomshardware.com/networking/3-2-pb-s-real-time-optical-fiber-transfer-speed-world-record-claimed-by-chinese-team-speed-fast-enough-to-download-more-than-20-000-4k-movies-in-one-second",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-26T15:27:54.223687"
+  },
+  {
+    "title": "Leaked 256-core Zen 6c EPYC CPU destroys Zen 5 in early single-threaded benchmarks hints at 24% IPC gain",
+    "summary": "A benchmark leak and a direct clock-matched comparison from an enthusiast seed the idea that Zen 6 may come with a decent IPC bump as well as increased clocks.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/leaked-256-core-zen-6c-epyc-cpu-destroys-zen-5-in-early-single-threaded-benchmarks-hints-at-24-percent-ipc-gain-early-single-threaded-benchmarks-point-to-huge-amd-zen-6-improvements",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-26T15:27:54.223772"
+  },
+  {
+    "title": "Micron plans to use wafer bonding and High-NA EUV for next-gen DRAM",
+    "summary": "Micron rejects 4F2, intends to use wafer bonding and High-NA EUV before going 3D NAND over the next few years.",
+    "link": "https://www.tomshardware.com/pc-components/dram/micron-plans-to-use-wafer-bonding-and-high-na-euv-for-next-gen-dram-company-also-developing-vertical-high-bandwidth-memory-and-vertical-edge-inference-memory-integrated-directly-on-top-of-processors",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-26T15:27:54.223845"
+  },
+  {
+    "title": "Windows 11 s whole ISO squeezed into a CD-ROM",
+    "summary": "Professional Windows crusher NTDEV has showcased their next-generation tool for compressing Windows 11 with a video of an install that fits on a single CD-ROM.",
+    "link": "https://www.tomshardware.com/software/windows/windows-11s-whole-iso-squeezed-into-a-cd-rom-sub-700mb-disk-boots-to-the-desktop-runs-apps-just-like-the-microsoft-original",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-26T15:27:54.223914"
+  },
+  {
+    "title": "Cadence reveals Maestro, fine-tuned AI models built to run specialized chip design agents, with early access coming for 'select customers' in Q4 2026",
+    "summary": "Cadence unveiled Maestro, domain-specialized AI models for its chip design agents, with early access for select customers in Q4 2026.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/cadence-reveals-maestro-fine-tuned-ai-models-built-to-run-specialized-chip-design-agents-with-early-access-coming-for-select-customers-in-q4-2026-claims-up-to-30-percent-higher-quality-results-and-up-to-5x-token-efficiency-over-a-general-purpose-ai-model",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-26T15:27:54.223995"
+  },
+  {
+    "title": "Chinese research vessels loiter near Pacific undersea cables more than any other nation, report finds",
+    "summary": "Chinese vessels are spending more time near undersea cables in the Pacific than nearly 50 other nations, according to a new report by the Center for Strategic and International Studies.",
+    "link": "https://www.tomshardware.com/tech-industry/chinese-research-vessels-loiter-near-pacific-undersea-cables-more-than-any-other-nation-report-finds-civilian-fleet-using-lawnmower-patterns-may-be-mapping-seafloor-for-future-sabotage",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-26T15:27:54.224071"
+  },
+  {
+    "title": "Intel's Lip-Bu Tan has spoken with Lisa Su about potential collaboration with AMD",
+    "summary": "Intel CEO Lip-Bu Tan has reportedly discussed potential areas of cooperation with AMD chief Lisa Su as Intel works to rebuild its CPU business and expand its foundry operations. The companies have already collaborated on x86 standards and CPU software, including AMD s integration of its ZenDNN optimizations into Intel s oneDNN library. Neither executive has publicly detailed the reported discussions or confirmed a new agreement.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-25T13:20:54.463431"
+    "processed_date": "2026-10-26T15:27:54.224171"
   },
   {
-    "title": "Jailbroken PS5s can now run Steam PC games",
-    "summary": "Playden for PS5 creates an app for each Steam game that it downloads, allowing it to appear as a separate tile on the console's home screen.",
-    "link": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-steam-pc-games-you-can-now-sign-in-with-your-steam-account-and-install-games-from-your-library-directly-to-the-console",
+    "title": "Save over $1,000 on this Alienware gaming PC with an RTX 5070 and 32GB DDR5",
+    "summary": "Newegg have cut this Alienware Aurora gaming PC by over $1,000, netting yo ua 4K-ready machine with an RTX 5070 and 32GB of DDR5 RAM for $2,199.99.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-over-usd1-000-on-this-alienware-gaming-pc-with-an-rtx-5070-and-32gb-ddr5-unlock-1440p-and-4k-gameplay-with-this-aurora-act1250-rig-with-a-20-core-intel-cpu-and-a-1tb-ssd-for-usd2-199-99",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-26T15:27:54.224244"
+  },
+  {
+    "title": "Lack of staff and funding likely led to the recent PHP security snafu; project has only one full-time employee, but that's just the tip of the iceberg",
+    "summary": "Lack of funding likely led to the recent PHP security snafu, but that's just the tip of the iceberg dreary situation caused by services running old versions with no support",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/lack-of-funding-likely-led-to-the-recent-php-security-snafu-but-thats-just-the-tip-of-the-iceberg-a-dreary-situation-caused-by-services-running-old-versions-with-no-support",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-26T15:27:54.224321"
+  },
+  {
+    "title": "Modder turns NES into a Windows-like desktop with original hardware",
+    "summary": "Throaty Mumbo turns his NES into a Windows-like desktop using an FPGA cartridge emulating an old Intel CPU, complete with a CD drive and internet capabilities, all without tearing the NES apart.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/modder-turns-nes-into-a-windows-like-desktop-with-original-hardware-emulates-a-full-retro-experience-with-a-cd-drive-and-slow-internet",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-26T15:27:54.224394"
+  },
+  {
+    "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle",
+    "summary": "Linux kernel modules lift Nvidia s half-rate AI tensor limit on GeForce RTX 20, 30, and 40-series GPUs.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-26T15:27:54.224463"
+  },
+  {
+    "title": "Bitcoin reward offered to anyone who could break into an unpatched server running PHP, hacker cracks site and claims bounty",
+    "summary": "The Steal My Bitcoin challenge offers a bounty to anyone who can breach a deliberately vulnerable PHP website using the recently disclosed PHP2Shell flaws. The challenge follows previous recoveries of locked Bitcoin fortunes through software vulnerabilities and AI-assisted investigation, but no successful claim has been confirmed.",
+    "link": "https://www.tomshardware.com/tech-industry/cryptomining/hacker-offers-bitcoin-reward-to-anyone-who-can-break-into-an-unpatched-server-running-php-still-remains-unhacked-php2shell-challenge-tests-claims-that-ai-makes-exploiting-vulnerabilities-easy",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-10-25T13:20:54.463502"
+    "quality_score": 5,
+    "processed_date": "2026-10-26T15:27:54.224551"
   },
   {
-    "title": "Windows XP debuted 25 years ago today",
-    "summary": "Windows XP became available at retailers for the first time on this day back in 2001.",
-    "link": "https://www.tomshardware.com/software/windows/windows-xp-debuted-25-years-ago-today-microsofts-biggest-launch-since-95-was-its-first-consumer-os-to-remove-the-dos-underpinnings",
+    "title": "Reddit s r/opensource bans AI-made and AI-focused projects, also bans non-English speakers",
+    "summary": "Reddit s r/opensource has barred AI-built, AI-focused, and AI-using projects under new rules announced October 24. The crackdown also imposes strict requirements on project age and contributors, while restrictions on non-English speakers have sparked further backlash. The debate puts the subreddit s policy at odds with Linux s acceptance of disclosed AI-assisted code contributions.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-10-25T13:20:54.463579"
+    "quality_score": 10,
+    "processed_date": "2026-10-26T15:27:54.224646"
   },
   {
-    "title": "New CD players keep launching, but a drive shortage could make them unfixable",
-    "summary": "The lack of optical drive manufacturers is raising questions about the repairability and longevity of new CD players that are coming out on the market today.",
-    "link": "https://www.tomshardware.com/peripherals/new-cd-players-keep-launching-but-a-drive-shortage-could-make-them-unfixable-almost-nobody-makes-the-drives-anymore",
+    "title": "Denmark s bid to ditch Microsoft Office for open-source alternative Collabora collapses in under six months",
+    "summary": "The Danish digitization ministry experimented with Collabora as an alternative to Microsoft Office, but employees who used them were frequently frustrated with style and paragraph formatting challenges, among other complaints.",
+    "link": "https://www.tomshardware.com/software/microsoft-office/denmarks-bid-to-ditch-microsoft-office-for-open-source-alternative-collabora-collapses-in-under-six-months-employees-cite-issues-with-style-formatting-and-tracking-changes",
     "categories": [
-      "Tech News",
+      "Semiconductors",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-25T13:20:54.463647"
+    "processed_date": "2026-10-26T15:27:54.224727"
   },
   {
-    "title": "OpenAI's isolated red-team agents built a hidden CPU cache channel to talk with no network or shared files",
-    "summary": "OpenAI s red-team agents passed hidden messages through the CPU cache, a covert trick already shown to move data between cloud VMs.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-isolated-red-team-ai-agents-built-a-hidden-cpu-cache-channel-to-talk-with-no-network-or-shared-files-exploited-cpu-cache-timing-to-bypass-microvm-sandboxes",
+    "title": "Big Tech is cashing in on AI while the rest of corporate America sees no financial returns",
+    "summary": "Revenue per employee at the Magnificent Seven has outpaced the S&P 493, and a new comparison highlights the growing divide in fortunes between America s largest technology companies and the rest of the S&P 500.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/big-tech-is-cashing-in-on-ai-while-the-rest-of-corporate-america-sees-no-financial-returns-report-outlines-how-rising-token-costs-threaten-to-squeeze-corporate-profit-margins",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-25T13:20:54.463720"
+    "processed_date": "2026-10-26T15:27:54.224804"
   },
   {
-    "title": "AMD CEO Lisa Su proposed bringing back the Ryzen 7 5800X3D, set plan in motion before DDR5 shortages",
-    "summary": "AMD Director Travis Kirsch confirmed the rationale for relaunching the first X3D chip and explained why the company no longer offers many Ryzen 3 SKUs.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-ceo-lisa-su-proposed-bringing-back-the-ryzen-7-5800x3d-set-plan-in-motion-before-ddr5-shortages-am4-cpu-considered-a-final-gift-to-loyal-fans-of-the-decade-old-socket",
+    "title": "IQUNIX MQ80 low profile mechanical keyboard review",
+    "summary": "The IQUNIX MQ80 is well-made and super stylish, but it s not quite the instant sell it used to be. Catch this one if you don t like magnetic switches, but otherwise wait for a sale.",
+    "link": "https://www.tomshardware.com/peripherals/mechanical-keyboards/iqunix-mq80-low-profile-mechanical-keyboard-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-26T15:27:54.224877"
+  },
+  {
+    "title": "Ukrainian drone attacks hammer Russia's finance ministry data center, damaged facility reportedly holds tax databases",
+    "summary": "Reports say that this is one of three data centers that the Russian finance ministry operated.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drone-attacks-hammer-russias-finance-ministry-data-center-damaged-facility-reportedly-holds-tax-databases-facility-also-holds-other-important-state-registry-data",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-26T15:27:54.224947"
+  },
+  {
+    "title": "Samsung's new 2TB 990 SSD is 38% off at Amazon today",
+    "summary": "Get 38% off the new Samsung 990 2TB SSD, a $200 saving.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/samsungs-new-2tb-990-ssd-is-38-percent-off-at-amazon-today-get-usd200-off-this-pcie-4-0-all-rounder-drive-for-a-limited-time",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-26T15:27:54.225007"
+  },
+  {
+    "title": "Adafruit Metro ESP32-P4 Hydra An Arduino UNO-shaped ESP32-P4 + ESP32-C6 board with WiFi 6, MIPI interfaces",
+    "summary": "Adafruit has launched the Metro ESP32-P4 Hydra, an Arduino UNO-shaped development board with ESP32-P4, 16MB PSRAM, and 16MB NOR flash, and an ESP32-C6 for WiFi 6, Bluetooth 5.3 LE, Thread, and Zigbee connectivity. Other features include Raspberry Pi-compatible MIPI DSI and CSI interfaces, a USB 2.0 High-Speed host port, a microSD card slot, and Arduino UNO expansion headers. The board also includes a STEMMA QT connector, LiPo battery charging, and multiple power input options, making it suitable for HMI, camera, and IoT applications. Adafruit Metro ESP32-P4 Hydra specifications: Microcontroller Espressif Systems ESP32-P4 (v1 chipset) CPU Dual-core 32-bit RISC-V HP (High-performance) CPU @ up to 360 MHz with AI instructions extension and single-precision FPU Single-RISC-V LP (Low-power) MCU core @ up to 40 MHz with 8KB of zero-wait TCM RAM Memory 768 KB HP L2MEM (for dual-core CPU), 32 KB LP SRAM, 8 KB TCM (for LP MCU core) 16MB PSRAM GPU [...] The post Adafruit Metro ESP32-P4 Hydra An Arduino UNO-shaped ESP32-P4 + ESP32-C6 board with WiFi 6, MIPI interfaces appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/26/adafruit-metro-esp32-p4-hydra-an-arduino-uno-shaped-esp32-p4-esp32-c6-board-with-wifi-6-mipi-interfaces/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 25,
+    "processed_date": "2026-10-26T15:27:54.225368"
+  },
+  {
+    "title": "Renesas RX74M and RX74N 600MHz industrial MCUs with RXv3e core, embedded MRAM, 22nm process",
+    "summary": "Renesas has introduced the RX74M and RX74N, two new 32-bit RX family MCUs built on a 22nm process with embedded MRAM. Both MCUs integrate a 600MHz RXv3e core and are designed for industrial automation, motor control, robotics, and energy management applications. The MCUs feature up to 1MB of code MRAM, 1.5MB SRAM, and 256KB of zero-wait-state local RAM for real-time processing. The RX74M adds an integrated EtherCAT slave controller, dual Gigabit Ethernet MACs with TSN support, and an Ethernet switch for industrial networking, while the RX74N offers a single Gigabit Ethernet interface for general industrial applications. Other features include CAN FD, USB 2.0, I3C, high-resolution PWM timers, and hardware-based security with Renesas Protect Zone. Renesas RX74M and RX74N specifications: MCU 32-bit RXv3e core clocked at 300/480/600MHz Up to 3,604 CoreMark at 600MHz Single- and double-precision floating-point support Trigonometric function accelerator Register bank save function for faster interrupt response 32KB [...] The post Renesas RX74M and RX74N 600MHz industrial MCUs with RXv3e core, embedded MRAM, 22nm process appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/26/renesas-rx74m-and-rx74n-600mhz-industrial-mcus-with-rxv3e-core-embedded-mram-22nm-process/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-26T15:27:54.225511"
+  },
+  {
+    "title": "Opinion: Safer AI will require independent testbeds and incident reporting",
+    "summary": "Small innovators in humanoids and physical AI should be exempted from many AI regulations.",
+    "link": "https://www.fiercesensors.com/ai/opinion-safer-ai-will-require-independent-testbeds-and-incident-reporting",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-26T15:27:54.226483"
+  },
+  {
+    "title": "Meta plans $95 billion stock offering to fuel AI spending despite growing bubble fears",
+    "summary": "Meta launched roughly $35 billion in offerings on Monday, comprising $22.5 billion in Class A common stock and $12.5 billion in securities representing mandatory convertible preferred stock. Read Entire Article",
+    "link": "https://www.techspot.com/news/114336-meta-plans-95-billion-stock-offering-fuel-ai.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-26T15:27:54.226617"
+  },
+  {
+    "title": "Nvidia's AI chips already make billions, now Jensen Huang wants $2,000 per GPU in annual software fees",
+    "summary": "The Register was first to report Huang's quote from a question-and-answer session at the event on October 22. The CEO told attendees that software licensing \"will become increasingly a major part of our company's business.\" The $2,000 figure was his example of how that licensing would be priced. Read Entire Article",
+    "link": "https://www.techspot.com/news/114333-nvidia-ai-chips-already-make-billions-now-jensen.html",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-25T13:20:54.463788"
+    "processed_date": "2026-10-26T15:27:54.226727"
   },
   {
-    "title": "Nvidia eyes converting old nuclear plants into massive AI data centers",
-    "summary": "Nvidia and PreussenElektra are studying whether decommissioned sites of German nuclear power plants can be repurposed as AI data centers, potentially cutting development time by reusing existing grid connections, land, and industrial infrastructure.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
+    "title": "Peter Thiel slams Apple for doing \"nothing new\" since Steve Jobs died, praises controversial CEOs like Elon Musk",
+    "summary": "Speaking in an interview with author Walter Isaacson on The Builders podcast, Thiel said of Apple, \"In my telling, it did nothing new after Jobs.\" Read Entire Article",
+    "link": "https://www.techspot.com/news/114334-peter-thiel-slams-apple-doing-nothing-new-since.html",
     "categories": [
-      "AI & ML",
-      "GPUs"
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-26T15:27:54.226805"
+  },
+  {
+    "title": "Elden Ring movie reportedly has a $200 million budget, and it's the studio's biggest bet ever",
+    "summary": "When cameras started rolling in the UK back in April, Elden Ring's budget was reported at well over $100 million, with filming expected to last roughly 100 days. By June, in its coverage of Google's $75 million investment in the studio, The Wall Street Journal put it at $175 million.... Read Entire Article",
+    "link": "https://www.techspot.com/news/114328-elden-ring-movie-reportedly-has-200-million-budget.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-26T15:27:54.226886"
+  },
+  {
+    "title": "Phantom Blade Zero's PC requirements reveal a 145GB install, 300GB for preloading, and upscaling",
+    "summary": "Chinese developer S-Game posted the PC requirements on the game's official X account. There are few details beyond just Minimum and Recommended setups. However, in what has now become a standard in the industry, these specs only apply when upscaling is enabled. Read Entire Article",
+    "link": "https://www.techspot.com/news/114332-phantom-blade-zero-pc-requirements-reveal-145gb-install.html",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-26T15:27:54.226970"
+  },
+  {
+    "title": "Denmark gives up on replacing Microsoft Office, for now",
+    "summary": "Early reports had the whole ministry ditching Microsoft Office by the end of 2025, but what launched on June 19 was a lot more modest a pilot with 38 volunteers from the department. Those testers swapped Word for Collabora, an open-source office suite built on LibreOffice. Danish software firm... Read Entire Article",
+    "link": "https://www.techspot.com/news/114327-denmark-gives-up-replacing-microsoft-office-now.html",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-25T13:20:54.463859"
+    "processed_date": "2026-10-26T15:27:54.227049"
   },
   {
-    "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio and screenshots for ads",
-    "summary": "A hacker reverse-engineered his own Samsung TV and found alarming spying activity, including code that used connected devices' microphones to listen to users.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
+    "title": "Elon Musk predicts a neocloud bloodbath as SpaceX seeks $40 billion to buy more GPUs",
+    "summary": "Writing in an X post yesterday, Musk said lenders had largely stopped providing money to those companies without substantial income outside AI data centers. Read Entire Article",
+    "link": "https://www.techspot.com/news/114331-elon-musk-predicts-mass-extinction-ai-cloud-companies.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-26T15:27:54.227124"
+  },
+  {
+    "title": "The Best Tools to Redo the Windows Taskbar",
+    "summary": "Whether you miss the classic Windows taskbar or want a complete makeover , these tools restore old favorites, unlock deeper customization, and bring macOS-style docks and retro designs to Windows. Read Entire Article",
+    "link": "https://www.techspot.com/article/3187-windows-taskbar-customization/",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-26T15:27:54.227196"
+  },
+  {
+    "title": "Google's privacy policy now has a loophole for using your Gmail and Photos data in ads",
+    "summary": "The change sits in Google's updated privacy policy, which took effect on October 16 and was first spotted by Android Authority. The policy has long said, \"We don't show you personalized ads based on your content from Drive, Gmail, or Photos.\" That line is still there, but it now ends... Read Entire Article",
+    "link": "https://www.techspot.com/news/114322-google-privacy-policy-now-has-loophole-using-gmail.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-26T15:27:54.227275"
+  },
+  {
+    "title": "AI will keep uncovering critical software flaws for years, says Cloudflare CEO",
+    "summary": "Prince told Reuters that Cloudflare is aware of \"a bunch of additional severe vulnerabilities that are present in other pieces of critical software,\" though he did not name the affected programs. He compared them to the PHP bugs that recently forced government websites, the game store GOG, and many smaller... Read Entire Article",
+    "link": "https://www.techspot.com/news/114325-ai-keep-uncovering-critical-software-flaws-years-cloudflare.html",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-25T13:20:54.463931"
+    "processed_date": "2026-10-26T15:27:54.227359"
   },
   {
-    "title": "Proton hosts Flock map revealing over 300,000 cameras, defying cease-and-desist threats against creator",
-    "summary": "Privacy-focused firm Proton AG just decided to host the Flock camera map that a security researcher published last month.",
-    "link": "https://www.tomshardware.com/software/maps/proton-hosts-flock-map-revealing-over-300-000-cameras-defying-cease-and-desist-threats-against-creator-privacy-focused-company-hosts-site-on-swiss-servers-says-users-have-the-right-to-know-whos-recording-them",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-25T13:20:54.464003"
-  },
-  {
-    "title": "Edifier Hecate G2000 Pro Review: Clear and Colorful",
-    "summary": "The Edifier Hecate G2000 Pro speakers offer a uniquely designed RGB experience, all within a set of above-average 2.0 Stereo PC gaming speakers. They deliver an audio experience far surpassing their looks and size.",
-    "link": "https://www.tomshardware.com/speakers/edifier-hecate-g2000-pro-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-25T13:20:54.464071"
-  },
-  {
-    "title": "Deki Engine ESP32 gets an open source Unity-style editor and C++ 2D game engine",
-    "summary": "Deki Engine is an open-source modular C++ engine with a Unity-style visual editor for embedded devices, currently optimized for ESP32 platforms such as LilyGO T-Deck Plus, T-Display S3 AMOLED, and soon Elecrow CrowPanel Advanced 7 ESP32-P4. The editor is available for Windows and Linux with a compiler for the 2D graphics engine, and everything is released under an Apache 2.0 license on GitHub. The project also works on desktop through SDL3, which may be convenient during development. Some of the highlights of the Deki Engine project: Workflow Build scenes visually (sprites, text, particles, tilemaps, state machines, tweens) Pick a board in the editor s Build panel Flash it. The project also runs on desktop through SDL3, or headless with no renderer Performance 60 FPS on ESP32-S3 (See demo video below) Package-based solution Hardware packages LilyGO T-Deck Plus with support for display, touch, keyboard, trackball, SD card, GPS and LoRa (SX1262) [...] The post Deki Engine ESP32 gets an open source Unity-style editor and C++ 2D game engine appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/25/deki-engine-esp32-gets-an-open-source-unity-style-editor-and-c-2d-game-engine/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-10-25T13:20:54.464495"
-  },
-  {
-    "title": "From RAIN to AI data downpour, Impinj focuses on Physical Intelligence",
-    "summary": "Long-time RFID leader Impinj created a new company logo and platform around Physical Intelligence to stress the link between billions of physical items and AI.",
-    "link": "https://www.fiercesensors.com/ai/rain-ai-data-downpour-impinj-focuses-physical-intelligence",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-25T13:20:54.465543"
-  },
-  {
-    "title": "Comcast lost 144,000 broadband customers last quarter, is planning layoffs so AI agents can take over customer service",
-    "summary": "Comcast released its Q3 2026 financial results this week, showing lower revenue and adjusted profit amid an exodus of subscribers from its broadband business. The company reported $29.3 billion in total revenue, down 6.1% year over year from $31.2 billion on a reported basis, reflecting the Versant separation and the... Read Entire Article",
-    "link": "https://www.techspot.com/news/114319-comcast-lost-144000-broadband-customers-last-quarter-planning.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-25T13:20:54.465692"
-  },
-  {
-    "title": "Only one person in the world can play this free Steam game at a time",
-    "summary": "Jono is the work of Tuomas Erikoinen, the artist behind the original Angry Birds, who now makes games on his own as Part Time Monkey. In the game, when your turn finally comes up, you get exactly one minute to steer the tiny pixel-art hero past spikes, crushers, ice, and... Read Entire Article",
-    "link": "https://www.techspot.com/news/114323-only-one-person-world-can-play-free-steam.html",
+    "title": "Microsoft's Windows Insider wallpapers were apparently made on a Mac",
+    "summary": "Most image files carry a small tag naming the app that last saved them, buried in a properties menu that few people ever open. When a Windows developer checked it on Microsoft's newest wallpapers, it pointed to Photoshop running on a Mac. The company has since swapped in cleaned-up copies. Read Entire Article",
+    "link": "https://www.techspot.com/news/114324-microsoft-windows-insider-wallpapers-apparently-made-mac.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-25T13:20:54.465789"
-  },
-  {
-    "title": "SK hynix will build a US fab for Solidigm, but scraps IPO plans",
-    "summary": "A new facility would support Solidigm's high-capacity enterprise SSD business. Its existing manufacturing capacity barely covers projected requirements, making additional production a priority for parent company SK hynix. Read Entire Article",
-    "link": "https://www.techspot.com/news/114321-sk-hynix-build-us-fab-solidigm-but-scraps.html",
-    "categories": [
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-25T13:20:54.465866"
-  },
-  {
-    "title": "What the canceled Mass Effect would have been: a sci-fi spy thriller built around player choice",
-    "summary": "A Redditor shared a trailer for the next Mass Effect game, revealed to be called Mass Effect: Universe, shortly after EA canceled the game and closed BioWare. Bloomberg's Jason Schreier and IGN later confirmed the trailer's authenticity, and others involved with BioWare have added some context. Read Entire Article",
-    "link": "https://www.techspot.com/news/114318-what-canceled-mass-effect-would-have-sci-fi.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-25T13:20:54.465941"
-  },
-  {
-    "title": "\"Dark GPUs\" at Amazon show the limits of the AI buildout: chips are easy to buy, power is not",
-    "summary": "Amazon is allegedly taking in billions of dollars' worth of Nvidia racks every month, even though some sites aren't ready for them and there is no electricity to feed the AI accelerators just yet. According to internal emails seen by Business Insider, Amazon is willing to tie up billions in... Read Entire Article",
-    "link": "https://www.techspot.com/news/114315-dark-gpus-amazon-show-limits-ai-buildout-chips.html",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-25T13:20:54.466018"
+    "processed_date": "2026-10-26T15:27:54.227438"
   }
 ]
