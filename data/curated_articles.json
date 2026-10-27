@@ -1,350 +1,360 @@
 [
   {
-    "title": "Asus ROG Xbox Ally X20 tested: Same performance, more comfortable, and a glorious OLED screen",
-    "summary": "Asus adds an OLED screen, TMR sticks, and more comfortable grips to its AMD-powered gaming handheld.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-x20-tested-same-performance-more-comfortable-and-a-glorious-oled-screen",
+    "title": "TSMC reportedly weighs 20% CoWoS price increase as Nvidia Blackwell and Rubin chips put pressure on packaging capacity",
+    "summary": "TSMC is reportedly weighing a price increase of up to 20% for its CoWoS advanced packaging technology as Nvidia s Blackwell and upcoming Rubin chips intensify pressure on capacity. Equipment deliveries now reportedly take up to eight months, while separate wafer-price increases of 5% to 10% are expected in 2027, with some customers potentially facing total cost increases of up to 25%.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-weighs-20-percent-cowos-price-increase-as-nvidia-blackwell-and-rubin-chips-put-pressure-on-packaging-capacity-equipment-lead-times-stretch-to-eight-months",
     "categories": [
-      "GPUs",
-      "Tech News"
+      "Semiconductors",
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-26T15:27:54.223588"
+    "processed_date": "2026-10-27T14:54:26.032505"
   },
   {
-    "title": "3.2 Petabits per second real-time optical fiber transfer speed world record claimed by Chinese team",
-    "summary": "A Chinese team has claimed a new world record for real-time transfer speeds across a 24-core optical fiber cable.",
-    "link": "https://www.tomshardware.com/networking/3-2-pb-s-real-time-optical-fiber-transfer-speed-world-record-claimed-by-chinese-team-speed-fast-enough-to-download-more-than-20-000-4k-movies-in-one-second",
+    "title": "Samsung Portable SSD P9 review: speedy USB4 in a slim, pricey package",
+    "summary": "Samsung s Portable SSD P9 is the new USB4 external drive to beat. It feels premium and performed very well in our testing. But you ll have to pay a lot for it, or any similarly performing drive, these days.",
+    "link": "https://www.tomshardware.com/pc-components/external-ssds/samsung-portable-ssd-p9-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-27T14:54:26.032629"
+  },
+  {
+    "title": "Police are reportedly pulling motorists over because AI algorithms deem their driving patterns 'suspicious'",
+    "summary": "An ACLU report claims police are increasingly using AI to analyze license plate-reader data and flag motorists based on travel patterns, raising concerns that innocent drivers could be pulled over because an algorithm deemed their movements suspicious.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/police-reportedly-pulling-motorists-over-because-ai-algorithms-deem-their-driving-patterns-suspicious-rights-group-report-warns-ai-surveillance-systems-will-sweep-in-more-innocent-people-than-wrongdoers",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-26T15:27:54.223687"
+    "processed_date": "2026-10-27T14:54:26.032753"
   },
   {
-    "title": "Leaked 256-core Zen 6c EPYC CPU destroys Zen 5 in early single-threaded benchmarks hints at 24% IPC gain",
-    "summary": "A benchmark leak and a direct clock-matched comparison from an enthusiast seed the idea that Zen 6 may come with a decent IPC bump as well as increased clocks.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/leaked-256-core-zen-6c-epyc-cpu-destroys-zen-5-in-early-single-threaded-benchmarks-hints-at-24-percent-ipc-gain-early-single-threaded-benchmarks-point-to-huge-amd-zen-6-improvements",
+    "title": "Keybytes truly modular keyboard starts with one key and is assembled like Legos",
+    "summary": "The modular Keybytes project combines a Keyword hub that is magnetically connected to Keybit keys, with each key having its own microcontroller.",
+    "link": "https://www.tomshardware.com/peripherals/mechanical-keyboards/keybytes-truly-modular-keyboard-starts-with-one-key-and-is-assembled-like-legos-each-magnetic-key-module-has-its-own-risc-v-microcontroller-for-the-ultimate-in-customizability",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-27T14:54:26.032877"
+  },
+  {
+    "title": "Apple adds M6 to 14-inch MacBook Pro and iMac",
+    "summary": "Apple updated its 14-inch MacBook Pro and iMac lineup with the M6 chip.",
+    "link": "https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-27T14:54:26.032974"
+  },
+  {
+    "title": "Hacker awarded $50k bounty for reporting bug to Sony that allowed PS5 Linux exploit",
+    "summary": "The hypervisor bug that allowed PS5 users to install Linux on their consoles was patched before the launch of GTA VI, meaning they have to choose between experimenting with Linux and running the game.",
+    "link": "https://www.tomshardware.com/video-games/playstation/hacker-awarded-usd50k-bounty-for-reporting-bug-to-sony-that-allowed-ps5-linux-exploit-move-sparks-backlash-from-jailbreaking-community",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-27T14:54:26.033082"
+  },
+  {
+    "title": "Open3DLab accuses Roblox of downloading 145GB of 3D assets for AI training purposes",
+    "summary": "Independent 3D modeling community Open3DLab has publicly claimed that a web crawler, attributed to Roblox, downloaded 145.5GB of its data, for what it assumes is for AI training purposes.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/open3dlab-accuses-roblox-of-downloading-145gb-of-3d-assets-for-ai-training-purposes-automated-crawler-ignored-site-rules-to-grab-over-1-000-files-including-adult-content-during-scraping-spree",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-27T14:54:26.033194"
+  },
+  {
+    "title": "Intel's APX offers 'better performance' in Windows 11 according to new Insider setting",
+    "summary": "Microsoft has begun testing the option to enable Intel's Advanced Performance Extensions, or APX, which will bring a performance boost to some apps although no chips with APX support are available as yet.",
+    "link": "https://www.tomshardware.com/software/windows/intels-apx-offers-better-performance-in-windows-11-according-to-new-insider-setting-microsoft-begins-early-enablement-for-advanced-performance-extensions-on-nova-lake-cpus",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-27T14:54:26.033306"
+  },
+  {
+    "title": "Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity",
+    "summary": "Nvidia is committing billions to expand substrate, co-packaged optics, advanced packaging, and chip-testing capacity through 2028, reserving capacity at nearly every stage of its AI accelerator supply chain.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-27T14:54:26.033429"
+  },
+  {
+    "title": "60,000 Microsoft employees offered voluntary buyouts as AI buildout costs bite",
+    "summary": "Microsoft is offering buyouts to around 60,000 members of its workforce as it looks to balance the books amid a ramp-up in AI data center spending.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/60-000-microsoft-employees-offered-voluntary-buyouts-as-ai-buildout-costs-bite-program-covers-roughly-27-percent-of-workforce-across-us-canada-india-and-the-uk",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-27T14:54:26.033590"
+  },
+  {
+    "title": "Anthropic prepares for potential $2 trillion IPO valuation after reporting billions in revenue",
+    "summary": "Anthropic has filed to go public as it pursues a potential multitrillion-dollar valuation, reporting $16.3 billion in revenue for the first half of 2026. The company s filing also warns that its AI safety measures may not prevent catastrophic risks. OpenAI and AI chipmaker Cerebras have also pursued public-market listings",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-prepares-for-potential-usd2-trillion-ipo-valuation-after-reporting-billions-in-revenue-company-warns-ai-could-pose-catastrophic-existential-risks-to-humanity",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-27T14:54:26.033714"
+  },
+  {
+    "title": "Data center gear is being hijacked in transit to the tune of hundreds of millions",
+    "summary": "Data center gear is being stolen in transit to the tune of hundreds of millions grand-theft-GPU thieves hack accounts, perform hit-and-runs, and spoof GPS signals",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/data-center-gear-is-being-hijacked-in-transit-to-the-tune-of-hundreds-of-millions-grand-theft-gpu-thieves-hack-accounts-perform-hit-and-runs-spoof-gps-signals-and-funnel-hardware-to-china",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-27T14:54:26.033819"
+  },
+  {
+    "title": "SpaceX closes $40 billion debt financing for GPUs expected in the first half of 2027, Musk says",
+    "summary": "SpaceX expects fourth-quarter capital expenditure of $35 billion to $40 billion, CFO Bret Johnsen said, as Elon Musk pushes to expand the company s AI computing infrastructure.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/spacex-closes-usd40-billion-debt-financing-for-gpus-expected-in-the-first-half-of-2027-musk-says-company-faces-up-to-usd40-billion-in-additional-fourth-quarter-capital-spending-as-ai-infrastructure-costs-soar",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-27T14:54:26.033926"
+  },
+  {
+    "title": "Intel quietly confirms Raptor Lake Next CPUs through internal driver publication",
+    "summary": "An internal driver and a shipping manifest reveal that Intel's desktop Raptor Lake Next parts may be on the way right now.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-quietly-confirms-raptor-lake-next-cpus-through-internal-driver-publication-lga-1700-chips-also-appear-in-shipping-manifests-dating-back-to-august",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-27T14:54:26.034026"
+  },
+  {
+    "title": "JSAUX FlipGo dual-screen portable monitor review: Gorgeous displays with touch support and a built-in USB hub",
+    "summary": "The JSAUX FlipGo features dual 16-inch touch displays and a built-in hub.",
+    "link": "https://www.tomshardware.com/monitors/portable-monitors/jsaux-flipgo-dual-screen-portable-monitor-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-27T14:54:26.034127"
+  },
+  {
+    "title": "Synergy Logic SLM-RP4 A Raspberry Pi 4 PLC with modular industrial I/Os",
+    "summary": "Synergy Logic SLM-RP4 industrial PLC is built around a Raspberry Pi 4 SBC and designed for industrial automation, machine control, data acquisition, and Industrial IoT (IIoT) applications. The DIN-rail mountable controller supports 24V DC input and an SPI-based backplane that connects up to eight Synergy Logic I/O modules, providing up to 128 I/O points. It also features Gigabit Ethernet, WiFi 5, Bluetooth 5.0, USB ports, two micro-HDMI outputs, and a fanless aluminum enclosure. The system runs Raspberry Pi OS with OpenPLC pre-installed for standard IEC 61131-3 logic programming. Synergy Logic SLM-RP4 specifications: SBC Raspberry Pi 4 Model B (2GB RAM) Storage 16GB microSD card Video 2x micro-HDMI ports Audio 3.5mm audio jack Networking Gigabit Ethernet port Dual-band WiFi 5 (802.11ac) Bluetooth 5.0/BLE USB 2x USB 3.0 Type-A ports 2x USB 2.0 Type-A ports 1x USB-C port for auxiliary power I/O Expansion SPI-based backplane supporting up [...] The post Synergy Logic SLM-RP4 A Raspberry Pi 4 PLC with modular industrial I/Os appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/27/synergy-logic-slm-rp4-a-raspberry-pi-4-plc-with-modular-industrial-i-o/",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-26T15:27:54.223772"
+    "processed_date": "2026-10-27T14:54:26.034622"
   },
   {
-    "title": "Micron plans to use wafer bonding and High-NA EUV for next-gen DRAM",
-    "summary": "Micron rejects 4F2, intends to use wafer bonding and High-NA EUV before going 3D NAND over the next few years.",
-    "link": "https://www.tomshardware.com/pc-components/dram/micron-plans-to-use-wafer-bonding-and-high-na-euv-for-next-gen-dram-company-also-developing-vertical-high-bandwidth-memory-and-vertical-edge-inference-memory-integrated-directly-on-top-of-processors",
+    "title": "Rockchip RK3576-powered SMARC 2.2 system-on-module and development board target Edge AI applications",
+    "summary": "MYIR MYC-JR3576 is a SMARC 2.2 system-on-module (SoM) powered by a Rockchip RK3576/RK3576J octa-core Cortex-A72/A53 SoC with a 6 TOPS NPU designed for Edge AI applications. It features up to 8GB LPDDR5, up to 64GB eMMC flash, an optional WiFI 6E and Bluetooth 5.4 module, and exposes all I/Os through a 314-pin MXM connector as defined in the SMARC 2.2 standard. The company says it s the socketed counterpart to its LGA-packaged MYC-LR3576 (43 x 45 mm) module introduced in 2024, so the same processor is now available in both solder-down and standard form factors from MYiR. MYC-JR3576 Rockchip RK3576 SMARC 2.2 module MYIR MYC-JR3576 specifications: SoC Rockchip RK3576 (commercial) or RK3576J (industrial) CPU 4x Cortex-A72 cores @ 2.2GHz, four Cortex-A53 cores @ 1.8GHz Arm Cortex-M0 MCU at 400MHz GPU ARM Mali-G52 MC3 GPU with support for OpenGL ES 1.1, 2.0 and 3.2, OpenCL up to 2.0 and [...] The post Rockchip RK3576-powered SMARC 2.2 system-on-module and development board target Edge AI applications appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/27/rockchip-rk3576-powered-smarc-2-2-system-on-module-and-development-board-target-edge-ai-applications/",
     "categories": [
+      "Hardware",
       "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-10-27T14:54:26.034795"
+  },
+  {
+    "title": "Questioning: Can robots can feel pain?",
+    "summary": "Physical AI company AstraQua says it is teaching robots to feel pain",
+    "link": "https://www.fiercesensors.com/ai/questioning-can-robots-can-feel-pain",
+    "categories": [
+      "AI & ML"
     ],
     "quality_score": 0,
-    "processed_date": "2026-10-26T15:27:54.223845"
+    "processed_date": "2026-10-27T14:54:26.035771"
   },
   {
-    "title": "Windows 11 s whole ISO squeezed into a CD-ROM",
-    "summary": "Professional Windows crusher NTDEV has showcased their next-generation tool for compressing Windows 11 with a video of an install that fits on a single CD-ROM.",
-    "link": "https://www.tomshardware.com/software/windows/windows-11s-whole-iso-squeezed-into-a-cd-rom-sub-700mb-disk-boots-to-the-desktop-runs-apps-just-like-the-microsoft-original",
+    "title": "Meta announces VR Glasses for $1,299 alongside cheaper smart glass updates",
+    "summary": "Meta s announcements show an industry moving further away from headsets to smart glasses where sensor data works with AI models",
+    "link": "https://www.fiercesensors.com/ai/meta-announces-vr-glasses-1299-alongside-cheaper-smart-glass-updates",
     "categories": [
-      "Tech News"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-26T15:27:54.223914"
+    "processed_date": "2026-10-27T14:54:26.036141"
   },
   {
-    "title": "Cadence reveals Maestro, fine-tuned AI models built to run specialized chip design agents, with early access coming for 'select customers' in Q4 2026",
-    "summary": "Cadence unveiled Maestro, domain-specialized AI models for its chip design agents, with early access for select customers in Q4 2026.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/cadence-reveals-maestro-fine-tuned-ai-models-built-to-run-specialized-chip-design-agents-with-early-access-coming-for-select-customers-in-q4-2026-claims-up-to-30-percent-higher-quality-results-and-up-to-5x-token-efficiency-over-a-general-purpose-ai-model",
+    "title": "AI safety expert stops saving for retirement because he believes AI could wipe out humanity within a decade",
+    "summary": "Nate Soares, the president of the Machine Intelligence Research Institute (MIRI), revealed his pessimistic choice to The Atlantic CEO Nicholas Thompson in a recent interview for the latter's The Most Interesting Thing in AI series. Read Entire Article",
+    "link": "https://www.techspot.com/news/114353-ai-safety-expert-stops-saving-retirement-because-believes.html",
     "categories": [
-      "AI & ML",
-      "Semiconductors"
+      "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-26T15:27:54.223995"
+    "processed_date": "2026-10-27T14:54:26.036345"
   },
   {
-    "title": "Chinese research vessels loiter near Pacific undersea cables more than any other nation, report finds",
-    "summary": "Chinese vessels are spending more time near undersea cables in the Pacific than nearly 50 other nations, according to a new report by the Center for Strategic and International Studies.",
-    "link": "https://www.tomshardware.com/tech-industry/chinese-research-vessels-loiter-near-pacific-undersea-cables-more-than-any-other-nation-report-finds-civilian-fleet-using-lawnmower-patterns-may-be-mapping-seafloor-for-future-sabotage",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-26T15:27:54.224071"
-  },
-  {
-    "title": "Intel's Lip-Bu Tan has spoken with Lisa Su about potential collaboration with AMD",
-    "summary": "Intel CEO Lip-Bu Tan has reportedly discussed potential areas of cooperation with AMD chief Lisa Su as Intel works to rebuild its CPU business and expand its foundry operations. The companies have already collaborated on x86 standards and CPU software, including AMD s integration of its ZenDNN optimizations into Intel s oneDNN library. Neither executive has publicly detailed the reported discussions or confirmed a new agreement.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business",
+    "title": "Modders unlock hidden AI power on Nvidia RTX 20-, 30-, and 40-series GPUs, nearly doubling some benchmarks",
+    "summary": "The limit lives in the tensor cores. When they multiply FP16 or BF16 numbers and add up the results in higher-precision FP32, GeForce cards issue those instructions at half the rate of the FP16-accumulate mode. That FP32 mode is the one most training and plenty of inference actually rely on.... Read Entire Article",
+    "link": "https://www.techspot.com/news/114351-hackers-unlock-hidden-ai-performance-nvidia-rtx-20.html",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-10-26T15:27:54.224171"
+    "quality_score": 10,
+    "processed_date": "2026-10-27T14:54:26.036559"
   },
   {
-    "title": "Save over $1,000 on this Alienware gaming PC with an RTX 5070 and 32GB DDR5",
-    "summary": "Newegg have cut this Alienware Aurora gaming PC by over $1,000, netting yo ua 4K-ready machine with an RTX 5070 and 32GB of DDR5 RAM for $2,199.99.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-over-usd1-000-on-this-alienware-gaming-pc-with-an-rtx-5070-and-32gb-ddr5-unlock-1440p-and-4k-gameplay-with-this-aurora-act1250-rig-with-a-20-core-intel-cpu-and-a-1tb-ssd-for-usd2-199-99",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-26T15:27:54.224244"
-  },
-  {
-    "title": "Lack of staff and funding likely led to the recent PHP security snafu; project has only one full-time employee, but that's just the tip of the iceberg",
-    "summary": "Lack of funding likely led to the recent PHP security snafu, but that's just the tip of the iceberg dreary situation caused by services running old versions with no support",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/lack-of-funding-likely-led-to-the-recent-php-security-snafu-but-thats-just-the-tip-of-the-iceberg-a-dreary-situation-caused-by-services-running-old-versions-with-no-support",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-26T15:27:54.224321"
-  },
-  {
-    "title": "Modder turns NES into a Windows-like desktop with original hardware",
-    "summary": "Throaty Mumbo turns his NES into a Windows-like desktop using an FPGA cartridge emulating an old Intel CPU, complete with a CD drive and internet capabilities, all without tearing the NES apart.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/modder-turns-nes-into-a-windows-like-desktop-with-original-hardware-emulates-a-full-retro-experience-with-a-cd-drive-and-slow-internet",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-26T15:27:54.224394"
-  },
-  {
-    "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle",
-    "summary": "Linux kernel modules lift Nvidia s half-rate AI tensor limit on GeForce RTX 20, 30, and 40-series GPUs.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
+    "title": "Meta gets $3 billion from Nvidia as they team up to make Muse AI faster and cheaper to run",
+    "summary": "When Meta announced its stock offering yesterday, it was reported that Nvidia, AMD, and Broadcom had indicated interest in buying up to $5 billion worth of the company's shares collectively. The world's largest company by market cap has now confirmed its contribution. Read Entire Article",
+    "link": "https://www.techspot.com/news/114352-meta-gets-3-billion-nvidia-companies-team-up.html",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-10-26T15:27:54.224463"
+    "quality_score": 10,
+    "processed_date": "2026-10-27T14:54:26.036736"
   },
   {
-    "title": "Bitcoin reward offered to anyone who could break into an unpatched server running PHP, hacker cracks site and claims bounty",
-    "summary": "The Steal My Bitcoin challenge offers a bounty to anyone who can breach a deliberately vulnerable PHP website using the recently disclosed PHP2Shell flaws. The challenge follows previous recoveries of locked Bitcoin fortunes through software vulnerabilities and AI-assisted investigation, but no successful claim has been confirmed.",
-    "link": "https://www.tomshardware.com/tech-industry/cryptomining/hacker-offers-bitcoin-reward-to-anyone-who-can-break-into-an-unpatched-server-running-php-still-remains-unhacked-php2shell-challenge-tests-claims-that-ai-makes-exploiting-vulnerabilities-easy",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-26T15:27:54.224551"
-  },
-  {
-    "title": "Reddit s r/opensource bans AI-made and AI-focused projects, also bans non-English speakers",
-    "summary": "Reddit s r/opensource has barred AI-built, AI-focused, and AI-using projects under new rules announced October 24. The crackdown also imposes strict requirements on project age and contributors, while restrictions on non-English speakers have sparked further backlash. The debate puts the subreddit s policy at odds with Linux s acceptance of disclosed AI-assisted code contributions.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers",
+    "title": "Microsoft is offering voluntary buyouts to about 60,000 employees, a quarter of the company",
+    "summary": "Microsoft recently announced a new voluntary exit offer for employees at level 70 and below in certain countries. Sources told CNBC that this group includes about 60,000 workers, a substantial increase in scope compared with the buyout offers that began in April. Read Entire Article",
+    "link": "https://www.techspot.com/news/114347-microsoft-offering-voluntary-buyouts-about-60000-employees-quarter.html",
     "categories": [
       "AI & ML",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-26T15:27:54.224646"
+    "processed_date": "2026-10-27T14:54:26.036907"
   },
   {
-    "title": "Denmark s bid to ditch Microsoft Office for open-source alternative Collabora collapses in under six months",
-    "summary": "The Danish digitization ministry experimented with Collabora as an alternative to Microsoft Office, but employees who used them were frequently frustrated with style and paragraph formatting challenges, among other complaints.",
-    "link": "https://www.tomshardware.com/software/microsoft-office/denmarks-bid-to-ditch-microsoft-office-for-open-source-alternative-collabora-collapses-in-under-six-months-employees-cite-issues-with-style-formatting-and-tracking-changes",
+    "title": "Intel's leaked 28-core Nova Lake CPU beats the Core Ultra 9 285K and Ryzen 9 9950X3D in single-thread testing",
+    "summary": "A VideoCardz reader found the entries through PerformanceTest 11.1's Manage Baselines feature. Listed as \"Intel 0000,\" the processors appear in submissions dating back to September. Read Entire Article",
+    "link": "https://www.techspot.com/news/114350-intel-leaked-28-core-nova-lake-cpu-beats.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-27T14:54:26.037075"
+  },
+  {
+    "title": "Sony's next PlayStation handheld may get exclusive access to AMD's mobile RDNA 5",
+    "summary": "According to Digital Foundry, Sony might have some kind of exclusive access to the mobile variant of AMD's upcoming RDNA 5 architecture. The nature of that exclusivity remains unclear, however. Sony and AMD may have a formal deal, or Sony may simply be the only manufacturer able to justify a... Read Entire Article",
+    "link": "https://www.techspot.com/news/114345-sony-next-playstation-handheld-may-get-exclusive-access.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-27T14:54:26.037254"
+  },
+  {
+    "title": "Fitbit Edge reviews: A return to simpler fitness tracking",
+    "summary": "Google's $179 Fitbit Edge has landed to positive reviews for its design, AMOLED display, accurate fitness tracking, built-in GPS, and week-long battery life. Reviewers are praising its simplicity and comfortable fit, positioning it as an alternative to smartwatches. Read Entire Article",
+    "link": "https://www.techspot.com/products/wearables/google-fitbit-edge.330959/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-27T14:54:26.037421"
+  },
+  {
+    "title": "The AI boom is happening at seven companies, the rest of the S&P 500 isn't seeing it",
+    "summary": "According to Slok's Daily Spark note, AI has so far delivered zero financial payoff to corporate America outside of tech, despite the massive amount of money and hype surrounding the latest advancements in large language model research. Read Entire Article",
+    "link": "https://www.techspot.com/news/114340-ai-boom-happening-seven-companies-rest-sp-500.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-27T14:54:26.037609"
+  },
+  {
+    "title": "Anthropic files to go public, and it could be the biggest IPO ever",
+    "summary": "Anthropic's filing opens with a letter in which the co-founders say they believe \"AI is one of the most consequential technologies in human history.\" The rest of the 300-plus page document tries to back that claim up with numbers, while also spelling out, at unusual length, how things could go... Read Entire Article",
+    "link": "https://www.techspot.com/news/114341-anthropic-files-go-public-could-biggest-ipo-ever.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-27T14:54:26.037770"
+  },
+  {
+    "title": "Windows is preparing for Intel's biggest x86 change in years, but only Xeon chips will use it at first",
+    "summary": "Windows enthusiast Xeno recently uncovered what could be one of the most interesting changes coming to future Windows releases. Microsoft's OS may soon offer an option to enable Advanced Performance Extensions (APX) support on compatible hardware, the self-described \"Windows Insider since day one\" said. In turn, APX could deliver a... Read Entire Article",
+    "link": "https://www.techspot.com/news/114337-windows-preparing-intel-biggest-x86-change-years-but.html",
     "categories": [
       "Semiconductors",
       "AI & ML"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-10-26T15:27:54.224727"
-  },
-  {
-    "title": "Big Tech is cashing in on AI while the rest of corporate America sees no financial returns",
-    "summary": "Revenue per employee at the Magnificent Seven has outpaced the S&P 493, and a new comparison highlights the growing divide in fortunes between America s largest technology companies and the rest of the S&P 500.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/big-tech-is-cashing-in-on-ai-while-the-rest-of-corporate-america-sees-no-financial-returns-report-outlines-how-rising-token-costs-threaten-to-squeeze-corporate-profit-margins",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-26T15:27:54.224804"
-  },
-  {
-    "title": "IQUNIX MQ80 low profile mechanical keyboard review",
-    "summary": "The IQUNIX MQ80 is well-made and super stylish, but it s not quite the instant sell it used to be. Catch this one if you don t like magnetic switches, but otherwise wait for a sale.",
-    "link": "https://www.tomshardware.com/peripherals/mechanical-keyboards/iqunix-mq80-low-profile-mechanical-keyboard-review",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-26T15:27:54.224877"
-  },
-  {
-    "title": "Ukrainian drone attacks hammer Russia's finance ministry data center, damaged facility reportedly holds tax databases",
-    "summary": "Reports say that this is one of three data centers that the Russian finance ministry operated.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drone-attacks-hammer-russias-finance-ministry-data-center-damaged-facility-reportedly-holds-tax-databases-facility-also-holds-other-important-state-registry-data",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-26T15:27:54.224947"
-  },
-  {
-    "title": "Samsung's new 2TB 990 SSD is 38% off at Amazon today",
-    "summary": "Get 38% off the new Samsung 990 2TB SSD, a $200 saving.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/samsungs-new-2tb-990-ssd-is-38-percent-off-at-amazon-today-get-usd200-off-this-pcie-4-0-all-rounder-drive-for-a-limited-time",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-26T15:27:54.225007"
-  },
-  {
-    "title": "Adafruit Metro ESP32-P4 Hydra An Arduino UNO-shaped ESP32-P4 + ESP32-C6 board with WiFi 6, MIPI interfaces",
-    "summary": "Adafruit has launched the Metro ESP32-P4 Hydra, an Arduino UNO-shaped development board with ESP32-P4, 16MB PSRAM, and 16MB NOR flash, and an ESP32-C6 for WiFi 6, Bluetooth 5.3 LE, Thread, and Zigbee connectivity. Other features include Raspberry Pi-compatible MIPI DSI and CSI interfaces, a USB 2.0 High-Speed host port, a microSD card slot, and Arduino UNO expansion headers. The board also includes a STEMMA QT connector, LiPo battery charging, and multiple power input options, making it suitable for HMI, camera, and IoT applications. Adafruit Metro ESP32-P4 Hydra specifications: Microcontroller Espressif Systems ESP32-P4 (v1 chipset) CPU Dual-core 32-bit RISC-V HP (High-performance) CPU @ up to 360 MHz with AI instructions extension and single-precision FPU Single-RISC-V LP (Low-power) MCU core @ up to 40 MHz with 8KB of zero-wait TCM RAM Memory 768 KB HP L2MEM (for dual-core CPU), 32 KB LP SRAM, 8 KB TCM (for LP MCU core) 16MB PSRAM GPU [...] The post Adafruit Metro ESP32-P4 Hydra An Arduino UNO-shaped ESP32-P4 + ESP32-C6 board with WiFi 6, MIPI interfaces appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/26/adafruit-metro-esp32-p4-hydra-an-arduino-uno-shaped-esp32-p4-esp32-c6-board-with-wifi-6-mipi-interfaces/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 25,
-    "processed_date": "2026-10-26T15:27:54.225368"
-  },
-  {
-    "title": "Renesas RX74M and RX74N 600MHz industrial MCUs with RXv3e core, embedded MRAM, 22nm process",
-    "summary": "Renesas has introduced the RX74M and RX74N, two new 32-bit RX family MCUs built on a 22nm process with embedded MRAM. Both MCUs integrate a 600MHz RXv3e core and are designed for industrial automation, motor control, robotics, and energy management applications. The MCUs feature up to 1MB of code MRAM, 1.5MB SRAM, and 256KB of zero-wait-state local RAM for real-time processing. The RX74M adds an integrated EtherCAT slave controller, dual Gigabit Ethernet MACs with TSN support, and an Ethernet switch for industrial networking, while the RX74N offers a single Gigabit Ethernet interface for general industrial applications. Other features include CAN FD, USB 2.0, I3C, high-resolution PWM timers, and hardware-based security with Renesas Protect Zone. Renesas RX74M and RX74N specifications: MCU 32-bit RXv3e core clocked at 300/480/600MHz Up to 3,604 CoreMark at 600MHz Single- and double-precision floating-point support Trigonometric function accelerator Register bank save function for faster interrupt response 32KB [...] The post Renesas RX74M and RX74N 600MHz industrial MCUs with RXv3e core, embedded MRAM, 22nm process appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/26/renesas-rx74m-and-rx74n-600mhz-industrial-mcus-with-rxv3e-core-embedded-mram-22nm-process/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
     "quality_score": 10,
-    "processed_date": "2026-10-26T15:27:54.225511"
+    "processed_date": "2026-10-27T14:54:26.037967"
   },
   {
-    "title": "Opinion: Safer AI will require independent testbeds and incident reporting",
-    "summary": "Small innovators in humanoids and physical AI should be exempted from many AI regulations.",
-    "link": "https://www.fiercesensors.com/ai/opinion-safer-ai-will-require-independent-testbeds-and-incident-reporting",
+    "title": "SteamOS 3.9.5 updates KDE Plasma, improves compatibility and device support",
+    "summary": "SteamOS 3.9.5 brings an updated Arch Linux base, KDE Plasma 6.7.3, and Linux kernel 7.2. The update also improves compatibility with handheld gaming devices, introduces preliminary hibernation support, and reduces idle power consumption on Steam Deck. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/6351-steamos.html",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-26T15:27:54.226483"
-  },
-  {
-    "title": "Meta plans $95 billion stock offering to fuel AI spending despite growing bubble fears",
-    "summary": "Meta launched roughly $35 billion in offerings on Monday, comprising $22.5 billion in Class A common stock and $12.5 billion in securities representing mandatory convertible preferred stock. Read Entire Article",
-    "link": "https://www.techspot.com/news/114336-meta-plans-95-billion-stock-offering-fuel-ai.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-26T15:27:54.226617"
-  },
-  {
-    "title": "Nvidia's AI chips already make billions, now Jensen Huang wants $2,000 per GPU in annual software fees",
-    "summary": "The Register was first to report Huang's quote from a question-and-answer session at the event on October 22. The CEO told attendees that software licensing \"will become increasingly a major part of our company's business.\" The $2,000 figure was his example of how that licensing would be priced. Read Entire Article",
-    "link": "https://www.techspot.com/news/114333-nvidia-ai-chips-already-make-billions-now-jensen.html",
-    "categories": [
-      "GPUs",
-      "AI & ML"
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-26T15:27:54.226727"
+    "processed_date": "2026-10-27T14:54:26.038125"
   },
   {
-    "title": "Peter Thiel slams Apple for doing \"nothing new\" since Steve Jobs died, praises controversial CEOs like Elon Musk",
-    "summary": "Speaking in an interview with author Walter Isaacson on The Builders podcast, Thiel said of Apple, \"In my telling, it did nothing new after Jobs.\" Read Entire Article",
-    "link": "https://www.techspot.com/news/114334-peter-thiel-slams-apple-doing-nothing-new-since.html",
+    "title": "Teardown reveals three theories for why iPhone Duo's screens keep cracking",
+    "summary": "According to iFixit, the most plausible reason for the breakages is a malfunctioning central support bar inside the hinge. The bar is supposed to retract each time the phone closes, but it's likely failing to pull back far enough, which makes the curved part of the inner display press down... Read Entire Article",
+    "link": "https://www.techspot.com/news/114339-teardown-reveals-three-theories-why-iphone-duo-screens.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-26T15:27:54.226805"
+    "processed_date": "2026-10-27T14:54:26.038285"
   },
   {
-    "title": "Elden Ring movie reportedly has a $200 million budget, and it's the studio's biggest bet ever",
-    "summary": "When cameras started rolling in the UK back in April, Elden Ring's budget was reported at well over $100 million, with filming expected to last roughly 100 days. By June, in its coverage of Google's $75 million investment in the studio, The Wall Street Journal put it at $175 million.... Read Entire Article",
-    "link": "https://www.techspot.com/news/114328-elden-ring-movie-reportedly-has-200-million-budget.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-26T15:27:54.226886"
-  },
-  {
-    "title": "Phantom Blade Zero's PC requirements reveal a 145GB install, 300GB for preloading, and upscaling",
-    "summary": "Chinese developer S-Game posted the PC requirements on the game's official X account. There are few details beyond just Minimum and Recommended setups. However, in what has now become a standard in the industry, these specs only apply when upscaling is enabled. Read Entire Article",
-    "link": "https://www.techspot.com/news/114332-phantom-blade-zero-pc-requirements-reveal-145gb-install.html",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-26T15:27:54.226970"
-  },
-  {
-    "title": "Denmark gives up on replacing Microsoft Office, for now",
-    "summary": "Early reports had the whole ministry ditching Microsoft Office by the end of 2025, but what launched on June 19 was a lot more modest a pilot with 38 volunteers from the department. Those testers swapped Word for Collabora, an open-source office suite built on LibreOffice. Danish software firm... Read Entire Article",
-    "link": "https://www.techspot.com/news/114327-denmark-gives-up-replacing-microsoft-office-now.html",
+    "title": "Apple's new iPad mini gets an OLED display, A20 Pro chip, and IP67 rating",
+    "summary": "Apple says the A20 Pro in the new iPad mini offers up to 60% faster multi-threaded workload performance, up to 4.5x faster AI performance, and up to 2.7x faster graphics performance compared to the chip in the last-gen device. Read Entire Article",
+    "link": "https://www.techspot.com/news/114338-apple-refreshes-ipad-mini-bigger-screen-faster-processor.html",
     "categories": [
       "Semiconductors",
-      "Tech News"
+      "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-10-26T15:27:54.227049"
+    "processed_date": "2026-10-27T14:54:26.038474"
   },
   {
-    "title": "Elon Musk predicts a neocloud bloodbath as SpaceX seeks $40 billion to buy more GPUs",
-    "summary": "Writing in an X post yesterday, Musk said lenders had largely stopped providing money to those companies without substantial income outside AI data centers. Read Entire Article",
-    "link": "https://www.techspot.com/news/114331-elon-musk-predicts-mass-extinction-ai-cloud-companies.html",
+    "title": "You can now run Nintendo Switch games natively on iPhones and Macs",
+    "summary": "This works because the Switch and Apple's recent devices both use Arm-based processors, meaning a game's instructions are already compatible with an iPhone's chip. PC ports like the recent AI-built Link's Awakening don't get that head start and must translate the code first, since most PCs use x86 processors. Read Entire Article",
+    "link": "https://www.techspot.com/news/114335-you-can-now-run-nintendo-switch-games-natively.html",
     "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-26T15:27:54.227124"
-  },
-  {
-    "title": "The Best Tools to Redo the Windows Taskbar",
-    "summary": "Whether you miss the classic Windows taskbar or want a complete makeover , these tools restore old favorites, unlock deeper customization, and bring macOS-style docks and retro designs to Windows. Read Entire Article",
-    "link": "https://www.techspot.com/article/3187-windows-taskbar-customization/",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-26T15:27:54.227196"
-  },
-  {
-    "title": "Google's privacy policy now has a loophole for using your Gmail and Photos data in ads",
-    "summary": "The change sits in Google's updated privacy policy, which took effect on October 16 and was first spotted by Android Authority. The policy has long said, \"We don't show you personalized ads based on your content from Drive, Gmail, or Photos.\" That line is still there, but it now ends... Read Entire Article",
-    "link": "https://www.techspot.com/news/114322-google-privacy-policy-now-has-loophole-using-gmail.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-26T15:27:54.227275"
-  },
-  {
-    "title": "AI will keep uncovering critical software flaws for years, says Cloudflare CEO",
-    "summary": "Prince told Reuters that Cloudflare is aware of \"a bunch of additional severe vulnerabilities that are present in other pieces of critical software,\" though he did not name the affected programs. He compared them to the PHP bugs that recently forced government websites, the game store GOG, and many smaller... Read Entire Article",
-    "link": "https://www.techspot.com/news/114325-ai-keep-uncovering-critical-software-flaws-years-cloudflare.html",
-    "categories": [
-      "AI & ML",
+      "Hardware",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-26T15:27:54.227359"
+    "processed_date": "2026-10-27T14:54:26.038647"
   },
   {
-    "title": "Microsoft's Windows Insider wallpapers were apparently made on a Mac",
-    "summary": "Most image files carry a small tag naming the app that last saved them, buried in a properties menu that few people ever open. When a Windows developer checked it on Microsoft's newest wallpapers, it pointed to Photoshop running on a Mac. The company has since swapped in cleaned-up copies. Read Entire Article",
-    "link": "https://www.techspot.com/news/114324-microsoft-windows-insider-wallpapers-apparently-made-mac.html",
+    "title": "Unreal Engine 5.8 adds support for Microsoft's Advanced Shader Delivery to remedy stuttering issues",
+    "summary": "Epic recently updated the official documentation for Unreal Engine 5.x, introducing a potentially significant change to how the popular game engine handles shader compilation and the associated stuttering issues. Thanks to a new built-in, command-line tool, UE 5.8 will offer native support for Microsoft's Advanced Shader Delivery (ASD) technology. Read Entire Article",
+    "link": "https://www.techspot.com/news/114326-unreal-engine-58-introduces-advanced-shader-delivery-support.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-26T15:27:54.227438"
+    "processed_date": "2026-10-27T14:54:26.038818"
   }
 ]

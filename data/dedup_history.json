@@ -1,118 +1,4 @@
 {
-  "https://www.tomshardware.com/pc-components/power-supplies/gigabyte-1000gm-pg5-1000w-power-supply-review": {
-    "title": "Gigabyte 1000GM PG5 1000W power supply review: Impressive Platinum-level efficiency with T-Guard thermal protection",
-    "fingerprint": "bdc539e82de350e227c15b5c27890dc5",
-    "timestamp": 1790518676.955056,
-    "date": "2026-09-27T14:17:56.955061"
-  },
-  "https://www.tomshardware.com/desktops/gaming-pcs/ps5-emulator-successfully-runs-six-titles-at-a-playable-60-fps-ps5-emulation-continues-to-gather-momentum-as-developers-improve-shader-translation-and-vulkan-support": {
-    "title": "PS5 emulator successfully runs six titles at a playable 60 FPS",
-    "fingerprint": "1d8b96c46b536817b1d6955aa8afc92f",
-    "timestamp": 1790518676.955127,
-    "date": "2026-09-27T14:17:56.955128"
-  },
-  "https://www.tomshardware.com/software/linux/linux-enthusiasts-see-10-second-kernel-compilation-times-on-the-horizon-ai-assisted-patches-cut-build-times-by-nearly-a-third-without-a-ramdisk": {
-    "title": "Linux enthusiasts see 10-second kernel compilation times on the horizon",
-    "fingerprint": "9b5eb0e723560da5d094186edb17a8aa",
-    "timestamp": 1790518676.95519,
-    "date": "2026-09-27T14:17:56.955191"
-  },
-  "https://www.tomshardware.com/tech-industry/cyber-security/flock-seeks-to-have-security-researchers-map-of-flock-cameras-taken-down-unauthenticated-flaw-exposed-335-701-camera-locations-nationwide": {
-    "title": "Flock seeks to have security researchers' map of Flock cameras taken down",
-    "fingerprint": "d45dc5d5377b93b43b354e6b59bbe9d5",
-    "timestamp": 1790518676.955264,
-    "date": "2026-09-27T14:17:56.955264"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/developer-says-jev-decision-model-beat-pokemon-red-in-under-a-week-non-llm-engine-succeeds-where-traditional-chatbots-stalled-for-months-but-claude-opus-5-coached-the-model-through-its-dead-ends": {
-    "title": "Developer says AI decision model Jev beat Pok mon Red in under a week",
-    "fingerprint": "48fdf8a0a6ed87be539957ed2d8de695",
-    "timestamp": 1790518676.955316,
-    "date": "2026-09-27T14:17:56.955316"
-  },
-  "https://www.tomshardware.com/tech-industry/u-s-and-uk-navies-successfully-launch-3-700-pound-submarine-sinking-torpedo-from-robotic-drone-submarine-in-historic-first-project-broadsword-proves-weapon-interchangeability-in-just-seven-months": {
-    "title": "U.S. and UK navies successfully launch 3,700-pound submarine-sinking torpedo from robotic drone submarine in historic first",
-    "fingerprint": "f49e372564ed86c0a3922fea7b26f3dd",
-    "timestamp": 1790518676.955379,
-    "date": "2026-09-27T14:17:56.955380"
-  },
-  "https://www.tomshardware.com/tech-industry/counterfeit-vinyl-record-maker-sentenced-to-three-years-in-the-slammer-police-bust-largest-fake-vinyl-operation-in-uk-history-raid-uncovers-four-70-year-old-presses-and-3-000-metal-stampers": {
-    "title": "Counterfeit vinyl record maker sentenced to three years in the slammer after making $3.5 million",
-    "fingerprint": "17feb89799beeccf2a3366a73111f392",
-    "timestamp": 1790518676.955437,
-    "date": "2026-09-27T14:17:56.955437"
-  },
-  "https://www.tomshardware.com/tech-industry/taiwans-chip-talisman-snack-faces-production-halt-after-94-percent-strike-vote-workers-demand-share-of-usd176-million-factory-sale-to-ase": {
-    "title": "Taiwan's chip talisman snack faces production halt after 94% strike vote",
-    "fingerprint": "b052b8b34c32a799bd1d5270fad95b2c",
-    "timestamp": 1790518676.955491,
-    "date": "2026-09-27T14:17:56.955491"
-  },
-  "https://www.tomshardware.com/video-games/pc-gaming/27-year-old-gta-2-gets-full-path-tracing-and-60-fps-frame-generation-via-rtx-remix-custom-direct3d-9-wrapper-modernizes-classic-with-custom-direct3d-9-bridge-unlocks-dynamic-lighting": {
-    "title": "27-year-old GTA 2 gets full path tracing and 60 FPS frame generation via RTX Remix",
-    "fingerprint": "73e210d705a4ff719bc44837e1fe05ac",
-    "timestamp": 1790518676.955544,
-    "date": "2026-09-27T14:17:56.955544"
-  },
-  "https://www.tomshardware.com/tech-industry/data-centers/russia-bombs-ukrainian-data-centers-in-latest-escalation-100-000-households-lose-connectivity-as-firms-migrate-data-abroad-zelensky-says-ordinary-life-is-simply-a-target": {
-    "title": "Russia bombs Ukrainian data centers in latest escalation",
-    "fingerprint": "c66bee72c2b4a73fd7ad9895b534c76f",
-    "timestamp": 1790518676.955609,
-    "date": "2026-09-27T14:17:56.955609"
-  },
-  "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding": {
-    "title": "Microsoft quietly drops Copilot+ branding from new laptops",
-    "fingerprint": "05207f7b882c581ceb1d99bd6c803c9d",
-    "timestamp": 1790518676.955667,
-    "date": "2026-09-27T14:17:56.955667"
-  },
-  "https://www.tomshardware.com/video-games/playstation/open-source-anyps5-dumps-emulation-to-run-playstation-5-console-games-natively-on-pc-amd-zen-2-architecture-enables-proton-like-binary-translation-for-windows-and-linux": {
-    "title": "Open-source AnyPS5 dumps emulation to run PlayStation 5 console games natively on PC",
-    "fingerprint": "d816525dee3c916d58afbbfd5af4b8fb",
-    "timestamp": 1790518676.955727,
-    "date": "2026-09-27T14:17:56.955727"
-  },
-  "https://www.cnx-software.com/2026/09/27/lilygo-t-dongle-c5-an-esp32-c5-usb-dongle-with-microsd-card-slot-optional-0-96-inch-oled/": {
-    "title": "LILYGO T-Dongle-C5 An ESP32-C5 USB dongle with microSD card slot, optional 0.96-inch OLED",
-    "fingerprint": "753507e40ee7e4204cf72f208ec3b2ca",
-    "timestamp": 1790518676.956087,
-    "date": "2026-09-27T14:17:56.956087"
-  },
-  "https://www.techspot.com/news/114000-wireless-egpu-claims-deliver-rtx-5090-performance-over.html": {
-    "title": "This wireless eGPU claims to deliver RTX 5090-like performance over Wi-Fi",
-    "fingerprint": "a44159f9a50ae4892543285f050dcd46",
-    "timestamp": 1790518676.957014,
-    "date": "2026-09-27T14:17:56.957014"
-  },
-  "https://www.techspot.com/news/114002-russia-targets-ukraine-data-centers-attacks-disrupt-internet.html": {
-    "title": "Russia targets Ukraine's data centers as attacks disrupt internet access for 100,000 households",
-    "fingerprint": "8b0d7843e7f955208753d9678ebdcc98",
-    "timestamp": 1790518676.957105,
-    "date": "2026-09-27T14:17:56.957106"
-  },
-  "https://www.techspot.com/products/pc-games/ace-combat-8.330942/": {
-    "title": "Ace Combat 8 reviews: spectacular aerial combat",
-    "fingerprint": "8929617e2970cbd8c3574cc76d5fd158",
-    "timestamp": 1790518676.957197,
-    "date": "2026-09-27T14:17:56.957198"
-  },
-  "https://www.techspot.com/news/113998-microsoft-calls-copilot-biggest-update-new-os.html": {
-    "title": "Microsoft wants Copilot to become an \"OS\" that writes your documents and manages your work",
-    "fingerprint": "52df630fca0af23a37991f8d166d12ee",
-    "timestamp": 1790518676.957302,
-    "date": "2026-09-27T14:17:56.957303"
-  },
-  "https://www.techspot.com/news/113999-meta-new-ai-game-tools-can-turn-prompts.html": {
-    "title": "Meta's new AI tools turn prompts into games you can then play inside Facebook and Instagram feeds",
-    "fingerprint": "d2bfa8a20e0aabc8a1995296cb728623",
-    "timestamp": 1790518676.957393,
-    "date": "2026-09-27T14:17:56.957393"
-  },
-  "https://www.techspot.com/news/113996-new-york-sues-polymarket-over-unlicensed-gambling-operation.html": {
-    "title": "New York sues Polymarket over unlicensed gambling operation just as it did rival Kalshi",
-    "fingerprint": "ec03b45d34d097e9dcdbe83e3e35c716",
-    "timestamp": 1790518676.957481,
-    "date": "2026-09-27T14:17:56.957482"
-  },
   "https://www.tomshardware.com/laptops/google-confirms-chromeos-phase-out-in-2034-10-year-support-lifetime-cut-short-for-some-devices-company-says-it-will-support-transition-to-googlebook-os": {
     "title": "Google confirms ChromeOS phase out in 2034 10-year support lifetime cut short for some devices, company says it will support transition to Googlebook OS",
     "fingerprint": "a51cd140e85883ed7a7cb594609815b0",
@@ -5152,5 +5038,209 @@
     "fingerprint": "4c141346939b8095935d96726dd2332d",
     "timestamp": 1793028474.227436,
     "date": "2026-10-26T15:27:54.227437"
+  },
+  "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-weighs-20-percent-cowos-price-increase-as-nvidia-blackwell-and-rubin-chips-put-pressure-on-packaging-capacity-equipment-lead-times-stretch-to-eight-months": {
+    "title": "TSMC reportedly weighs 20% CoWoS price increase as Nvidia Blackwell and Rubin chips put pressure on packaging capacity",
+    "fingerprint": "8bc0ef0bf7f938c2f3e74495dc6ae1fb",
+    "timestamp": 1793112866.032494,
+    "date": "2026-10-27T14:54:26.032498"
+  },
+  "https://www.tomshardware.com/pc-components/external-ssds/samsung-portable-ssd-p9-review": {
+    "title": "Samsung Portable SSD P9 review: speedy USB4 in a slim, pricey package",
+    "fingerprint": "a2faf561d00cf928c3117aa5ffd34636",
+    "timestamp": 1793112866.032625,
+    "date": "2026-10-27T14:54:26.032626"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/police-reportedly-pulling-motorists-over-because-ai-algorithms-deem-their-driving-patterns-suspicious-rights-group-report-warns-ai-surveillance-systems-will-sweep-in-more-innocent-people-than-wrongdoers": {
+    "title": "Police are reportedly pulling motorists over because AI algorithms deem their driving patterns 'suspicious'",
+    "fingerprint": "05f7310cb697508a46db8a2d5a91fb4e",
+    "timestamp": 1793112866.03275,
+    "date": "2026-10-27T14:54:26.032750"
+  },
+  "https://www.tomshardware.com/peripherals/mechanical-keyboards/keybytes-truly-modular-keyboard-starts-with-one-key-and-is-assembled-like-legos-each-magnetic-key-module-has-its-own-risc-v-microcontroller-for-the-ultimate-in-customizability": {
+    "title": "Keybytes truly modular keyboard starts with one key and is assembled like Legos",
+    "fingerprint": "100ef0658271022d784b061e538a0f8b",
+    "timestamp": 1793112866.032874,
+    "date": "2026-10-27T14:54:26.032874"
+  },
+  "https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999": {
+    "title": "Apple adds M6 to 14-inch MacBook Pro and iMac",
+    "fingerprint": "3be343c20e3b3abf71fffda3f44b8b57",
+    "timestamp": 1793112866.032972,
+    "date": "2026-10-27T14:54:26.032972"
+  },
+  "https://www.tomshardware.com/video-games/playstation/hacker-awarded-usd50k-bounty-for-reporting-bug-to-sony-that-allowed-ps5-linux-exploit-move-sparks-backlash-from-jailbreaking-community": {
+    "title": "Hacker awarded $50k bounty for reporting bug to Sony that allowed PS5 Linux exploit",
+    "fingerprint": "bc0c36b7afa03932c1abdd3512fda6af",
+    "timestamp": 1793112866.033079,
+    "date": "2026-10-27T14:54:26.033080"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/open3dlab-accuses-roblox-of-downloading-145gb-of-3d-assets-for-ai-training-purposes-automated-crawler-ignored-site-rules-to-grab-over-1-000-files-including-adult-content-during-scraping-spree": {
+    "title": "Open3DLab accuses Roblox of downloading 145GB of 3D assets for AI training purposes",
+    "fingerprint": "abb7e2e663d565a810a245e8273161fb",
+    "timestamp": 1793112866.033192,
+    "date": "2026-10-27T14:54:26.033192"
+  },
+  "https://www.tomshardware.com/software/windows/intels-apx-offers-better-performance-in-windows-11-according-to-new-insider-setting-microsoft-begins-early-enablement-for-advanced-performance-extensions-on-nova-lake-cpus": {
+    "title": "Intel's APX offers 'better performance' in Windows 11 according to new Insider setting",
+    "fingerprint": "4999b25f7e13104153048d3b1eb3a3df",
+    "timestamp": 1793112866.033304,
+    "date": "2026-10-27T14:54:26.033304"
+  },
+  "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines": {
+    "title": "Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity",
+    "fingerprint": "1b075866712f7c5f8e37da62cf53a407",
+    "timestamp": 1793112866.033426,
+    "date": "2026-10-27T14:54:26.033427"
+  },
+  "https://www.tomshardware.com/tech-industry/big-tech/60-000-microsoft-employees-offered-voluntary-buyouts-as-ai-buildout-costs-bite-program-covers-roughly-27-percent-of-workforce-across-us-canada-india-and-the-uk": {
+    "title": "60,000 Microsoft employees offered voluntary buyouts as AI buildout costs bite",
+    "fingerprint": "39e0b7ca9afaf0316128181eb0dac29f",
+    "timestamp": 1793112866.033587,
+    "date": "2026-10-27T14:54:26.033588"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-prepares-for-potential-usd2-trillion-ipo-valuation-after-reporting-billions-in-revenue-company-warns-ai-could-pose-catastrophic-existential-risks-to-humanity": {
+    "title": "Anthropic prepares for potential $2 trillion IPO valuation after reporting billions in revenue",
+    "fingerprint": "7f52986daedd2ae61ce9a3a5adfa1433",
+    "timestamp": 1793112866.033712,
+    "date": "2026-10-27T14:54:26.033712"
+  },
+  "https://www.tomshardware.com/tech-industry/big-tech/data-center-gear-is-being-hijacked-in-transit-to-the-tune-of-hundreds-of-millions-grand-theft-gpu-thieves-hack-accounts-perform-hit-and-runs-spoof-gps-signals-and-funnel-hardware-to-china": {
+    "title": "Data center gear is being hijacked in transit to the tune of hundreds of millions",
+    "fingerprint": "2abd74b66868687a9f1d2379ed017b19",
+    "timestamp": 1793112866.033817,
+    "date": "2026-10-27T14:54:26.033817"
+  },
+  "https://www.tomshardware.com/tech-industry/data-centers/spacex-closes-usd40-billion-debt-financing-for-gpus-expected-in-the-first-half-of-2027-musk-says-company-faces-up-to-usd40-billion-in-additional-fourth-quarter-capital-spending-as-ai-infrastructure-costs-soar": {
+    "title": "SpaceX closes $40 billion debt financing for GPUs expected in the first half of 2027, Musk says",
+    "fingerprint": "1bbe798f437364c40fb5bf7174c26c32",
+    "timestamp": 1793112866.033923,
+    "date": "2026-10-27T14:54:26.033924"
+  },
+  "https://www.tomshardware.com/pc-components/cpus/intel-quietly-confirms-raptor-lake-next-cpus-through-internal-driver-publication-lga-1700-chips-also-appear-in-shipping-manifests-dating-back-to-august": {
+    "title": "Intel quietly confirms Raptor Lake Next CPUs through internal driver publication",
+    "fingerprint": "f96b2a2c79c5ba6b15d00b458d8dc78d",
+    "timestamp": 1793112866.034024,
+    "date": "2026-10-27T14:54:26.034024"
+  },
+  "https://www.tomshardware.com/monitors/portable-monitors/jsaux-flipgo-dual-screen-portable-monitor-review": {
+    "title": "JSAUX FlipGo dual-screen portable monitor review: Gorgeous displays with touch support and a built-in USB hub",
+    "fingerprint": "de399e963f3bdb058da5bff8dcb5b70b",
+    "timestamp": 1793112866.034125,
+    "date": "2026-10-27T14:54:26.034125"
+  },
+  "https://www.cnx-software.com/2026/10/27/synergy-logic-slm-rp4-a-raspberry-pi-4-plc-with-modular-industrial-i-o/": {
+    "title": "Synergy Logic SLM-RP4 A Raspberry Pi 4 PLC with modular industrial I/Os",
+    "fingerprint": "ce0e8fb4b9ab9cd7dcf4c26507f10cf2",
+    "timestamp": 1793112866.034618,
+    "date": "2026-10-27T14:54:26.034619"
+  },
+  "https://www.cnx-software.com/2026/10/27/rockchip-rk3576-powered-smarc-2-2-system-on-module-and-development-board-target-edge-ai-applications/": {
+    "title": "Rockchip RK3576-powered SMARC 2.2 system-on-module and development board target Edge AI applications",
+    "fingerprint": "dc867cc824a2c6a9d6cfb8ee8677eb35",
+    "timestamp": 1793112866.034793,
+    "date": "2026-10-27T14:54:26.034794"
+  },
+  "https://www.fiercesensors.com/ai/questioning-can-robots-can-feel-pain": {
+    "title": "Questioning: Can robots can feel pain?",
+    "fingerprint": "035baae7a29d98ca101730615d25f872",
+    "timestamp": 1793112866.035764,
+    "date": "2026-10-27T14:54:26.035766"
+  },
+  "https://www.fiercesensors.com/ai/meta-announces-vr-glasses-1299-alongside-cheaper-smart-glass-updates": {
+    "title": "Meta announces VR Glasses for $1,299 alongside cheaper smart glass updates",
+    "fingerprint": "a1ccff0071f21ad4322933c3fb9a8279",
+    "timestamp": 1793112866.036136,
+    "date": "2026-10-27T14:54:26.036137"
+  },
+  "https://www.techspot.com/news/114353-ai-safety-expert-stops-saving-retirement-because-believes.html": {
+    "title": "AI safety expert stops saving for retirement because he believes AI could wipe out humanity within a decade",
+    "fingerprint": "fbfad5b25df2a526937332645a75ee59",
+    "timestamp": 1793112866.036341,
+    "date": "2026-10-27T14:54:26.036342"
+  },
+  "https://www.techspot.com/news/114351-hackers-unlock-hidden-ai-performance-nvidia-rtx-20.html": {
+    "title": "Modders unlock hidden AI power on Nvidia RTX 20-, 30-, and 40-series GPUs, nearly doubling some benchmarks",
+    "fingerprint": "6343173329c05200115b6008d3aed6da",
+    "timestamp": 1793112866.036554,
+    "date": "2026-10-27T14:54:26.036555"
+  },
+  "https://www.techspot.com/news/114352-meta-gets-3-billion-nvidia-companies-team-up.html": {
+    "title": "Meta gets $3 billion from Nvidia as they team up to make Muse AI faster and cheaper to run",
+    "fingerprint": "5096e2503e3f71be886415ae257b824d",
+    "timestamp": 1793112866.036732,
+    "date": "2026-10-27T14:54:26.036734"
+  },
+  "https://www.techspot.com/news/114347-microsoft-offering-voluntary-buyouts-about-60000-employees-quarter.html": {
+    "title": "Microsoft is offering voluntary buyouts to about 60,000 employees, a quarter of the company",
+    "fingerprint": "0b6ab1c2ce6e2f096c9d0b0f93aa27c5",
+    "timestamp": 1793112866.036903,
+    "date": "2026-10-27T14:54:26.036904"
+  },
+  "https://www.techspot.com/news/114350-intel-leaked-28-core-nova-lake-cpu-beats.html": {
+    "title": "Intel's leaked 28-core Nova Lake CPU beats the Core Ultra 9 285K and Ryzen 9 9950X3D in single-thread testing",
+    "fingerprint": "fa7ff2722739aeaaf625cc2fe8fafbe7",
+    "timestamp": 1793112866.037071,
+    "date": "2026-10-27T14:54:26.037072"
+  },
+  "https://www.techspot.com/news/114345-sony-next-playstation-handheld-may-get-exclusive-access.html": {
+    "title": "Sony's next PlayStation handheld may get exclusive access to AMD's mobile RDNA 5",
+    "fingerprint": "bc2c66241e0a8fbcfc2d2af9f41c64fb",
+    "timestamp": 1793112866.037249,
+    "date": "2026-10-27T14:54:26.037251"
+  },
+  "https://www.techspot.com/products/wearables/google-fitbit-edge.330959/": {
+    "title": "Fitbit Edge reviews: A return to simpler fitness tracking",
+    "fingerprint": "b94e1d7cf432afa4ab574adaf74379f7",
+    "timestamp": 1793112866.037417,
+    "date": "2026-10-27T14:54:26.037418"
+  },
+  "https://www.techspot.com/news/114340-ai-boom-happening-seven-companies-rest-sp-500.html": {
+    "title": "The AI boom is happening at seven companies, the rest of the S&P 500 isn't seeing it",
+    "fingerprint": "6308f0269ce6901d08549eb5d15ac065",
+    "timestamp": 1793112866.037605,
+    "date": "2026-10-27T14:54:26.037606"
+  },
+  "https://www.techspot.com/news/114341-anthropic-files-go-public-could-biggest-ipo-ever.html": {
+    "title": "Anthropic files to go public, and it could be the biggest IPO ever",
+    "fingerprint": "3dacdf8a262aaf8aae4d90c359794852",
+    "timestamp": 1793112866.037766,
+    "date": "2026-10-27T14:54:26.037768"
+  },
+  "https://www.techspot.com/news/114337-windows-preparing-intel-biggest-x86-change-years-but.html": {
+    "title": "Windows is preparing for Intel's biggest x86 change in years, but only Xeon chips will use it at first",
+    "fingerprint": "34bf4ba745243431a4a94c9c8bbeb8f6",
+    "timestamp": 1793112866.037963,
+    "date": "2026-10-27T14:54:26.037964"
+  },
+  "https://www.techspot.com/downloads/6351-steamos.html": {
+    "title": "SteamOS 3.9.5 updates KDE Plasma, improves compatibility and device support",
+    "fingerprint": "1350eeaca4149d1801ea64a46fd86c2f",
+    "timestamp": 1793112866.038122,
+    "date": "2026-10-27T14:54:26.038123"
+  },
+  "https://www.techspot.com/news/114339-teardown-reveals-three-theories-why-iphone-duo-screens.html": {
+    "title": "Teardown reveals three theories for why iPhone Duo's screens keep cracking",
+    "fingerprint": "5aab9f620a098d2b8654a4f9a5baf244",
+    "timestamp": 1793112866.038282,
+    "date": "2026-10-27T14:54:26.038283"
+  },
+  "https://www.techspot.com/news/114338-apple-refreshes-ipad-mini-bigger-screen-faster-processor.html": {
+    "title": "Apple's new iPad mini gets an OLED display, A20 Pro chip, and IP67 rating",
+    "fingerprint": "e42bb2573fe98eba9770875ed16117cd",
+    "timestamp": 1793112866.038442,
+    "date": "2026-10-27T14:54:26.038471"
+  },
+  "https://www.techspot.com/news/114335-you-can-now-run-nintendo-switch-games-natively.html": {
+    "title": "You can now run Nintendo Switch games natively on iPhones and Macs",
+    "fingerprint": "712951647e8c513edc89c1d14acb7134",
+    "timestamp": 1793112866.038643,
+    "date": "2026-10-27T14:54:26.038644"
+  },
+  "https://www.techspot.com/news/114326-unreal-engine-58-introduces-advanced-shader-delivery-support.html": {
+    "title": "Unreal Engine 5.8 adds support for Microsoft's Advanced Shader Delivery to remedy stuttering issues",
+    "fingerprint": "ae3aaaf955b30c12f46af51922d3a5c5",
+    "timestamp": 1793112866.038814,
+    "date": "2026-10-27T14:54:26.038815"
   }
 }
