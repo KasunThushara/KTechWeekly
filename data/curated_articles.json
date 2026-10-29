@@ -1,319 +1,374 @@
 [
   {
-    "title": "AI component hikes force the world's largest PC makers to return manufacturing capacity to China",
-    "summary": "PC manufacturing in China tends to be cheaper because of an established supply chain and workforce. Smaller Chinese suppliers are also winning orders by offering easier access to domestic chip manufacturers like CXMT.",
-    "link": "https://www.tomshardware.com/tech-industry/manufacturing/ai-component-hikes-force-the-worlds-largest-pc-makers-to-return-manufacturing-capacity-to-china-brands-to-seek-lower-production-costs-and-efficiency-in-established-supply-chain",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-28T15:26:31.431707"
-  },
-  {
-    "title": "Amazon tells engineers to stop tokenmaxxing to look productive",
-    "summary": "Amazon has published new engineering guidelines warning developers and managers against tokenmaxxing, arguing that AI usage metrics are deeply flawed unless tied to long-term outcomes. The move follows similar spending concerns at Uber and Accenture.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-tells-engineers-to-stop-tokenmaxxing-to-look-productive-says-ai-will-be-central-to-software-development-but-usage-is-not-the-goal-new-guidelines-claim",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-28T15:26:31.431774"
-  },
-  {
-    "title": "FCC rebuffs TP-Link again as it attempts to sell Wi-Fi 8 gear in the US FCC alleges inaccurate documentation and out-of-spec power levels for routers",
-    "summary": "TP-Link just can t seem to catch a break with the FCC, as it s not under fire for exceeding power limits on its routers",
-    "link": "https://www.tomshardware.com/networking/routers/fcc-rebuffs-tp-link-again-as-it-attempts-to-sell-wi-fi-8-gear-in-the-us-fcc-alleges-inaccurate-documentation-and-out-of-spec-power-levels-for-routers",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-28T15:26:31.431833"
-  },
-  {
-    "title": "Corsair Warthog case review: A rugged, military-themed chassis with plenty of airflow",
-    "summary": "The military-inspired Warthog mid-tower borrows from Corsair s Vengeance C70 and takes the military aesthetic up a couple of notches. Is the rugged look worth it?",
-    "link": "https://www.tomshardware.com/pc-components/pc-cases/corsair-warthog-case-review",
+    "title": "AI demand triggers massive PCB shortage for PC makers as order books full until 2030 lead times stretch to 30 months as material costs surge 12x",
+    "summary": "The AI industry continues to gobble up manufacturing resources that were once dedicated to serving PC, smart device, and gadget makers. Inevitably, the PCB industry has started to feel its effects.",
+    "link": "https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-10-28T15:26:31.431891"
-  },
-  {
-    "title": "US Marines join NATO mission in the Baltic Sea to protect undersea cables from sabotage as Russia continues to lurk",
-    "summary": "50 U.S. marines are joining a NATO mission to help protect and monitor undersea infrastructure in the Baltic Sea.",
-    "link": "https://www.tomshardware.com/tech-industry/us-marines-join-nato-mission-in-the-baltic-sea-to-protect-undersea-cables-from-sabotage-as-russia-continues-to-lurk-around-four-dozen-recon-and-intel-specialists-deployed-to-deter-seabed-threats",
-    "categories": [
-      "Tech News"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-10-28T15:26:31.431951"
+    "processed_date": "2026-10-29T15:32:39.281683"
   },
   {
-    "title": "SK hynix-owned Solidigm is plotting a new $45 billion flash memory factory for the US, report claims",
-    "summary": "Solidigm, an American subsidiary of SK hynix, is in discussions about potentially investing $45 billion in a new flash chip factory that would be built in the United States.",
-    "link": "https://www.tomshardware.com/tech-industry/manufacturing/sk-hynix-owned-solidigm-is-plotting-a-new-usd45-billion-flash-memory-factory-for-the-us-report-claims-wants-go-ahead-to-export-equipment-for-china-upgrades-in-return",
+    "title": "US data centers could wipe out 15 years' worth of progress in greenhouse gas emissions, report claims buildouts could emit as much carbon dioxide as all of Mexico",
+    "summary": "The Sierra Club, one of the oldest environmental preservation organizations in the U.S., has now put forth an estimate that by 2030, U.S. data center buildouts will be outputting as much carbon dioxide as the entirety of Mexico.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/us-data-centers-could-wipe-out-15-years-worth-of-progress-in-greenhouse-gas-emissions-report-claims-buildouts-could-emit-as-much-carbon-dioxide-as-all-of-mexico",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-28T15:26:31.432009"
+    "processed_date": "2026-10-29T15:32:39.281848"
   },
   {
-    "title": "Why native PC ports of console games are suddenly everywhere",
-    "summary": "With dozens of titles unofficially ported to PC over the past few months, the big questions are: why is this now possible, and what changed?",
-    "link": "https://www.tomshardware.com/video-games/why-native-pc-ports-of-console-games-are-suddenly-everywhere-reverse-engineer-anything-gives-ai-agents-a-unified-toolkit-and-byte-for-byte-checks-keep-hallucinations-in-line",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-28T15:26:31.432065"
-  },
-  {
-    "title": "Nvidia RTX GPU vendor Palit denies its Galax factory has closed due to a shortage of chips",
-    "summary": "Palit denies news that Galax is going out of production.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-gpu-vendor-palit-denies-its-galax-factory-has-closed-due-to-a-shortage-of-chips-company-says-brand-continues-to-operate-as-usual",
+    "title": "Nvidia GeForce RTX 5080 prices hit $2,000, costing more than the RTX 5090 did at launch and with limited stock available original $999 MSRP long forgotten, with prices now 2-3x higher",
+    "summary": "It costs just as much to buy an Nvidia GeForce RTX 5080 right now as the launch price for the RTX 5090, with prices now at least two times higher for this high spec GPU.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-geforce-rtx-5080-prices-hit-usd2-000-costing-more-than-the-rtx-5090-did-at-launch-and-with-limited-stock-available-original-usd999-msrp-long-forgotten-with-prices-now-2-3x-higher",
     "categories": [
       "GPUs",
-      "Semiconductors"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-10-28T15:26:31.432114"
-  },
-  {
-    "title": "Save $249 on 32GB of DDR5 with this 9800X3D parts bundle",
-    "summary": "Save $248.99 on this AMD Ryzen 7 9800X3D bundle at Newegg with an MSI MAG X870E Tomahawk Max Wifi motherboard and 32GB of DDR5-6000 RAM, now just $1,094.99.",
-    "link": "https://www.tomshardware.com/pc-components/save-usd249-on-32gb-of-ddr5-with-this-9800x3d-parts-bundle-grab-one-of-amds-top-cpus-with-an-msi-x870e-motherboard-and-a-free-aio-cooler-for-under-usd1-100",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-28T15:26:31.432163"
-  },
-  {
-    "title": "Taiwan working on autonomous drone swarms to counter China s increasingly aggressive grey-zone military tactics",
-    "summary": "The island is building an autonomous system that would work with various drones, allowing it to extend the reach and endurance of its coast guard ships.",
-    "link": "https://www.tomshardware.com/tech-industry/drones/taiwan-working-on-autonomous-drone-swarms-to-counter-chinas-increasingly-aggressive-grey-zone-military-tactics-island-has-already-completed-flight-simulations-now-working-towards-flight-trials-over-maritime-areas",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-28T15:26:31.432217"
-  },
-  {
-    "title": "Standalone Nvidia Vera CPUs land in Oracle Cloud's multi-gigawatt deployment",
-    "summary": "Nvidia s Vera CPU is now generally available on Oracle s OCI Superclusters, a win for Nvidia as it moves past NVL72 to a standalone Vera deployment at a major hyperscaler.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-oracle-bring-vera-cpu-instances-online-in-multi-gigawatt-deployment-oci-superclusters-also-set-to-expand-with-rubin-only-clusters-attached-to-dual-xeon-6-hosts",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-28T15:26:31.432271"
-  },
-  {
-    "title": "IT vendor lists massive $60 million AI supercomputer on eBay with 300 racks of decommissioned GPUs",
-    "summary": "Someone listed a massive 300-rack AI supercomputer on eBay for $59.7M. Packed with 9,600 A100 GPUs and 4,200 EPYC CPUs, it even ships for free.",
-    "link": "https://www.tomshardware.com/desktops/servers/it-vendor-lists-massive-usd60-million-ai-cluster-on-ebay-300x-racks-of-decommissioned-gpus-includes-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-plus-free-shipping",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-28T15:26:31.432323"
-  },
-  {
-    "title": "$4,700 audiophile-grade network hub promises a noise-free experience and music with 'emotional impact'",
-    "summary": "$4,700 audiophile-grade network hub promises a noise-free experience and music with \"emotional impact.\" Seven isolation stages per port were chosen with \"listening comparisons\"",
-    "link": "https://www.tomshardware.com/pc-components/sound-cards/usd4-700-audiophile-grade-network-hub-promises-a-noise-free-experience-and-music-with-emotional-impact-seven-isolation-stages-per-port-were-chosen-with-listening-comparisons",
-    "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-28T15:26:31.432375"
+    "processed_date": "2026-10-29T15:32:39.281976"
   },
   {
-    "title": "Japan experiments with autonomous AI chainsaw-wielding robots",
-    "summary": "A scary-looking humanoid robot with a chainsaw arm was shown in action on Japanese TV news trimming tree branches that had begun encroaching on railway lines.",
-    "link": "https://www.tomshardware.com/tech-industry/robotics/japan-experiments-with-autonomous-ai-chainsaw-wielding-robots-video-shows-rail-truck-mounted-metal-humanoid-cutting-down-tree-branches",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-28T15:26:31.432425"
-  },
-  {
-    "title": "Fields Medal-winning UC Berkeley professor ends graded homework due to AI cheating",
-    "summary": "Award-winning mathematician Richard Brocherds says that it's a waste of time and money to grade AI answers, so he now only uses in-person exams to see how well his students are doing in his classes.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/fields-medal-winning-uc-berkeley-professor-ends-graded-homework-due-to-ai-cheating-says-in-person-exams-are-the-only-solution-left-to-widespread-ai-use",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-28T15:26:31.432477"
-  },
-  {
-    "title": "Military drone outfit Anduril partners with Qualcomm to build laptops on US soil with new BlueChip venture",
-    "summary": "The defense contractor aims to fully bring back laptop manufacturing on U.S. shores, with its first BlueChip laptop prototypes having 90% procurement cost coming from suppliers in the U.S. and other allied countries.",
-    "link": "https://www.tomshardware.com/laptops/military-drone-outfit-anduril-partners-with-qualcomm-to-build-laptops-on-us-soil-with-new-bluechip-venture-defense-contractor-targets-a-100-percent-domestic-supply-chain-in-the-future",
-    "categories": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-28T15:26:31.432535"
-  },
-  {
-    "title": "Israeli ad tech firm tied to suspected Starlink tracking effort, report claims",
-    "summary": "Citizen Lab and Confiant linked Israeli firm Discover-Tech to suspected surveillance through online advertising. Researchers said its ads appeared across nearly 200,000 websites and mobile apps. TrendAI separately identified related activity under the codename SHADOW-EARTH-79. The findings raise concerns about ad auctions being exploited to track users across sensitive networks, though ad impressions alone do not confirm spyware infections.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/israeli-ad-tech-firm-tied-to-suspected-starlink-tracking-effort-report-claims-researchers-say-it-outbid-everyone-for-starlink-linked-ads-in-100-countries-including-where-the-service-is-banned",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-28T15:26:31.432603"
-  },
-  {
-    "title": "LILYGO T-Display K230 RISC-V AI dev kit features AMOLED, LoRa, and keyboard with optional LTE-M/NB-IoT cellular connectivity",
-    "summary": "LILYGO T-Display K230 is a handheld dev kit based on Canaan s Kendryte K230 dual-core 64-bit RISC-V processor. The kit features a 4.1-inch AMOLED touchscreen and supports an optional detachable keyboard with battery and optional nRF9151 cellular and GNSS connectivity. The device also comes with 1GB LPDDR4 RAM, a 2MP camera, HDMI output, Ethernet, WiFi 4, and either an SX1262 or LR2021 LoRa transceiver. These features make this kit suitable for remote monitoring, wireless communication, and other embedded applications. LILYGO T-Display K230 Kit specifications: SoC Kendryte K230 CPU 64-bit RISC-V processor @ 1.6GHz with RISC-V Vector Extension 1.0, FPU 64-bit RISC-V processor @ 800MHz with support for RV64GCB instruction set; AI accelerator KPU with support for INT8 and INT16 Compatible with TVM, TensorFlow, PyTorch, ONNX Typical network performance: Resnet 50 85fps @ INT8; Mobilenet_v2 670fps @ INT8; YoloV5S 38fps @INT8; GPU 2.5D graphics engine DPU [...] The post LILYGO T-Display K230 RISC-V AI dev kit features AMOLED, LoRa, and keyboard with optional LTE-M/NB-IoT cellular connectivity appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/28/lilygo-t-display-k230-risc-v-ai-dev-kit-features-amoled-lora-and-an-optional-keyboard/",
+    "title": "HyperX Omen 35L review: A polished gaming PC for deep pockets",
+    "summary": "Premium styling, quiet operation, and impressive performance elevates the HyperX Omen 35L into competition with the best the market has to offer. But whether it's worth the money depends on which configuration you choose.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/hyperx-omen-35l-review",
     "categories": [
       "Hardware",
       "GPUs"
     ],
     "quality_score": 15,
-    "processed_date": "2026-10-28T15:26:31.432973"
+    "processed_date": "2026-10-29T15:32:39.282095"
   },
   {
-    "title": "Picotronix modular oscilloscope and logic analyzer features two Raspberry Pi Pico 2 boards (Crowdfunding)",
-    "summary": "Picotronix is a modular oscilloscope, logic analyzer, and frequency meter from Sydney-based Thort Werx Pty Ltd, based on two Raspberry Pi Pico 2 units, more exactly a Pico 2 used as a signal processor and a Pico 2 W used to drive the display and for wireless connectivity. The solution is comprised of the Picotronix Main Module with an integrated LCD and three expansion ports, used to connect picoPods plug-in expansion modules to add high-speed ADCs, mixed-logic family logic state analysis, a waveform generator, analog conditioning, and more. Picotronix key features and specifications: Main Module Two-channel digital storage oscilloscope 8-channel logic analyzer, expandable up to 14 channels with a picoPod; up to 150 MHz sample rate Frequency meter Display 320 240 color LCD from Pimoroni Three expansion ports, two 10-pin analog ports, and one 26-pin multifunction port Analog channel Accepts 3 Vpp or 16.6 Vpp at 1 M , [...] The post Picotronix modular oscilloscope and logic analyzer features two Raspberry Pi Pico 2 boards (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/10/28/picotronix-modular-oscilloscope-and-logic-analyzer-features-two-raspberry-pi-pico-2-boards/",
+    "title": "Nvidia CEO Jensen Huang may have been the target of a spy plot through 'Chinese intelligence asset,' report claims",
+    "summary": "Sources say that Alice Huang, a senior executive at an Nvidia cloud partner who has close ties with Jensen Huang, is suspected of passing information to Beijing.",
+    "link": "https://www.tomshardware.com/tech-industry/policy/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-spy-plot-through-chinese-intelligence-asset-report-claims-exec-from-firm-under-investigation-for-smuggling-banned-ai-chips-to-china-accused-of-being-a-spy-was-also-feeding-information-to-beijing",
     "categories": [
-      "Hardware",
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-29T15:32:39.282207"
+  },
+  {
+    "title": "Dept of Justice reportedly probes Nvidia over $13 billion Hugging Face AI platform acquisition",
+    "summary": "Nvidia's near $13 billion buyout of Hugging Face has come under scrutiny over concerns that it will impact competition in the AI space.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dept-of-justice-reportedly-probes-nvidia-over-usd13-billion-hugging-face-ai-platform-acquisition-concerns-raised-over-competition-in-ai-and-pressure-on-customers",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-29T15:32:39.282313"
+  },
+  {
+    "title": "Tech whiz's internet-accessible Synology NAS gets bit by ransomware attack from 18-month-old remote code execution flaw",
+    "summary": "Tech whizz' internet-accessible Synology NAS gets bit by transomware attack security updates 18 months out of date in a series of catastrophic errors",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/tech-whizzs-internet-accessible-synology-nas-gets-bit-by-ransomware-attack-from-18-month-old-remote-code-execution-flaw-security-updates-neglected-in-a-series-of-catastrophic-errors",
+    "categories": [
       "Tech News"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-10-28T15:26:31.433089"
+    "quality_score": 5,
+    "processed_date": "2026-10-29T15:32:39.282418"
   },
   {
-    "title": "PCB demand for physical AI soars as on-demand maker CircuitHub expands",
-    "summary": "CircuitHub says it builds and ships PCBs 2x faster than Chinese counterparts",
-    "link": "https://www.fiercesensors.com/sensors-fusion/pcb-demand-physical-ai-soars-demand-maker-circuithub-expands",
+    "title": "Our first step at defining a CPU benchmark for agentic AI",
+    "summary": "Over the past six months, CPUs have taken center stage as agentic AI workloads evolve. Here s our first attempt at trying to measure CPU performance when running agentic workloads.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/our-first-step-at-defining-a-cpu-benchmark-for-agentic-ai-how-we-can-measure-throughput-of-agentic-ai-workloads-without-any-gpu-involved",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-10-28T15:26:31.433774"
+    "quality_score": 15,
+    "processed_date": "2026-10-29T15:32:39.282528"
   },
   {
-    "title": "This open-source keyboard lets you snap keys together in any layout",
-    "summary": "The project comes from Nathan Alspaugh, an MIT freshman studying aerospace engineering, who said he has spent around 100 hours working on it since March. When he posted the project to Hacker News this week, he said the idea came from his frustration that nobody sold triangle- or circle-shaped keyboards. Read Entire Article",
-    "link": "https://www.techspot.com/news/114363-open-source-keyboard-you-snap-keys-together-any.html",
+    "title": "Score a huge $1,250 saving on this Alienware gaming PC with an RTX 5070 Ti and 32GB DDR5 right now",
+    "summary": "You can save $1,250 on this Alienware Aurora gaming PC with an RTX 5070 Ti and 32GB of DDR5 RAM, now priced at just $2,599.99.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/score-a-huge-usd1-250-saving-on-this-alienware-gaming-pc-with-an-rtx-5070-ti-and-32gb-ddr5-right-now-big-newegg-price-drop-means-you-can-grab-this-4k-ready-rig-with-a-24-core-intel-cpu-and-1tb-ssd-for-usd2-599-99",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-29T15:32:39.282632"
+  },
+  {
+    "title": "Fujifilm plans 5x production boost of 100TB magnetic storage tapes driven by skyrocketing AI storage demand",
+    "summary": "Fujifilm plans to increase the production of magnetic tape by as much as 5x as it works to meet a newfound demand for AI data center storage.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/fujifilm-plans-5x-production-boost-of-100tb-magnetic-storage-tapes-driven-by-ai-usd63-million-injection-is-the-largest-investment-in-tape-for-20-years",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-29T15:32:39.282750"
+  },
+  {
+    "title": "Anthropic s IPO filing shows most of its compute goes to R&D, not serving customers",
+    "summary": "Anthropic s S-1 splits its $8.9 billion H1 compute bill: most went to R&D, with less than a third estimated to serve Claude customers.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ipo-filing-shows-most-of-its-compute-goes-to-r-and-d-not-serving-customers-company-details-massive-usd800-billion-in-tpu-and-gpu-contracts",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-29T15:32:39.282859"
+  },
+  {
+    "title": "Fake PS5 emulators are being used to steal gamers' passwords",
+    "summary": "Malware disguised as two popular PS5 game emulators, distributed via GitHub, has been identified as stealing passwords from unsuspecting gamers.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/fake-ps5-emulators-are-being-used-to-infect-gamers-computers-with-password-scraping-malware-two-well-known-github-repos-including-anyps5-hit",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-29T15:32:39.282955"
+  },
+  {
+    "title": "Man granted first-of-its-kind religious exemption against mandatory AI use at work",
+    "summary": "A research administrator at the University of Kentucky was granted a Title VII exemption, allowing them to not use AI tools as it goes against their moral beliefs.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-29T15:32:39.283058"
+  },
+  {
+    "title": "GitHub says massive influx of AI-generated code required extra 4 million CPU cores and 160 petabytes of storage to manage",
+    "summary": "Agentic AI led to a sixfold year-on-year influx of new code at GitHub, leading the company to add 4 million CPU cores and 160PB of storage to its datacenters",
+    "link": "https://www.tomshardware.com/software/github-report-highlights-massive-influx-of-ai-generated-code-sixfold-increase-in-activity-over-one-year-required-extra-4-million-cpu-cores-and-160pb-of-storage",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-29T15:32:39.283165"
+  },
+  {
+    "title": "Flock ignores Minnesota city s orders not to reinstall AI surveillance cameras",
+    "summary": "Dayton, MN's city council removed Flock cameras and canceled its contract in August, but Flock reinstalled cameras anyway, almost a month after the program's suspension.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/flock-ignores-minnesota-citys-orders-not-to-reinstall-ai-surveillance-cameras-citizens-complain-after-spotting-two-cameras-despite-the-city-canceling-its-contract",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-29T15:32:39.283267"
+  },
+  {
+    "title": "Apple launches new MacBook Pro with touchscreen and OLED starts at $2,899",
+    "summary": "The computer is also lighter and has an updated speaker system.",
+    "link": "https://www.tomshardware.com/laptops/apple-launches-new-macbook-with-touchscreen-and-oled-starts-at-usd2-899",
+    "categories": [
+      "Tech News",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-29T15:32:39.283363"
+  },
+  {
+    "title": "Malaysia seizes $12 million worth of advanced AI chips hidden inside 30 servers",
+    "summary": "Malaysian customs seized 30 servers containing more than $12 million worth of advanced AI chips at Kuala Lumpur International Airport, as authorities investigate a suspected smuggling network linked to multiple previous seizures.",
+    "link": "https://www.tomshardware.com/tech-industry/policy/malaysia-seizes-usd12-million-worth-of-advanced-ai-chips-hidden-inside-30-servers-customs-says-suspected-smuggling-network-used-the-country-as-a-transit-hub",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-29T15:32:39.283472"
+  },
+  {
+    "title": "$2600 LattePanda Sigma 2 single board server features 180 TOPS Intel Core Ultra X7 358H SoC for local AI applications",
+    "summary": "The LattePanda Sigma 2 is a compact single board server/computer powered by an Intel Core Ultra X7 358H Panther Lake-H processor with Intel Arc B390 graphics and a 50 TOPS NPU delivering up to 180 TOPS of combined performance for local AI workloads. The board features up to 64GB of LPDDR5X-8533 RAM, three M.2 M-Key slots, one M.2 E-Key slot, and an OCuLink port for storage, wireless, and accelerator expansion, as well as two Thunderbolt 4 ports, dual 10GbE, USB 3.2 Gen 2 and USB 2.0 ports, and HDMI 2.1, DisplayPort 2.1, and eDP 1.5 display interfaces. Key Specifications SoC Intel Core Ultra X7 Processor 358H CPU 16-core (4P + 8E + 4LPE) @ 1.9/1.5/1.5 GHz (base frequency), 4.8/3.5/3.5 GHz (Turbo frequency) Cache 18 MB Intel Smart Cache GPU 12-core Intel Arc B390 GPU @ 2.5 GHz up to 122 TOPS (INT8) AI accelerator 50 [...] The post $2600 LattePanda Sigma 2 single board server features 180 TOPS Intel Core Ultra X7 358H SoC for local AI applications appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/29/2600-lattepanda-sigma-2-single-board-server-features-180-tops-intel-core-ultra-x7-358h-soc-for-local-ai-applications/",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-10-29T15:32:39.283954"
+  },
+  {
+    "title": "BeagleConnect QuadESC 4-channel BLDC motor controller uses TI s AM13E23019-based Torque module",
+    "summary": "BeagleBoard.org has introduced the BeagleConnect QuadESC, an open-source 4-channel BLDC motor controller/carrier board built around the BeagleConnect Torque SoM. The SoM features TI s 200 MHz AM13E23019 Arm Cortex-M33 microcontroller with a trigonometric math unit (TMU) and a TinyEngine neural-network accelerator for edge AI applications. The QuadESC carrier board supports four three-phase BLDC motor outputs, twelve current and twelve voltage sensing channels, four temperature sensors, and battery voltage monitoring. It also includes an eight-pin flight controller connector with DShot, telemetry, and current reporting signals, along with SWD debugging, a buzzer connector, and onboard power regulation. BeagleConnect Torque SoM The Torque SoM can also be integrated with custom carrier boards for robotics, motor control, and CAN-connected applications. It provides the processing, sensing, and communication interfaces, while external hardware supplies the motor power. Specifications: Main MCU Texas Instruments AM13E23019 CPU core Arm Cortex-M33 MCU @ 200 MHz with FPU Memory 128KB [...] The post BeagleConnect QuadESC 4-channel BLDC motor controller uses TI s AM13E23019-based Torque module appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/10/29/beagleconnect-quadesc-4-channel-bldc-motor-controller-ti-am13e23019-based-torque-module/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-10-29T15:32:39.284144"
+  },
+  {
+    "title": "Mars Ingenuity engineer pivots to teach robots to feel pain and make safe decisions",
+    "summary": "Meet the CEO of startup AstraQua, a physical AI startup now working on a $1.2M NASA contract",
+    "link": "https://www.fiercesensors.com/ai/mars-ingenuity-engineer-pivots-teach-robots-feel-pain-and-make-safe-decisions",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-10-29T15:32:39.285128"
+  },
+  {
+    "title": "HP and Asus are moving PC production back to China as soaring component costs force a rethink",
+    "summary": "According to Nikkei Asia, American PC giant HP and Taiwanese consumer electronics firm Asus have already moved some of their manufacturing operations back to China. Another leading PC OEM, Dell, is also said to be evaluating whether to follow suit and shift some of its PC production back to the... Read Entire Article",
+    "link": "https://www.techspot.com/news/114371-hp-asus-moving-pc-production-back-china-soaring.html",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-28T15:26:31.434031"
+    "processed_date": "2026-10-29T15:32:39.285430"
   },
   {
-    "title": "Police are using AI-powered license plate cameras to pull over drivers for \"suspicious\" travel patterns",
-    "summary": "The ACLU recently outlined a pattern of police traffic stops based solely on data from Flock cameras and other license plate readers. The reports go back to at least 2025 and show how closely authorities can track the movements of most motorists. Read Entire Article",
-    "link": "https://www.techspot.com/news/114358-police-using-ai-powered-license-plate-cameras-pull.html",
+    "title": "The Commodore 64C returns, complete with original 1980s molds and modern hardware",
+    "summary": "Now, the 64C is back as a brand-new computer. The revived Commodore started shipping its 64C Ultimate to pre-order customers this week. Anyone who skipped the campaign can order one as well, starting at $299.99. Read Entire Article",
+    "link": "https://www.techspot.com/news/114380-commodore-64c-back-complete-original-1980s-molds-modern.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-29T15:32:39.285541"
+  },
+  {
+    "title": "Hackers leak details of 41,000 Homeland Security employees, exposing undercover operations and surveillance tools",
+    "summary": "The transparency nonprofit Distributed Denial of Secrets published the archive, which it calls \"Icepick,\" on Wednesday. It spans DHS and seven of its component agencies, including Immigration and Customs Enforcement and US Customs and Border Protection. Read Entire Article",
+    "link": "https://www.techspot.com/news/114375-hackers-leak-details-41000-homeland-security-employees-exposing.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-28T15:26:31.434097"
+    "processed_date": "2026-10-29T15:32:39.285655"
   },
   {
-    "title": "Palit denies Galax factory is shutting down due to Nvidia RTX 5000-series chip shortages",
-    "summary": "Palit's official statement says it is aware of recent reports and speculation regarding Galax's business operations. It adds that the brand continues to operate as usual, no manufacturing facilities have been shut down, and Galax products remain available in both domestic and international markets. Read Entire Article",
-    "link": "https://www.techspot.com/news/114365-palit-denies-galax-factory-shutting-down-due-nvidia.html",
+    "title": "Microsoft spent $6.5 billion less than expected on AI infrastructure, but it wasn't by choice",
+    "summary": "Microsoft spent $45.2 billion on capital expenditures, including finance leases, in the September quarter, compared with the $51.7 billion expected by analysts cited by the Financial Times. That's still around 30% more than a year earlier, illustrating just how expensive the AI infrastructure race has become. Read Entire Article",
+    "link": "https://www.techspot.com/news/114382-microsoft-spends-65-billion-less-than-expected-ai.html",
     "categories": [
-      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-29T15:32:39.285810"
+  },
+  {
+    "title": "Valve won't ban AI games from Steam despite growing complaints and extortion threats",
+    "summary": "Although Valve forces developers to disclose how they use generative AI in making their games, the company refuses to ban the technology's use outright from Steam. Valve also recently recommended that indie developers concerned about AI clones strive to make their original games better through constant updates and community building. Read Entire Article",
+    "link": "https://www.techspot.com/news/114374-valve-wont-ban-ai-generated-steam-games-despite.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-29T15:32:39.285932"
+  },
+  {
+    "title": "Alphabet shares plunge over 10% as Google's AI search struggles to make money",
+    "summary": "Alphabet reported quarterly revenue of $127.6 billion, up 25% year over year, but earnings of $2.12 per share missed expectations of around $3.01. Its net income fell to $26.2 billion, though an $8.7 billion loss on equity investments contributed to the decline. Read Entire Article",
+    "link": "https://www.techspot.com/news/114381-alphabet-shares-plunge-over-10-google-ai-search.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-29T15:32:39.286042"
+  },
+  {
+    "title": "Amazon tells engineers to stop tokenmaxxing and judge AI tools by what they ship",
+    "summary": "Amazon is not abandoning usage data. It is asking managers to examine those figures alongside other indicators. Read Entire Article",
+    "link": "https://www.techspot.com/news/114373-amazon-warns-engineers-against-tokenmaxxing-shifts-focus-ai.html",
+    "categories": [
+      "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-28T15:26:31.434162"
+    "processed_date": "2026-10-29T15:32:39.286142"
   },
   {
-    "title": "Watch this autonomous drone chase a person through a forest without GPS, maps, or cloud computing",
-    "summary": "Purdue computer science professor Aniket Bera posted the 44-second video on LinkedIn last Friday. It shows a quadcopter from his IDEAS Lab weaving between trees to keep a person in frame. And the drone works it all out on its own computer, without a map of the forest to rely... Read Entire Article",
-    "link": "https://www.techspot.com/news/114361-watch-autonomous-drone-chase-person-through-forest-without.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-10-28T15:26:31.434221"
-  },
-  {
-    "title": "Congress is questioning Delaware's plan to let AI agents run companies",
-    "summary": "House Oversight Committee chairman James Comer wrote to Governor Matt Meyer on October 26, requesting documents about the proposed Artificial Intelligence Company, or AIC. Read Entire Article",
-    "link": "https://www.techspot.com/news/114362-forget-ai-replacing-workers-delaware-wants-run-entire.html",
+    "title": "Americans are losing enthusiasm for their jobs, with AI and remote workers at the center of the decline",
+    "summary": "Gallup began tracking employee engagement in 2000, when 26% of employees in the US said they were engaged. That figure stayed steady between 26% and 30% through 2013, then climbed to a peak of 36% in 2020. Read Entire Article",
+    "link": "https://www.techspot.com/news/114379-americans-losing-enthusiasm-their-jobs-ai-remote-workers.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-28T15:26:31.434272"
+    "processed_date": "2026-10-29T15:32:39.286250"
   },
   {
-    "title": "Discord will make some channels and messages searchable on Google",
-    "summary": "Answers posted after mid-December to questions in discoverable Discord servers can appear in search results on the open web. Usernames and avatars won't appear next to the messages, and admins can already opt out of the new policy. Read Entire Article",
-    "link": "https://www.techspot.com/news/114357-discord-make-channels-messages-searchable-google.html",
+    "title": "Check Point is turning network firewalls into cloud-based subscriptions",
+    "summary": "Check Point recently introduced its new Firewall-as-a-Subscription offering, giving organizations access to comprehensive network protection designed for the AI era. The Israeli cybersecurity company says customers no longer need to purchase expensive hardware appliances before getting started with the new platform. However, they'll be locked into monthly or annual payments... Read Entire Article",
+    "link": "https://www.techspot.com/news/114368-check-point-turning-network-firewalls-cloud-based-subscriptions.html",
     "categories": [
+      "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-28T15:26:31.434326"
+    "processed_date": "2026-10-29T15:32:39.286373"
   },
   {
-    "title": "A new report accuses Microsoft of using 10 \"dark patterns\" to keep you on Edge",
-    "summary": "The Browser Choice Alliance (BCA), a group of browser makers advocating fair competition and freedom to choose a browser, commissioned the report, which was produced by the Behavioural Insights Team (BIT). Read Entire Article",
-    "link": "https://www.techspot.com/news/114360-microsoft-tricks-keep-users-edge-detailed-new-report.html",
+    "title": "Apple finally has a touchscreen laptop, 16 years after Steve Jobs called them \"terrible\"",
+    "summary": "The new MacBook Pro with PROLED XDR is Apple's first laptop to include a touchscreen and an OLED panel. Pricing starts at $2,900 for the 14\" model or $3,400 for the 16\" model, both sporting the M5 Pro SoC. If you're about maxing out, the 16-inch M5 Max variant starts... Read Entire Article",
+    "link": "https://www.techspot.com/news/114369-apple-finally-has-touchscreen-laptop-16-years-after.html",
     "categories": [
+      "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-10-28T15:26:31.434379"
+    "processed_date": "2026-10-29T15:32:39.286487"
   },
   {
-    "title": "Radeon 9070 XT vs. Radeon 7900 XTX: 50+ Game Benchmark",
-    "summary": "Two generations apart, AMD's Radeon RX 9070 XT and RX 7900 XTX are surprisingly close. We benchmark 51 games to see where RDNA 4 pulls ahead, where RDNA 3 holds on, and which GPU makes more sense. Read Entire Article",
-    "link": "https://www.techspot.com/review/3191-radeon-9070-xt-vs-radeon-7900-xtx/",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-10-28T15:26:31.434429"
-  },
-  {
-    "title": "Researchers set a real-time fiber record: 3.2 petabits per second over 10.3 kilometers",
-    "summary": "A joint initiative by Chinese researchers and engineers has set a new record for real-time fiber-optic communications. The team sent 3.2 petabits per second (Pbps) through a single optical fiber, topping the 2.5 Pbps mark the same group set earlier this year. The figure reflects bidirectional transmission, with traffic flowing... Read Entire Article",
-    "link": "https://www.techspot.com/news/114344-researchers-set-real-time-fiber-record-32-petabits.html",
+    "title": "Ford's $30K Fathom electric pickup can be used as your home's battery backup without a separate inverter",
+    "summary": "According to Ford, the Fathom's bidirectional charging feature will rely on a built-in inverter, eliminating the need for the expensive 80A wall-mounted unit required by the F-150 Lightning. The inverter will convert power from the truck's battery into AC electricity, supplying up to 10 kW to a home. This would... Read Entire Article",
+    "link": "https://www.techspot.com/news/114364-ford-30k-fathom-electric-pickup-can-used-home.html",
     "categories": [
       "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-10-28T15:26:31.434491"
+    "quality_score": 5,
+    "processed_date": "2026-10-29T15:32:39.286601"
   },
   {
-    "title": "Apple refreshes 14-inch MacBook Pro with M6 chip and faster wireless",
-    "summary": "The M6 features two additional CPU and GPU cores compared to the previous M5. According to Apple, the GPU delivers up to 30% faster graphics performance and 25% faster on-device AI performance. Read Entire Article",
-    "link": "https://www.techspot.com/news/114354-apple-introduces-new-14-inch-macbook-pro-m6.html",
+    "title": "Grand Theft Auto VI will be a huge 210 GB download on PS5",
+    "summary": "Grand Theft Auto VI is finally launching on November 19, and players should get their machines in order so the new open-world blockbuster lands on a comfortable hardware setup. Storage, apparently, is one of the most important considerations, as the latest Rockstar production will require a massive amount of space... Read Entire Article",
+    "link": "https://www.techspot.com/news/114356-grand-theft-auto-vi-huge-210-gb-download.html",
     "categories": [
-      "Semiconductors",
-      "GPUs"
+      "Hardware",
+      "Tech News"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-10-28T15:26:31.434554"
+    "quality_score": 5,
+    "processed_date": "2026-10-29T15:32:39.286731"
+  },
+  {
+    "title": "Kali Linux 2026.3 adds six security tools, updated KDE Plasma and Linux kernel",
+    "summary": "Kali Linux 2026.3 introduces six new security tools, including RustScan for port scanning, Dalfox for XSS testing, and Katana for web crawling. The update also brings KDE Plasma 6.7 with per-screen virtual desktops, Linux kernel 7.1.5, 126 updated packages, and refreshed build scripts with Docker and Podman support. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/6738-kali-linux.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-29T15:32:39.286849"
+  },
+  {
+    "title": "Samsung launches Galaxy Buds On, open-ear earbuds with a clip-on design",
+    "summary": "The South Korean electronics giant said it drew on nearly 120 million ear data points during its AI-assisted design and test phase, simulating a range of ear shapes and use scenarios. The result is a clip-on design that wraps around the back of the ear rather than nestling into the... Read Entire Article",
+    "link": "https://www.techspot.com/news/114367-samsung-introduces-galaxy-buds-distinctive-clip-design.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-29T15:32:39.286962"
+  },
+  {
+    "title": "Gartner says only 3% of organizations are getting AI cost savings from productivity, yet 85% plan to spend more",
+    "summary": "The figure comes from Gartner's HR Symposium in Orlando. In a finding that perfectly sums up the blind faith so many executives have in AI, 77% of board members expect the technology will deliver value in the form of productivity and cost savings. This is despite 97% of organizations being... Read Entire Article",
+    "link": "https://www.techspot.com/news/114366-ai-promised-savings-arent-materializing-3-companies-beat.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-10-29T15:32:39.287078"
   }
 ]
