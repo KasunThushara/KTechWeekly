@@ -1,213 +1,408 @@
 [
   {
-    "title": "Brazilian lawyers busted for attempting to manipulate court's AI with prompt injection hidden in filing",
-    "summary": "The lawyers of a plaintiff in a labor case attempted to use prompt injection to influence the court's AI but were caught. They won the case anyway, as the defendant did not respond, making the move totally unnecessary.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000",
+    "title": "Tachyum, developer of heavily-delayed universal Prodigy processor, voluntarily files for bankruptcy",
+    "summary": "Tachyum files for bankruptcy, the court in Bratislava initiates bankruptcy proceedings.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/tachyum-developer-of-heavily-delayed-universal-prodigy-processor-voluntarily-files-for-bankruptcy-future-of-prodigy-ip-unknown-as-company-begins-bankruptcy-proceedings",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-02T18:49:29.236045"
+  },
+  {
+    "title": "Putin demands Russian data centers supply capacity to the state in wake of Ukraine drone attacks",
+    "summary": "President Putin has told non-state Russian data centers that they must set aside 10% of their total capacity for use by the country's own IT infrastructure.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/putin-demands-russian-data-centers-supply-capacity-to-the-state-in-wake-of-ukraine-drone-attacks-10-percent-capacity-must-be-available-for-state-it-infrastructure-with-24-hours-notice",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-01T15:27:10.990379"
+    "processed_date": "2026-11-02T18:49:29.236179"
   },
   {
-    "title": "Biwin M560 2TB SSD Review: The DRAM-less drive to beat",
-    "summary": "The Biwin M560 brings SMI s SM2504XT to retail with top-tier responsiveness and excellent efficiency, though not the fastest post-cache writes.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/biwin-m560-2tb-ssd-review",
+    "title": "Creality K3 Review: It s a Tool Changer, not a game changer",
+    "summary": "Creality s four-color tool changer is a good one, but is it too late?",
+    "link": "https://www.tomshardware.com/3d-printing/creality-k3-review",
     "categories": [
       "Hardware",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-01T15:27:10.990507"
+    "processed_date": "2026-11-02T18:49:29.236274"
   },
   {
-    "title": "Anycubic and Thingiverse announce exclusive 3D printing partnership",
-    "summary": "Thingiverse partners with Anycubic to bring models directly to 3D printers.",
-    "link": "https://www.tomshardware.com/3d-printing/anycubic-and-thingiverse-announce-exclusive-3d-printing-partnership-makeronline-platform-to-offer-1-click-multicolor-3mf-models",
+    "title": "16GB Raspberry Pi 5 hiked to $385, more than triple its launch price",
+    "summary": "The Raspberry Pi 16GB has gone up in price by $80 to $385. It now costs more than triple its January 2025 launch price.",
+    "link": "https://www.tomshardware.com/raspberry-pi/16gb-raspberry-pi-5-hiked-to-usd385-more-than-triple-its-launch-price-makers-are-already-shifting-to-pico-esp32-for-small-projects-mini-pcs-for-more-ambitious-tasks",
     "categories": [
-      "Tech News",
-      "AI & ML"
+      "Hardware",
+      "Tech News"
     ],
     "quality_score": 0,
-    "processed_date": "2026-11-01T15:27:10.990631"
+    "processed_date": "2026-11-02T18:49:29.236366"
   },
   {
-    "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages",
-    "summary": "OpenAI CEO Sam Altman met with around 50 Samsung executives in South Korea on October 31 to discuss AI's future, business opportunities and the technology's impact on corporate operations. The meeting comes as demand for memory chips grows alongside AI infrastructure spending, putting pressure on global DRAM supplies. Samsung and SK hynix together accounted for approximately 83% of global high-bandwidth memory revenue in the second quarter of 2026, highlighting South Korea's central role in supplying the hardware behind the AI expansion.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers",
+    "title": "'America hates data centers' New data highlights public sentiment",
+    "summary": "A new website seeks to distill over 10,000 public comments about data centers in the community across more than 410 local governments, and the consensus is that people don't like them one bit.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/america-hates-data-centers-new-database-reveals-more-than-90-percent-of-10-000-public-comments-are-negative-only-21-percent-mention-ai-73-percent-of-meetings-had-no-data-center-supporters-water-is-the-number-one-concern",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-02T18:49:29.236464"
+  },
+  {
+    "title": "Gamer's Asus TUF monitor blocks bullet fired through wall during Call of Duty session",
+    "summary": "A Redditor was playing Call of Duty when they heard gunfire outside their home. After hitting the deck, they discovered that their monitor had potentially saved their life.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/gamers-asus-tuf-monitor-blocks-bullet-fired-through-wall-during-call-of-duty-session-says-280hz-monitor-is-the-best-usd280-i-ever-spent",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-02T18:49:29.236556"
+  },
+  {
+    "title": "Apple finally has a touchscreen MacBook. Why now?",
+    "summary": "Apple is introducing a touchscreen laptop in the MacBook Pro with a PROLED XDR Display. Here's where it falls in the long timeline of touchscreen laptops.",
+    "link": "https://www.tomshardware.com/laptops/macbooks/apple-finally-has-a-touchscreen-macbook-why-now",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-02T18:49:29.236646"
+  },
+  {
+    "title": "Nvidia Brev security breach may have exposed SSH keys used to access customer VMs",
+    "summary": "Nvidia is investigating a security incident involving its Brev cloud development platform after detecting unauthorized activity between October 4 and October 20. The incident may have exposed SSH keys used to access customer virtual machines. Nvidia has rotated the affected keys and updated customer instances, but says it is unaware of any improper use",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-02T18:49:29.236758"
+  },
+  {
+    "title": "AI model gets a 32-bit RISC-V CPU compiled directly into its weights, then runs DOOM on it",
+    "summary": "Qwenputer is an experimental blend of the stock Qwen 3.5 4B LLM with a 32-bit RISC-V CPU compiled and inserted directly into its weights.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineer-successfully-compiles-a-32-bit-risc-v-cpu-in-qwen-3-5-4b-llm-inserted-directly-into-its-weights-built-in-cpu-can-run-processor-arithmetic-operations-code-and-of-course-doom",
     "categories": [
       "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-01T15:27:10.990865"
+    "processed_date": "2026-11-02T18:49:29.236846"
   },
   {
-    "title": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows",
-    "summary": "An open-source UEFI tool, nv-uefi-unlocker, lifts Nvidia s tensor rate cap on RTX 20, 30, and 40-series GPUs under Windows.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
+    "title": "Google data center wins approval in Minnesota after protests delay council vote twice",
+    "summary": "Google s proposed Hermantown data center has cleared a major approval hurdle after the city council unanimously backed the project on October 30.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/google-data-center-wins-approval-in-minnesota-after-protests-delay-council-vote-twice-200-acre-project-moves-forward-despite-opposition-from-local-residents-tech-giant-scales-down-project-and-drops-usd80-million-tax-break-request",
     "categories": [
-      "GPUs",
-      "AI & ML"
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-02T18:49:29.236935"
+  },
+  {
+    "title": "Triple your Nintendo Switch 2's storage for just $99",
+    "summary": "A 34% price cut at Amazon means you can get the Samsung P9 512GB microSD Express card for the Nintendo Switch 2 for just $99.99 right now.",
+    "link": "https://www.tomshardware.com/pc-components/microsd-cards/triple-your-nintendo-switch-2s-storage-for-just-usd99-save-usd50-on-this-ultra-fast-512gb-samsung-p9-microsd-card-for-a-limited-time-only",
+    "categories": [
+      "Tech News"
     ],
     "quality_score": 0,
-    "processed_date": "2026-11-01T15:27:10.990975"
+    "processed_date": "2026-11-02T18:49:29.237014"
   },
   {
-    "title": "Police Chief physically unplugs Flock cameras after the company ignores contract cancellation",
-    "summary": "The Plymouth City Council was left with no choice but to physically disconnect the cameras after Flock failed to respond to its demands.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+    "title": "Hackers claim to have stolen 23TB of data from Russian statistics body, including Ukraine war casualty figures",
+    "summary": "Russia's Rosstat admitted that its servers were attacked by hackers but denies data leaks which appear to show as many as 50,000 military deaths per month.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-claim-to-have-stolen-23tb-of-data-from-russian-statistics-body-including-ukraine-war-casualty-figures-russian-federal-state-statistics-service-admits-its-servers-were-hit-by-coordinated-cyberattacks",
     "categories": [
-      "AI & ML"
+      "AI & ML",
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-01T15:27:10.991085"
+    "processed_date": "2026-11-02T18:49:29.237127"
   },
   {
-    "title": "Elon Musk says Neuralink's 'BlindSight' is ready to cure blindness",
-    "summary": "Neuralink's second product, Blindsight, aims to bring sight back for blind patients, with the company \"just waiting on regulatory approval.\"",
-    "link": "https://www.tomshardware.com/peripherals/wearable-tech/elon-musk-says-neuralink-is-ready-to-cure-blindness-says-blindsight-will-enable-even-those-who-are-completely-blind-or-have-never-seen-to-see",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-01T15:27:10.991186"
-  },
-  {
-    "title": "Lenovo's 'encrypted' fingerprint USB drive is just an unencrypted SD card in a fancy case",
-    "summary": "Lenovo s ThinkPlus FU100 fingerprint USB drive held an unencrypted SD card, and Codex found fixed keys in other secure USB products.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/lenovo-fingerprint-usb-stick-sold-as-aes-256-encrypted-had-a-plain-sd-card-inside-ai-assisted-follow-up-finds-a-backdoor-and-hardcoded-keys-in-other-secure-usb-products",
+    "title": "Anthropic confirms new Claude Code limits to prevent game cloning, users report blocking reverse engineering tasks",
+    "summary": "Anthropic employee confirms that Claude Code now has orders not to reproduce game IP company \"iterating to ensure [...] the right balance\"",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-01T15:27:10.991319"
+    "processed_date": "2026-11-02T18:49:29.237222"
   },
   {
-    "title": "AI agent swarms unleashed in Minecraft to build a thriving civilization ",
-    "summary": "Researchers recently tested AI agent swarm performance in various Minecraft gaming modes.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+    "title": "Elon Musk mocks OpenAI CEO Sam Altman's claim that PCs having RAM is terrible",
+    "summary": "SpaceX CEO Musk posted a meme to X mocking Altman's belief that it's \"",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-mocks-openai-ceo-sam-altmans-claim-that-pcs-having-ram-is-terrible-the-people-deserve-to-have-their-ram-too",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-02T18:49:29.237303"
+  },
+  {
+    "title": "SpaceX loses bid to dismiss lawsuit over xAI data center pollution",
+    "summary": "SpaceX loses latest legal fight over xAI's gas-powered data centers in Mississippi court rejects arguments that mobile turbines are exempt from air permits",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/spacex-loses-bid-to-dismiss-lawsuit-over-xai-data-center-pollution-judge-rules-mississippi-gas-turbines-are-not-exempt-from-the-clean-air-act",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-02T18:49:29.237386"
+  },
+  {
+    "title": "Grab a $450 saving on this 4K-ready gaming PC with an RTX 5070 Ti and 32GB DDR5 right now",
+    "summary": "This ABS Stratos II Aqua gaming PC has dropped to $2,549.99 at Newegg right now, giving you a rig with a 24-core Intel Core i9-14900KF CPU, an Nvidia GeForce RTX 5070 Ti GPU, a 2TB SSD, and 32GB of DDR5 RAM.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/grab-a-usd450-saving-on-this-4k-ready-gaming-pc-with-an-rtx-5070-ti-and-32gb-ddr5-right-now-abs-rig-from-newegg-ships-with-24-core-intel-cpu-and-a-2tb-ssd-for-usd2-549-99",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-02T18:49:29.237478"
+  },
+  {
+    "title": "Sony's final 4K Blu-ray player listed as out of stock in Japan, firm may be preparing to abandon standalone players",
+    "summary": "Sony may be preparing to abandon the standalone 4K Blu-ray player market after retailers in Japan reportedly stopped expecting new shipments of its final remaining model, the UBP-X700K. The company has not confirmed a worldwide withdrawal, and the player remains listed in the U.S. However, Sony's retreat from other physical media products, alongside exits by Oppo, Samsung, LG, and Reavon, raises further questions about the future of dedicated disc players.",
+    "link": "https://www.tomshardware.com/video-games/playstation/sonys-final-4k-blu-ray-player-listed-as-out-of-stock-in-japan-firm-may-be-preparing-to-abandon-standalone-players-retailers-reportedly-told-not-to-expect-new-stock-of-its-remaining-model",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-02T18:49:29.237591"
+  },
+  {
+    "title": "Military explores commercial 5G networks for enemy drone defense",
+    "summary": "The military is looking at leveraging commercial 5G networks to sense and track drone incursions.",
+    "link": "https://www.tomshardware.com/networking/military-explores-commercial-5g-networks-for-enemy-drone-defense-ai-agents-developed-the-system-recently-used-in-battlefield-trials-in-latvia",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-02T18:49:29.237671"
+  },
+  {
+    "title": "Supermarket freezers across Europe struck in second crippling cyberattack",
+    "summary": "A second cyberattack has struck supermarket freezers across Europe.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/supermarket-freezers-across-europe-struck-in-second-crippling-cyberattack-hackers-raise-temperatures-to-50-degrees-celsius-in-belgium-and-sweden-destroying-food-stocks",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-02T18:49:29.237748"
+  },
+  {
+    "title": "New AI-driven Windows malware feeds stolen data to Claude to rank victims assets by value, then deletes itself",
+    "summary": "Cisco Talos says the VOLTA infostealer sends stolen victim data to Claude Opus 4.6 to rank assets by monetization value.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-02T18:49:29.237833"
+  },
+  {
+    "title": "GOG explores reviving physical PC game releases",
+    "summary": "GOG wants to sell physical games, in contrast to consoles going digital-only, giving gamers more freedom over their games. However, it still has to figure out logistics and publisher permissions.",
+    "link": "https://www.tomshardware.com/video-games/gog-explores-reviving-physical-pc-game-releases-digital-storefront-needs-publisher-approvals-has-to-figure-out-the-logistics-and-legal-challenges",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-02T18:49:29.237919"
+  },
+  {
+    "title": "Walmart honors massive shelf price mistake, lucky buyer gets two $2,299 CyberPowerPC gaming rigs for $1,099 each",
+    "summary": "Redditor gets a gaming PC at more than 50% off in a physical Walmart retail store.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/lucky-pc-buyer-gets-usd1-200-discount-on-9900x3d-gaming-pc-walmart-honors-usd1-099-shelf-price-on-usd2-299-unit",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-02T18:49:29.238014"
+  },
+  {
+    "title": "Banana Pi BPI-M8 An Allwinner A733 SBC inspired by the Raspberry Pi 5 with PCIe FFC connector, UFS module socket",
+    "summary": "Banana Pi BPI-M8 is a credit card-sized SBC powered by an Allwinner A733 octa-core Cortex-A76/A55 SoC that aims to offer an alternative to the Raspberry Pi 5. The BPI-M8 comes with 4GB LPDDR5, HDMI and MIPI DSI display interfaces, two MIPI CSI camera interfaces, Gigabit Ethernet, on-board WiFi 6 and Bluetooth 5.0, four USB ports, a 16-pin FFC PCIe connector, and the usual 40-pin GPIO header. Two variants are offered: the BPI-M8A with 64GB eMMC flash, and the BPI-M8B with 16MB SPI NOR flash. Banana Pi BPI-M8 specifications: SoC Allwinner A733 CPU Dual-core Arm Cortex-A76 @ up to 2.00 GHz Hexa-core Arm Cortex-A55 @ up to 1.80 GHz Single-core RISC-V E902 real-time core GPU Imagination Technologies BXM-4-64 MC1 GPU with support for OpenGL ES 3.2, Vulkan 1.3, and OpenCL 3.0 VPU 4Kp60/8Kp24 H.265/VP9/AVS2 decoding, 4Kp30 H.264 decoding 4Kp30 H.265/H.264 encoding AI accelerator 3 TOPS NPU Process 12 [...] The post Banana Pi BPI-M8 An Allwinner A733 SBC inspired by the Raspberry Pi 5 with PCIe FFC connector, UFS module socket appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/02/banana-pi-bpi-m8-an-allwinner-a733-sbc-inspired-by-the-raspberry-pi-5-with-pcie-ffc-connector-ufs-module-socket/",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-02T18:49:29.238471"
+  },
+  {
+    "title": "TOOCAA NOVA Review 20W laser engraver with AI camera, autofocus, and rotary module",
+    "summary": "TOOCAA NOVA is a desktop laser cutter and engraver that combines creative functions in a compact body. It comes with a translucent orange cover and an A4 work area of 297 210 mm, suitable for making signs, decorations, personalized gifts, and DIY projects. The reviewed model uses a 20W diode laser module for cutting and engraving, and supports materials such as wood, paper, leather, and coated aluminum. The machine s highlight is its 5MP AI camera, which displays an image of the material inside the machine in the software, making it easier to align designs with the desired position. It also has an autofocus system that automatically adjusts focus distance and a material card-reading function that helps you select operating settings. It works with TOOCAA Studio to design, import images, and set up jobs including line engraving, fill engraving, and cutting, and connects to the machine via USB or Wi-Fi. [...] The post TOOCAA NOVA Review 20W laser engraver with AI camera, autofocus, and rotary module appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/02/toocaa-nova-review-20w-laser-engraver-with-ai-camera-autofocus-rotary-module/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-02T18:49:29.238637"
+  },
+  {
+    "title": "Brainchip AKD1500 Raspberry Pi 5 Dev Kit enables users to quickly experiment with event-based neuromorphic AI",
+    "summary": "A few weeks ago, we noted that the Brainchip AKD1500 M.2 module could work with the Raspberry Pi 5 using a compatible M.2 HAT+ expansion card to evaluate the solution or develop applications using the company s low-power, low-latency neuromorphic AI technology. To make things even easier, they ve now introduced the AKD1500 Raspberry Pi 5 Dev Kit that packs a Raspberry Pi 5 8GB, an official M.2 HAT+, and an Akida AKD1500 M.2 B+M-Key card into a metal case. Most ports from the Raspberry Pi 5 are exposed, namely the Gigabit Ethernet port, the four USB connectors, the two HDMI video outputs, and the USB-C port for power. The Raspberry Pi 5 power button and an LED on the M.2 HAT+ are also visible through openings in the metal case. The kit requires a camera for operation, but instead of relying on a MIPI CSI-based Raspberry Pi Camera module, users are [...] The post Brainchip AKD1500 Raspberry Pi 5 Dev Kit enables users to quickly experiment with event-based neuromorphic AI appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/02/brainchip-akd1500-raspberry-pi-5-dev-kit-enables-users-to-quickly-experiment-with-event-based-neuromorphic-ai/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-02T18:49:29.238799"
+  },
+  {
+    "title": "ST offers four auto safety combination sensors post-NXP MEMS buy",
+    "summary": "New sensors from ST can help OEMs with auto crash protection and stability controls",
+    "link": "https://www.fiercesensors.com/sensors-fusion/st-offers-four-auto-safety-combination-sensors-post-nxp-mems-buy",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-02T18:49:29.239820"
+  },
+  {
+    "title": "US Marines bring drones and sensors to NATO s Baltic Sentry op",
+    "summary": "Coastal sensors typically include acoustic sensors, hyperspectral and optical imagers, radar and electro-optical/infrared sensors and electric field sensors",
+    "link": "https://www.fiercesensors.com/sensors-fusion/us-marines-bring-drones-and-sensors-natos-baltic-sentry-op",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-02T18:49:29.240187"
+  },
+  {
+    "title": "Android 11 has 10 times more users than Google's latest version",
+    "summary": "According to the latest Android distribution figures, Android 17 the latest version of the mobile OS is installed on just 0.9% of devices worldwide. Android 16 owns the lion's share of distribution at 25.4%, followed by Android 15 with a 14.7% stake. Android 13, which shipped way back... Read Entire Article",
+    "link": "https://www.techspot.com/news/114415-android-11-has-10-times-more-users-than.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-02T18:49:29.240384"
+  },
+  {
+    "title": "Apple is warning iPhone users in 110 countries about mercenary spyware",
+    "summary": "The spyware attacks were first reported on October 30 by cybersecurity researcher Costin Raiu, who noted that they were unrelated to the previous round of incidents, for which Apple issued alerts in August. According to Raiu, iPhone users in 99 countries, including several prominent journalists and documentary filmmakers, are among... Read Entire Article",
+    "link": "https://www.techspot.com/news/114414-apple-warning-iphone-users-110-countries-about-mercenary.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-02T18:49:29.240550"
+  },
+  {
+    "title": "Intel's long-lost Larrabee GPU turns up in storage unit with working drivers, and yes, it can run Crysis",
+    "summary": "A Reddit user bought the contents of a storage unit at auction and ended up with what looked like an old Intel desktop. Inside was a development machine labeled \"Intel Visual Adrenaline,\" containing an Intel DX58SO motherboard, a working Larrabee prototype and a separate diagnostic card. Larrabee was the x86-based... Read Entire Article",
+    "link": "https://www.techspot.com/news/114416-intel-long-lost-larrabee-gpu-turns-up-storage.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-02T18:49:29.240728"
+  },
+  {
+    "title": "Grok Bot users accuse xAI of an \"indirect rug pull\" after usage cuts, Musk blames unsustainable costs",
+    "summary": "Musk made the admission in a reply to an X user who asked for a usage reset after running out 4 days early. They added that lots of people had complained about their usage running out quickly over the last week. Read Entire Article",
+    "link": "https://www.techspot.com/news/114413-grok-bot-users-accuse-xai-indirect-rug-pull.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-02T18:49:29.240871"
+  },
+  {
+    "title": "Nintendo tried to kill Switch emulation, but the PC is running Switch 2 games now",
+    "summary": "A year after Nintendo released its popular Switch 2 console, resourceful developers have already started to bring the brand-new gaming experience to PC through AI-assisted emulation. The Eden-NX2 emulator can already run popular, Switch-exclusive games such as Mario Kart World and Donkey Kong Bananza, though there is still a lot... Read Entire Article",
+    "link": "https://www.techspot.com/news/114408-nintendo-tried-kill-switch-emulation-but-first-switch.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-02T18:49:29.241032"
+  },
+  {
+    "title": "Digital billboards across the globe hacked to show porn, attackers say \"anyone with two brain cells\" could do it",
+    "summary": "The most visible hack took place on a digital billboard stretching across one of Egypt's biggest highways: the 26th of July Axis in Giza. Drivers stopped their cars to film as the screen broadcast the adults-only material, which was overlaid with the text \"Leaked by: Ch, 19ylegal never and nivex\"... Read Entire Article",
+    "link": "https://www.techspot.com/news/114409-digital-billboards-across-globe-hacked-show-porn-attackers.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-02T18:49:29.241206"
+  },
+  {
+    "title": "Gears of War: E-Day's half-billion-dollar budget was no rumor",
+    "summary": "Bloomberg's Jason Schreier brought up the figure in a video explaining why EA chose to shut BioWare. Gears of War: E-Day cost Xbox $500 million, he said. \"That is a real number, that is real,\" he added. In Schreier's view, that's simply what AAA games cost to make now, especially... Read Entire Article",
+    "link": "https://www.techspot.com/news/114407-gears-war-e-day-half-billion-dollar-budget.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-02T18:49:29.241356"
+  },
+  {
+    "title": "Spotify plans to let users remix artists' songs using AI next year, but it'll cost up to $5 extra per month",
+    "summary": "The Financial Times reports that Spotify aims to launch its AI-powered remixing service in the first quarter of 2027, meaning it could be unveiled around February's Grammy Awards. Read Entire Article",
+    "link": "https://www.techspot.com/news/114410-spotify-plans-users-remix-artists-songs-using-ai.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-02T18:49:29.241508"
+  },
+  {
+    "title": "An internet tax that would charge by the gigabyte just squeaked through France's lower house",
+    "summary": "Socialist deputy Laurent Lhardit's amendment passed the National Assembly by just 11 votes to 10. In fact, only 35 of the chamber's 577 deputies were even in the room at the time. Both the government and the budget's own rapporteur had advised against it, too. Read Entire Article",
+    "link": "https://www.techspot.com/news/114406-gigabyte-internet-tax-squeaked-through-france-lower-house.html",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-11-01T15:27:10.991430"
-  },
-  {
-    "title": "California county deploys autonomous firefighting drones with 500-gallon foam payload to attack wildfires",
-    "summary": "These Seneca drones should help the San Bernardino County Fire Protection District achieve its goal of stopping 90% of fires before they grow larger than 10 square feet.",
-    "link": "https://www.tomshardware.com/tech-industry/drones/california-county-secures-autonomous-firefighting-drones-with-500-gallon-foam-payload-to-deal-with-wildfires-five-drone-strike-team-can-be-controlled-by-a-single-operator-conduct-nighttime-ops-and-access-difficult-terrain",
-    "categories": [
-      "Tech News"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-11-01T15:27:10.991535"
+    "processed_date": "2026-11-02T18:49:29.241661"
   },
   {
-    "title": "Voyager 1 probe to hit historic one light-day distance from Earth in 17 days 49-year-old spacecraft travels 16 billion miles",
-    "summary": "It took the space probe nearly 50 years to get to one light-day, with NASA scientists and engineers going through lengths to ensure that it could keep operating for as long as possible.",
-    "link": "https://www.tomshardware.com/tech-industry/space/voyager-1-probe-to-hit-historic-one-light-day-distance-from-earth-in-17-days-49-year-old-spacecraft-travels-16-billion-miles-and-survives-nearly-ten-times-the-length-of-its-original-five-year-mission",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-01T15:27:10.991638"
-  },
-  {
-    "title": "College student unofficially breaks world record for fastest jet-powered drone with 491 mph aircraft built in his dorm",
-    "summary": "An undergraduate student from Georgia Tech is trying his hand at an $800k prize for the fastest jet-powered RC aircraft, achieving 790 km/h (491 mph) and breaking the previous world record.",
-    "link": "https://www.tomshardware.com/tech-industry/drones/college-student-unofficially-breaks-world-record-for-fastest-jet-powered-drone-with-491-mph-aircraft-built-in-his-dorm-reaper-aims-to-grab-the-usd800-000-boom-prize",
+    "title": "OpenAI's plan to make data centers less hated: Rename them \"compute campuses\"",
+    "summary": "An OpenAI spokesperson told Business Insider about the rebrand. \"Compute campuses better describes the scale and role of the infrastructure we're building for AI,\" the spokesperson said. \"These are long-term investments in computing, energy infrastructure and skilled work.\" Read Entire Article",
+    "link": "https://www.techspot.com/news/114411-openai-plan-make-data-centers-less-hated-rename.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-01T15:27:10.991752"
+    "processed_date": "2026-11-02T18:49:29.241812"
   },
   {
-    "title": "French lawmakers add $11.2 billion internet tax based on traffic usage to budget, costs $0.06 per gigabyte of content accessed",
-    "summary": "French lawmakers have approved an amendment proposing a 0.055-per-gigabyte tax on digital content delivered to internet subscribers in France. The measure could generate an estimated 10 billion annually, with companies including Google, Meta, Netflix and potentially TikTok among those affected. However, the proposal still faces further parliamentary scrutiny, while government officials have raised concerns about its implementation, measurement requirements and potential impact on smaller providers.",
-    "link": "https://www.tomshardware.com/software/social-media/french-lawmakers-approve-usd11-2-billion-internet-tax-based-on-traffic-usage-costs-usd0-65-per-gigabyte-of-content-accessed-us-tech-giants-like-google-and-meta-face-new-levies-on-content-delivered-to-french-subscribers",
+    "title": "GPU Prices Are Spiraling Out of Control: Q4 2026 Update",
+    "summary": "Graphics card prices have jumped 35% in just three months, with Nvidia's high-end GPUs reaching absurd levels and Radeon cards catching up. Our Q4 2026 update finds little reason to expect relief. Read Entire Article",
+    "link": "https://www.techspot.com/article/3192-gpu-pricing-q4-2026/",
     "categories": [
-      "AI & ML",
-      "Semiconductors"
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-01T15:27:10.991931"
+    "processed_date": "2026-11-02T18:49:29.241956"
   },
   {
-    "title": "'Ghost Students' using AI to apply for student loans with stolen identities, DOJ's Operation Ghostbusters busts $200 million ring",
-    "summary": "Fraudsters are using the identities of high school graduates who skipped college to apply for student loans and steal the excess proceeds that do not go to schools. They use AI to keep the charade going and make it seem like the fake student is actually going to class.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/ghost-students-using-ai-to-apply-for-student-loans-with-stolen-identities-dojs-operation-ghostbusters-busts-usd200-million-ring-faking-online-college-attendance-unsuspecting-victims-saddled-with-student-debt-they-didnt-sign-up-for",
+    "title": "\"Ghost students\" stole millions in federal aid until data patterns gave them away",
+    "summary": "Unusual patterns in federal student aid data led the Justice Department to charge five people and seize more than $750,000 in cryptocurrency tied to a network associated with Kenyan nationals. The charges are the first results of a broader federal effort, which the department calls Operation Ghostbusters, to crack down... Read Entire Article",
+    "link": "https://www.techspot.com/news/114399-fake-students-used-ai-attend-class-government-cost.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-01T15:27:10.992053"
-  },
-  {
-    "title": "BIOSTAR EdgeComp MS-U320 fanless Wildcat Lake industrial mini PC offers four COM ports, dual 2.5GbE, 4G/5G expansion",
-    "summary": "BIOSTAR EdgeComp MS-U320 is a fanless industrial mini PC powered by an Intel Core 3 304 or Core 5 320 Wildcat Lake SoC with four COM ports, dual 2.5GbE, and 4G/5G cellular connectivity expansion. The mini PC supports up to 64GB DDR5, M.2 NVMe SSD storage, features 4K-capable HDMI 2.1 and DisplayPort 1.4 connectors, earphone and microphone jacks, and six USB ports. It supports a wide 9-24V DC input and can operate in the -20 C to +50 C temperature range for industrial automation, smart manufacturing, industrial IoT, smart retail, and smart infrastructure. BIOSTAR EdgeComp MS-U320 specifications: Wildcat Lake SoC Intel Core 3 304 5-core CPU 1x P-cores @ 1.5/4.3 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) GPU 1-core Intel Xe3 Graphics @ 2.3 GHz (9 TOPS) NPU 15 TOPS Intel Core 5 320 6-core CPU 2x P-cores @ 1.5/4.6 GHz (Turbo) + 4x LPE-cores @ [...] The post BIOSTAR EdgeComp MS-U320 fanless Wildcat Lake industrial mini PC offers four COM ports, dual 2.5GbE, 4G/5G expansion appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/01/biostar-edgecomp-ms-u320-fanless-wildcat-lake-industrial-mini-pc-offers-four-com-ports-dual-2-5gbe-4g-5g-expansion/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-01T15:27:10.992519"
-  },
-  {
-    "title": "Intel's next budget laptop chip may have no performance cores at all",
-    "summary": "Intel's current entry-level N-series chips also skip performance cores, and Moon Lake would bring that approach to the company's newer tile-based design. If the leak holds, it would be the next generation of the N-series processors found in many budget machines. Intel has not confirmed the specs. Read Entire Article",
-    "link": "https://www.techspot.com/news/114403-intel-next-budget-laptop-chip-may-have-no.html",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-01T15:27:10.993782"
-  },
-  {
-    "title": "The solar system may have a sixth dwarf planet, hidden against the Milky Way",
-    "summary": "For now, the object announced by the Vera C. Rubin Observatory team earlier this week only goes by its provisional designation, 2026 ED138. It currently sits about 46 astronomical units from the Sun. Pluto, by comparison, averages around 40. Read Entire Article",
-    "link": "https://www.techspot.com/news/114401-astronomers-may-have-discovered-our-solar-system-sixth.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-01T15:27:10.993980"
-  },
-  {
-    "title": "Europe and Canada team up in AI computing alliance that doesn't depend on Washington",
-    "summary": "European Commission President Ursula von der Leyen recently confirmed that Canada is joining Europe's network of supercomputers, which is run by the EuroHPC Joint Undertaking. Canada will become an active part of the public-private network of high-performance computing (HPC) systems, and both sides should gain something from the arrangement, at... Read Entire Article",
-    "link": "https://www.techspot.com/news/114396-europe-canada-team-up-ai-computing-alliance-doesnt.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-01T15:27:10.994162"
-  },
-  {
-    "title": "Microsoft's DirectX update could slash ray tracing memory by up to 90 percent",
-    "summary": "Microsoft detailed Clustered Geometry and a companion feature called Partitioned TLAS on its DirectX developer blog this week, describing the pair as the biggest change to DirectX Raytracing since the API arrived in 2018. Read Entire Article",
-    "link": "https://www.techspot.com/news/114400-microsoft-directx-update-could-slash-ray-tracing-memory.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-01T15:27:10.994328"
-  },
-  {
-    "title": "Sam Altman says it's \"terrible\" for RAM to sit inside PCs instead of data centers",
-    "summary": "In an interview on the YouTube channel Cheeky Pint, OpenAI CEO Sam Altman argued that it's more efficient to direct the world's tightening supply of memory to AI data centers than to local devices. The comments drew immediate backlash as hardware prices continue to climb. Read Entire Article",
-    "link": "https://www.techspot.com/news/114398-sam-altman-terrible-ram-sit-inside-pcs-instead.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-01T15:27:10.994500"
+    "processed_date": "2026-11-02T18:49:29.242139"
   }
 ]
