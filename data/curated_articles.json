@@ -1,380 +1,340 @@
 [
   {
-    "title": "OpenAI introduces program to reduce AI data center energy demand during peak hours company testing Grid Protectors Program system in Georgia",
-    "summary": "The Grid Protectors Program applies load shedding, a technique in use since the 1970s, to data centers.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/openai-introduces-program-to-reduce-ai-data-center-energy-demand-during-peak-hours-company-testing-grid-protectors-program-system-in-georgia",
+    "title": "Team Group CEO warns memory crisis could reach point where 'even money can't buy goods' will get worse next year, with 'no downward trend in price whatsoever'",
+    "summary": " How can prices fall when there s nothing left? Team Group CEO Chen Ching-wen said during the company's earnings call.",
+    "link": "https://www.tomshardware.com/pc-components/dram/team-group-ceo-warns-memory-crisis-could-reach-point-where-even-money-cant-buy-goods-will-get-worse-next-year-with-no-downward-trend-in-price-whatsoever",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.944743"
+    "processed_date": "2026-11-04T16:34:14.347586"
   },
   {
-    "title": "Intel 14A moves closer to production as PDK 0.9 becomes available plans to release PDK 1.0 in the first quarter of 2027",
-    "summary": "Intel says its next-generation process technology is reaching expected performance and yield maturity.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-14a-moves-closer-to-production-as-pdk-0-9-becomes-available-process-design-kit-gives-developers-important-production-milestone-ahead-of-1-0-in-2027",
+    "title": "Logitech G Pro X3 Superstrike Review: $200 for the illusion of a click",
+    "summary": "Logitech's G Pro X3 Superstrike is a minor but noticeable update to its revolutionary mouse there's a new chipset and the weight has been rebalanced, so it lasts longer and feels better. And it costs $200.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-mice/logitech-g-pro-x3-superstrike-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-04T16:34:14.347678"
+  },
+  {
+    "title": "Thermal Grizzly launches PhaseSheet PTM Pro with improved thermal conductivity new thermal pad promises easier installation and better cooling performance",
+    "summary": "Designed for CPUs, GPUs, and other components without an integrated heat spreader, the PhaseSheet PTM Pro is reusable, electrically non-conductive, and less susceptible to the pump-out effect associated with traditional thermal paste.",
+    "link": "https://www.tomshardware.com/pc-components/thermal-paste/thermal-grizzly-launches-phasesheet-ptm-pro-with-improved-thermal-conductivity-new-thermal-pad-promises-easier-installation-and-better-cooling-performance",
     "categories": [
       "Tech News",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-04T16:34:14.347772"
+  },
+  {
+    "title": "Micron details ambitious DRAM and NAND roadmap 3D NAND, High-NA EUV, new materials, and custom silicon makes a comeback",
+    "summary": "As DRAM and 3D NAND are about to adopt all-new technologies, custom types of memory are about to become mainstream as AI developers face limitations with current solutions.",
+    "link": "https://www.tomshardware.com/pc-components/dram/micron-details-ambitious-dram-and-nand-roadmap-3d-nand-high-na-euv-new-materials-and-custom-silicon-makes-a-comeback",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-04T16:34:14.347854"
+  },
+  {
+    "title": "AI data centers comprehensively defeated at US midterm elections 45 measures put on the ballot as Americans overwhelmingly vote against developments",
+    "summary": "Several counties put data center issues on the ballot during the midterm elections, with most Americans voting against data center development in their county.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments",
+    "categories": [
       "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-11-03T16:32:34.944861"
+    "processed_date": "2026-11-04T16:34:14.347949"
   },
   {
-    "title": "8 converted jet engines are powering xAI data centers as companies look for new energy sources",
-    "summary": "A Mississippi xAI data center is using eight converted jet engine turbines as a power source despite the known health risks of the carbon monoxide and volatile organic compounds they produce.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-xai-installs-eight-converted-jet-engines-to-power-mississippi-data-center-permits-allow-25-percent-higher-limit-for-pollutants-concerns-raised-over-carbon-monoxide",
+    "title": "Binance heist began with fake job interviews and a malicious Homebrew download",
+    "summary": "Binance has revealed how Norh Korean attackers spent months compromising systems and employees with malicious developer software and a fake recruitment process. The intrusions eventually gave hackers access to the exchange s internal wallet signing systems, enabling the October 29 theft.",
+    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/binance-heist-began-with-fake-job-interviews-and-a-malicious-homebrew-download-attackers-used-adulterated-software-and-social-engineering-to-gain-access-to-billions-in-assets",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-04T16:34:14.348032"
+  },
+  {
+    "title": "PHP vulnerability post-mortem reveals bug was known two years ago Small team of maintainers knew of the issue before it was made public, as new PHP2Shell chained exploit ravages servers",
+    "summary": "PHP has a harvest season to remember AI-automated bug hunting reaps what years of technical debt have sown.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/php-vulnerability-post-mortem-reveals-bug-was-known-two-years-ago-small-team-of-maintainers-knew-of-the-issue-before-it-was-made-public-as-new-php2shell-chained-exploit-ravages-servers",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-04T16:34:14.348109"
+  },
+  {
+    "title": "Nvidia can only fulfill 1% of China s massive $70 billion GPU order for AI chips, report claims supply constraints choke export-friendly RTX Pro 5500 deliveries despite huge demand",
+    "summary": "Just 1% of chips promised to major Chinese companies to power their AI ambitions will be delivered, according to reports.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-can-only-fulfill-1-percent-of-chinas-massive-usd70-billion-gpu-order-for-ai-chips-report-claims-supply-constraints-choke-export-friendly-rtx-pro-5500-deliveries-despite-huge-demand",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-04T16:34:14.348191"
+  },
+  {
+    "title": "Open source project renders your Windows 11 desktop using the NPU rather than the GPU npu-driver can only run at 2 to 3 Hz, targets 30 Hz performance",
+    "summary": "Open source developers have released a prototype driver for Windows 11 that renders the desktop using an NPU instead of the system s (i)GPU.",
+    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/open-source-project-renders-your-windows-11-desktop-using-the-npu-rather-than-the-gpu-npu-driver-can-only-run-at-2-to-3-hz-targets-30-hz-performance",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-11-04T16:34:14.348269"
+  },
+  {
+    "title": "Cloudflare engineers optimize DNS build services for twice the speed and 85% lower RAM usage",
+    "summary": "Cloudflare engineers are at it again, optimizing DNS-building services for twice the speed and 85% less RAM usage",
+    "link": "https://www.tomshardware.com/networking/cloudflare-engineers-optimize-dns-build-services-for-twice-the-speed-and-85-percent-lower-ram-usage-finer-grained-processes-only-do-work-and-data-movement-thats-needed",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.944971"
+    "processed_date": "2026-11-04T16:34:14.348338"
   },
   {
-    "title": "Apple faces unprecedented memory cost increases as RAM prices continue to surge, manufacturing bill climbs by $33 billion",
-    "summary": "Samsung, SK hynix, and Micron are facing strong demand for memory from AI data centers, prompting manufacturers to prioritize higher-margin server products and high-bandwidth memory. That shift is tightening supplies of conventional DRAM and NAND flash used in smartphones, laptops, and other consumer devices. The squeeze is also affecting smaller manufacturers, with Fairphone reporting that memory now accounts for nearly 60% of the bill of materials for some of its phones",
-    "link": "https://www.tomshardware.com/pc-components/dram/apple-faces-unprecedented-memory-cost-increases-as-ram-prices-continue-to-surge-manufacturing-bill-climbs-by-usd33-billion-rising-component-expenses-threaten-margins-through-the-holiday-quarter-and-into-2027",
+    "title": "Upgrade to an OLED display for only $269 at Walmart Acer's 27-inch Nitro gaming monitor has a superfast 240Hz refresh rate and crisp WQHD resolution",
+    "summary": "Switch to a QD-OLED gaming monitor for just $269. This Walmart bargain nets you a 27-inch QHD display with a super-fast 240Hz refresh rate.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/upgrade-to-an-oled-display-for-only-usd269-at-walmart-acers-27-inch-nitro-gaming-monitor-has-a-superfast-240hz-refresh-rate-and-crisp-wqhd-resolution",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-04T16:34:14.348412"
+  },
+  {
+    "title": "Save $300 on this 1440p gaming PC with a 9800X3D and RTX 5070 right now",
+    "summary": "Grab a CyberPowerPC machine wtih an RTX 5070, 9800X3D, 32GB DDR5 and a 2TB SSD for $2,199.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd300-on-this-1440p-gaming-pc-with-a-9800x3d-and-rtx-5070-right-now-pre-built-cyberpowerpc-machine-ships-with-32gb-ddr5-and-a-2tb-ssd-for-just-usd2-199-99",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-04T16:34:14.348489"
+  },
+  {
+    "title": "Certified Android TV manufacturer put unauthorized backdoor in 1.3 million set-top boxes, Google reveals",
+    "summary": "Google discovered and shut down a backdoor built into millions of Google TV and Android TV set-top boxes built by Videostrong Technology Co.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/certified-android-tv-manufacturer-put-unauthorized-backdoor-in-set-top-boxes-google-reveals-oem-sold-access-to-criminal-affiliates-for-1-3-million-devices-used-massive-network-as-botnet-for-ad-fraud-residential-proxy",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-04T16:34:14.348565"
+  },
+  {
+    "title": "US Army successfully flies a hybrid electric drone with 3D-printed heavy-fuel rotary engine uses advanced engineering to ditch a bulky liquid cooling system",
+    "summary": "The US Army VICTOR drone uses an optimized heavy-fuel rotary engine developed with metal 3D printing for rapid prototyping.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/us-army-successfully-flies-a-hybrid-electric-drone-with-3d-printed-heavy-fuel-rotary-engine-400v-motor-generator-uses-advanced-engineering-to-ditch-a-bulky-liquid-cooling-system",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-04T16:34:14.348637"
+  },
+  {
+    "title": "Windows 11 8GB RAM configurations get a performance boost",
+    "summary": "Microsoft claims that it has made drastic improvements to the performance of Windows 11 while using 8GB of RAM.",
+    "link": "https://www.tomshardware.com/software/windows/windows-11-8gb-ram-configurations-get-a-performance-boost-as-ai-demand-keeps-pushing-prices-up-microsoft-says-windows-is-now-20-percent-more-responsive-multitasking-40-percent-faster-on-memory-constrained-machines",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-04T16:34:14.348701"
+  },
+  {
+    "title": "LattePanda Mu Ultra Review An Intel Core Ultra 7 256V AI Compute Module tested on Ubuntu 26.04",
+    "summary": "Today, I m going to review the LattePanda Mu Ultra, a compact x86 compute module designed for on-device AI applications. It comes in two versions, powered by either an Intel Core Ultra 5 226V or a Core Ultra 7 256V processor. Both models feature 16 GB of high-speed LPDDR5X memory running at 8533 MT/s, with the higher-end model delivering up to 115 TOPS of combined AI computing power. In this review, I installed Ubuntu 26.04 and benchmarked the LattePanda Mu Ultra using various tools, including sbc-bench, Geekbench 7, and Geekbench AI. I also tested its CPU, GPU, and NPU performance with llama.cpp and YOLO26 to evaluate its capabilities for AI applications. Finally, I created a fun demo combining YOLO26, MediaPipe, and OpenCV to test real-time computer vision performance, including hand gesture-based image adjustments, using a USB webcam. LattePanda Mu Ultra unboxing The package was shipped from China and arrived in just [...] The post LattePanda Mu Ultra Review An Intel Core Ultra 7 256V AI Compute Module tested on Ubuntu 26.04 appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/04/lattepanda-mu-ultra-review-an-intel-core-ultra-7-256v-ai-compute-module-tested-on-ubuntu-26-04/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-11-04T16:34:14.349096"
+  },
+  {
+    "title": "$21 ESP32-P4X and ESP32-C61 full-featured board offers Ethernet, WiFi 6, RS485 CAN Bus, MIPI CSI/DSI, and more",
+    "summary": "Wireless Tag WT99P461-S1 is an ESP32-P4X and ESP32-C61 board based on the same WT01P461-S1 module as found on the ESP32P4C61-TINY board introduced last June. The main differences are that the WT99P461-S1 is a full-featured development board, adding features such as Fast Ethernet, RS-485, CAN bus, an on-board microphone, and a speaker connector. It still comes with a microSD card slot, MIPI DSI/CSI connectors, and other features, making it suitable for industrial HMIs, gateways, and control applications. WT99P461-S1 specifications: Wireless Module Wireless-Tag WT01P461-S1 (25 x 25mm) Microcontroller ESP32-P4X (ESP32-P4 v3.2) MCU Dual-core RISC-V microcontroller @ 360/400 MHz with AI instructions extension and single-precision FPU Single-RISC-V LP (Low-power) MCU core @ up to 40 MHz GPU 2D Pixel Processing Accelerator (PPA) VPU H.264 and JPEG codec support Memory 768 KB HP L2MEM, 32 KB LP SRAM, 8 KB TCM, 32MB PSRAM Storage 128 KB HP ROM, 16 [...] The post $21 ESP32-P4X and ESP32-C61 full-featured board offers Ethernet, WiFi 6, RS485 CAN Bus, MIPI CSI/DSI, and more appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/04/21-esp32-p4x-and-esp32-c61-full-featured-board-offers-ethernet-wifi-6-rs485-can-bus-mipi-csi-dsi-and-more/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-11-04T16:34:14.349230"
+  },
+  {
+    "title": "ZOTAC ZBOX CI471 nano fanless mini PC features Intel Core 7 350, WiFi 7, and dual Thunderbolt 4",
+    "summary": "ZOTAC has introduced the ZBOX CI471 nano, a fanless mini PC powered by an Intel Core 7 350 hexa-core Wildcat Lake processor with integrated Xe3 graphics and a 17 TOPS NPU. The company has also introduced two lower-end models, the ZBOX CI451 nano with a Core 5 320 processor and the ZBOX CI431 nano with a Core 3 304 processor. All three mini PCs use passive cooling and share the same 204 129 68 mm enclosure. They support up to 64GB DDR5 memory, M.2 NVMe SSD storage, and three 4K displays. Other features include dual Thunderbolt 4, 2.5GbE networking, and WiFi 7 and Bluetooth 5.4 wireless connectivity. The systems are offered as barebones, meaning users must install their own memory and storage. ZOTAC ZBOX CI471/CI451/CI431 nano specifications: SoC Intel Core Series 3 Wildcat Lake processors ZBOX CI471 nano Intel Core 7 350 CPU 6-core (2x [...] The post ZOTAC ZBOX CI471 nano fanless mini PC features Intel Core 7 350, WiFi 7, and dual Thunderbolt 4 appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/04/zotac-zbox-ci471-nano-fanless-mini-pc-features-intel-core-7-350-wifi-7-and-dual-thunderbolt-4/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-04T16:34:14.349356"
+  },
+  {
+    "title": "LiveX AI s life-size, human-like AI hosts raise the bar for CX",
+    "summary": "Instead of a human behind the customer service interface, AI City from LiveX AI relies on an AI agent to take questions and offer responses on a human-sized kiosk.",
+    "link": "https://www.fiercesensors.com/ai/livex-ais-life-size-human-ai-hosts-raise-bar-cx",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-04T16:34:14.350149"
+  },
+  {
+    "title": "US export restrictions on China threaten SK Hynix's plans to build $45 billion worth of chip plants in New York",
+    "summary": "Two people told Reuters that Solidigm, SK Hynix's US subsidiary, plans to spend about $45 billion on two NAND fabs in Marcy, New York. That figure could grow to about $100 billion over time. The company needs to increase output in Dalian and make more advanced NAND there to fund... Read Entire Article",
+    "link": "https://www.techspot.com/news/114443-us-export-restrictions-china-threaten-sk-hynix-plans.html",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-04T16:34:14.350415"
+  },
+  {
+    "title": "Remote Mouse turns your smartphone into a handy PC remote",
+    "summary": "Remote Mouse turns your phone into a wireless mouse, keyboard, and trackpad for your PC or Mac. The latest update adds the ability to view running apps and currently playing media directly from your phone, but the new feature is currently exclusive to macOS. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7467-remote-mouse.html",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.945129"
+    "processed_date": "2026-11-04T16:34:14.350539"
   },
   {
-    "title": "Hands-on with the DockCase Mount Ling 2 Pro",
-    "summary": "The Mount Ling 2 Pro is a dock for Nintendo Switch 2, Steam Deck, or other PC handhelds that doubles as a capture card and a vehicle for up to 4TB of NVMe SSD storage.",
-    "link": "https://www.tomshardware.com/peripherals/docking-stations-hubs/hands-on-with-the-dockcase-mount-ling-2-pro-handheld-dock-with-a-built-in-capture-card-and-space-for-up-to-4tb-of-nvme-storage",
+    "title": "Microsoft's AI PC roadmap shows where Ryzen AI 500 and Intel Nova Lake fit into Windows",
+    "summary": "Known leaker HXL posted the slide on X on Tuesday. Titled \"Windows is the home for hybrid intelligence,\" it lines PCs up along a memory scale that runs from 8GB to beyond 128GB. Chip names only appear underneath, almost like footnotes. Read Entire Article",
+    "link": "https://www.techspot.com/news/114439-microsoft-leaked-ai-pc-roadmap-reveals-where-amd.html",
     "categories": [
+      "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.945231"
+    "processed_date": "2026-11-04T16:34:14.350671"
   },
   {
-    "title": "Bambu Lab H3C 3D printer review: A nine-tool monster",
-    "summary": "The Bambu Lab H3C is a massive tool changer that handles TPU like nobody s business.",
-    "link": "https://www.tomshardware.com/3d-printing/bambu-lab-h3c-3d-printer-review",
+    "title": "Microsoft is giving away 25 Xbox games worth over $500 with new Windows PCs and handhelds",
+    "summary": "Microsoft is delivering the X25 bundle through the Microsoft Store app on Windows 11, not through codes or retailer redemptions. The bundle will appear on eligible machines no later than the end of November, and owners can claim all 25 games from there. The promotion runs through December and is... Read Entire Article",
+    "link": "https://www.techspot.com/news/114437-microsoft-giving-away-25-xbox-games-worth-over.html",
     "categories": [
       "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-04T16:34:14.350807"
+  },
+  {
+    "title": "Apple says it won't merge macOS and iPadOS, despite years of making them increasingly similar",
+    "summary": "Apple CEO John Ternus recently stated that the company still has no plans to combine iPadOS and macOS into a single operating system. The operating systems have grown increasingly similar in recent years, but keeping them separate likely helps fatten the company's profits. Read Entire Article",
+    "link": "https://www.techspot.com/news/114438-apple-wont-merge-macos-ipados-despite-years-making.html",
+    "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.945327"
+    "processed_date": "2026-11-04T16:34:14.350963"
   },
   {
-    "title": "Nvidia tells data center operators to limit business from Chinese customers with new global restrictions, report claims",
-    "summary": "Nvidia has told cloud providers who use its data center products that they must sell less than half of their services to Chinese companies as part of a new policy that will further impact China's ability to keep up with the global AI surge.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-tells-data-center-operators-to-limit-business-from-chinese-customers-with-new-global-restrictions-report-claims-allegedly-restricted-to-49-percent-of-the-total-ensuring-51-percent-are-non-chinese-outfits",
+    "title": "Six humanoid robots worked a 24-hour shift at a convenience store, but two weren't good enough to keep their jobs",
+    "summary": "Agibot's G2 robots took over duties at an operating convenience store in Shanghai's Xuhui district between November 2 and 3. The company called the broadcast \"Robots Never Clock Out,\" which perfectly captures why managers are introducing these robots. Read Entire Article",
+    "link": "https://www.techspot.com/news/114445-six-humanoid-robots-worked-24-hour-shift-convenience.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-04T16:34:14.351064"
+  },
+  {
+    "title": "Microsoft says Windows is now 20% more responsive and 40% faster at multitasking on 8GB PCs",
+    "summary": "Microsoft has spent much of 2026 vowing to improve Windows 11. With the AI-driven memory crisis continuing to make RAM prices akin to that of gold, part of the upgrades has been to make the OS run better on 8GB machines. Read Entire Article",
+    "link": "https://www.techspot.com/news/114442-microsoft-windows-11-now-20-more-responsive-40.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-04T16:34:14.351155"
+  },
+  {
+    "title": "A Brief History of the Video Game Parry",
+    "summary": "From early fencing games and arcade fighters to Bloodborne, Sekiro, and Clair Obscur, the parry has turned a moment of defense into one of gaming's most satisfying attacks . Read Entire Article",
+    "link": "https://www.techspot.com/article/3188-history-video-game-parry/",
     "categories": [
       "AI & ML",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.945437"
+    "processed_date": "2026-11-04T16:34:14.351224"
   },
   {
-    "title": "Corsair has slashed $180 off its blistering MP700 SE Gen 5 SSD",
-    "summary": "The 4TB Corsair MP 700 Pro SE is $180 off, the cheapest 4TB Gen 5 SSD you can buy right now.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/corsair-has-slashed-usd180-off-its-blistering-mp700-se-gen-5-ssd-now-14-cents-per-gb-get-4tb-of-ssd-storage-for-usd579-the-cheapest-drive-on-the-market",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-03T16:32:34.945531"
-  },
-  {
-    "title": "Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5",
-    "summary": "Last week, Google released its latest AI model, Gemini 4 Carbon, topping intelligence rankings charts.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.945627"
-  },
-  {
-    "title": "China deploys 'world's first' 800-volt DC power system for massive AI data center",
-    "summary": "Firm says it has completed the world s first commercial data center deployment of an integrated 800-volt DC power system.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/china-deploys-worlds-first-800-volt-dc-power-system-for-massive-ai-data-center-seeks-to-quench-power-needs-with-higher-conversion-and-efficiency-inside-a-smaller-footprint",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.945721"
-  },
-  {
-    "title": "Chinese survey ship loitering near undersea cable ignores Philippine demands to withdraw",
-    "summary": "A Chinese research vessel ignored the Philippine coast guard's attempts to move it as it loitered over an undersea cable near its coast as the PRC continues to use civilian vessels as \"gray-zone\" warfare against potential future adversaries in the region.",
-    "link": "https://www.tomshardware.com/tech-industry/chinese-survey-ship-loitering-near-undersea-cable-ignores-philippine-demands-to-withdraw-evasive-action-point-to-growing-prc-threats-to-data-lines-in-the-pacific",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-03T16:32:34.945826"
-  },
-  {
-    "title": "Engineer creates retro FPGA Game Boy console that can rip your cartridges to an SD card natively",
-    "summary": "Joining the FPGA console trend is the SGBC, a Game Boy console that natively supports a Game Boy cartridge slot and copying cartridge ROMs to a microSD card.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/the-sgbc-is-an-fpga-game-boy-console-that-can-rip-your-cartridges-to-an-sd-card-natively-it-even-has-game-link-cable-support",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.945924"
-  },
-  {
-    "title": "Snag this 360Hz QD-OLED gaming monitor for only $349 sumptuous 27-inch display also features an integrated Wi-Fi antenna",
-    "summary": "An affordable OLED monitor upgrade for just $349. Featuring a blistering 360Hz refresh rate and an integrated WiFi antenna.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/snag-this-360hz-qd-oled-gaming-monitor-for-only-usd349-sumptuous-27-inch-display-also-features-an-integrated-wi-fi-antenna",
-    "categories": [
-      "GPUs",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.946023"
-  },
-  {
-    "title": "AI chip smugglers exploit trade control loophole to bring banned HBM from South Korea into China",
-    "summary": "Customs authorities only check the performance specifications of a server's processors, allowing smugglers to attach high-end memory chips to low-end processors and ship them into China.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/ai-chip-smugglers-exploit-trade-control-loophole-to-bring-banned-hbm-from-south-korea-into-china-expensive-memory-chips-packaged-with-cheap-unsanctioned-processors-to-become-legal-exports",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-11-03T16:32:34.946146"
-  },
-  {
-    "title": "Steam Survey shockwaves felt as proportion of 32GB RAM systems drops by more than 5%",
-    "summary": "The latest Steam Survey appears to show that gamers blessed with systems packing 32GB or more RAM and 1TB or more storage are a dying breed.",
-    "link": "https://www.tomshardware.com/pc-components/ram/steam-survey-shockwaves-felt-as-proportion-of-32gb-ram-systems-drops-by-more-than-5-percent-the-percentage-of-pc-gamers-with-1tb-total-storage-also-shrunk-by-nearly-5-percent",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.946268"
-  },
-  {
-    "title": "Developer manages to run Windows 11 26H2 with just 128MB of RAM, just 3.1% of recommended minimum",
-    "summary": "The developer's latest experiment takes Windows 11's hardware requirements to an extreme, managing to retain basic desktop functionality with just 128MB of memory, although the resulting installation is far too slow for everyday use.",
-    "link": "https://www.tomshardware.com/software/windows/developer-manages-to-run-windows-11-26h2-with-just-128mb-of-ram-just-3-1-percent-of-recommended-minimum-stripped-down-installation-can-access-desktop-file-explorer-and-notepad",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.946376"
-  },
-  {
-    "title": "Grab a huge $1,229 saving on this 18-inch Alienware gaming laptop with an RTX 5070",
-    "summary": "Grab a $1,229 saving on this Alienware Area 51 gaming laptop right now with an RTX 5070 and 32GB DDR5.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/grab-a-huge-usd1-229-saving-on-this-18-inch-alienware-gaming-laptop-with-an-rtx-5070-area-51-machine-packs-a-24-core-intel-cpu-32gb-ddr5-and-a-1tb-ssd-for-usd2-449-99",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-03T16:32:34.946478"
-  },
-  {
-    "title": "Creator says Amazon closed his account after he tried to buy seven Nvidia DGX Sparks",
-    "summary": "Nick Saraev says Amazon closed his account after canceling Nvidia DGX Spark orders; Tim Sweeney reports canceled orders after a GPU buy.",
-    "link": "https://www.tomshardware.com/desktops/mini-pcs/amazon-closes-ai-creators-account-after-he-attempts-to-buy-seven-nvidia-dgx-spark-mini-pcs-epic-ceo-tim-sweeney-says-his-regular-orders-were-canceled-before-arrival-after-he-tried-to-buy-two-gpus",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.946577"
-  },
-  {
-    "title": "OpenAI considers rebranding data centers to 'AI compute campuses\" as data center backlash intensifies",
-    "summary": "OpenAI expects AI to become a major issue in the 2028 presidential election and is preparing a policy and public relations push after the U.S. midterm elections. The company is also promoting the term AI compute campuses for its data centers as it seeks to address concerns over electricity demand, water consumption, pollution and rising utility bills",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.946693"
-  },
-  {
-    "title": "Nordic Semi nRF71 wireless chips to deliver 20 times lower standby power for battery-operated WiFi devices",
-    "summary": "Nordic Semi has just announced the nRF71 Series of ultra-low-power SoCs with ultra-low-power Wi-Fi 6, Bluetooth Low Energy (LE), and Thread connectivity, as well as an Axon NPU for edge AI workloads. The company claims the new chips, starting with the dual-band nRF7120 and tri-band nRF7120E, deliver up to 20 times lower standby power usage than current-generation nRF70 Series Wi-Fi products. This should allow nRF71 devices to run for years on battery, whether they use BLE, Thread, or Wi-Fi, for Smart Home, wearables, and industrial IoT applications. Nordic Semi nRF7120/nRF7120E specifications: MCU cores Arm Cortex-M33 @ up to 256 MHz RISC-V coprocessor @ up to 256 MHz with support for SoftPeripherals (CAN 2.0B, SDIO) Memory 1 MB on-chip, user-accessible low-leakage RAM Storage 4 MB on-chip NVM AI accelerator Axon NPU (nRF7120E only) Wireless Wi-Fi Wi-Fi 6 (802.11ax), backward compatible with 802.11a/b/g/n/ac nRF7120 Dual-band Wi-Fi 6 at [...] The post Nordic Semi nRF71 wireless chips to deliver 20 times lower standby power for battery-operated WiFi devices appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/03/nordic-semi-nrf71-wireless-chips-to-deliver-20-times-lower-standby-power-for-battery-operated-wifi-devices/",
-    "categories": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-11-03T16:32:34.947167"
-  },
-  {
-    "title": "Seeed Studio launches 4.26 Mono and 7.3 Color e-Paper kits preloaded with OpenDisplay firmware",
-    "summary": "Seeed Studio has launched two Nordic nRF52840-based Bluetooth LE e-paper kits preloaded with the OpenDisplay open-source firmware for e-paper displays and supporting Home Assistant integration. The OpenDisplay 4.26 Mono features a 4.26-inch monochrome/grayscale display with 800 480 resolution and partial refresh support, while the OpenDisplay 7.3 Color Kit is equipped with a 7.3-inch Spectra 6 color e-paper with the same resolution. Both are powered by a 2,000 mAh battery and feature a few buttons for control and reset. Seeed Studio OpenDisplay kits specifications: MCU Nordic Semi nRF52840 CPU Arm Cortex-M4F microcontroller @ up to 64 MHz Memory 256 KB SRAM Storage 1 MB flash Wireless Bluetooth LE 5.0, NFC, 802.15.4 connectivity Display OpenDisplay 4.26 Mono Kit 4.26-inch monochrome ePaper Black and white (default); optional 4-gray mode Partial Refresh Supported in black-and-white mode only Resolution 800 480 Controller Seeed XIAO EN05 driver board [...] The post Seeed Studio launches 4.26 Mono and 7.3 Color e-Paper kits preloaded with OpenDisplay firmware appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/03/seeed-studio-4-26-mono-and-7-3-color-e-paper-kits-opendisplay-firmware/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-11-03T16:32:34.947342"
-  },
-  {
-    "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
-    "summary": "Raspberry Pi has announced yet another price increase, this time for most models with 16GB of RAM. The Raspberry Pi 5 16GB now sells for $385, an $80 increase compared to the last price hike in April, and the Raspberry Pi CM5 system-on-module gets a $40 increase, starting at $375 for the Lite model without wireless. The good news is that the Raspberry Pi 500+ mechanical keyboard PC stays at the same price, starting at $410. I suppose they can afford it on that model, because it s already richly priced and the demand must be lower than for single board computers and compute modules. Here s the updated price list for the Compute Module 5 16GB variants. Interestingly, the price is the same whether we get 32GB or 64GB eMMC flash. I still remember people complaining about the $120 launch price of the Raspberry Pi 5 16GB. That was less than [...] The post When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385 appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-03T16:32:34.947498"
-  },
-  {
-    "title": "Boston Dynamics Atlas training ground at Hyundai plant offers real world edge",
-    "summary": "Humanoid robot builders need the best stream of real-world data and a new Boston Dynamics robotics metaplant at a Hyundai auto plant in Georgia could meet that need.",
-    "link": "https://www.fiercesensors.com/ai/boston-dynamics-atlas-training-ground-hyundai-plant-offers-real-world-edge",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.948647"
-  },
-  {
-    "title": "What does \"Wi-Fi\" stand for?",
-    "summary": "What do the letters in \"Wi-Fi\" stand for? Don't Google it. Read Entire Article",
-    "link": "https://www.techspot.com/trivia/183-wi-fi-meaning/",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-03T16:32:34.948840"
-  },
-  {
-    "title": "Dating in Silicon Valley now involves spreadsheets, AI analysis, and $5,000-a-month relationship coaches",
-    "summary": "The industry's boom has drawn a wave of young, ambitious founders and engineers to San Francisco. Many say they date less because they work more, and when they do date, they treat it as a high-stakes decision. A first coffee can start to feel like a final-round interview. Read Entire Article",
-    "link": "https://www.techspot.com/news/114425-dating-silicon-valley-now-involves-spreadsheets-ai-analysis.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-03T16:32:34.949010"
-  },
-  {
-    "title": "Pope Leo XIV urges governments to ban lethal AI weapons, says tech must be used for common good",
-    "summary": "The pope also made the Catholic Church's position clear on the debate over whether AI systems should be granted rights or legal personhood, saying the Vatican sees machines as tools, not sentient beings with a claim to legal rights of their own. AI is developed by human beings, he added,... Read Entire Article",
-    "link": "https://www.techspot.com/news/114420-pope-leo-xiv-urges-governments-ban-lethal-ai.html",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.949212"
-  },
-  {
-    "title": "Board makers are running out of GeForce RTX 50 GPUs, so distributors are pushing old RTX 3060s instead",
-    "summary": "Chinese supply chain outlet ChannelGate first reported the shift. According to the outlet, some manufacturers have already run out of RTX 50 stock. The ones that haven't are reportedly shipping what's left in small batches at higher prices. Read Entire Article",
-    "link": "https://www.techspot.com/news/114426-rtx-5000-series-cards-running-out-china-forcing.html",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.949385"
-  },
-  {
-    "title": "AMD's Zen 7 \"Grimlock\" APUs with RDNA 5+ graphics may not arrive until 2029",
-    "summary": "Prominent leaker Kepler_L2 recently claimed that AMD APUs featuring \"RDNA 5+\" iGPUs and Zen 7 CPU cores will be available in early 2029. The statement amounts to some of the earliest concrete information about Zen 7 chips for consumer devices. Read Entire Article",
-    "link": "https://www.techspot.com/news/114424-amd-zen-7-grimlock-apus-rdna-5-graphics.html",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.949572"
-  },
-  {
-    "title": "Reddit tells Australian court it isn't a social media site, calls the country's under-16 ban \"ill thought out\" and \"inept\"",
-    "summary": "Australia passed its under-16 social media law in 2024, and the restrictions took effect on December 10, 2025, making it the first country to introduce a ban that has since spread around the world. Read Entire Article",
-    "link": "https://www.techspot.com/news/114429-reddit-tells-australian-court-isnt-social-media-site.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.949731"
-  },
-  {
-    "title": "CentOS co-founder creates a Linux-compatible kernel in just 11 days, with AI doing almost all the coding",
-    "summary": "Kurtzer unveiled the kernel, Ginux, on X last week. The code is on GitHub, too, under the Apache 2.0 license. As for the name, it blends Linux, GPT, and Greg. The README jokes that to keep its author's ego in check, the G officially stands for GPT. Read Entire Article",
-    "link": "https://www.techspot.com/news/114422-rocky-linux-creator-built-new-not-linux-kernel.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-03T16:32:34.949897"
-  },
-  {
-    "title": "Anthropic's IPO filing reveals $1.7 billion quarterly personnel bill, averaging $107,000 per employee monthly",
-    "summary": "The filing, spotted by Business Insider, shows that Anthropic recorded more than $1.7 billion in personnel expenses from July through to September. With 5,300 people working at the company, that works out at over $322,000 per person over the three-month span, or about $107,300 per employee per month. Read Entire Article",
-    "link": "https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.950062"
-  },
-  {
-    "title": "Refrigerator cyberattack spreads to many European countries, spoiling food worth thousands",
-    "summary": "A cyberattack on internet-connected refrigeration systems ruined food at grocery stores in at least seven European countries on Monday, with one Belgian Delhaize store estimating its losses at 100,000. The attack mirrors the one that hit French grocers in mid-October, exposing gaping security holes. Read Entire Article",
-    "link": "https://www.techspot.com/news/114419-refrigerator-cyberattack-spreads-many-european-countries-spoiling-food.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.950251"
-  },
-  {
-    "title": "Most users can now upgrade to Windows 11 26H2, even from Windows 10",
-    "summary": "Microsoft recently updated its official guidance on installing the latest version of Windows 11. Windows 11, version 26H2 is now available to all eligible devices, including those running the 25H2 and 24H2 releases and, well, most everything else a reasonably modern PC can run. The upgrade process also supports the... Read Entire Article",
-    "link": "https://www.techspot.com/news/114418-most-users-can-now-upgrade-windows-11-26h2.html",
+    "title": "Bloodborne reportedly sold more than 250,000 copies in 2026, 11 years after launch and with no patch since 2015",
+    "summary": "Alinea Analytics recently estimated that Bloodborne has sold more than 250,000 copies so far in 2026 alone. The figure is impressive considering the action RPG launched in 2015 exclusively for the PS4 and has never been updated for newer hardware or re-released, despite popular demand. Read Entire Article",
+    "link": "https://www.techspot.com/news/114435-bloodborne-reportedly-sold-more-than-250000-copies-2026.html",
     "categories": [
       "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.950422"
-  },
-  {
-    "title": "The 22GB GeForce RTX 2080 Ti mod is a fix for a problem most gamers don't have",
-    "summary": "When PC Games Hardware tested a 22GB card lent by a reader, it went looking for trouble on purpose. The outlet picked nine of the most memory-hungry games it knows and maxed them out. It also acknowledges that nearly every game it left out runs fine on the stock 11GB,... Read Entire Article",
-    "link": "https://www.techspot.com/news/114421-22gb-geforce-rtx-2080-ti-mod-fix-problem.html",
-    "categories": [
-      "GPUs",
       "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.950601"
+    "quality_score": 15,
+    "processed_date": "2026-11-04T16:34:14.351307"
   },
   {
-    "title": "Forget hobby drones: College student builds 491 mph jet-powered speed demon",
-    "summary": "Salvo said that the Reaper project was conceived, designed, and assembled in his college dorm room, and that he has been working on it since last February. He claims to have built three working prototypes, each capable of sustaining the claimed 491 mph (790 km/h) speed for four minutes on... Read Entire Article",
-    "link": "https://www.techspot.com/news/114417-forget-hobby-drones-college-student-builds-491-mph.html",
+    "title": "Google says schools that ban AI will also lose search",
+    "summary": "According to Chris Phillips, Google's vice president and general manager for education, K-12 schools will soon have to fully embrace the company's AI services or lose student access to its web search engine. Read Entire Article",
+    "link": "https://www.techspot.com/news/114433-google-schools-ban-ai-also-lose-search.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.950763"
+    "processed_date": "2026-11-04T16:34:14.351379"
   },
   {
-    "title": "NASA's Swift Space Telescope is set to crash back to Earth this week",
-    "summary": "The Swift Observatory could plunge back to Earth as early as this Friday, US authorities said. The telescope is expected to undergo an uncontrolled reentry after NASA and Katalyst Space Technologies tried and failed to correct the spacecraft's orbit using a robotic device in September. Read Entire Article",
-    "link": "https://www.techspot.com/news/114412-nasa-swift-space-telescope-set-crash-back-earth.html",
+    "title": "Anthropic tells Claude Code to stop recreating existing video games",
+    "summary": "Claude might soon stop being one of the best AI tools for decompiling and recompiling existing games. According to Anthropic programmer Addy Osmani, the model behind the company's vibe-coding service will now avoid user prompts that request recreations of someone else's video games. Read Entire Article",
+    "link": "https://www.techspot.com/news/114423-anthropic-tells-claude-code-stop-recreating-existing-video.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-03T16:32:34.950925"
+    "processed_date": "2026-11-04T16:34:14.351456"
+  },
+  {
+    "title": "Vizio smart TVs are ignoring tracking opt-outs, continue to send data even when sitting idle",
+    "summary": "For the study, researchers at Northeastern University tested 12 smart TVs from 10 manufacturers. Together, those sets run the eight operating systems behind roughly 95% of US smart TVs. Every viewing scenario antenna, HDMI, streaming apps and more ran 30 times with automatic content recognition (ACR) turned on.... Read Entire Article",
+    "link": "https://www.techspot.com/news/114427-vizio-smart-tvs-appear-ignore-tracking-opt-outs.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-04T16:34:14.351538"
+  },
+  {
+    "title": "Borderlands is now a 100 million-copy franchise, and Gearbox isn't done yet",
+    "summary": "Gearbox launched Borderlands 4 on PlayStation 5, Xbox Series X/S, and Windows PCs on September 12, 2025. Like others in the series, it is playable solo or with up to three others. Gamers have enjoyed a solid first year of post-launch add-on content including two story packs, five bounty packs,... Read Entire Article",
+    "link": "https://www.techspot.com/news/114431-borderlands-now-100-million-copy-franchise-gearbox-isnt.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-04T16:34:14.351620"
   }
 ]
