@@ -1,397 +1,180 @@
 [
   {
-    "title": "Elegoo M1 Ultra review: A good first entry into the scanner market",
-    "summary": "Elegoo s first scanner is a useful tool, but it requires a little extra work.",
-    "link": "https://www.tomshardware.com/3d-printing/3d-scanning/elegoo-m1-ultra-review",
+    "title": "This week in Tom's Hardware Premium: November 7, 2026 Micron roadmap, Apple's touchscreen ambitions, GlobalFoundries interview, and much more",
+    "summary": "This week on Tom's Hardware Premium, we've published in-depth interviews, roadmaps, and features you won't want to miss.",
+    "link": "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-7-2026-micron-roadmap-apples-touchscreen-ambitions-globalfoundries-interview-and-much-more",
     "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.323713"
-  },
-  {
-    "title": "GlobalFoundries VP details FDX Fusion technology, sporting 7nm-class performance without the need for EUV tools company targets 2030 for high-volume manufacturing, with planar transistors in tow",
-    "summary": "GlobalFoundries reveals new details about its FDX Fusion technology, which promises 7nm-class performance and 8nm-class logic density using planar FD-SOI transistors without EUV lithography, shares what is next for FDX Fusion node, and the FDX program in general.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-06T16:17:43.323813"
-  },
-  {
-    "title": "Protesters storm Microsoft AI data center construction site",
-    "summary": "The protesters stormed over the walls and took over the construction site, with the Stop Dirty Data Centers coalition saying that more actions are planned across Europe.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/protesters-storm-microsoft-ai-data-center-construction-site-amsterdam-reportedly-first-of-85-targeted-actions-across-europe",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.323890"
-  },
-  {
-    "title": "Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims",
-    "summary": "Nvidia is requiring Southeast Asian cloud providers seeking Nvidia Cloud Partner status to enroll in its Fleet Intelligence tracking program, giving the chipmaker greater visibility into where its AI GPUs are deployed. The move comes as Washington increases pressure over suspected chip smuggling into China, with investigations involving Megaspeed International and Super Micro highlighting the challenges of enforcing U.S. export restrictions",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-tightens-tracking-of-ai-gpus-in-southeast-asia-as-chinese-chip-smuggling-draws-scrutiny-report-claims-cloud-providers-must-join-monitoring-program-to-qualify-for-official-partner-status",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.323990"
-  },
-  {
-    "title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist",
-    "summary": "The latest incident comes amid growing concerns over GPU theft, with experts warning that advanced Nvidia chips can command significantly higher prices abroad and could end up in black-market channels.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears",
-    "categories": [
-      "GPUs",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.324067"
-  },
-  {
-    "title": "Save 26% on this 142-piece toolkit for your PC repairs and hobbyist projects, now under $28",
-    "summary": "This 142-in-1 repair toolkit from Strebito has 120 bits and a number of other tools, and right now it's just $27.99, saving you 26% overall.",
-    "link": "https://www.tomshardware.com/desktops/pc-building/save-26-percent-on-this-142-piece-toolkit-for-your-pc-repairs-and-hobbyist-projects-now-under-usd28-precision-screwdriver-kit-includes-120-magnetic-bits-and-20-different-repair-tools-for-your-next-project",
-    "categories": [
-      "AI & ML",
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.324139"
+    "processed_date": "2026-11-07T15:08:23.999368"
   },
   {
-    "title": "Nvidia wants to repurpose over 130 old telco buildings as tiny data centers, report claims",
-    "summary": "Brightspeed has over 130 facilities located across the U.S., with Nvidia estimating that they could produce up to 1GW of compute capacity.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-wants-to-repurpose-over-130-old-telco-buildings-as-tiny-data-centers-report-claims-company-in-talks-with-brightspeed-after-pitching-idea-to-parent-company-apollo-global-management",
+    "title": "US intelligence believes Jensen Huang had romantic relationship with Chinese spy in honeypot operation",
+    "summary": "U.S. intelligence sources suggest that Nvidia chief Jensen Huang was targeted by Chinese intelligence in a 'honeypot' operation involving Megaspeed executive Alice Huang.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips",
     "categories": [
-      "AI & ML",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.324209"
+    "processed_date": "2026-11-07T15:08:23.999489"
   },
   {
-    "title": "Rogue AI tasked with renumbering pages accidentally deletes law professor's entire syllabus, one year of lecture notes",
-    "summary": "A University of Chicago lecturer has revealed a rogue Claude AI agent deleted his entire syllabus and year's worth of lecture notes by mistake.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.324287"
-  },
-  {
-    "title": "Tesla unveils AI accelerator roadmap, adopts new 'SI' branding in 'Super Intelligence' push",
-    "summary": "Tesla is ramping up its custom silicon ambitions with training-oriented Dojo D3 that can eventually go to orbital data centers and massive SI6 inference accelerator.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/tesla-unveils-ai-accelerator-roadmap-adopts-new-si-branding-in-super-intelligence-push-si6-to-bring-80x-more-compute-performance-dojo-3-headed-to-space",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.324370"
-  },
-  {
-    "title": "Intel s next-gen Nova Lake needs new motherboards what we expect from Nova Point and Z990, Z970, and B960 chipsets",
-    "summary": "New Intel CPUs mean a new LGA 1954 socket and new motherboards. Here s what we know about Nova Point s Z990, Z970, and B960 chipsets, including more PCIe 5.0, Thunderbolt 5, faster base RAM speeds, and active cooling",
-    "link": "https://www.tomshardware.com/pc-components/chipsets/intels-next-gen-nova-lake-needs-new-motherboards-what-we-expect-from-nova-point-and-z990-z970-and-b960-chipsets",
+    "title": "TeamGroup GA Pro 2TB SSD Review: A faltering attempt at a mid-range PCIe 5.0 SSD",
+    "summary": "The TeamGroup GA Pro mostly misses. Decent QD8 and steady-state writes can t make up for weak overall performance, poor efficiency, and high temps.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/teamgroup-ga-pro-2tb-ssd-review",
     "categories": [
       "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.324450"
-  },
-  {
-    "title": "Score a huge $600 saving on this RTX 5070 Ti gaming laptop from HP, now under $2,100",
-    "summary": "Save $600 on this customizable RTX 5070 Ti HP Omen Max 16 gaming laptop with 16GB DDR5, 512GB SSD, and a 16-inch display.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/score-a-huge-usd600-saving-on-this-rtx-5070-ti-gaming-laptop-from-hp-now-under-usd2-100-hyperx-omen-max-16-machine-is-fully-customizable-base-model-ships-with-16gb-ddr5-and-a-512gb-ssd",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.324517"
-  },
-  {
-    "title": "Gelsinger-backed Nagare Labs Z2RAM promises SRAM speed at DRAM density",
-    "summary": "Georgia Tech spinout Nagare Labs, backed by Playground Global, unveils Z2RAM, a capacitorless memory to stack on AI accelerators.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/gelsinger-backed-nagare-labs-capacitorless-z2ram-promises-sram-speed-with-dram-density-latest-published-cell-retains-data-for-over-300-seconds-at-85-c-but-further-figures-are-projected",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-06T16:17:43.324586"
-  },
-  {
-    "title": "Nintendo s latest Zelda remake already circulating online as a Switch 2 ROM",
-    "summary": "The Legend of Zelda: Ocarina of Time has reportedly been dumped on its Switch 2 launch day, with its original release and a 23GB update already circulating online.",
-    "link": "https://www.tomshardware.com/video-games/nintendo/nintendos-latest-zelda-remake-already-circulating-online-as-a-switch-2-rom-openai-assisted-software-jailbreak-new-game-dumper-let-pirates-share-game-for-free-immediately-following-release",
-    "categories": [
       "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.324654"
-  },
-  {
-    "title": "Grab a Nintendo Switch 2 controller upgrade from $49, just in time for Zelda: Ocarina of Time's remaster",
-    "summary": "A selection of the best Switch 2 controllers for getting your best Zelda game on.",
-    "link": "https://www.tomshardware.com/video-games/handheld-gaming/grab-a-nintendo-switch-2-controller-upgrade-from-usd49-just-in-time-for-zelda-ocarina-of-times-remaster-secure-the-tools-to-defeat-ganondorf-with-these-top-wireless-gamepads-from-8bitdo-gamesir-and-others",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-06T16:17:43.324719"
-  },
-  {
-    "title": "Combined OpenSSH and musl-libc flaws let anyone into Alpine Linux and other distros by typing anything over 256 characters as a password",
-    "summary": "Combined OpenSSH and musl-libc flaws let anyone into Alpine Linux and other distros by typing anything over 256 characters as a password",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/combined-flaws-let-anyone-into-alpine-linux-and-other-distros-by-typing-anything-over-256-characters-as-a-password-emergency-fixes-for-openssh-and-musl-libc-issued-for-millions-of-systems-patch-immediately",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.324788"
-  },
-  {
-    "title": "India targets creating homegrown GPUs within 2 years and plans to commercialize indigenous SHAKTI and VEGA processors",
-    "summary": "MeitY Secretary S. Krishnan says India plans to develop its own GPU under Semiconductor Mission 2.0, with a target of approximately two years. The country is also looking to commercialize its SHAKTI and VEGA RISC-V processors, expand domestic server production, and attract more semiconductor investment. Krishnan sees the AI boom as a potential repeat of the Y2K-era opportunity that helped India's IT services industry grow",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/india-targets-creating-homegrown-gpus-within-2-years-and-plans-to-commercialize-indigenous-shakti-and-vega-risc-v-processors-sees-ai-boom-as-a-potential-repeat-of-the-y2k-opportunity-for-its-it-industry",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.324881"
-  },
-  {
-    "title": "Chinese AI lab Moonshot reportedly looked at European data centers to access Nvidia chips, report claims",
-    "summary": "The lab is reportedly interested in renting at least 8,000 Nvidia Blackwell GPUs.",
-    "link": "https://www.tomshardware.com/tech-industry/policy/chinese-ai-lab-moonshot-reportedly-looked-at-european-data-centers-to-access-nvidia-chips-report-claims-kimi-maker-primarily-interested-in-inferencing-capacity-but-also-asked-about-training-clusters",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-06T16:17:43.324951"
-  },
-  {
-    "title": "520 MHz STM32H7P4/STM32H7P5 Arm Cortex-M7 MCUs feature Hardware Signal Processor (HSP), optional Neural-ART NPU",
-    "summary": "STMicroelectronics has introduced the STM32H7P4 and STM32H7P5, two 520 MHz Arm Cortex-M7 MCUs part of STM32H7P family designed for digital power, motor control, industrial sensing, and edge AI applications. Both feature a Hardware Signal Processor (HSP) for accelerating mathematical and signal-processing operations, while the STM32H7P5 also includes an 85 GOPS Neural-ART NPU for Edge AI inference/TinyML. The MCUs feature up to 2MB dual-bank flash, 736KB SRAM, two high-resolution timers with up to 24 PWM outputs, three advanced motor-control timers, and four 12-bit ADCs. Other features include CORDIC and FMAC mathematical accelerators, three CAN FD interfaces, USB OTG Full-Speed, and support for external memory through Octo-SPI and FMC interfaces. STM32H7P4 and STM32H7P5 specifications: MCU Core 32-bit Arm Cortex-M7 CPU @ up to 520 MHz with double-precision FPU, DSP instructions, and MPU 32 KB instruction cache and 32 KB data cache Performance 2773 CoreMark (5.33 CoreMark/MHz) Mathematical coprocessors Hardware Signal Processor [...] The post 520 MHz STM32H7P4/STM32H7P5 Arm Cortex-M7 MCUs feature Hardware Signal Processor (HSP), optional Neural-ART NPU appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/06/520-mhz-stm32h7p4-stm32h7p5-arm-cortex-m7-mcus-feature-hardware-signal-processor-hsp-optional-neural-art-npu/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
     ],
     "quality_score": 15,
-    "processed_date": "2026-11-06T16:17:43.325341"
+    "processed_date": "2026-11-07T15:08:23.999612"
   },
   {
-    "title": "GEEKOM A5 2027 Edition (AMD Ryzen 7 7730U) mini PC review Part 1: Specifications, unboxing, teardown, and first boot",
-    "summary": "We ve been sent a GEEKOM A5 2027 Edition mini PC powered by an AMD Ryzen 7 7730U 8-core/16-thread CPU for review. The mini PC supports up to 64GB dual-channel DDR5-5600MHz memory, can drive up to four independent displays via HDMI 2.0 and USB-C ports, includes three USB 3.2 Gen 2 Type-A ports, two USB 3.2 Gen 2 Type-C ports, one USB 2.0 port, a full-size SD card reader, a 2.5GbE port, and Wi-Fi 6 and Bluetooth 5.4 wireless connectivity. The model sent for review ships with 16GB DDR4 SO-DIMM RAM and a 512GB M.2 SSD pre-loaded with an activated Windows 11 Pro operating system. In the first part of the review, we ll list the specifications, perform an unboxing and teardown to check out the hardware, and boot Windows 11 to make sure it works properly. Thorough features and performance testing on Windows 11 and Ubuntu 26.04 will be covered in [...] The post GEEKOM A5 2027 Edition (AMD Ryzen 7 7730U) mini PC review Part 1: Specifications, unboxing, teardown, and first boot appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/06/geekom-a5-2027-edition-amd-ryzen-7-7730u-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/",
+    "title": "Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot",
+    "summary": "Nvidia's Jensen Huang officially called to Congress due to reports of Chinese plot officials mention growing concerns over national security",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidias-jensen-huang-officially-called-to-congress-due-to-reports-of-a-chinese-spy-plot-officials-mention-growing-concerns-over-national-security",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-07T15:08:23.999718"
+  },
+  {
+    "title": "TSMC denies exploring 3D DRAM at Nvidia's request",
+    "summary": "Nvidia reportedly asks TSMC to produce '3D DRAM' to address memory shortages.",
+    "link": "https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability",
+    "categories": [
+      "GPUs",
+      "Semiconductors"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-07T15:08:23.999813"
+  },
+  {
+    "title": "Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365",
+    "summary": "A homelab enthusiast is retiring a Microsoft Exchange installation that began with Exchange 5.5 on Windows NT 4 in 1999. After migrating mailboxes to Microsoft 365, he kept Exchange 2019 running to relay local hardware and software alerts. Postfix on Ubuntu Server LTS will take over, with plans to add STARTTLS, Let's Encrypt certificates, and boot encryption",
+    "link": "https://www.tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-07T15:08:23.999933"
+  },
+  {
+    "title": "New Bluetooth High Data Throughput may finally satisfy audiophiles",
+    "summary": "Bluetooth HDT can offer a maximum bandwidth of 7.5 Mbps, allowing Bluetooth to be used with more sophisticated devices or big lossless audio files.",
+    "link": "https://www.tomshardware.com/peripherals/wearable-tech/new-bluetooth-high-data-throughput-may-finally-satisfy-audiophiles-bluetooth-hdt-offers-a-maximum-bandwidth-of-7-5mbps-allowing-true-lossless-transmission",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-07T15:08:24.000032"
+  },
+  {
+    "title": "EA producer found 20,000 archival media assets in secret physical vault at its HQ",
+    "summary": "The discovery of thousands of archival media assets led to the creation of Anniversary Editions of some classic titles.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/ea-producer-found-20-000-archival-media-assets-in-secret-physical-vault-at-its-hq-betacam-vhs-and-d1-tapes-among-6000-assets-digitized-to-remaster-seven-classic-games",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-07T15:08:24.000130"
+  },
+  {
+    "title": "US FAA to eliminate floppy disks from air traffic control by 2028",
+    "summary": "The US federal Aviation Administration (FAA) is finally moving to retire floppy disks from its air traffic control infrastructure, with plans to to replace four decades-old information systems across 435 facilities by the end of 2028.",
+    "link": "https://www.tomshardware.com/tech-industry/us-faa-to-eliminate-floppy-disks-from-air-traffic-control-by-2028-new-system-will-centralize-flight-alerts-restricted-airspace-schedules-and-pilot-reports",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-07T15:08:24.000250"
+  },
+  {
+    "title": "Waveshare ESP32-S31-Zero A tiny ESP32-S31 board with up to 32MB PSRAM, 32MB SPI flash",
+    "summary": "Waveshare ESP32-S31-Zero is a small ESP32-S31 development board that follows the form factor of the earlier Waveshare Zero boards, such as the ESP32-C6-Zero-B, RA4M1-Zero, and ESP32-S3-Zero, among others. The new tiny board still features a USB-C port for power and programming, as well as eighteen through and castellated holes for GPIO and power signals, but it boasts a more powerful ESP32-S31 dual-core RISC-V MCU clocked at up to 320 MHz, featuring 2.4 GHz WiFi 6, Bluetooth 5.3, and 802.15.4 connectivity, as well as up to 32MB on-chip PSRAM and a 16MB or 32MB SPI flash chip. Since the ESP32-S31 has quite a few extra I/Os, Waveshare also added a 40-pin high-density connector for LCD, touchscreen, SD card, USB 2.0, and extra GPIOs. Waveshare ESP32-S31-Zero specifications: SoC Espressif Systems ESP32-S31 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory [...] The post Waveshare ESP32-S31-Zero A tiny ESP32-S31 board with up to 32MB PSRAM, 32MB SPI flash appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/07/waveshare-esp32-s31-zero-a-tiny-esp32-s31-board-with-up-to-32mb-psram-32mb-spi-flash/",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
     "quality_score": 20,
-    "processed_date": "2026-11-06T16:17:43.325471"
+    "processed_date": "2026-11-07T15:08:24.000760"
   },
   {
-    "title": "AAEON PICO-PTH4 Pico-ITX board is powered by an Intel Panther Lake SoC up to the Core Ultra X7 358H",
-    "summary": "AAEON claims the PICO-PTH4 is the world s first 2.5-inch Pico-ITX board powered by an Intel Panther Lake processor, such as the Core Ultra 5 325, Core Ultra 7 355, and Core Ultra X7 358H, delivering up to 180 TOPS of AI performance in a 100mm x 72mm form factor. The single board computer ships with up to 32GB of LPDDR5X, supports M.2 M-Key/E-Key and PCIe x4 FPC expansion, and offers dual 2.5GbE, HDMI 2.1 video output, two USB 3.2 Gen 2 ports, and internal connectors for USB 2.0, front panel, RS-232/422/485, GPIO, and SMBus/I2C. AAEON PICO-PTH4 specifications: Panther Lake SoC (one or the other) Intel Core Ultra 5 325 CPU Octa-core (4P+4LPE) CPU up to 4.5 GHz with 12MB Smart Cache GPU 4-core Intel Graphics @ 2.45 GHz (40 TOPS) AI accelerator 47 TOPS Intel AI Boost NPU PBP: 25 Watts Core Ultra 7 355 CPU [...] The post AAEON PICO-PTH4 Pico-ITX board is powered by an Intel Panther Lake SoC up to the Core Ultra X7 358H appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/06/aaeon-pico-pth4-pico-itx-board-is-powered-by-an-intel-panther-lake-soc-up-to-the-core-ultra-x7-358h/",
+    "title": "What my aching back taught me about teaching robots to feel pain",
+    "summary": "After years of writing about sensors, a scoliosis diagnosis made me wonder what engineers really mean when they say a machine can feel .",
+    "link": "https://www.fiercesensors.com/sensors-fusion/what-my-aching-back-taught-me-about-teaching-robots-feel-pain",
     "categories": [
-      "Hardware",
-      "GPUs"
+      "AI & ML"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-11-06T16:17:43.325595"
+    "quality_score": 5,
+    "processed_date": "2026-11-07T15:08:24.001754"
   },
   {
-    "title": "Olimex UEXT-CH390 SPI to Ethernet module targets Raspberry Pi and ESP32 MCU boards running ESPHome",
-    "summary": "Olimex UEXT-CH390 is a small open-source hardware module that adds 10/100 Mbps wired Ethernet connectivity to microcontroller boards through an SPI interface. It is designed for Raspberry Pi Pico and Pico 2 boards, as well as ESP32-S3, C3, C5, C6, and other microcontrollers without built-in Ethernet connectivity. The module is based on the WCH CH390 Ethernet controller and features an RJ45 connector, a standard UEXT connector, and a smaller 1.0mm-pitch pUEXT connector. It measures 50 x 21 mm and is supported in the Arduino IDE and ESPHome firmware, making it suitable for wired IoT sensors, Home Assistant devices, and other applications where WiFi is unreliable or unwanted. Olimex UEXT-CH390 specifications: Ethernet controller WCH CH390 with integrated 10/100 Mbps Ethernet MAC and PHY 10BASE-T and 100BASE-TX Ethernet with auto-negotiation Auto-MDIX support for automatic cable detection Built-in 16KB SRAM for packet buffering Factory-programmed MAC address, eliminating the need for an external [...] The post Olimex UEXT-CH390 SPI to Ethernet module targets Raspberry Pi and ESP32 MCU boards running ESPHome appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/06/olimex-uext-ch390-spi-to-ethernet-module-targets-raspberry-pi-and-esp32-mcu-boards-running-esphome/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-06T16:17:43.325730"
-  },
-  {
-    "title": "TDK invents first direct retinal projection display for smart glasses",
-    "summary": "An ultrathin transparent mirror can be embedded in a smart glasses lens, TDK said",
-    "link": "https://www.fiercesensors.com/electronics/tdk-invents-first-direct-retinal-projection-display-smart-glasses",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-06T16:17:43.326647"
-  },
-  {
-    "title": "You betcha: Startups believe autos need more sensor modalities",
-    "summary": "Autotech Council Startup Review at Sensors Converge 2026 brought out thinking that future autos can benefit by better and different sensors. And the startups backed up that thinking with tech.",
-    "link": "https://www.fiercesensors.com/sensors-fusion/you-betcha-startups-believe-autos-need-more-sensor-modalities",
+    "title": "The NASA Artemis II launch punched two 5,000 km holes in the ionosphere that disrupted GPS signals, study finds",
+    "summary": "This April's Artemis II mission caused two large holes in Earth's ionosphere, resulting in significant disturbances that could affect GPS positioning accuracy. A new study by Taiwan-based researchers highlighted how modern launch systems can impact the atmosphere, and how future exploration missions are going to affect one of the most... Read Entire Article",
+    "link": "https://www.techspot.com/news/114480-nasa-artemis-ii-launch-punched-two-5000-km.html",
     "categories": [
       "Tech News",
-      "Hardware"
+      "AI & ML"
     ],
     "quality_score": 10,
-    "processed_date": "2026-11-06T16:17:43.326772"
+    "processed_date": "2026-11-07T15:08:24.002174"
   },
   {
-    "title": "Zelda: Ocarina of Time remake launches to day-one PC emulation and strong reviews",
-    "summary": "The Nintendo Switch 2 remake of arguably the greatest Nintendo 64 game has been dumped and run on a PC emulator within hours of launch. However, users should probably stick with the console version for now. Read Entire Article",
-    "link": "https://www.techspot.com/news/114468-zelda-ocarina-time-remake-launches-day-one-pc.html",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-06T16:17:43.326934"
-  },
-  {
-    "title": "After AMD's gaming revenue crashes 40%, CEO Lisa Su declares \"We are a data center-first company\"",
-    "summary": "Su made her remarks in an interview with Yahoo Finance's Brian Sozzi, where she presented data centers as central to AMD's identity and growth. Read Entire Article",
-    "link": "https://www.techspot.com/news/114475-after-amd-gaming-revenue-crashes-40-ceo-lisa.html",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.327046"
-  },
-  {
-    "title": "3M to pay up to $7.35 billion after lawsuits link its forever chemicals to contaminated water",
-    "summary": "Under the terms of the agreement, the plaintiffs will receive $50 million this year, followed by yearly payments of more than $1 billion from 2028 to 2033. 3M will be required to pay additional money if more plaintiffs join the class action, but if not enough people get on board,... Read Entire Article",
-    "link": "https://www.techspot.com/news/114464-3m-pay-up-735-billion-after-lawsuits-link.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.327181"
-  },
-  {
-    "title": "EA brings Wing Commander and Ultima to Steam, with cutscenes restored from the original master tapes",
-    "summary": "In all, 25 classics from EA's back catalog made their Steam debut. GOG and the EA app carry the same lineup, too. Most of them are straight ports, including the Ultima games, both Crusader titles, and Theme Hospital. Seven, though, are new Anniversary Editions that got real restoration work ... Read Entire Article",
-    "link": "https://www.techspot.com/news/114472-ea-brings-wing-commander-ultima-steam-cutscenes-restored.html",
+    "title": "Microsoft patent filing describes AI that rewrites what people say in livestreams in real time",
+    "summary": "AI-edited and AI-generated videos have been among the most popular generative AI applications since the technology's initial explosion in popularity. However, a Microsoft patent filing from late last month, recently uncovered by Patentlyze, aims to enhance how AI can edit real-time streaming. Read Entire Article",
+    "link": "https://www.techspot.com/news/114477-microsoft-patent-filing-describes-ai-rewrites-what-people.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.327306"
+    "processed_date": "2026-11-07T15:08:24.002370"
   },
   {
-    "title": "Google, Meta, and TikTok sue California over law banning addictive social media features for children",
-    "summary": "The complaints, filed Wednesday, target Assembly Bill 1709. Governor Gavin Newsom signed the measure on September 10 as part of a broader package covering social media and AI chatbot safety. It's scheduled to take effect on January 1, 2027. Read Entire Article",
-    "link": "https://www.techspot.com/news/114474-google-meta-tiktok-sue-california-over-law-banning.html",
+    "title": "How much is too much to spend on a graphics card?",
+    "summary": "There was a time when spending $500 on a graphics card felt extravagant. That kind of money bought you a serious high-end GPU, and $300 could get you something pretty capable. Fast-forward to today, and those numbers almost seem quaint. Read Entire Article",
+    "link": "https://www.techspot.com/news/114481-how-much-much-spend-graphics-card.html",
     "categories": [
+      "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.327444"
+    "processed_date": "2026-11-07T15:08:24.002539"
   },
   {
-    "title": "Paraguay president steps down after digital bank Ueno collapses with 3 million customers inside",
-    "summary": "The warning signs went back months. ABC Color, a leading Paraguayan newspaper, reported in June that central bank inspectors found a pattern of risky insider lending. Ueno had lent large sums to owner-linked companies beyond legal limits and without enough collateral to cover the debts if they went bad. Read Entire Article",
-    "link": "https://www.techspot.com/news/114467-paraguay-president-steps-down-after-digital-bank-ueno.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.327566"
-  },
-  {
-    "title": "It's almost 2027, and the FAA is finally replacing the floppy disks used by US air traffic control",
-    "summary": "At more than 400 sites, the FAA still uses floppy disks in four systems to upload data to aging information displays that controllers consult for weather conditions, airport status, and Notices to Airmen (NOTAMs). Read Entire Article",
-    "link": "https://www.techspot.com/news/114471-almost-2027-faa-finally-replacing-floppy-disks-used.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.327680"
-  },
-  {
-    "title": "The Best GPU for Budget PCs: CPU/GPU Scaling Tested",
-    "summary": "A faster GPU isn't always a better upgrade for an older PC. We test the RTX 5060, RTX 5070, and RX 9060 XT across four CPUs to see how processor limitations can turn GPU rankings upside down. Read Entire Article",
-    "link": "https://www.techspot.com/review/3193-gpu-for-budget-pc-scaling-test/",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.327794"
-  },
-  {
-    "title": "Sony resurrects the 1979 Walkman headphones, now with USB-C",
-    "summary": "The new MDR-3R looks almost identical to the 3L2 that shipped with the first Walkman. Rather than sacrifice modern functionality for nostalgia, though, Sony swapped the 3.5mm plug for USB-C and added an inline remote and microphone for easy playback controls and hands-free calls. Read Entire Article",
-    "link": "https://www.techspot.com/news/114466-sony-resurrects-1979-walkman-headphones-now-usb-c.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.327909"
-  },
-  {
-    "title": "Discord is rebuilding its desktop app in Rust to fix its memory problem",
-    "summary": "Microsoft is finally doing something about Windows 11's abysmal performance on lower-end systems, and third-party software developers are following suit. Discord's CTO has recently confirmed that the popular messaging platform is soon getting a brand-new desktop client. Unlike past web-based versions, it should deliver much better performance thanks to the... Read Entire Article",
-    "link": "https://www.techspot.com/news/114462-discord-rebuilding-desktop-app-rust-fix-memory-problem.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-06T16:17:43.328033"
-  },
-  {
-    "title": "Bazzite 45 brings better drivers, faster updates, and more handheld support",
-    "summary": "Bazzite means to bring a SteamOS-like gaming experience to desktop PCs. Version 45 upgrades to Fedora 45 with newer graphics drivers, KDE Plasma 6.8, and GNOME 51. It also expands handheld compatibility, adds network optimizations, and introduces an anti-cheat compatibility checker. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/7796-bazzite-gaming-os.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.328155"
-  },
-  {
-    "title": "Instagram Edits arrives on desktop with multi-track editing, AI tools, 4K exports",
-    "summary": "Meta has brought its free Instagram Edits video editor to desktop, starting with macOS. The app features multi-track editing, color grading, customizable keyboard shortcuts, and AI-assisted workflows. Users can export videos in up to 4K without watermarks. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/7937-instagram-edits.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-06T16:17:43.328273"
-  },
-  {
-    "title": "Bluetooth's new HDT technology delivers nearly four times the data transfer speed",
-    "summary": "The Bluetooth Special Interest Group (SIG) recently unveiled the High Data Throughput (HDT) feature, describing the new solution as a significant milestone in the evolution of the popular wireless technology. The organization overseeing Bluetooth development said that HDT will introduce faster data transfer rates on newer Bluetooth devices. In turn,... Read Entire Article",
-    "link": "https://www.techspot.com/news/114448-bluetooth-new-hdt-technology-delivers-nearly-four-times.html",
+    "title": "Razer's new USB-C earbuds bring back wired audio, complete with RGB lighting",
+    "summary": "The Razer Hammerhead V3 Chroma is said to be designed for players that demand \"uncompromised\" digital audio on the go. The wired buds do away with common wireless solution shortcomings including latency, audio compression, and battery life woes, instead affording a plug-and-play experience across multiple platforms. Read Entire Article",
+    "link": "https://www.techspot.com/news/114478-razer-new-usb-c-earbuds-bring-back-wired.html",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-11-06T16:17:43.328416"
+    "quality_score": 5,
+    "processed_date": "2026-11-07T15:08:24.002707"
   },
   {
-    "title": "Motorola's new Signature 27 smartphone aims to set a higher flagship standard",
-    "summary": "The traditional slab-style handset features a 6.8-inch Extreme AMOLED Duo, a 120Hz display that Motorola claims is the brightest available on any smartphone. Indeed, the 12,000 nits of peak brightness is impressive, but note that it only hits this mark in specific scenarios and that sustained performance while viewing most... Read Entire Article",
-    "link": "https://www.techspot.com/news/114461-motorola-new-signature-27-smartphone-aims-set-higher.html",
+    "title": "The wave of European fridge hacks has reached France's blood supply",
+    "summary": "The French Health Ministry said it is closely monitoring the situation and confirmed that no biological materials were lost. The intrusion appears to have targeted refrigeration equipment at three sites, reportedly including one in Burgundy-Franche-Comt . Read Entire Article",
+    "link": "https://www.techspot.com/news/114470-wave-european-fridge-hacks-has-reached-france-blood.html",
     "categories": [
-      "AI & ML",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-07T15:08:24.002865"
+  },
+  {
+    "title": "The Raspberry Pi 5 16GB now costs $385, more than triple its launch price",
+    "summary": "Earlier this week, Raspberry Pi co-founder and CEO Eben Upton announced another price hike, this time affecting the 16GB variant of the Raspberry Pi 5. The company's highest-capacity single-board computer will cost $80 more, bringing the final price to $385. A \"puny\" SBC now costs more than a complete mini... Read Entire Article",
+    "link": "https://www.techspot.com/news/114465-raspberry-pi-5-16gb-now-costs-385-more.html",
+    "categories": [
+      "Hardware",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-11-06T16:17:43.328537"
+    "processed_date": "2026-11-07T15:08:24.003029"
   }
 ]
