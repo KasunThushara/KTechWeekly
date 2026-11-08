@@ -1,180 +1,204 @@
 [
   {
-    "title": "This week in Tom's Hardware Premium: November 7, 2026 Micron roadmap, Apple's touchscreen ambitions, GlobalFoundries interview, and much more",
-    "summary": "This week on Tom's Hardware Premium, we've published in-depth interviews, roadmaps, and features you won't want to miss.",
-    "link": "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-7-2026-micron-roadmap-apples-touchscreen-ambitions-globalfoundries-interview-and-much-more",
+    "title": "Diamond Foundry creates world's first 200mm single-crystal diamond wafer",
+    "summary": "This 200mm single-crystal diamond wafer is designed to efficiently remove heat and prevent hotspots from forming on AI processors.",
+    "link": "https://www.tomshardware.com/pc-components/cooling/diamond-foundry-creates-worlds-first-200mm-single-crystal-diamond-wafer-massive-gem-aims-to-solve-ai-chip-cooling-crisis-envisioned-as-a-cooling-material-for-semiconductors",
+    "categories": [
+      "Semiconductors",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-08T15:34:59.024544"
+  },
+  {
+    "title": "Logitech G502 X Lightspeed Review: No lights, same price",
+    "summary": "Logitech's G502 X Lightspeed strips the G502 X Plus of its lighting, but retains the $160 price tag.",
+    "link": "https://www.tomshardware.com/peripherals/gaming-mice/logitech-g502-x-lightspeed-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-08T15:34:59.024697"
+  },
+  {
+    "title": "Japanese arcades suffer week-long blackout following Sega server hack",
+    "summary": "The sensory overload in video game arcades in Japan was eerily absent from some venues this week.",
+    "link": "https://www.tomshardware.com/video-games/japanese-arcades-suffer-week-long-blackout-following-sega-server-hack-bandai-namco-titles-resume-trial-operations-as-sega-games-remain-offline",
     "categories": [
       "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-11-07T15:08:23.999368"
+    "quality_score": 0,
+    "processed_date": "2026-11-08T15:34:59.024809"
   },
   {
-    "title": "US intelligence believes Jensen Huang had romantic relationship with Chinese spy in honeypot operation",
-    "summary": "U.S. intelligence sources suggest that Nvidia chief Jensen Huang was targeted by Chinese intelligence in a 'honeypot' operation involving Megaspeed executive Alice Huang.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips",
+    "title": "The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age",
+    "summary": "Linux developers are preparing to make Intel s ancient MultiMedia eXtensions irrelevant, with the last MMX code now set to be removed from the kernel.",
+    "link": "https://www.tomshardware.com/software/linux/the-end-of-an-era-as-linux-7-5-purges-the-last-30-year-old-intel-mmx-optimizations-from-pentium-age-open-source-os-retires-ancient-1997-pentium-instructions-to-streamline-code",
     "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-07T15:08:23.999489"
-  },
-  {
-    "title": "TeamGroup GA Pro 2TB SSD Review: A faltering attempt at a mid-range PCIe 5.0 SSD",
-    "summary": "The TeamGroup GA Pro mostly misses. Decent QD8 and steady-state writes can t make up for weak overall performance, poor efficiency, and high temps.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/teamgroup-ga-pro-2tb-ssd-review",
-    "categories": [
-      "Hardware",
       "Tech News"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-11-07T15:08:23.999612"
-  },
-  {
-    "title": "Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot",
-    "summary": "Nvidia's Jensen Huang officially called to Congress due to reports of Chinese plot officials mention growing concerns over national security",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidias-jensen-huang-officially-called-to-congress-due-to-reports-of-a-chinese-spy-plot-officials-mention-growing-concerns-over-national-security",
-    "categories": [
-      "GPUs"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-11-07T15:08:23.999718"
+    "processed_date": "2026-11-08T15:34:59.024920"
   },
   {
-    "title": "TSMC denies exploring 3D DRAM at Nvidia's request",
-    "summary": "Nvidia reportedly asks TSMC to produce '3D DRAM' to address memory shortages.",
-    "link": "https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability",
+    "title": "Ukraine builds combat robots to hunt Russian troops in underground gas pipelines",
+    "summary": "Ukraine is developing a new class of combat robots designed to operate inside underground gas pipelines.",
+    "link": "https://www.tomshardware.com/tech-industry/robotics/ukraine-builds-combat-robots-to-hunt-russian-troops-in-underground-gas-pipelines-ugvs-adapted-following-15-kilometer-subterranean-assault",
     "categories": [
-      "GPUs",
-      "Semiconductors"
+      "AI & ML"
     ],
     "quality_score": 0,
-    "processed_date": "2026-11-07T15:08:23.999813"
+    "processed_date": "2026-11-08T15:34:59.025022"
   },
   {
-    "title": "Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365",
-    "summary": "A homelab enthusiast is retiring a Microsoft Exchange installation that began with Exchange 5.5 on Windows NT 4 in 1999. After migrating mailboxes to Microsoft 365, he kept Exchange 2019 running to relay local hardware and software alerts. Postfix on Ubuntu Server LTS will take over, with plans to add STARTTLS, Let's Encrypt certificates, and boot encryption",
-    "link": "https://www.tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-07T15:08:23.999933"
-  },
-  {
-    "title": "New Bluetooth High Data Throughput may finally satisfy audiophiles",
-    "summary": "Bluetooth HDT can offer a maximum bandwidth of 7.5 Mbps, allowing Bluetooth to be used with more sophisticated devices or big lossless audio files.",
-    "link": "https://www.tomshardware.com/peripherals/wearable-tech/new-bluetooth-high-data-throughput-may-finally-satisfy-audiophiles-bluetooth-hdt-offers-a-maximum-bandwidth-of-7-5mbps-allowing-true-lossless-transmission",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-07T15:08:24.000032"
-  },
-  {
-    "title": "EA producer found 20,000 archival media assets in secret physical vault at its HQ",
-    "summary": "The discovery of thousands of archival media assets led to the creation of Anniversary Editions of some classic titles.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/ea-producer-found-20-000-archival-media-assets-in-secret-physical-vault-at-its-hq-betacam-vhs-and-d1-tapes-among-6000-assets-digitized-to-remaster-seven-classic-games",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-07T15:08:24.000130"
-  },
-  {
-    "title": "US FAA to eliminate floppy disks from air traffic control by 2028",
-    "summary": "The US federal Aviation Administration (FAA) is finally moving to retire floppy disks from its air traffic control infrastructure, with plans to to replace four decades-old information systems across 435 facilities by the end of 2028.",
-    "link": "https://www.tomshardware.com/tech-industry/us-faa-to-eliminate-floppy-disks-from-air-traffic-control-by-2028-new-system-will-centralize-flight-alerts-restricted-airspace-schedules-and-pilot-reports",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-07T15:08:24.000250"
-  },
-  {
-    "title": "Waveshare ESP32-S31-Zero A tiny ESP32-S31 board with up to 32MB PSRAM, 32MB SPI flash",
-    "summary": "Waveshare ESP32-S31-Zero is a small ESP32-S31 development board that follows the form factor of the earlier Waveshare Zero boards, such as the ESP32-C6-Zero-B, RA4M1-Zero, and ESP32-S3-Zero, among others. The new tiny board still features a USB-C port for power and programming, as well as eighteen through and castellated holes for GPIO and power signals, but it boasts a more powerful ESP32-S31 dual-core RISC-V MCU clocked at up to 320 MHz, featuring 2.4 GHz WiFi 6, Bluetooth 5.3, and 802.15.4 connectivity, as well as up to 32MB on-chip PSRAM and a 16MB or 32MB SPI flash chip. Since the ESP32-S31 has quite a few extra I/Os, Waveshare also added a 40-pin high-density connector for LCD, touchscreen, SD card, USB 2.0, and extra GPIOs. Waveshare ESP32-S31-Zero specifications: SoC Espressif Systems ESP32-S31 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory [...] The post Waveshare ESP32-S31-Zero A tiny ESP32-S31 board with up to 32MB PSRAM, 32MB SPI flash appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/07/waveshare-esp32-s31-zero-a-tiny-esp32-s31-board-with-up-to-32mb-psram-32mb-spi-flash/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-11-07T15:08:24.000760"
-  },
-  {
-    "title": "What my aching back taught me about teaching robots to feel pain",
-    "summary": "After years of writing about sensors, a scoliosis diagnosis made me wonder what engineers really mean when they say a machine can feel .",
-    "link": "https://www.fiercesensors.com/sensors-fusion/what-my-aching-back-taught-me-about-teaching-robots-feel-pain",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-07T15:08:24.001754"
-  },
-  {
-    "title": "The NASA Artemis II launch punched two 5,000 km holes in the ionosphere that disrupted GPS signals, study finds",
-    "summary": "This April's Artemis II mission caused two large holes in Earth's ionosphere, resulting in significant disturbances that could affect GPS positioning accuracy. A new study by Taiwan-based researchers highlighted how modern launch systems can impact the atmosphere, and how future exploration missions are going to affect one of the most... Read Entire Article",
-    "link": "https://www.techspot.com/news/114480-nasa-artemis-ii-launch-punched-two-5000-km.html",
-    "categories": [
-      "Tech News",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-07T15:08:24.002174"
-  },
-  {
-    "title": "Microsoft patent filing describes AI that rewrites what people say in livestreams in real time",
-    "summary": "AI-edited and AI-generated videos have been among the most popular generative AI applications since the technology's initial explosion in popularity. However, a Microsoft patent filing from late last month, recently uncovered by Patentlyze, aims to enhance how AI can edit real-time streaming. Read Entire Article",
-    "link": "https://www.techspot.com/news/114477-microsoft-patent-filing-describes-ai-rewrites-what-people.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-07T15:08:24.002370"
-  },
-  {
-    "title": "How much is too much to spend on a graphics card?",
-    "summary": "There was a time when spending $500 on a graphics card felt extravagant. That kind of money bought you a serious high-end GPU, and $300 could get you something pretty capable. Fast-forward to today, and those numbers almost seem quaint. Read Entire Article",
-    "link": "https://www.techspot.com/news/114481-how-much-much-spend-graphics-card.html",
+    "title": "Nvidia released its 8800 GTX GPU 20 years ago today, celebrates with Steam game homage",
+    "summary": "On this day in 2006, Nvidia released the legendary GeForce 8800 GTX graphics card and it is celebrating the event with a very demanding (but free) interactive Steam demo.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-released-its-8800-gtx-gpu-20-years-ago-today-celebrates-with-steam-game-homage-interactive-demos-eye-watering-minimum-requirements-include-rtx-4070-32gb-ram-and-30gb-storage",
     "categories": [
       "GPUs",
-      "AI & ML"
+      "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-11-07T15:08:24.002539"
+    "quality_score": 10,
+    "processed_date": "2026-11-08T15:34:59.025130"
   },
   {
-    "title": "Razer's new USB-C earbuds bring back wired audio, complete with RGB lighting",
-    "summary": "The Razer Hammerhead V3 Chroma is said to be designed for players that demand \"uncompromised\" digital audio on the go. The wired buds do away with common wireless solution shortcomings including latency, audio compression, and battery life woes, instead affording a plug-and-play experience across multiple platforms. Read Entire Article",
-    "link": "https://www.techspot.com/news/114478-razer-new-usb-c-earbuds-bring-back-wired.html",
+    "title": "Open-source GPU task manager reveals exactly what's eating your VRAM",
+    "summary": "A new open-source GitHub project called gputaskman has been released by Microsoft VP Scott Hanselman.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-08T15:34:59.025231"
+  },
+  {
+    "title": "Hundreds arrested after Microsoft data center protest turns violent",
+    "summary": "It's unclear which group entered the construction site first, but the action led to the arrest of 150 to 200 protesters.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/hundreds-arrested-after-microsoft-data-center-protest-turns-violent-stop-dirty-data-centers-coalition-demands-halt-to-ai-data-center-expansion-dutch-police-seize-break-in-tools-suspected-stolen-items-from-construction-site",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-08T15:34:59.025332"
+  },
+  {
+    "title": "Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses",
+    "summary": "The offices for New Matrix and Maginfra, both approved to receive H200 chips, appear abandoned, and people in the buildings say they're unfamiliar with the companies or have never seen anyone working there.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-have-empty-offices-and-unknown-addresses-investigation-reveals-businesses-have-ties-to-sanctioned-chinese-military-suppliers",
     "categories": [
       "AI & ML",
-      "Semiconductors"
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-07T15:08:24.002707"
+    "processed_date": "2026-11-08T15:34:59.025446"
   },
   {
-    "title": "The wave of European fridge hacks has reached France's blood supply",
-    "summary": "The French Health Ministry said it is closely monitoring the situation and confirmed that no biological materials were lost. The intrusion appears to have targeted refrigeration equipment at three sites, reportedly including one in Burgundy-Franche-Comt . Read Entire Article",
-    "link": "https://www.techspot.com/news/114470-wave-european-fridge-hacks-has-reached-france-blood.html",
+    "title": "PC's with 64GB of RAM plummet 18% as memory prices soar",
+    "summary": "CPU-Z data reveals PC memory capacity is dropping for the first time ever. Driven by skyrocketing AI DRAM prices, 64GB RAM adoption plummeted 18% YoY.",
+    "link": "https://www.tomshardware.com/pc-components/ram/pcs-with-64gb-of-ram-plummet-18-percent-as-memory-prices-soar-cpu-z-install-base-data-shows-ddr4-making-a-surprise-comeback",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-08T15:34:59.025546"
+  },
+  {
+    "title": "Homelabber uses second-gen Optane memory sticks to run a 2.8-trillion-parameter AI model on CPU alone",
+    "summary": "A Reddit homelab user ran Moonshot AI s 2.8-trillion-parameter Kimi K3 CPU-only on Optane PMem 200 at 0.85 tokens/s with a 1-bit quant.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabber-uses-second-gen-optane-memory-sticks-to-run-a-2-8-trillion-parameter-ai-model-on-cpu-alone-warns-that-optanes-extreme-heat-can-burn-out-nearby-memory-dram-used-blower-fans-to-prevent-melting-ram",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-08T15:34:59.025671"
+  },
+  {
+    "title": "Pocket-sized Ukrainian receiver intercepts Russian strike drone video feeds up to six miles away",
+    "summary": "The D Vision SDR can intercept signals from 500 MHz to 8.7 GHz, covering the 4.1-4.5 GHz spectrum that Russian Molniya strike drones use to communicate with their operators.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/pocket-sized-ukrainian-receiver-intercepts-russian-strike-drone-video-feeds-up-to-six-miles-away-device-only-slightly-heavier-than-a-smartphone-intercepts-analog-video-signals-sent-to-russian-operators",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-07T15:08:24.002865"
+    "processed_date": "2026-11-08T15:34:59.025779"
   },
   {
-    "title": "The Raspberry Pi 5 16GB now costs $385, more than triple its launch price",
-    "summary": "Earlier this week, Raspberry Pi co-founder and CEO Eben Upton announced another price hike, this time affecting the 16GB variant of the Raspberry Pi 5. The company's highest-capacity single-board computer will cost $80 more, bringing the final price to $385. A \"puny\" SBC now costs more than a complete mini... Read Entire Article",
-    "link": "https://www.techspot.com/news/114465-raspberry-pi-5-16gb-now-costs-385-more.html",
+    "title": "WoW: Forever launch used 70,480 CPU cores and 251 terabytes of RAM",
+    "summary": "Inside the astonishing hardware behind World of Warcraft: Forever. 251TB of RAM and 70K cores kept millions of players online without a hitch.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/wow-forever-launch-used-70-480-cpu-cores-and-251-terabytes-of-ram-3-924-virtual-machines-powered-one-of-world-of-warcrafts-smoothest-launches-ever",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-08T15:34:59.025881"
+  },
+  {
+    "title": "PC air duster motors power 21-inch DIY remote control plane at 130,000 RPM",
+    "summary": "A remote-control electronics and DIY hobbyist was surprised by a model airplane they built, powered by a pair of PC air duster engines.",
+    "link": "https://www.tomshardware.com/maker-stem/pc-air-duster-motors-power-21-inch-diy-remote-control-plane-at-130-000-rpm-usd23-air-duster-power-styrofoam-a10-warthog-style-rc-plane-hits-the-skies-much-faster-than-expected",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-08T15:34:59.025982"
+  },
+  {
+    "title": "This RTX 5060 gaming PC costs less than the Steam Machine",
+    "summary": "Best Buy knocks $500 off the iBUYPOWER Slate, bringing this RTX 5060-powered gaming desktop down to $899 with a Ryzen 5 processor, 16GB of DDR5 memory, and a 1TB SSD",
+    "link": "https://www.tomshardware.com/pc-components/this-rtx-5060-gaming-pc-costs-less-than-the-steam-machine-grab-the-ibuypower-slate-prebuilt-pc-with-massive-usd500-discount",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-08T15:34:59.026081"
+  },
+  {
+    "title": "Procolored K13 Lite DTF printer review Custom apparel printing with printer, curing oven, and heat press",
+    "summary": "Back in May, we wrote about the Procolored X One 3-in-1 laser engraver with UV and UV-DTF color printing, and the company contacted us a few months later for a review. But instead of having us review the laser engraver, they proposed that we test their K13 Lite DTF printer developed for small businesses and creators producing customized apparel and merchandise . Basically, a T-shirt printer using DTF (Direct-to-Film) technology. I wasn t so sure at first, since T-shirt and garment printing isn t exactly one of the primary topics we cover here at CNX Software! But I eventually decided to go ahead, since it might be interesting to understand the setup process, workflow, software, print quality/durability, and maintenance requirements for such a machine. So, let s get started! Procolored K13 Lite DTF printer (and friends) unboxing A DTF printer does not print directly onto ordinary paper or garments. It prints the design onto [...] The post Procolored K13 Lite DTF printer review Custom apparel printing with printer, curing oven, and heat press appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/08/procolored-k13-lite-dtf-printer-review-custom-apparel-printing-with-printer-curing-oven-and-heat-press/",
     "categories": [
       "Hardware",
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-11-07T15:08:24.003029"
+    "processed_date": "2026-11-08T15:34:59.026569"
+  },
+  {
+    "title": "Starlink expands surge-style pricing model with increases of up to 20%",
+    "summary": "The pricing system first appeared last week on Residential plans in parts of Kansas, Missouri and Nebraska. Prices there moved in both directions. Some customers got a 10% to 20% cut and others got an increase of about the same size. Read Entire Article",
+    "link": "https://www.techspot.com/news/114484-starlink-expands-surge-style-pricing-nationwide-increases-up.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-08T15:34:59.027894"
+  },
+  {
+    "title": "Data center heists are getting bolder, and the latest one hit Nvidia for $11.4 million",
+    "summary": "According to the Bay Area News Group, police suspect that sophisticated thieves stole $11.4 million worth of Nvidia equipment that was supposed to ship from Oakland to Fort Worth, Texas. No arrests have been announced so far. Read Entire Article",
+    "link": "https://www.techspot.com/news/114482-thieves-steal-114-million-nvidia-equipment-ai-hardware.html",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-08T15:34:59.028073"
+  },
+  {
+    "title": "After buying EA, Silver Lake and PIF reportedly offer $25 billion for Unity",
+    "summary": "According to unnamed insider sources cited by Reuters, the offer was made weeks before Unity released its Q3 earnings report, which revealed a 59% increase in strategic revenue year-over-year and 134% growth in adjusted EBITDA. The report pushed the company's stock price up by roughly 4% and its market capitalization to around $21.5 billion. Read Entire Article",
+    "link": "https://www.techspot.com/news/114479-after-buying-ea-silver-lake-pif-reportedly-offer.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-08T15:34:59.028239"
   }
 ]
