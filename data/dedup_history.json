@@ -1,94 +1,4 @@
 {
-  "https://www.tomshardware.com/tech-industry/data-centers/senate-investigation-says-that-some-ai-data-center-claims-are-misleading-senators-question-number-of-permanent-jobs-projects-bring-to-communities-but-companies-refuse-to-divulge-data": {
-    "title": "Senate investigation says that some AI data center claims are misleading",
-    "fingerprint": "efc756691e850a4142e5cf160238dcce",
-    "timestamp": 1791643452.358013,
-    "date": "2026-10-10T14:44:12.358017"
-  },
-  "https://www.tomshardware.com/software/windows/we-tested-gaming-performance-in-17-year-old-windows-7-against-windows-11-on-a-modern-gaming-pc-older-operating-system-delivers-advantages-in-some-scenarios": {
-    "title": "We tested gaming performance in 17-year-old Windows 7 on a modern gaming PC against Windows 11",
-    "fingerprint": "02077bef71b89107c318458586c74c50",
-    "timestamp": 1791643452.358117,
-    "date": "2026-10-10T14:44:12.358118"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/top-ai-labs-reportedly-planning-for-catastrophic-ai-event-fallout-anthropic-openai-and-others-reportedly-building-contingency-plans-and-running-scenarios-of-a-runaway-ai-wreaking-havoc": {
-    "title": "Top AI labs reportedly planning for catastrophic AI event fallout",
-    "fingerprint": "cb1162654cc9ca4232bd27918a7f6702",
-    "timestamp": 1791643452.358192,
-    "date": "2026-10-10T14:44:12.358192"
-  },
-  "https://www.tomshardware.com/video-games/pc-gaming/free-steam-demo-runs-up-usd1-000-daily-ai-bill-and-forces-devs-to-take-out-bank-loan-studio-eyes-local-hardware-models-to-escape-cloud-limits-as-cheaper-automatic-fallback-ai-models-create-problems-game-uses-ai-to-process-your-voice-and-build-responses": {
-    "title": "Free Steam demo runs up $1,000 daily AI bill and forces devs to take out bank loan",
-    "fingerprint": "7558b43dd1d8475a17ae3cf5d3757d2a",
-    "timestamp": 1791643452.358267,
-    "date": "2026-10-10T14:44:12.358268"
-  },
-  "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship": {
-    "title": "Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs",
-    "fingerprint": "3c153c8aa31818f8adab1a9ca22cc048",
-    "timestamp": 1791643452.358351,
-    "date": "2026-10-10T14:44:12.358352"
-  },
-  "https://www.tomshardware.com/video-games/pc-gaming/dlss-5-on-pac-man-is-a-creepypasta-one-rendering-mode-even-removes-the-eyes-of-a-ghost": {
-    "title": "Russian modder slaps DLSS 5 onto Pac-Man with 4x Multipass",
-    "fingerprint": "75bf4700190e60210f0460e132d6c8ad",
-    "timestamp": 1791643452.358418,
-    "date": "2026-10-10T14:44:12.358418"
-  },
-  "https://www.tomshardware.com/video-games/playstation/anyps5-reaches-critical-gpu-milestone-with-100-percent-shader-instruction-coverage-ps5-games-running-natively-on-pc-still-far-off": {
-    "title": "AnyPS5 project reaches critical GPU milestone in race to enable running PS5 games natively on PC",
-    "fingerprint": "0e31e78eb40e852af76814b65a72bbec",
-    "timestamp": 1791643452.358489,
-    "date": "2026-10-10T14:44:12.358490"
-  },
-  "https://www.tomshardware.com/pc-components/liquid-cooling/crazed-modder-straps-360mm-aio-radiator-to-laptop-cuts-temps-below-40-degrees-performance-gains-an-average-of-14-percent-in-games-and-benchmarks": {
-    "title": "Crazed modder straps 360mm AIO radiator to laptop, cuts temps to below 40 degrees",
-    "fingerprint": "227e788f964b0066d7182a9b938c9052",
-    "timestamp": 1791643452.358571,
-    "date": "2026-10-10T14:44:12.358572"
-  },
-  "https://www.tomshardware.com/tech-industry/data-centers/second-russian-data-center-targeted-by-ukrainian-drones-in-just-two-days-as-yandex-reels-from-another-service-outage-russian-state-media-admits-that-multiple-modules-completely-taken-out": {
-    "title": "Ukrainian drones strike largest data center in Russia, multiple parts of 1.4 million square foot campus knocked offline",
-    "fingerprint": "0de533212d941008487551837e629556",
-    "timestamp": 1791643452.358649,
-    "date": "2026-10-10T14:44:12.358649"
-  },
-  "https://www.tomshardware.com/3d-printing/worlds-first-3d-printed-remote-control-aircraft-with-a-jet-turbine-takes-flight-aims-for-mach-0-8-to-beat-world-record-for-fastest-model-aircraft-mostly-printed-using-standard-petg-materials": {
-    "title": "World s first 3D-printed remote control aircraft with a jet turbine takes flight, aims for Mach 0.8 to beat world record for fastest model aircraft",
-    "fingerprint": "8b3c37b974b9e0d6a3f9cf6488fb6b03",
-    "timestamp": 1791643452.358731,
-    "date": "2026-10-10T14:44:12.358732"
-  },
-  "https://www.cnx-software.com/2026/10/10/m5stack-toughc5-weatherproof-esp32-c5-iot-controller-offers-dual-band-wi-fi-6-ble-5-and-zigbee-thread/": {
-    "title": "M5Stack ToughC5 weatherproof ESP32-C5 IoT controller offers dual-band Wi-Fi 6, BLE 5, and Zigbee/Thread",
-    "fingerprint": "9a2fd9ef8dd8c37271a36194ee6cfc71",
-    "timestamp": 1791643452.359159,
-    "date": "2026-10-10T14:44:12.359160"
-  },
-  "https://www.fiercesensors.com/electronics/search-incredible-shrinking-quantum-sensor": {
-    "title": "In search of the incredible shrinking quantum sensor",
-    "fingerprint": "b72db46b8033183fbda8541b6fda7da7",
-    "timestamp": 1791643452.360007,
-    "date": "2026-10-10T14:44:12.360009"
-  },
-  "https://www.techspot.com/news/114160-workers-pretending-use-ai-impress-their-bosses-but.html": {
-    "title": "Survey says workers are pretending to use AI to impress their bosses, but many don't know what they're doing",
-    "fingerprint": "c86243ec3b44b0f9cf2d1e651736d048",
-    "timestamp": 1791643452.360317,
-    "date": "2026-10-10T14:44:12.360318"
-  },
-  "https://www.techspot.com/news/114156-richard-garriott-getting-ultima-rights-back-ea-2027.html": {
-    "title": "Richard Garriott says he's getting the Ultima rights back from EA in 2027",
-    "fingerprint": "c026c7082dcd8b6fc64771c8d8dd7bfe",
-    "timestamp": 1791643452.360442,
-    "date": "2026-10-10T14:44:12.360443"
-  },
-  "https://www.techspot.com/news/114141-windows-search-getting-ai-makeover-microsoft-pushes-toward.html": {
-    "title": "Microsoft is turning Windows Search into an AI agent-like experience",
-    "fingerprint": "6a5aaf2dcbbfecf1195371d6e66550d8",
-    "timestamp": 1791643452.360551,
-    "date": "2026-10-10T14:44:12.360552"
-  },
   "https://www.tomshardware.com/pc-components/gpus/modder-discovers-that-putting-a-gpu-in-the-wrong-place-can-deliver-a-19-degree-cooler-hotspot-breaking-convention-can-produce-great-results-despite-decades-of-pc-diy-evolution": {
     "title": "Modder discovers that putting a GPU in the 'wrong place' can deliver a 19 degree cooler hotspot",
     "fingerprint": "fd05c0a35e92bd04fceb2ce14c2080e8",
@@ -5044,5 +4954,209 @@
     "fingerprint": "ab6d3a2bb0699588a1112c7731228ffa",
     "timestamp": 1794152099.028235,
     "date": "2026-11-08T15:34:59.028236"
+  },
+  "https://www.tomshardware.com/tech-industry/cryptocurrency/ethereum-foundation-sued-after-firing-employee-over-mandatory-source-seppuku-suicide-pact-crypto-firm-demanded-employees-pledge-to-take-their-own-lives-with-a-sword-to-protect-open-source-code-founder-vitalik-claims-1-000-year-mandate-just-artwork": {
+    "title": "Ethereum Foundation sued after firing employee over mandatory 'Source Seppuku' suicide pact",
+    "fingerprint": "ae8233d92028438979dcecc8704bc8bc",
+    "timestamp": 1794251230.370226,
+    "date": "2026-11-09T19:07:10.370231"
+  },
+  "https://www.tomshardware.com/tech-industry/policy/nvidia-cracks-down-on-overseas-cloud-ai-gpu-rentals-for-china-partners-face-51-percent-non-chinese-quota-as-black-market-b300-rack-prices-surge-to-usd2-8-million": {
+    "title": "Nvidia cracks down on overseas cloud AI GPU rentals for China",
+    "fingerprint": "f6d1fc107033ad37bdbdefd58f63ac63",
+    "timestamp": 1794251230.370353,
+    "date": "2026-11-09T19:07:10.370354"
+  },
+  "https://www.tomshardware.com/tech-industry/big-tech/nvidia-ceo-jensen-huang-summoned-to-congressional-committee-over-affair-with-alleged-chinese-spy-says-recent-reports-raise-concerns-over-security-protocols-and-ties-to-chinese-intelligence": {
+    "title": "Nvidia CEO Jensen Huang summoned to Congress over affair with alleged Chinese spy",
+    "fingerprint": "c7e5c8600d213fa9a3d6edbb91ad6e09",
+    "timestamp": 1794251230.370457,
+    "date": "2026-11-09T19:07:10.370457"
+  },
+  "https://www.tomshardware.com/tech-industry/data-centers/deepx-ai-chip-runs-so-cool-that-a-butter-heatsink-doesnt-melt-the-dx-m1-processor-impresses-in-a-bizarre-new-dairy-based-benchmark": {
+    "title": "Bizarre AI chip demo uses butter to highlight how new chip runs 40 degrees cooler than the competition",
+    "fingerprint": "a7838abb7fb71420817e62ecf911e87b",
+    "timestamp": 1794251230.370567,
+    "date": "2026-11-09T19:07:10.370568"
+  },
+  "https://www.tomshardware.com/laptops/gaming-laptops/acer-predator-helios-neo-16s-ai-review": {
+    "title": "Acer Predator Helios Neo 16S AI Review: Slim OLED gaming that doesn't last long",
+    "fingerprint": "b81ae3dca12a844d4996bcda021687f9",
+    "timestamp": 1794251230.370675,
+    "date": "2026-11-09T19:07:10.370675"
+  },
+  "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-pro-6000-users-cables-almost-melted-even-when-limited-to-500w-12v-2x6-cables-appear-to-still-cause-problems-show-clear-signs-of-melting": {
+    "title": "Nvidia RTX PRO 6000 user s cables almost melted, even when limited to 500W",
+    "fingerprint": "3de51aedaee59cc31b9c1098e74e131f",
+    "timestamp": 1794251230.370774,
+    "date": "2026-11-09T19:07:10.370774"
+  },
+  "https://www.tomshardware.com/pc-components/dram/memory-shortage-spurs-smartphone-makers-to-melt-used-memory-off-old-devices-then-re-solder-it-onto-new-products-recycled-memory-to-keep-budget-phones-affordable-reballing-adoption-to-double-by-2027": {
+    "title": "Memory shortage spurs smartphone makers to melt used memory off old devices, then re-solder it onto new products",
+    "fingerprint": "ae9f29df32c300671823d027e64c3903",
+    "timestamp": 1794251230.370889,
+    "date": "2026-11-09T19:07:10.370890"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-builds-private-ai-server-with-eight-used-nvidia-v100-gpus-up-to-215-tokens-per-second-to-keep-legal-files-offline-costing-about-usd2-400-per-four-gpu-board": {
+    "title": "Lawyer builds private AI server with eight used Nvidia V100 GPUs",
+    "fingerprint": "08db6dae8ca16d88278efc17e1ae0d51",
+    "timestamp": 1794251230.370988,
+    "date": "2026-11-09T19:07:10.370989"
+  },
+  "https://www.tomshardware.com/tech-industry/data-centers/china-builds-massive-800-megawatt-ai-data-center-campus-to-rival-us-stargate-project-galaxy-campus-delivers-first-120-megawatts-in-a-year-at-one-fifth-the-cost": {
+    "title": "China builds massive 800-megawatt AI data center campus to rival US Stargate project",
+    "fingerprint": "2950db639c83b90d9af07b25524e34ea",
+    "timestamp": 1794251230.371096,
+    "date": "2026-11-09T19:07:10.371096"
+  },
+  "https://www.tomshardware.com/pc-components/ram/spoof-program-monitors-and-emails-your-ram-usage-to-sam-altman-if-under-90-percent-utilization-ram-altman-logs-usage-and-reports-you-for-wasting-memory": {
+    "title": "Spoof program monitors and emails your RAM usage to Sam Altman if under 90% utilization",
+    "fingerprint": "bd93c3d0fdd820a1f5ae78b2232e56ea",
+    "timestamp": 1794251230.371219,
+    "date": "2026-11-09T19:07:10.371220"
+  },
+  "https://www.tomshardware.com/tech-industry/huawei-develops-entirely-chinese-homegrown-desktop-pc-system-features-10-core-20-thread-kirin-x90-consumer-cpu-and-huaweis-own-harmonyos-operating-system-but-western-supply-chain-lingers": {
+    "title": "Huawei develops 'entirely Chinese' homegrown desktop PC system",
+    "fingerprint": "134c7a69aab115944b8b0c8d5c716be8",
+    "timestamp": 1794251230.371337,
+    "date": "2026-11-09T19:07:10.371337"
+  },
+  "https://www.tomshardware.com/pc-components/cpus/grab-amds-fastest-mainstream-gaming-cpu-for-a-record-low-usd399-99-right-now-powerhouse-ryzen-7-9800x3d-chip-is-a-must-buy-upgrade-for-any-am5-gaming-pc-build": {
+    "title": "Grab AMD's fastest mainstream gaming CPU for a record-low $399.99 right now",
+    "fingerprint": "1075833fba1dd6aab22f5ac5b89fb748",
+    "timestamp": 1794251230.371433,
+    "date": "2026-11-09T19:07:10.371433"
+  },
+  "https://www.tomshardware.com/peripherals/wearable-tech/wearable-sleep-trackers-are-using-your-brainwaves-to-train-ai-models-without-explicit-user-consent-tens-of-millions-of-hours-of-eeg-data-harvested": {
+    "title": "Wearable sleep trackers are using your brainwaves to train AI models without explicit user consent",
+    "fingerprint": "2fd79f41bb7ca19661ed37253bf89f40",
+    "timestamp": 1794251230.371535,
+    "date": "2026-11-09T19:07:10.371535"
+  },
+  "https://www.tomshardware.com/pc-components/gpu-drivers/amd-adrenalin-bug-could-be-writing-data-continuously-wearing-out-ssds-radeon-owner-claims-external-events-utility-used-up-1-percent-of-ssd-health-every-month-for-over-a-year": {
+    "title": "AMD admits GPU driver bug is writing data continuously, wearing out SSDs",
+    "fingerprint": "9bf53d12deadcd25cd6fbfc65ff24590",
+    "timestamp": 1794251230.371637,
+    "date": "2026-11-09T19:07:10.371638"
+  },
+  "https://www.tomshardware.com/monitors/lg-woled-tvs-suffer-from-edge-rot-pixel-death-pixels-go-dark-around-the-edges-similar-to-a-mold-pattern-nearly-all-woled-test-units-show-clear-signs-of-degradation": {
+    "title": "LG WOLED TVs suffer from 'edge rot' pixel death",
+    "fingerprint": "62a1aba5e3ae7f8b9ce630d4f08029fa",
+    "timestamp": 1794251230.371735,
+    "date": "2026-11-09T19:07:10.371736"
+  },
+  "https://www.tomshardware.com/peripherals/docking-stations-hubs/synaptics-sends-cease-and-desist-order-to-creator-of-open-source-displaylink-driver-dares-him-to-publicize-its-threats-dev-reverse-engineers-displaylink-using-claude-ai-and-rust-synaptics-threatens-to-bill-creator-for-legal-documentation": {
+    "title": "Synaptics sends cease-and-desist order to creator of open-source DisplayLink driver, dares him to publicize its threats",
+    "fingerprint": "5f8bbf7117ae7fc9ccbe07cd7ae63d95",
+    "timestamp": 1794251230.371826,
+    "date": "2026-11-09T19:07:10.371826"
+  },
+  "https://www.tomshardware.com/tech-industry/cyber-security/security-researcher-had-to-jailbreak-their-car-just-to-update-the-clock-missing-tomtom-sd-card-locked-settings-menu-custom-linux-exploit-deployed-to-adjust-daylight-saving-time": {
+    "title": "Security researcher had to jailbreak their car just to update the clock",
+    "fingerprint": "654b4bd06867f12a3a00d5ae6a6d37e0",
+    "timestamp": 1794251230.371922,
+    "date": "2026-11-09T19:07:10.371923"
+  },
+  "https://www.tomshardware.com/pc-components/grab-32-gb-of-ram-for-just-usd209-99-thanks-to-the-g-skill-ripjaws-v-ddr4-3200-kit-rare-sale-on-a-quality-kit-from-an-enthusiast-brand-with-a-stellar-reputation": {
+    "title": "Grab 32 GB of RAM for just $209.99 thanks to the G.Skill Ripjaws V DDR4-3200 kit",
+    "fingerprint": "4a31d5573579793fcdb8d47d175caeb0",
+    "timestamp": 1794251230.372008,
+    "date": "2026-11-09T19:07:10.372009"
+  },
+  "https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate": {
+    "title": "Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy",
+    "fingerprint": "f74b41002d65ebb460f98261cafb0d9e",
+    "timestamp": 1794251230.372108,
+    "date": "2026-11-09T19:07:10.372109"
+  },
+  "https://www.cnx-software.com/2026/11/09/seeed-studio-xiao-stm32c5-development-board-features-dual-can-fd-and-a-6-axis-imu-with-programmable-heating/": {
+    "title": "Seeed Studio XIAO STM32C5 development board features dual CAN FD and a 6-axis IMU with programmable heating",
+    "fingerprint": "ee64f28c2fc8519b771deafca083f24c",
+    "timestamp": 1794251230.372561,
+    "date": "2026-11-09T19:07:10.372562"
+  },
+  "https://www.cnx-software.com/2026/11/09/sparkfun-iot-redboard-esp32-p4-arduino-uno-like-esp32-p4-v3-x-development-boards-with-wifi-6-or-poe-options/": {
+    "title": "SparkFun IoT RedBoard ESP32-P4 Arduino UNO-like ESP32-P4 v3.x development boards with WiFi 6 or PoE options",
+    "fingerprint": "21cfc0dc97964ea402d932aca4fa7ee5",
+    "timestamp": 1794251230.372731,
+    "date": "2026-11-09T19:07:10.372732"
+  },
+  "https://www.cnx-software.com/2026/11/09/m5stack-core-matrix-esp32-c61-iot-controller-features-16x16-led-matrix-wifi-6-and-6-axis-imu/": {
+    "title": "M5Stack Core Matrix ESP32-C61 IoT controller features 16 16 LED matrix, WiFi 6, and 6-axis IMU",
+    "fingerprint": "bd1e031d34883e0026a2509b9bd62373",
+    "timestamp": 1794251230.372913,
+    "date": "2026-11-09T19:07:10.372914"
+  },
+  "https://www.fiercesensors.com/ai/nvidia-ceo-affair-unleashes-probes-over-spying-allegations": {
+    "title": "Nvidia CEO affair unleashes probes over spying allegations",
+    "fingerprint": "02b2c931aba07e865eb50fb1fe6be242",
+    "timestamp": 1794251230.373849,
+    "date": "2026-11-09T19:07:10.373850"
+  },
+  "https://www.fiercesensors.com/electronics/us-based-agility-ipo-attracts-investors-humanoid-tech-grows": {
+    "title": "US-based Agility IPO attracts investors as humanoid tech grows",
+    "fingerprint": "c4851c4fd7209fc73b0cc603e9b33c64",
+    "timestamp": 1794251230.373993,
+    "date": "2026-11-09T19:07:10.373994"
+  },
+  "https://www.fiercesensors.com/iot-connectivity/autonomous-mower-maker-firefly-robotics-pursues-stock-listing": {
+    "title": "Autonomous mower maker Firefly Robotics pursues stock listing",
+    "fingerprint": "47b48819a38458488c058ad184388181",
+    "timestamp": 1794251230.374367,
+    "date": "2026-11-09T19:07:10.374368"
+  },
+  "https://www.techspot.com/news/114493-microsoft-making-windows-keyboard-accessibility-features-less-annoying.html": {
+    "title": "Microsoft is making Windows keyboard accessibility features less annoying",
+    "fingerprint": "1f19027b685426ed85fb748c4f158b10",
+    "timestamp": 1794251230.374594,
+    "date": "2026-11-09T19:07:10.374595"
+  },
+  "https://www.techspot.com/news/114485-wow-forever-launch-infrastructure-included-70000-cpu-cores.html": {
+    "title": "World of Warcraft: Forever launched on 70,480 CPU cores and 251,136 GB of RAM",
+    "fingerprint": "a7ad342137e0fe3ec0762cf10ad8a2e5",
+    "timestamp": 1794251230.374786,
+    "date": "2026-11-09T19:07:10.374787"
+  },
+  "https://www.techspot.com/news/114490-huawei-new-desktop-pc-contains-only-chinese-components.html": {
+    "title": "Huawei says its new desktop PC is 100% Chinese-made, with a few asterisks",
+    "fingerprint": "9314a28c418f071b0c2b136130c98be1",
+    "timestamp": 1794251230.374959,
+    "date": "2026-11-09T19:07:10.374960"
+  },
+  "https://www.techspot.com/news/114491-smartphone-makers-salvaging-memory-chips-used-devices-amid.html": {
+    "title": "Used memory chips are creeping into budget phones, and it could get worse",
+    "fingerprint": "802ebc070b0ce46835ea9e6dfbc7f945",
+    "timestamp": 1794251230.375141,
+    "date": "2026-11-09T19:07:10.375142"
+  },
+  "https://www.techspot.com/specs/cpu/300569-amd-ryzen-7-9800x3d.html": {
+    "title": "AMD's fastest gaming CPU drops to $419, just $20 more than the 9800X3D",
+    "fingerprint": "8201e530b2ae5d896d508250d4d272cc",
+    "timestamp": 1794251230.375345,
+    "date": "2026-11-09T19:07:10.375346"
+  },
+  "https://www.techspot.com/news/114489-america-school-buses-becoming-ai-powered-ticket-machines.html": {
+    "title": "School buses are becoming AI-powered ticket machines, generating millions from drivers who fail to stop",
+    "fingerprint": "ab2a6b3b1b8c20b0475e3c6e42969b18",
+    "timestamp": 1794251230.375516,
+    "date": "2026-11-09T19:07:10.375517"
+  },
+  "https://www.techspot.com/news/114488-australia-internet-restrictions-could-go-even-further-google.html": {
+    "title": "Australia's internet restrictions could go even further, Gmail warns of ban for under-18s",
+    "fingerprint": "47f85c5b9d8d12498f609a98b0cff82f",
+    "timestamp": 1794251230.37568,
+    "date": "2026-11-09T19:07:10.375681"
+  },
+  "https://www.techspot.com/news/114486-older-woled-tvs-suffer-edge-rot-test-finds.html": {
+    "title": "Older WOLED TVs suffer from \"edge rot\" as test finds dead pixels in 14 of 16 sets",
+    "fingerprint": "7f213c68d1e5c6151e286184328eeee7",
+    "timestamp": 1794251230.375836,
+    "date": "2026-11-09T19:07:10.375838"
+  },
+  "https://www.techspot.com/news/114483-us-officials-chinese-businesswoman-close-nvidia-jensen-huang.html": {
+    "title": "US officials say a Chinese businesswoman close to Nvidia's Jensen Huang was a spy for Beijing",
+    "fingerprint": "cf36c0f7a1674d7af52110b1ed2f6b79",
+    "timestamp": 1794251230.376046,
+    "date": "2026-11-09T19:07:10.376047"
   }
 }
