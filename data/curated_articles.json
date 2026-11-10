@@ -1,367 +1,317 @@
 [
   {
-    "title": "Ethereum Foundation sued after firing employee over mandatory 'Source Seppuku' suicide pact",
-    "summary": "A former employee of The Ethereum Foundation is suing the nonprofit after being fired for refusing to sign its 'Source Seppuku License.'",
-    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/ethereum-foundation-sued-after-firing-employee-over-mandatory-source-seppuku-suicide-pact-crypto-firm-demanded-employees-pledge-to-take-their-own-lives-with-a-sword-to-protect-open-source-code-founder-vitalik-claims-1-000-year-mandate-just-artwork",
+    "title": "Secretlab debuts monitor light bar add-on to reduce glare and eye strain",
+    "summary": "Popular desk and chair maker Secretlab has released a new monitor light bar.",
+    "link": "https://www.tomshardware.com/peripherals/secretlab-debuts-monitor-light-bar-add-on-to-reduce-glare-and-eye-strain-ergoarch-has-a-three-point-adjustment-arm-costs-usd179",
     "categories": [
+      "AI & ML",
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-09T19:07:10.370235"
+    "processed_date": "2026-11-10T16:36:06.078391"
   },
   {
-    "title": "Nvidia cracks down on overseas cloud AI GPU rentals for China",
-    "summary": "Nvidia may cap cloud partners Chinese business at 49% as Chinese firms buy up more than 1 million gaming and workstation GPUs.",
-    "link": "https://www.tomshardware.com/tech-industry/policy/nvidia-cracks-down-on-overseas-cloud-ai-gpu-rentals-for-china-partners-face-51-percent-non-chinese-quota-as-black-market-b300-rack-prices-surge-to-usd2-8-million",
+    "title": "New framework grades AI jailbreaks across capability gains, scope, and how easy they are to deploy",
+    "summary": "Frontier Model Forum releases its Jailbreak Rating Framework to estimate how easy it is for models to escape their cages and how much damage they can do.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/new-framework-grades-ai-jailbreaks-across-capability-gains-scope-and-how-easy-they-are-to-deploy-frontier-model-forum-proposes-cvss-style-rating-system-for-new-ai-models",
     "categories": [
-      "GPUs",
-      "AI & ML"
+      "AI & ML",
+      "Tech News"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-11-09T19:07:10.370356"
+    "quality_score": 5,
+    "processed_date": "2026-11-10T16:36:06.078506"
   },
   {
-    "title": "Nvidia CEO Jensen Huang summoned to Congress over affair with alleged Chinese spy",
-    "summary": "Jensen Huang has been summoned to appear before Congress's Select Committee on the CCP.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-ceo-jensen-huang-summoned-to-congressional-committee-over-affair-with-alleged-chinese-spy-says-recent-reports-raise-concerns-over-security-protocols-and-ties-to-chinese-intelligence",
+    "title": "Going deep on local AI performance benchmarking with Apple s Mac Studio with M5 Ultra taking on Nvidia DGX Spark",
+    "summary": "But if you're thinking about dropping over $10K for the purpose of building a local AI inference setup, is a Mac Studio right for you?",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/going-deep-on-local-ai-performance-with-apples-mac-studio-with-m5-ultra-inference-engine-recipes-mandatory-for-bigger-models-as-mlx-stack-matures",
     "categories": [
       "AI & ML",
       "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-09T19:07:10.370460"
-  },
-  {
-    "title": "Bizarre AI chip demo uses butter to highlight how new chip runs 40 degrees cooler than the competition",
-    "summary": "DEEPX demonstrated its DX-M1 processor s cool running capabilities in a bizarre dairy-based thermal benchmark.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/deepx-ai-chip-runs-so-cool-that-a-butter-heatsink-doesnt-melt-the-dx-m1-processor-impresses-in-a-bizarre-new-dairy-based-benchmark",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-09T19:07:10.370570"
-  },
-  {
-    "title": "Acer Predator Helios Neo 16S AI Review: Slim OLED gaming that doesn't last long",
-    "summary": "The Acer Predator Helios Neo 16S AI pairs strong gaming performance, a 240 Hz OLED display, and good upgradeability but compromises the package with relatively short battery life.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/acer-predator-helios-neo-16s-ai-review",
-    "categories": [
-      "AI & ML",
-      "Hardware"
     ],
     "quality_score": 15,
-    "processed_date": "2026-11-09T19:07:10.370677"
+    "processed_date": "2026-11-10T16:36:06.078616"
   },
   {
-    "title": "Nvidia RTX PRO 6000 user s cables almost melted, even when limited to 500W",
-    "summary": "The 12V-2x6 connector nearly took out two RTX PRO 6000 Blackwell Workstation GPUs; luckily, the owner spotted the damaged cables before they melted the GPU connectors.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-pro-6000-users-cables-almost-melted-even-when-limited-to-500w-12v-2x6-cables-appear-to-still-cause-problems-show-clear-signs-of-melting",
+    "title": "Elon Musk s Terafab targets 1 million wafers a month after 2032",
+    "summary": "Tesla and SpaceX s Terafab reportedly plans 1 million wafers per month after 2032, with about 700,000 for memory.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musks-terafab-targets-1-million-wafers-a-month-after-2032-planned-700-000-monthly-memory-wafers-could-rival-samsungs-entire-estimated-dram-production-capacity",
     "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-09T19:07:10.370776"
-  },
-  {
-    "title": "Memory shortage spurs smartphone makers to melt used memory off old devices, then re-solder it onto new products",
-    "summary": "Reballed memory currently accounts for a small share of smartphone components, but adoption could nearly double by 2027 as manufacturers look for alternatives to increasingly expensive DRAM.",
-    "link": "https://www.tomshardware.com/pc-components/dram/memory-shortage-spurs-smartphone-makers-to-melt-used-memory-off-old-devices-then-re-solder-it-onto-new-products-recycled-memory-to-keep-budget-phones-affordable-reballing-adoption-to-double-by-2027",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-09T19:07:10.370892"
-  },
-  {
-    "title": "Lawyer builds private AI server with eight used Nvidia V100 GPUs",
-    "summary": "A lawyer runs DeepSeek V4.1 Flash on eight used 2018-era Nvidia V100 GPUs at up to 215 tokens/s, keeping case files in the office.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-builds-private-ai-server-with-eight-used-nvidia-v100-gpus-up-to-215-tokens-per-second-to-keep-legal-files-offline-costing-about-usd2-400-per-four-gpu-board",
-    "categories": [
-      "GPUs",
-      "AI & ML"
+      "Semiconductors"
     ],
     "quality_score": 0,
-    "processed_date": "2026-11-09T19:07:10.370991"
+    "processed_date": "2026-11-10T16:36:06.078714"
   },
   {
-    "title": "China builds massive 800-megawatt AI data center campus to rival US Stargate project",
-    "summary": "Envision has delivered the first 120MW of its Galaxy AI datacenter in less than a year, combining wind farms, battery storage and an unconventional cooling system to cut costs and keep power-hungry servers running",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/china-builds-massive-800-megawatt-ai-data-center-campus-to-rival-us-stargate-project-galaxy-campus-delivers-first-120-megawatts-in-a-year-at-one-fifth-the-cost",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-09T19:07:10.371098"
-  },
-  {
-    "title": "Spoof program monitors and emails your RAM usage to Sam Altman if under 90% utilization",
-    "summary": "A new GitHub repository dubbed ram-altman features a script to monitor your PC s RAM usage and report back to the eponymous OpenAI boss.",
-    "link": "https://www.tomshardware.com/pc-components/ram/spoof-program-monitors-and-emails-your-ram-usage-to-sam-altman-if-under-90-percent-utilization-ram-altman-logs-usage-and-reports-you-for-wasting-memory",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-09T19:07:10.371226"
-  },
-  {
-    "title": "Huawei develops 'entirely Chinese' homegrown desktop PC system",
-    "summary": "Huawei's 'entirely Chinese' desktop system does not use components made outside of China, yet they still rely on semiconductor supply chain that includes tools and materials from America, the Netherlands, and Japan.",
-    "link": "https://www.tomshardware.com/tech-industry/huawei-develops-entirely-chinese-homegrown-desktop-pc-system-features-10-core-20-thread-kirin-x90-consumer-cpu-and-huaweis-own-harmonyos-operating-system-but-western-supply-chain-lingers",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-09T19:07:10.371339"
-  },
-  {
-    "title": "Grab AMD's fastest mainstream gaming CPU for a record-low $399.99 right now",
-    "summary": "The AMD Ryzen 7 9800X3D is down to an all-time low price of $399.95, with the 9850X3D down to $419.99.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/grab-amds-fastest-mainstream-gaming-cpu-for-a-record-low-usd399-99-right-now-powerhouse-ryzen-7-9800x3d-chip-is-a-must-buy-upgrade-for-any-am5-gaming-pc-build",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-09T19:07:10.371435"
-  },
-  {
-    "title": "Wearable sleep trackers are using your brainwaves to train AI models without explicit user consent",
-    "summary": "Wearable neurotech companies have collected millions of hours of brainwave recordings to train AI models, raising questions about user consent, data privacy and who ultimately controls our neural data",
-    "link": "https://www.tomshardware.com/peripherals/wearable-tech/wearable-sleep-trackers-are-using-your-brainwaves-to-train-ai-models-without-explicit-user-consent-tens-of-millions-of-hours-of-eeg-data-harvested",
+    "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel",
+    "summary": "Linus Torvalds thinks that AI fixes drove most of the progress in Linux kernel 7.4rc2 BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift",
+    "link": "https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-09T19:07:10.371537"
+    "processed_date": "2026-11-10T16:36:06.078814"
   },
   {
-    "title": "AMD admits GPU driver bug is writing data continuously, wearing out SSDs",
-    "summary": "AMD is investigating reports that its External Events Utility generates continuous SSD writes of up to 5MB/s, even when Radeon-powered PCs are idle. Users have also reported declining SSD health, while potential workarounds come with performance trade-offs",
-    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/amd-adrenalin-bug-could-be-writing-data-continuously-wearing-out-ssds-radeon-owner-claims-external-events-utility-used-up-1-percent-of-ssd-health-every-month-for-over-a-year",
+    "title": "President Trump says the FBI is investigating Jensen Huang s affair",
+    "summary": "The FBI is probably concerned about the implication of a Chinese agent having influence over the leader of the U.S.'s leading AI chip manufacturer.",
+    "link": "https://www.tomshardware.com/tech-industry/policy/president-trump-says-the-fbi-is-investigating-jensen-huangs-affair-nvidia-also-accused-of-intervening-in-megaspeed-chip-smuggling-investigation",
     "categories": [
-      "GPUs",
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-10T16:36:06.078914"
+  },
+  {
+    "title": "$10 programmer saves BIOS-locked Lenovo ThinkPads from the dump",
+    "summary": "Many cheap company ThinkPads come with supervisor passwords and often end up as e-waste. Ukrainian YouTuber Hileeq shows how easy it is to bypass the password with a $10 programmer.",
+    "link": "https://www.tomshardware.com/laptops/usd10-programmer-saves-bios-locked-lenovo-thinkpads-from-the-dump-exploit-bypasses-supervisor-passwords-to-save-4th-to-8th-gen-intel-models-from-e-waste",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-10T16:36:06.079013"
+  },
+  {
+    "title": "Software engineer Rickrolls his Prusa 3D printer via remote code execution exploit",
+    "summary": "A software engineer demonstrated the ability to Rickroll a 3D printer via remote code execution (RCE). This security flaw has been fixed in the latest Prusa software.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/software-engineer-rickrolls-his-prusa-3d-printer-via-remote-code-execution-exploit-one-week-of-testing-with-claude-opus-uncovers-23-prusa-buddy-firmware-defects",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-10T16:36:06.079112"
+  },
+  {
+    "title": "Upgrade your PS5's storage for GTA 6's digital pre-load with these SSD storage options from $174",
+    "summary": "With GTA 6's digital pre-loads beginning on November 10, you'll need enough storage on your PS5 to match. Here are some of the top PS5 SSD options to help you.",
+    "link": "https://www.tomshardware.com/video-games/playstation/upgrade-your-ps5s-storage-for-gta-6s-digital-pre-load-with-these-ssd-storage-options-from-usd174-ultra-fast-drives-slot-into-the-m-2-expansion-slot-to-ready-your-console-for-gtas-huge-212gb-installation",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-10T16:36:06.079208"
+  },
+  {
+    "title": "Steam Store adds average FPS data so you can see game performance before making a purchase",
+    "summary": "Valve is adding a new feature to the Steam store that tracks performance data and then displays it anonymously to users who match the hardware.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/steam-store-adds-average-fps-data-so-you-can-see-game-performance-before-making-a-purchase-steam-deck-only-for-now-with-desktop-pc-support-planned",
+    "categories": [
       "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-11-09T19:07:10.371640"
+    "processed_date": "2026-11-10T16:36:06.079323"
   },
   {
-    "title": "LG WOLED TVs suffer from 'edge rot' pixel death",
-    "summary": "LG WOLED TV panels made around 2019 to 2023 may be susceptible to edge rot almost all of RTings' WOLED test units show clear signs of degradation",
-    "link": "https://www.tomshardware.com/monitors/lg-woled-tvs-suffer-from-edge-rot-pixel-death-pixels-go-dark-around-the-edges-similar-to-a-mold-pattern-nearly-all-woled-test-units-show-clear-signs-of-degradation",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-09T19:07:10.371737"
-  },
-  {
-    "title": "Synaptics sends cease-and-desist order to creator of open-source DisplayLink driver, dares him to publicize its threats",
-    "summary": "A hobbyist's effort to make DisplayLink work better on Linux is turning into a legal saga.",
-    "link": "https://www.tomshardware.com/peripherals/docking-stations-hubs/synaptics-sends-cease-and-desist-order-to-creator-of-open-source-displaylink-driver-dares-him-to-publicize-its-threats-dev-reverse-engineers-displaylink-using-claude-ai-and-rust-synaptics-threatens-to-bill-creator-for-legal-documentation",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-09T19:07:10.371828"
-  },
-  {
-    "title": "Security researcher had to jailbreak their car just to update the clock",
-    "summary": "A security researcher has revealed how they managed to update the time on their car infotainment system using reverse engineering techniques.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/security-researcher-had-to-jailbreak-their-car-just-to-update-the-clock-missing-tomtom-sd-card-locked-settings-menu-custom-linux-exploit-deployed-to-adjust-daylight-saving-time",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-09T19:07:10.371924"
-  },
-  {
-    "title": "Grab 32 GB of RAM for just $209.99 thanks to the G.Skill Ripjaws V DDR4-3200 kit",
-    "summary": "Grab 32 GB of RAM for just $209.99 thanks to the G.Skill Ripjaws V DDR4-3200 kit",
-    "link": "https://www.tomshardware.com/pc-components/grab-32-gb-of-ram-for-just-usd209-99-thanks-to-the-g-skill-ripjaws-v-ddr4-3200-kit-rare-sale-on-a-quality-kit-from-an-enthusiast-brand-with-a-stellar-reputation",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-09T19:07:10.372011"
-  },
-  {
-    "title": "Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy",
-    "summary": "Nvidia's board of directors is investigating a report about Jensen Huang's alleged affair with a client, claims it is still confident in Jensen and leadership team.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-09T19:07:10.372111"
-  },
-  {
-    "title": "Seeed Studio XIAO STM32C5 development board features dual CAN FD and a 6-axis IMU with programmable heating",
-    "summary": "Seeed Studio XIAO STM32C5 is the company s first XIAO development board based on an STMicroelectronics MCU, namely a 144 MHz STM32C5A3CG Arm Cortex-M33 microcontroller. It features two CAN FD controllers and a 6-axis IMU with programmable heating for robotics, industrial control, and motion-sensing applications. The board also includes 16MB of external flash, a 48 MHz external crystal, a USB-C port, and battery charging circuitry. One CAN FD channel is connected to an onboard transceiver, while the second requires an external transceiver. The integrated IMU heater allows firmware to control sensor temperature and reduce measurement drift from temperature changes. XIAO STM32C5 specifications: MCU STMicroelectronics STM32C5A3CG CPU 144 MHz Arm Cortex-M33 with FPU and DSP instructions Memory 256KB SRAM Storage 1MB internal flash Storage 16MB external flash USB USB Type-C port with USB 2.0 Full-Speed support (12 Mbps) CAN Bus 2x CAN FD controllers (FDCAN1 and [...] The post Seeed Studio XIAO STM32C5 development board features dual CAN FD and a 6-axis IMU with programmable heating appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/09/seeed-studio-xiao-stm32c5-development-board-features-dual-can-fd-and-a-6-axis-imu-with-programmable-heating/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-11-09T19:07:10.372565"
-  },
-  {
-    "title": "SparkFun IoT RedBoard ESP32-P4 Arduino UNO-like ESP32-P4 v3.x development boards with WiFi 6 or PoE options",
-    "summary": "SparkFun introduced two new development boards called IoT RedBoard, both based on the ESP32-P4 v3.x (ESP32-P4X) and compatible with the Arduino UNO R3 form factor. The main difference is that one features an ESP32-C5 for Wi-Fi 6, Bluetooth 5 LE, Zigbee, and Thread connectivity, while the PoE version includes 10/100 Mbps Ethernet and Power over Ethernet (PoE) support. They also include MIPI CSI/DSI camera and display connectors, two USB-C ports, a microSD card slot, Qwiic expansion, Arduino R3-compatible headers, and LiPo battery charging and monitoring. These features make it suitable for HMI, edge computing, and IoT applications. SparkFun IoT RedBoard ESP32-P4 specifications: SoC Espressif Systems ESP32-P4NRW32X v3.x CPU Dual-core 32-bit RISC-V HP (High-performance) processor @ up to 400 MHz with AI instruction extensions and single-precision FPU Single-core 32-bit RISC-V LP (Low-power) processor @ up to 40 MHz Memory 768 KB HP L2MEM, 32 KB LP SRAM, 8 KB [...] The post SparkFun IoT RedBoard ESP32-P4 Arduino UNO-like ESP32-P4 v3.x development boards with WiFi 6 or PoE options appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/09/sparkfun-iot-redboard-esp32-p4-arduino-uno-like-esp32-p4-v3-x-development-boards-with-wifi-6-or-poe-options/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-11-09T19:07:10.372733"
-  },
-  {
-    "title": "M5Stack Core Matrix ESP32-C61 IoT controller features 16 16 LED matrix, WiFi 6, and 6-axis IMU",
-    "summary": "M5Stack s Core Matrix is an ESP32-C61-based IoT controller with a 16 16 white LED matrix for displaying icons, animations, device status, and notifications. It supports 2.4 GHz WiFi 6 connectivity and is designed for IoT applications, sensor data monitoring, and interactive displays. It also includes a 6-axis BMI270 IMU, a microSD card slot, a passive buzzer, three user buttons, a power button, and a USB-C port. The board supports external modules and sensors through M5-Bus and Grove interfaces, with battery-power management circuitry that lets it run on either USB power or an external battery. M5Stack Core Matrix specifications: SoC Espressif Systems ESP32-C61HR8 CPU Single 32-bit RISC-V core clocked up to 160MHz Memory 320KB SRAM, 8MB PSRAM Storage 256KB ROM, 16MB QSPI flash Wireless WiFi 6 and Bluetooth LE 5.0 Storage microSD card slot Display 16 16 white LED matrix (256 LEDs) driven by TM1680 Audio [...] The post M5Stack Core Matrix ESP32-C61 IoT controller features 16 16 LED matrix, WiFi 6, and 6-axis IMU appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/09/m5stack-core-matrix-esp32-c61-iot-controller-features-16x16-led-matrix-wifi-6-and-6-axis-imu/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-09T19:07:10.372915"
-  },
-  {
-    "title": "Nvidia CEO affair unleashes probes over spying allegations",
-    "summary": "Some tech observers questioned US intelligence processes, while another urged Nvidia CEO Jensen Huang to step down as spying probes get underway.",
-    "link": "https://www.fiercesensors.com/ai/nvidia-ceo-affair-unleashes-probes-over-spying-allegations",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-09T19:07:10.373854"
-  },
-  {
-    "title": "US-based Agility IPO attracts investors as humanoid tech grows",
-    "summary": "Most of the IPO action for humanoids will come from China, but Agility s move was the first in the US.",
-    "link": "https://www.fiercesensors.com/electronics/us-based-agility-ipo-attracts-investors-humanoid-tech-grows",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-09T19:07:10.373997"
-  },
-  {
-    "title": "Autonomous mower maker Firefly Robotics pursues stock listing",
-    "summary": "Firefly, whose Autonomous Mowing Platform is aimed at golf courses and similar environments, filed for an IPO last year, but later withdrew that plan.",
-    "link": "https://www.fiercesensors.com/iot-connectivity/autonomous-mower-maker-firefly-robotics-pursues-stock-listing",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-09T19:07:10.374372"
-  },
-  {
-    "title": "Microsoft is making Windows keyboard accessibility features less annoying",
-    "summary": "Sticky Keys is a classic accessibility feature available across all major computer operating systems. System 6 reportedly introduced the feature on Mac systems in 1988. The option provides a way to \"serialize\" keystrokes, allowing them to press and release a modifier key Shift, Ctrl, Alt, or Win just... Read Entire Article",
-    "link": "https://www.techspot.com/news/114493-microsoft-making-windows-keyboard-accessibility-features-less-annoying.html",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-09T19:07:10.374598"
-  },
-  {
-    "title": "World of Warcraft: Forever launched on 70,480 CPU cores and 251,136 GB of RAM",
-    "summary": "Soon after launch, Blizzard revealed some of the most impressive details about the hardware powering the game. The new-old MMO is running on 3,924 virtual machines, 251,136 GB of memory, and 70,480 CPU cores. The \"memory\" figure is suspiciously precise, especially coming just a few days after Sam Altman shared... Read Entire Article",
-    "link": "https://www.techspot.com/news/114485-wow-forever-launch-infrastructure-included-70000-cpu-cores.html",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-09T19:07:10.374790"
-  },
-  {
-    "title": "Huawei says its new desktop PC is 100% Chinese-made, with a few asterisks",
-    "summary": "China has long been pushing to lessen its reliance on US tech. Huawei says with its Qinyun HM650 series desktop computers, the machines are 100% domestically made. They also use the company's own HarmonyOS operating system. Read Entire Article",
-    "link": "https://www.techspot.com/news/114490-huawei-new-desktop-pc-contains-only-chinese-components.html",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-09T19:07:10.374963"
-  },
-  {
-    "title": "Used memory chips are creeping into budget phones, and it could get worse",
-    "summary": "According to a recent report from TrendForce, DRAM contract price hikes are forcing some smartphone brands to consider reballed memory components for their budget lines. In short, reballed memory refers to used memory salvaged from old hardware and fitted with new solder balls so they can be installed on other... Read Entire Article",
-    "link": "https://www.techspot.com/news/114491-smartphone-makers-salvaging-memory-chips-used-devices-amid.html",
+    "title": "Grab this GameSir Super Nova wireless controller at a record-low Amazon price, now under $40",
+    "summary": "Grab this fully loaded wireless gaming controller from GameSir for a record-low Amazon price of $39.99.",
+    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/grab-this-gamesir-super-nova-wireless-controller-at-a-record-low-amazon-price-now-under-usd40-20-percent-discount-on-pc-and-switch-gamepad-that-ships-with-drift-free-hall-effect-sticks-and-a-customizable-layout",
     "categories": [
       "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-09T19:07:10.375145"
-  },
-  {
-    "title": "AMD's fastest gaming CPU drops to $419, just $20 more than the 9800X3D",
-    "summary": "The Ryzen 7 9850X3D builds on the excellent 9800X3D with higher clock speeds and slightly better gaming performance. In our tests, it delivered ~5% more FPS at the cost of higher power consumption. Originally $499, the 8-core chip is now available for $419 on Amazon, just $20 more than the 9800X3D, which is also on sale for $399 . Read Entire Article",
-    "link": "https://www.techspot.com/specs/cpu/300569-amd-ryzen-7-9800x3d.html",
-    "categories": [
-      "GPUs",
-      "Hardware"
+      "GPUs"
     ],
     "quality_score": 0,
-    "processed_date": "2026-11-09T19:07:10.375349"
+    "processed_date": "2026-11-10T16:36:06.079421"
   },
   {
-    "title": "School buses are becoming AI-powered ticket machines, generating millions from drivers who fail to stop",
-    "summary": "An investigation by Bloomberg and Type Investigations earlier this year reported that BusPatrol equipped around 35,000 buses across 24 states. Its cameras flag suspected illegal passing, with police reviewing evidence before tickets are issued. Read Entire Article",
-    "link": "https://www.techspot.com/news/114489-america-school-buses-becoming-ai-powered-ticket-machines.html",
+    "title": "Grab 32GB DDR5 for $371 in this Newegg RAM bundle with the 9800X3D, $70 less than buying it separately",
+    "summary": "This Newegg bundle brings together the AMD Ryzen 7 9800X3D, 32GB of DDR5-6000 RAM, a Gigabyte X870 Aorus Elite Wi-Fi 7 motherboard, and a free ATX case for $1,090.98.",
+    "link": "https://www.tomshardware.com/pc-components/ddr5/grab-32gb-ddr5-for-usd371-in-this-newegg-ram-bundle-with-the-9800x3d-usd70-less-than-buying-it-separately-usd138-saving-on-parts-for-a-4k-gaming-pc-including-a-gigabyte-x870-motherboard-and-free-atx-case",
     "categories": [
-      "AI & ML",
-      "Hardware"
+      "Hardware",
+      "GPUs"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-11-09T19:07:10.375520"
+    "quality_score": 5,
+    "processed_date": "2026-11-10T16:36:06.079523"
   },
   {
-    "title": "Australia's internet restrictions could go even further, Gmail warns of ban for under-18s",
-    "summary": "According to Reuters, YouTube's Australia and New Zealand policy head Rachel Lord raised the concern at a Senate hearing on November 9. She said provisions requiring age checks where children risk encountering pornography could affect email, messaging, and private file storage. Read Entire Article",
-    "link": "https://www.techspot.com/news/114488-australia-internet-restrictions-could-go-even-further-google.html",
+    "title": "All net-connected vehicles from two major automakers allowed hackers to remotely unlock doors and start the engine",
+    "summary": "Any net-connected vehicle from two automakers could be remotely opened and started now-patched failures with API backend security showcase a lack of 101-level best practices",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/all-net-connected-vehicles-from-two-major-automakers-allowed-hackers-to-remotely-unlock-doors-and-start-the-engine-now-patched-hard-coded-credentials-and-bypassed-mfa-security-showcase-a-lack-of-101-level-best-practices",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-09T19:07:10.375684"
+    "processed_date": "2026-11-10T16:36:06.079640"
   },
   {
-    "title": "Older WOLED TVs suffer from \"edge rot\" as test finds dead pixels in 14 of 16 sets",
-    "summary": "The findings come from RTINGS, whose accelerated longevity test kept each TV running until it hit 18,000 hours, or roughly a decade of use in a typical US home. Of the 16 WOLED sets from 2020 to 2023 in that group, 14 came out with what the outlet calls edge... Read Entire Article",
-    "link": "https://www.techspot.com/news/114486-older-woled-tvs-suffer-edge-rot-test-finds.html",
+    "title": "Orbiting ESA satellite plays Doom after receiving voice commands from amateur radio operators on Earth",
+    "summary": "Radio amateurs in Oslo spoke a command to ESA s OPS-SAT PRETTY satellite, which recognized it on board and launched Doom.",
+    "link": "https://www.tomshardware.com/tech-industry/space/orbiting-esa-satellite-plays-doom-after-receiving-voice-commands-from-amateur-radio-operators-on-earth-27-mb-ai-speech-model-executes-the-game-on-the-seventh-attempt",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-10T16:36:06.079741"
+  },
+  {
+    "title": "Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy",
+    "summary": "Class-action lawsuit and legal investigations against Nvidia over securities fraud start flying",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/law-firm-files-class-action-lawsuit-against-nvidia-after-ceo-jensen-huang-confirms-affair-with-alleged-chinese-spy-more-to-come-as-multiple-other-law-firms-investigate-securities-fraud-following-stock-drop",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-10T16:36:06.079856"
+  },
+  {
+    "title": "LabWired allows engineers to test compiled firmware on simulated MCU boards (CPU and peripherals)",
+    "summary": "Andrii Shylenko s LabWired is an MIT-licensed MCU firmware simulation core that runs compiled firmware against modeled CPUs and peripherals, captures UART and bus output, register state, and supports repeatable checks in CI. The simulator works on Arm Cortex-M0+, Cortex-M3, Cortex-M4, Cortex-M7, Cortex-M33 cores, RISC-V architecutre, and Xtensa LX6 and LX7 (some ESP32 parts). The main benefit of the project is speeding up firmware testing since doing some on real boards is slow. The hardware must be ready, then the firmware must be flashed to the board each time you want to test it, and if something breaks, developers get a dark LED and no trace. If a firmware project needs to support multiple boards, this quickly adds up. The project is different from a CPU/MCU emulator for two main reasons: The full board is modeled, not only the chip. Sensors, displays, and bus devices are also simulated. So you can [...] The post LabWired allows engineers to test compiled firmware on simulated MCU boards (CPU and peripherals) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/10/labwired-allows-engineers-to-test-compiled-firmware-on-simulated-mcu-boards-cpu-and-peripherals/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-10T16:36:06.080322"
+  },
+  {
+    "title": "ControlBox Home Assistant solution is designed for floor heating systems, house lighting, 1-wire sensors (Crowdfunding)",
+    "summary": "DomeCtrl s ControlBox is a Raspberry Pi 5-based controller running Home Assistant and primarily designed for hydronic radiant floor heating (RFH) systems. It also supports lighting solutions and integration with energy devices such as solar collectors, photovoltaic installations, heat pumps, hydraulic pumps & valves. The system controls thermal valves, hydraulic PWM pumps, and related RFH devices, and can read multiple 1-wire temperature sensors over long cables (>6 m). The ControlBox also features 32 LED-strip output channels, for up to 2 kW output. ControlBox specifications: Main board Raspberry Pi 5 SBC with 4GB RAM Storage 128GB NVMe SSD pre-loaded with Home Assistant Wired Communication Gigabit Ethernet on SBC Half-duplex RS485 communication bus (5 V) Wireless WiFi 5 and Bluetooth 5 on SBC W32-ESP01 header for control via ESPHome 433 MHz transmitter & receiver modules for communication with wireless peripherals like ClickOnClickOff , curtain rails, screens, garage doors, etc. I/Os via terminal [...] The post ControlBox Home Assistant solution is designed for floor heating systems, house lighting, 1-wire sensors (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/10/controlbox-home-assistant-solution-is-designed-for-floor-heating-systems-house-lighting-1-wire-sensors/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-10T16:36:06.080529"
+  },
+  {
+    "title": "280 MHz STMicro STM32G5 Cortex-M33 mixed-signal MCU targets digital power and motor control applications",
+    "summary": "The STM32G5 series is a family of 280 MHz Arm Cortex-M33 mixed-signal MCUs designed for industrial power supplies, photovoltaic inverters, EV chargers, robotics, and motor control systems. It doubles the performance of the older STM32G4 series unveiled in 2021. The new MCU family features up to 512KB flash, 112KB SRAM with ECC, a 111 ps high-resolution timer (HRTIM) with up to 12 PWM outputs on some variants, and 12-bit ADCs supporting up to 5 MSPS. Other features include position encoder interfaces, a 16-element programmable logic array, CORDIC and FMAC mathematical accelerators, and security features such as Arm TrustZone, secure boot, and post-quantum cryptography support. STM32G5 series specifications: MCU Core 32-bit Arm Cortex-M33 CPU @ up to 280 MHz with TrustZone, single-precision FPU, DSP instructions, and MPU 8 KB instruction cache and 4 KB data cache (data cache on STM32G55x/56x only) 20 KB or 32 KB CCM-SRAM routine booster (20 KB [...] The post 280 MHz STMicro STM32G5 Cortex-M33 mixed-signal MCU targets digital power and motor control applications appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/10/280-mhz-stmicro-stm32g5-cortex-m33-mixed-signal-mcu-targets-digital-power-and-motor-control-applications/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-11-10T16:36:06.080702"
+  },
+  {
+    "title": "In search of the incredible shrinking quantum sensor",
+    "summary": "Infleqtion, Honeywell Aerospace, and the University of California, Santa Barbara are working to skrink the optical cavity of quantum sensors.",
+    "link": "https://www.fiercesensors.com/electronics/search-incredible-shrinking-quantum-sensor",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-10T16:36:06.081831"
+  },
+  {
+    "title": "AMD confirms GPU driver bug is writing data continuously, promises fix with next update",
+    "summary": "The problem, which affects only Windows PCs, has been reported by multiple users on social media, online message boards, and official AMD forums for years. Some users have complained that the excessive disk activity was reducing their SSD's lifespan by around 1% every month. One user even claimed that their... Read Entire Article",
+    "link": "https://www.techspot.com/news/114496-amd-confirms-gpu-driver-bug-writing-data-continuously.html",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-10T16:36:06.082028"
+  },
+  {
+    "title": "Your meditation headband may be feeding your brainwaves to an AI model",
+    "summary": "A recent report from the journal Science outlines the relationship between the electroencephalography (EEG) industry and AI. It found that some companies selling brain-tracking devices aren't entirely forthcoming about where users' brain-signal data ends up. Read Entire Article",
+    "link": "https://www.techspot.com/news/114501-meditation-headband-may-feeding-brainwaves-ai-model.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-10T16:36:06.082139"
+  },
+  {
+    "title": "Kalshi user who lost $308,000 on sports bets sues to get back $580,000",
+    "summary": "Bright filed his complaint in September in King County Superior Court. Kalshi wants the case heard in the US District Court for the Western District of Washington. It filed a motion to dismiss the following month and has also asked the court to put the case on hold. Read Entire Article",
+    "link": "https://www.techspot.com/news/114502-kalshi-user-who-lost-308000-sports-bets-sues.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-10T16:36:06.082244"
+  },
+  {
+    "title": "Microsoft patent describes paying you to train AI on your idle GPU",
+    "summary": "Filed earlier this month and quickly noticed by Patentlyze, the patent would monitor consenting users' devices and assign them AI training workloads during periods of low or no usage. Users might receive store credit or advanced access to AI models as compensation. Read Entire Article",
+    "link": "https://www.techspot.com/news/114499-microsoft-patent-describes-paying-you-train-ai-idle.html",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-10T16:36:06.082408"
+  },
+  {
+    "title": "France says Iran was behind supermarket refrigerator cyberattacks",
+    "summary": "On October 11 and 12, stores across France experienced cyberattacks that took control of their refrigeration controllers. The hackers remotely overrode the settings on freezers, fridges and chiller cabinets, in some cases raising temperatures to 50 degrees Celsius (122 degrees Fahrenheit), spoiling food and causing at least 15 fires. France... Read Entire Article",
+    "link": "https://www.techspot.com/news/114506-france-iran-behind-supermarket-freezer-cyberattacks-caused-millions.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-10T16:36:06.082526"
+  },
+  {
+    "title": "Claude Code's \"don't ask again\" button is leaking passwords and API keys to public GitHub repos",
+    "summary": "Claude Code asks for approval before it runs shell commands on a developer's machine. One of the options is \"Yes, and don't ask again.\" Choosing it creates an allow rule in a file called .claude/settings.local.json. Sometimes the rule is a general pattern, but often it's the full command, stored word... Read Entire Article",
+    "link": "https://www.techspot.com/news/114500-claude-code-dont-ask-again-button-leaking-passwords.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-10T16:36:06.082648"
+  },
+  {
+    "title": "Nvidia and Jensen Huang face class-action lawsuit after affair with alleged Chinese spy wipes $190 billion off company",
+    "summary": "Huang admitted to the extramarital affair over the weekend following reports that he was targeted by a suspected Chinese intelligence operative, Alice Huang, who is not related to Jensen. US intelligence services claim she was acting as a honeypot, tasked with gathering information about American AI chips and influencing the... Read Entire Article",
+    "link": "https://www.techspot.com/news/114504-nvidia-jensen-huang-face-class-action-lawsuit-after.html",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-10T16:36:06.082769"
+  },
+  {
+    "title": "Iomega Zip Drive: Elite Floppy Disks Before USB Sticks",
+    "summary": "With 100MB in a disk that fit in your pocket, the Zip drive was the coolest way to carry files in the 1990s. It made Iomega a Wall Street darling, until thumb drives and the click of death caught up. Read Entire Article",
+    "link": "https://www.techspot.com/article/3177-legends-iomega-zip/",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-09T19:07:10.375840"
+    "processed_date": "2026-11-10T16:36:06.082866"
   },
   {
-    "title": "US officials say a Chinese businesswoman close to Nvidia's Jensen Huang was a spy for Beijing",
-    "summary": "Update (Nov 8, 7pm): Nvidia CEO Jensen Huang has admitted to having an extramarital affair following reports that he was targeted by a suspected Chinese intelligence operative. In a letter to employees, Huang apologized to his wife, family, and colleagues, taking responsibility for his actions and promising to cooperate with... Read Entire Article",
-    "link": "https://www.techspot.com/news/114483-us-officials-chinese-businesswoman-close-nvidia-jensen-huang.html",
+    "title": "Googlebooks get their first big update, freeing up 3GB to 6GB of RAM",
+    "summary": "The Googlebook November update also fixes roughly 30 bugs across all five launch machines. The memory optimization applies to the Acer Googlebook 14, Asus Googlebook 14 and Lenovo Googlebook 15, the three launch models based on Intel's Core Ultra 5 Panther Lake chips. Read Entire Article",
+    "link": "https://www.techspot.com/news/114498-googlebooks-get-their-first-big-update-freeing-up.html",
     "categories": [
-      "GPUs",
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-10T16:36:06.082981"
+  },
+  {
+    "title": "Many PCs from '80s and '90s had keyhole locks, right next to the Turbo and Reset buttons. What was it for?",
+    "summary": "Your 486 had a key. Do you remember what it was for? Read Entire Article",
+    "link": "https://www.techspot.com/trivia/184-ibm-pcs-80s-90s-keyhole-lock-explained/",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-10T16:36:06.083076"
+  },
+  {
+    "title": "AIMP is a powerful and free music player for your offline library",
+    "summary": "AIMP is a feature-rich music player for anyone who prefers local files over streaming. It supports nearly every popular audio format, with a customizable UI, advanced equalizer, and playlist management. Built-in tools for converting audio files and editing metadata make it an excellent choice for organizing and enjoying your local music collection. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/4199-aimp.html",
+    "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-09T19:07:10.376050"
+    "processed_date": "2026-11-10T16:36:06.083188"
   }
 ]
