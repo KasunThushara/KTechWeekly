@@ -1,317 +1,406 @@
 [
   {
-    "title": "Secretlab debuts monitor light bar add-on to reduce glare and eye strain",
-    "summary": "Popular desk and chair maker Secretlab has released a new monitor light bar.",
-    "link": "https://www.tomshardware.com/peripherals/secretlab-debuts-monitor-light-bar-add-on-to-reduce-glare-and-eye-strain-ergoarch-has-a-three-point-adjustment-arm-costs-usd179",
+    "title": "OpenAI and Georgia county leaders hit with Mafia-style RICO racketeering lawsuit over $30 billion AI data center",
+    "summary": "The plaintiffs alleged that the parties committed fraud and concealment through NDAs and misleading public statements.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/georgia-politicians-openai-slapped-with-racketeering-lawsuit-over-3-2-gigawatt-ai-data-centers-plaintiffs-allege-multiple-violations-were-part-of-a-coordinated-scheme-to-get-project-camellia-approved",
     "categories": [
-      "AI & ML",
-      "Tech News"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-10T16:36:06.078391"
+    "processed_date": "2026-11-11T16:37:21.644091"
   },
   {
-    "title": "New framework grades AI jailbreaks across capability gains, scope, and how easy they are to deploy",
-    "summary": "Frontier Model Forum releases its Jailbreak Rating Framework to estimate how easy it is for models to escape their cages and how much damage they can do.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/new-framework-grades-ai-jailbreaks-across-capability-gains-scope-and-how-easy-they-are-to-deploy-frontier-model-forum-proposes-cvss-style-rating-system-for-new-ai-models",
+    "title": "PC peripheral maker Logitech giving all of its 7,000 employees the day off to play GTA 6",
+    "summary": "Accessory maker Logitech has a new \"Logi Game Day\" initiative that allows employees to take a day off from now until this time next year to play a game of their choice including the one everyone is talking about.",
+    "link": "https://www.tomshardware.com/video-games/pc-peripheral-maker-logitech-giving-all-of-its-7-000-employees-the-day-off-to-play-gta-6-company-announces-game-day-initiative-dedicated-vacation-day-to-play-video-games",
     "categories": [
-      "AI & ML",
-      "Tech News"
+      "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-10T16:36:06.078506"
+    "processed_date": "2026-11-11T16:37:21.644216"
   },
   {
-    "title": "Going deep on local AI performance benchmarking with Apple s Mac Studio with M5 Ultra taking on Nvidia DGX Spark",
-    "summary": "But if you're thinking about dropping over $10K for the purpose of building a local AI inference setup, is a Mac Studio right for you?",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/going-deep-on-local-ai-performance-with-apples-mac-studio-with-m5-ultra-inference-engine-recipes-mandatory-for-bigger-models-as-mlx-stack-matures",
+    "title": "SpaceX develops its own Kessel rack-scale system featuring 72 Nvidia Rubin GPUs for data centers in space, report claims",
+    "summary": "SpaceX is reportedly developing a 'Kessel' rack-scale system design with 72 Nvidia Rubin GPUs that relies on a massive 84-layer PCB midplane.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-11T16:37:21.644337"
+  },
+  {
+    "title": "ASRock quietly rolls out new firmware after disastrous previous update killed Radeon RX 7900-series GPUs",
+    "summary": "Asrock's VBIOS 1.0.6 update follows reports of Radeon RX 7900 XT and XTX graphics cards failing to boot after installing the previous firmware.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/asrock-attempts-to-correct-botched-radeon-rx-7000-firmware-release-with-new-version-revised-release-should-work-ok-but-company-provides-no-explanation-for-bricked-cards",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-11T16:37:21.644471"
+  },
+  {
+    "title": "Montech King 95 3D Pro case review: The King has returned",
+    "summary": "The new Montech King 95 3D case offers 3-panel panoramic views of the inside, loads of interior space for components and cooling, and the Pro version comes with seven RGB fan",
+    "link": "https://www.tomshardware.com/pc-components/pc-cases/montech-king-95-3d-pro-case-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-11T16:37:21.644575"
+  },
+  {
+    "title": "Nintendo unleashes DMCA takedown wave against open-source Switch modchip firmware, 144 tools disabled",
+    "summary": "Nintendo is going after the open-source firmware behind hardware modchips on Nintendo Switch",
+    "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-unleashes-dmca-takedown-wave-against-open-source-switch-modchip-firmware-144-tools-disabled-picofly-sx-core-and-hwfly-among-casualties-following-criminal-trial-victory",
     "categories": [
       "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-11-10T16:36:06.078616"
-  },
-  {
-    "title": "Elon Musk s Terafab targets 1 million wafers a month after 2032",
-    "summary": "Tesla and SpaceX s Terafab reportedly plans 1 million wafers per month after 2032, with about 700,000 for memory.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musks-terafab-targets-1-million-wafers-a-month-after-2032-planned-700-000-monthly-memory-wafers-could-rival-samsungs-entire-estimated-dram-production-capacity",
-    "categories": [
       "Semiconductors"
     ],
     "quality_score": 0,
-    "processed_date": "2026-11-10T16:36:06.078714"
+    "processed_date": "2026-11-11T16:37:21.644677"
   },
   {
-    "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel",
-    "summary": "Linus Torvalds thinks that AI fixes drove most of the progress in Linux kernel 7.4rc2 BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift",
-    "link": "https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-10T16:36:06.078814"
-  },
-  {
-    "title": "President Trump says the FBI is investigating Jensen Huang s affair",
-    "summary": "The FBI is probably concerned about the implication of a Chinese agent having influence over the leader of the U.S.'s leading AI chip manufacturer.",
-    "link": "https://www.tomshardware.com/tech-industry/policy/president-trump-says-the-fbi-is-investigating-jensen-huangs-affair-nvidia-also-accused-of-intervening-in-megaspeed-chip-smuggling-investigation",
+    "title": "Cognichip reveals how its new AI-assisted program can slash chip design times from months to days automating labor-intensive tasks cuts design time down, Chief Product Officer explains",
+    "summary": "Cognichip claims its AI can slash chip design time from months to days, only that that design must be very simplistic.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/cognichip-reveals-how-its-new-ai-assisted-program-can-slash-chip-design-times-from-months-to-days-automating-labor-intensive-tasks-cuts-design-time-down-chief-product-officer-explains",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-10T16:36:06.078914"
+    "processed_date": "2026-11-11T16:37:21.644786"
   },
   {
-    "title": "$10 programmer saves BIOS-locked Lenovo ThinkPads from the dump",
-    "summary": "Many cheap company ThinkPads come with supervisor passwords and often end up as e-waste. Ukrainian YouTuber Hileeq shows how easy it is to bypass the password with a $10 programmer.",
-    "link": "https://www.tomshardware.com/laptops/usd10-programmer-saves-bios-locked-lenovo-thinkpads-from-the-dump-exploit-bypasses-supervisor-passwords-to-save-4th-to-8th-gen-intel-models-from-e-waste",
+    "title": "Congress could issue subpoena to Nvidia CEO Jensen Huang if he doesn t respond by today to request for a joint, closed-door briefing ",
+    "summary": "Three committee chairpersons want to grill Jensen Huang about his company's 'security protocols against foreign adversary espionage,' as a former CIA agent says that he had a target on his back as the leader of a trillion-dollar company.",
+    "link": "https://www.tomshardware.com/tech-industry/policy/congress-could-issue-subpoena-to-nvidia-ceo-jensen-huang-if-he-doesnt-respond-by-today-to-request-for-a-joint-closed-door-briefing-us-representatives-want-to-discuss-companys-security-protocols-against-foreign-adversary-espionage",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-11T16:37:21.644915"
+  },
+  {
+    "title": "Cyanogen co-founder unveils Kora, a Linux OS that splits AI models across the CPU, GPU, and NPU",
+    "summary": "Kora, a Linux desktop OS with built-in AI models and agents for local agentic work, is coming to PCs in 2027, including Snapdragon X2 Elite machines.",
+    "link": "https://www.tomshardware.com/software/linux/cyanogen-co-founder-unveils-kora-a-linux-os-that-splits-ai-models-across-the-cpu-gpu-and-npu-snapdragon-x2-elite-and-hexagon-npu-get-full-support-first",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-11T16:37:21.645021"
+  },
+  {
+    "title": "Linux kernel reviewer steps down from memory management duties due to influx of AI slop patches",
+    "summary": "Linux kernel memory-management code reviewer steps down due to influx of AI slop patches volume of submissions coupled with low manpower forces the step back",
+    "link": "https://www.tomshardware.com/software/linux/linux-kernel-reviewer-steps-down-from-memory-management-duties-due-to-influx-of-ai-slop-patches-the-amount-of-time-wasted-on-ai-slop-is-already-too-much-and-were-only-at-the-start-of-this-volume-of-submissions-and-low-manpower-forces-the-step-back",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-11T16:37:21.645124"
+  },
+  {
+    "title": "Save 36% on this Hoto cordless rotary 3D printing toolkit for makers, now under $32",
+    "summary": "Grab a 36% saving on Hoto s cordless rotary toolkit, with a 25,000 RPM motor, 35 accessories and a built-in LED ring light.",
+    "link": "https://www.tomshardware.com/desktops/pc-building/save-36-percent-on-this-hoto-cordless-rotary-3d-printing-toolkit-for-makers-now-under-usd32-5-speed-tool-ships-with-35-attachments-for-sanding-polishing-carving-and-more",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-11T16:37:21.645218"
+  },
+  {
+    "title": "AMD shares how it can retain 95% of server performance with just half the DRAM, sidestepping memory shortages with MEXT",
+    "summary": "Following AMD s acquisition of MEXT earlier this year, the company has revealed its own IT infrastructure is using the technology to run servers at 50% DRAM capacity while achieving 95% of the performance of a full-DRAM system in certain applications.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-shares-how-it-can-retain-95-percent-of-server-performance-with-just-half-the-dram-sidestepping-memory-shortages-with-mext-tech-powers-over-100-servers-already-running-with-plans-to-expand-to-2-000-servers-in-2027",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-11T16:37:21.645331"
+  },
+  {
+    "title": "Elon Musk wants to build a s $24 billion gas-powered AI supercomputer in Texas company town",
+    "summary": "The city of Starbase, Texas, is set to vote on a proposed $24 billion data center to be built within its limits, but the SpaceX company town may not provide the friendly regulatory environment that owner Elon Musk might have hoped for.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/elon-musk-wants-to-build-a-new-gas-powered-data-center-in-starbase-texas-usd24-billion-site-goes-up-for-approval-in-december-but-could-face-headwinds-from-new-governor",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-11T16:37:21.645438"
+  },
+  {
+    "title": "Ukrainian drone operations squeezed by fiber optic cable shortage triggered by AI data center buildouts",
+    "summary": "Ukrainian drone manufacturer BlueBird Tech says that limited fiber optic supplies are making it harder to build jam-proof fiber optic drones.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/data-center-demand-for-fiber-optics-squeezes-ukrainian-drone-operations-supply-crunch-has-incurred-6x-10x-cost-increase-for-critical-cabling",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-10T16:36:06.079013"
+    "processed_date": "2026-11-11T16:37:21.645535"
   },
   {
-    "title": "Software engineer Rickrolls his Prusa 3D printer via remote code execution exploit",
-    "summary": "A software engineer demonstrated the ability to Rickroll a 3D printer via remote code execution (RCE). This security flaw has been fixed in the latest Prusa software.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/software-engineer-rickrolls-his-prusa-3d-printer-via-remote-code-execution-exploit-one-week-of-testing-with-claude-opus-uncovers-23-prusa-buddy-firmware-defects",
+    "title": "Modder routes PC water cooling loop to radiator outside to beat the winter heat",
+    "summary": "A Reddit PC builder didn't want to bother opening a window in the winter when their system made their legs too hot, so they created an automated split cooling system to dump heat outside.",
+    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/enterprising-pc-modder-makes-a-split-cooling-system-to-keep-it-from-overheating-his-room-winter-cold-keeps-cpu-and-gpu-temperatures-below-50-c-under-load",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-11T16:37:21.645642"
+  },
+  {
+    "title": "3,500 laser-armed AI submarine drones patrol Norwegian salmon farms, killing sea lice and protecting 112 million fish",
+    "summary": "3,500 Stingray AI laser robots deployed around salmon pens along the Norwegian coast 24/7 protect over 112 million fish from sea lice.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-11T16:37:21.645742"
+  },
+  {
+    "title": "Microsoft lobbies against potential ban on Chinese optical networking gear for AI data centers as FCC mulls restricting imports",
+    "summary": "The ITI is lobbying against the ban of these optical transceivers needed by data centers to convert electrical signals into optical signals.",
+    "link": "https://www.tomshardware.com/tech-industry/policy/microsoft-lobbies-against-potential-ban-on-chinese-optical-networking-gear-for-ai-data-centers-as-fcc-mulls-restricting-imports-industry-group-says-move-could-grind-data-center-rollout-to-a-halt",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-11T16:37:21.645843"
+  },
+  {
+    "title": "AMD VP and chief Zen architect rebuke claims that Nvidia and Arm made CPUs for agentic AI We didn t magically know four years ago that agentic was going to be a thing ",
+    "summary": "Nvidia and Arm have new agentic CPUs, a title that high-ranking AMD employees are pushing back against with the launch of Zen 6 EPYC Venice CPUs.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-vp-and-chief-zen-architect-rebuke-claims-that-nvidia-and-arm-made-cpus-for-agentic-ai-we-didnt-magically-know-four-years-ago-that-agentic-was-going-to-be-a-thing",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-11T16:37:21.645970"
+  },
+  {
+    "title": "AMD Zen 6 EPYC Venice deep dive and benchmarking",
+    "summary": "AMD has pulled back the curtain on its Zen 6 microarchitecture. We deep-dive into the differences between Zen 5 and 6, as well as detail our first benchmarks of AMD s Venice CPUs.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-zen-6-epyc-venice-deep-dive-and-benchmarking-dual-epyc-9996-with-1-024-threads-delivers-up-to-93-percent-performance-gain-gen-on-gen-9686f-outclasses-nvidias-vera",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-11-11T16:37:21.646071"
+  },
+  {
+    "title": "Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang",
+    "summary": "Alice Huang is reportedly connected to a web of Chinese companies, which then leveraged her closeness to Jensen Huang to gain access to billions of dollars' worth of Nvidia GPUs.",
+    "link": "https://www.tomshardware.com/tech-industry/policy/alice-huang-reportedly-instrumental-in-securing-over-usd7-5-billion-of-nvidia-ai-gpu-imports-during-three-year-relationship-with-jensen-huang-helped-move-240-000-banned-chips-into-china-mostly-h100-and-h200",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-11T16:37:21.646175"
+  },
+  {
+    "title": "Mikrotik KNOT Gateway HL9 An outdoor Wi-Fi HaLow IoT gateway with GbE, WiFi 6, BLE 5.1, 4G LTE Cat 1 bis, and GNSS",
+    "summary": "MikroTik KNOT Gateway HL9 is an IP66-rated outdoor IoT gateway that combines 915 MHz Wi-Fi HaLow (802.11ah), Bluetooth 5.1, Wi-Fi 6, LTE Cat 1 bis, Gigabit Ethernet, and GNSS. The gateway supports asset tracking, remote sensor monitoring, industrial IoT, and agricultural applications. Built around a dual-core Qualcomm IPQ-5010 ARM64 processor, it features 256MB RAM and 128MB NAND flash. It relies on a Morse Micro MM6108 Wi-Fi HaLow SoC for sub-GHz connectivity, with Gigabit Ethernet, 2.4 GHz Wi-Fi 6, and LTE Cat 1 bis cellular for backhaul. MikroTik KNOT Gateway HL9 specifications: SoC Qualcomm IPQ-5010 dual-core 64-bit Arm processor @ 800 MHz Memory 256MB RAM Storage 128MB NAND flash Connectivity Ethernet Gigabit Ethernet RJ45 port with 802.3af/at PoE-in support Wi-Fi HaLow 915 MHz IEEE 802.11ah via Morse Micro MM6108 SoC Wi-Fi 2.4 GHz Wi-Fi 6 (802.11b/g/n/ax), 1 1, up to 287 Mbps, 3.9 dBi integrated antenna [...] The post Mikrotik KNOT Gateway HL9 An outdoor Wi-Fi HaLow IoT gateway with GbE, WiFi 6, BLE 5.1, 4G LTE Cat 1 bis, and GNSS appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/11/mikrotik-knot-gateway-hl9-an-outdoor-wi-fi-halow-iot-gateway-with-gbe-wifi-6-ble-5-1-4g-lte-cat-1-bis-and-gnss/",
+    "categories": [
+      "Semiconductors",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-11T16:37:21.646584"
+  },
+  {
+    "title": "Arduino Nano XL board features Microchip PIC32CK Cortex-M33 MCU for industrial, home, and building automation",
+    "summary": "Arduino Nano XL Link is an evolution of the popular Arduino Nano board, with the same dimensions, but featuring a more powerful Microchip PIC32CK Arm Cortex-M33 running at 120 MHz with 2 MB of flash and 512 kB of RAM. It also adds CAN FD, RS485, and 10/100 Mbps Ethernet field bus transceivers for industrial, home, and building automation applications such as industrial networks, motor drives, building automation buses, smart sensors, and touch panels. The company also unveiled the Nano XL Link Connector Carrier to go along with the new board. Arduino Nano XL Link Arduino Nano XL Link (ABX00182) specifications: MCU Microchip PIC32CK2051SG01144 CPU Arm Cortex-M33 @ 120 MHz Memory 512 kB RAM Storage 2 MB flash; 728 kB available for sketches Security Integrated Hardware Security Module (HSM) + TrustZone USB USB Type-C port for power, programming, and serial communication Industrial communication interfaces [...] The post Arduino Nano XL board features Microchip PIC32CK Cortex-M33 MCU for industrial, home, and building automation appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/11/arduino-nano-xl-board-features-microchip-pic32ck-cortex-m33-mcu-for-industrial-home-and-building-automation/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-11-11T16:37:21.646751"
+  },
+  {
+    "title": "Renesas RZ/T2N Cortex-A55/R52 industrial MPU supports four-axis motor control, TSN Ethernet, EtherCAT ",
+    "summary": "Renesas RZ/T2N industrial MPU supports up to four-axis motor control and includes PWM timers, encoder interfaces, and trigonometric accelerators. It s designed for industrial robots, programmable logic controllers (PLCs), motion controllers, and multi-axis servo drives. The MPU features up to two 1.2 GHz Arm Cortex-A55 cores for application processing and two 800 MHz Cortex-R52 cores for real-time control. It also integrates a three-port Gigabit Ethernet switch with TSN support and industrial Ethernet protocols such as EtherCAT, PROFINET RT/IRT, and EtherNet/IP. This feature set allows real-time motor control, industrial networking, and Linux applications to run on a single chip, reducing the need for separate processors. The MPU can also work as an industrial Ethernet network controller or device, depending on the application. Renesas RZ/T2N specifications: CPU Up to 2x Arm Cortex-A55 (64-bit) cores clocked at 1.2 GHz with 32KB L1 instruction/data cache, 128KB L2 cache per core, and 256KB L3 cache 2x [...] The post Renesas RZ/T2N Cortex-A55/R52 industrial MPU supports four-axis motor control, TSN Ethernet, EtherCAT appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/11/renesas-rz-t2n-cortex-a55-r52-industrial-mpu-supports-four-axis-motor-control-tsn-ethernet-ethercat/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-11T16:37:21.646945"
+  },
+  {
+    "title": "LocalDot Open-source PCB for 3rd-gen Amazon Echo Dot enables Home Assistant support (Crowdfunding)",
+    "summary": "AAElectronics LocalDot is an open-source replacement mainboard that converts a 3rd-generation Amazon Echo Dot into a local voice assistant compatible with Home Assistant. The board replaces one of the two original PCBs while reusing the existing microphones, speaker, buttons, LEDs, and enclosure, so the device works without relying on Amazon s cloud services. The board combines an ESP32-S3 for WiFi connectivity and device control with an ESP32-P4 for audio processing. It supports the original four-microphone array with beamforming, on-device wake-word detection, and local voice commands through Home Assistant. Installation requires no soldering or enclosure modifications, and the device still uses the original Echo Dot power adapter. LocalDot specifications: Compatibility 3rd-generation Amazon Echo Dot (Donut and Crumpet variants; Clock version not tested) SoC ESP32-S3 Wi-Fi connectivity and device control ESP32-P4 Dedicated audio processing Audio TAS5805 audio amplifier for the original speaker On-device wake-word detection Beamforming support Reuses the original [...] The post LocalDot Open-source PCB for 3rd-gen Amazon Echo Dot enables Home Assistant support (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/11/localdot-an-open-source-replacement-pcb-for-3rd-gen-echo-dot-with-home-assistant-support/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-11T16:37:21.647129"
+  },
+  {
+    "title": "Is Nvidia too dependent on Jensen Huang? Who could replace him?",
+    "summary": "Some in tech are voicing concerns over Nvidia corporate governance and risk management approach with extraordinary dependence on one man.",
+    "link": "https://www.fiercesensors.com/embedded/nvidia-too-dependent-jensen-huang-who-could-replace-him",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-11T16:37:21.648126"
+  },
+  {
+    "title": "Asrock releases new Radeon GPU firmware after previous update bricked cards, offers no explanation",
+    "summary": "As VideoCardz reports, the new RX 7900 XTX download carries the ASRVBFlash 1.0.6 label and a November 6 date. It replaces version 1.0.5, but there's no changelog explaining what's new or confirmation that the problems with the previous release have been fixed. That's not exactly reassuring for anyone considering another attempted update. Read Entire Article",
+    "link": "https://www.techspot.com/news/114521-asrock-releases-new-radeon-gpu-firmware-after-previous.html",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-11T16:37:21.648427"
+  },
+  {
+    "title": "Caltech robot makes history by assembling first structure in orbit without astronauts",
+    "summary": "The machine, called ASTRA, takes up roughly a cubic meter and packs a gantry arm, motorized parts dispensers and 11 cameras. Engineers also squeezed two finished sections of the frame inside before launch, so its first job in orbit was simply pushing those out. Read Entire Article",
+    "link": "https://www.techspot.com/news/114520-caltech-robot-makes-history-assembling-first-structure-orbit.html",
+    "categories": [
+      "Semiconductors",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-11T16:37:21.648537"
+  },
+  {
+    "title": "Flock is asking lawmakers to regulate its cameras, as long as police don't need a warrant",
+    "summary": "As Arizona Capitol Times reports, Flock policy director Andrea Korb told an R Street Institute webinar that the company supports state-by-state legislation governing its camera technology. It expects a wave of bills in 2027, with lawmakers interested even in states that have recently passed restrictions. Read Entire Article",
+    "link": "https://www.techspot.com/news/114519-flock-backs-state-rules-license-plate-cameras-but.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-10T16:36:06.079112"
+    "processed_date": "2026-11-11T16:37:21.648663"
   },
   {
-    "title": "Upgrade your PS5's storage for GTA 6's digital pre-load with these SSD storage options from $174",
-    "summary": "With GTA 6's digital pre-loads beginning on November 10, you'll need enough storage on your PS5 to match. Here are some of the top PS5 SSD options to help you.",
-    "link": "https://www.tomshardware.com/video-games/playstation/upgrade-your-ps5s-storage-for-gta-6s-digital-pre-load-with-these-ssd-storage-options-from-usd174-ultra-fast-drives-slot-into-the-m-2-expansion-slot-to-ready-your-console-for-gtas-huge-212gb-installation",
+    "title": "A radio-wave trick from the 1980s could keep fusion reactors running continuously",
+    "summary": "The coil in question, a central solenoid, works a lot like a transformer. It keeps ramping up its own current to induce one in the plasma, but it eventually runs out of room to ramp. Those stop-start cycles also wear on the machine over time, so engineers would much rather... Read Entire Article",
+    "link": "https://www.techspot.com/news/114518-radio-wave-trick-1980s-could-key-keeping-fusion.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-11T16:37:21.648772"
+  },
+  {
+    "title": "Don't talk about Call of Duty on a plane: a FaceTime chat triggered an airport evacuation",
+    "summary": "According to Ontario police, a plane and the east wing of Terminal 2 at Ontario International Airport were evacuated on Sunday night after a passenger heard the words \"bomb\" and \"explosion.\" It turned out the person mistook a conversation about Call of Duty for a bomb threat. Read Entire Article",
+    "link": "https://www.techspot.com/news/114514-call-duty-player-sparks-bomb-scare-airport-after.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-11T16:37:21.648882"
+  },
+  {
+    "title": "Ring unveils AI security drone that patrols your home and a robot that guards businesses",
+    "summary": "The Ring Drone Cam costs $249.99 and is set to arrive in the US on January 27. It's essentially a second run at the Always Home Cam. Ring showed that one off back in 2020 at the same price, but it never actually shipped. Read Entire Article",
+    "link": "https://www.techspot.com/news/114515-ring-unveils-ai-powered-security-drone-patrols-home.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-11T16:37:21.649033"
+  },
+  {
+    "title": "Uber, DoorDash, and Airbnb say almost nobody is using AI agents",
+    "summary": "Uber, DoorDash, and Airbnb have all said that AI agents are responsible for only hundreds of transactions on their platforms, a tiny fraction compared to the millions completed by real people daily. Read Entire Article",
+    "link": "https://www.techspot.com/news/114516-uber-doordash-airbnb-reveal-how-few-people-actually.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-11T16:37:21.649141"
+  },
+  {
+    "title": "AMD launches Zen 6 Epyc 9006 series with up to 256 cores, 512 threads, and TSMC N2",
+    "summary": "AMD's first Zen 6 Epyc processors, labeled the 9006 series and codenamed Venice, are now shipping to server clients, with SP7 systems arriving first and SP8 following in the first half of 2027. The company recently published the full technical specs for every SP7 and SP8 CPU in the lineup,... Read Entire Article",
+    "link": "https://www.techspot.com/news/114513-amd-launches-zen-6-epyc-9006-series-up.html",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-11T16:37:21.649255"
+  },
+  {
+    "title": "Ex-PlayStation boss says the next big innovation is a $300 PS5, not a $1,200 PS6",
+    "summary": "Layden made the case on a recent episode of The Trophy Room podcast. He ran PlayStation's US business and later its worldwide studios before leaving Sony in 2019, so he's seen a few console generations from the inside. Read Entire Article",
+    "link": "https://www.techspot.com/news/114509-ex-playstation-boss-next-big-innovation-300-ps5.html",
     "categories": [
       "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-11-10T16:36:06.079208"
+    "quality_score": 10,
+    "processed_date": "2026-11-11T16:37:21.649358"
   },
   {
-    "title": "Steam Store adds average FPS data so you can see game performance before making a purchase",
-    "summary": "Valve is adding a new feature to the Steam store that tracks performance data and then displays it anonymously to users who match the hardware.",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/steam-store-adds-average-fps-data-so-you-can-see-game-performance-before-making-a-purchase-steam-deck-only-for-now-with-desktop-pc-support-planned",
+    "title": "A vibe-coded GTA VI PC port is coming, whether Rockstar likes it or not",
+    "summary": "Former Rockstar North technical director Obbe Vermeij thinks a PC port of GTA VI could arrive sooner than expected, because Rockstar and Take-Two may want to get ahead of any attempt to put an unofficial version of the game out on the platform. Read Entire Article",
+    "link": "https://www.techspot.com/news/114494-vibe-coded-gta-6-pc-port-coming-whether.html",
     "categories": [
       "Hardware"
     ],
     "quality_score": 10,
-    "processed_date": "2026-11-10T16:36:06.079323"
+    "processed_date": "2026-11-11T16:37:21.649462"
   },
   {
-    "title": "Grab this GameSir Super Nova wireless controller at a record-low Amazon price, now under $40",
-    "summary": "Grab this fully loaded wireless gaming controller from GameSir for a record-low Amazon price of $39.99.",
-    "link": "https://www.tomshardware.com/peripherals/controllers-gamepads/grab-this-gamesir-super-nova-wireless-controller-at-a-record-low-amazon-price-now-under-usd40-20-percent-discount-on-pc-and-switch-gamepad-that-ships-with-drift-free-hall-effect-sticks-and-a-customizable-layout",
-    "categories": [
-      "Semiconductors",
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-10T16:36:06.079421"
-  },
-  {
-    "title": "Grab 32GB DDR5 for $371 in this Newegg RAM bundle with the 9800X3D, $70 less than buying it separately",
-    "summary": "This Newegg bundle brings together the AMD Ryzen 7 9800X3D, 32GB of DDR5-6000 RAM, a Gigabyte X870 Aorus Elite Wi-Fi 7 motherboard, and a free ATX case for $1,090.98.",
-    "link": "https://www.tomshardware.com/pc-components/ddr5/grab-32gb-ddr5-for-usd371-in-this-newegg-ram-bundle-with-the-9800x3d-usd70-less-than-buying-it-separately-usd138-saving-on-parts-for-a-4k-gaming-pc-including-a-gigabyte-x870-motherboard-and-free-atx-case",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-10T16:36:06.079523"
-  },
-  {
-    "title": "All net-connected vehicles from two major automakers allowed hackers to remotely unlock doors and start the engine",
-    "summary": "Any net-connected vehicle from two automakers could be remotely opened and started now-patched failures with API backend security showcase a lack of 101-level best practices",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/all-net-connected-vehicles-from-two-major-automakers-allowed-hackers-to-remotely-unlock-doors-and-start-the-engine-now-patched-hard-coded-credentials-and-bypassed-mfa-security-showcase-a-lack-of-101-level-best-practices",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-10T16:36:06.079640"
-  },
-  {
-    "title": "Orbiting ESA satellite plays Doom after receiving voice commands from amateur radio operators on Earth",
-    "summary": "Radio amateurs in Oslo spoke a command to ESA s OPS-SAT PRETTY satellite, which recognized it on board and launched Doom.",
-    "link": "https://www.tomshardware.com/tech-industry/space/orbiting-esa-satellite-plays-doom-after-receiving-voice-commands-from-amateur-radio-operators-on-earth-27-mb-ai-speech-model-executes-the-game-on-the-seventh-attempt",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-10T16:36:06.079741"
-  },
-  {
-    "title": "Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy",
-    "summary": "Class-action lawsuit and legal investigations against Nvidia over securities fraud start flying",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/law-firm-files-class-action-lawsuit-against-nvidia-after-ceo-jensen-huang-confirms-affair-with-alleged-chinese-spy-more-to-come-as-multiple-other-law-firms-investigate-securities-fraud-following-stock-drop",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-10T16:36:06.079856"
-  },
-  {
-    "title": "LabWired allows engineers to test compiled firmware on simulated MCU boards (CPU and peripherals)",
-    "summary": "Andrii Shylenko s LabWired is an MIT-licensed MCU firmware simulation core that runs compiled firmware against modeled CPUs and peripherals, captures UART and bus output, register state, and supports repeatable checks in CI. The simulator works on Arm Cortex-M0+, Cortex-M3, Cortex-M4, Cortex-M7, Cortex-M33 cores, RISC-V architecutre, and Xtensa LX6 and LX7 (some ESP32 parts). The main benefit of the project is speeding up firmware testing since doing some on real boards is slow. The hardware must be ready, then the firmware must be flashed to the board each time you want to test it, and if something breaks, developers get a dark LED and no trace. If a firmware project needs to support multiple boards, this quickly adds up. The project is different from a CPU/MCU emulator for two main reasons: The full board is modeled, not only the chip. Sensors, displays, and bus devices are also simulated. So you can [...] The post LabWired allows engineers to test compiled firmware on simulated MCU boards (CPU and peripherals) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/10/labwired-allows-engineers-to-test-compiled-firmware-on-simulated-mcu-boards-cpu-and-peripherals/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-10T16:36:06.080322"
-  },
-  {
-    "title": "ControlBox Home Assistant solution is designed for floor heating systems, house lighting, 1-wire sensors (Crowdfunding)",
-    "summary": "DomeCtrl s ControlBox is a Raspberry Pi 5-based controller running Home Assistant and primarily designed for hydronic radiant floor heating (RFH) systems. It also supports lighting solutions and integration with energy devices such as solar collectors, photovoltaic installations, heat pumps, hydraulic pumps & valves. The system controls thermal valves, hydraulic PWM pumps, and related RFH devices, and can read multiple 1-wire temperature sensors over long cables (>6 m). The ControlBox also features 32 LED-strip output channels, for up to 2 kW output. ControlBox specifications: Main board Raspberry Pi 5 SBC with 4GB RAM Storage 128GB NVMe SSD pre-loaded with Home Assistant Wired Communication Gigabit Ethernet on SBC Half-duplex RS485 communication bus (5 V) Wireless WiFi 5 and Bluetooth 5 on SBC W32-ESP01 header for control via ESPHome 433 MHz transmitter & receiver modules for communication with wireless peripherals like ClickOnClickOff , curtain rails, screens, garage doors, etc. I/Os via terminal [...] The post ControlBox Home Assistant solution is designed for floor heating systems, house lighting, 1-wire sensors (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/10/controlbox-home-assistant-solution-is-designed-for-floor-heating-systems-house-lighting-1-wire-sensors/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-10T16:36:06.080529"
-  },
-  {
-    "title": "280 MHz STMicro STM32G5 Cortex-M33 mixed-signal MCU targets digital power and motor control applications",
-    "summary": "The STM32G5 series is a family of 280 MHz Arm Cortex-M33 mixed-signal MCUs designed for industrial power supplies, photovoltaic inverters, EV chargers, robotics, and motor control systems. It doubles the performance of the older STM32G4 series unveiled in 2021. The new MCU family features up to 512KB flash, 112KB SRAM with ECC, a 111 ps high-resolution timer (HRTIM) with up to 12 PWM outputs on some variants, and 12-bit ADCs supporting up to 5 MSPS. Other features include position encoder interfaces, a 16-element programmable logic array, CORDIC and FMAC mathematical accelerators, and security features such as Arm TrustZone, secure boot, and post-quantum cryptography support. STM32G5 series specifications: MCU Core 32-bit Arm Cortex-M33 CPU @ up to 280 MHz with TrustZone, single-precision FPU, DSP instructions, and MPU 8 KB instruction cache and 4 KB data cache (data cache on STM32G55x/56x only) 20 KB or 32 KB CCM-SRAM routine booster (20 KB [...] The post 280 MHz STMicro STM32G5 Cortex-M33 mixed-signal MCU targets digital power and motor control applications appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/10/280-mhz-stmicro-stm32g5-cortex-m33-mixed-signal-mcu-targets-digital-power-and-motor-control-applications/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-11-10T16:36:06.080702"
-  },
-  {
-    "title": "In search of the incredible shrinking quantum sensor",
-    "summary": "Infleqtion, Honeywell Aerospace, and the University of California, Santa Barbara are working to skrink the optical cavity of quantum sensors.",
-    "link": "https://www.fiercesensors.com/electronics/search-incredible-shrinking-quantum-sensor",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-10T16:36:06.081831"
-  },
-  {
-    "title": "AMD confirms GPU driver bug is writing data continuously, promises fix with next update",
-    "summary": "The problem, which affects only Windows PCs, has been reported by multiple users on social media, online message boards, and official AMD forums for years. Some users have complained that the excessive disk activity was reducing their SSD's lifespan by around 1% every month. One user even claimed that their... Read Entire Article",
-    "link": "https://www.techspot.com/news/114496-amd-confirms-gpu-driver-bug-writing-data-continuously.html",
+    "title": "Blender 5.3 adds native Gaussian Splatting and Nvidia DLSS 4.5",
+    "summary": "Blender is bringing new upgrades to the open-source 3D creation suite, including native Gaussian Splatting for importing and rendering realistic scenes reconstructed from photos and videos. DLSS 4.5 ray reconstruction delivers faster and cleaner viewport previews. The update also improves video editing, materials, animation, and project management. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/638-blender.html",
     "categories": [
       "GPUs",
       "Hardware"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-11-10T16:36:06.082028"
+    "quality_score": 10,
+    "processed_date": "2026-11-11T16:37:21.649577"
   },
   {
-    "title": "Your meditation headband may be feeding your brainwaves to an AI model",
-    "summary": "A recent report from the journal Science outlines the relationship between the electroencephalography (EEG) industry and AI. It found that some companies selling brain-tracking devices aren't entirely forthcoming about where users' brain-signal data ends up. Read Entire Article",
-    "link": "https://www.techspot.com/news/114501-meditation-headband-may-feeding-brainwaves-ai-model.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-10T16:36:06.082139"
-  },
-  {
-    "title": "Kalshi user who lost $308,000 on sports bets sues to get back $580,000",
-    "summary": "Bright filed his complaint in September in King County Superior Court. Kalshi wants the case heard in the US District Court for the Western District of Washington. It filed a motion to dismiss the following month and has also asked the court to put the case on hold. Read Entire Article",
-    "link": "https://www.techspot.com/news/114502-kalshi-user-who-lost-308000-sports-bets-sues.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-10T16:36:06.082244"
-  },
-  {
-    "title": "Microsoft patent describes paying you to train AI on your idle GPU",
-    "summary": "Filed earlier this month and quickly noticed by Patentlyze, the patent would monitor consenting users' devices and assign them AI training workloads during periods of low or no usage. Users might receive store credit or advanced access to AI models as compensation. Read Entire Article",
-    "link": "https://www.techspot.com/news/114499-microsoft-patent-describes-paying-you-train-ai-idle.html",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-10T16:36:06.082408"
-  },
-  {
-    "title": "France says Iran was behind supermarket refrigerator cyberattacks",
-    "summary": "On October 11 and 12, stores across France experienced cyberattacks that took control of their refrigeration controllers. The hackers remotely overrode the settings on freezers, fridges and chiller cabinets, in some cases raising temperatures to 50 degrees Celsius (122 degrees Fahrenheit), spoiling food and causing at least 15 fires. France... Read Entire Article",
-    "link": "https://www.techspot.com/news/114506-france-iran-behind-supermarket-freezer-cyberattacks-caused-millions.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-10T16:36:06.082526"
-  },
-  {
-    "title": "Claude Code's \"don't ask again\" button is leaking passwords and API keys to public GitHub repos",
-    "summary": "Claude Code asks for approval before it runs shell commands on a developer's machine. One of the options is \"Yes, and don't ask again.\" Choosing it creates an allow rule in a file called .claude/settings.local.json. Sometimes the rule is a general pattern, but often it's the full command, stored word... Read Entire Article",
-    "link": "https://www.techspot.com/news/114500-claude-code-dont-ask-again-button-leaking-passwords.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-10T16:36:06.082648"
-  },
-  {
-    "title": "Nvidia and Jensen Huang face class-action lawsuit after affair with alleged Chinese spy wipes $190 billion off company",
-    "summary": "Huang admitted to the extramarital affair over the weekend following reports that he was targeted by a suspected Chinese intelligence operative, Alice Huang, who is not related to Jensen. US intelligence services claim she was acting as a honeypot, tasked with gathering information about American AI chips and influencing the... Read Entire Article",
-    "link": "https://www.techspot.com/news/114504-nvidia-jensen-huang-face-class-action-lawsuit-after.html",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-10T16:36:06.082769"
-  },
-  {
-    "title": "Iomega Zip Drive: Elite Floppy Disks Before USB Sticks",
-    "summary": "With 100MB in a disk that fit in your pocket, the Zip drive was the coolest way to carry files in the 1990s. It made Iomega a Wall Street darling, until thumb drives and the click of death caught up. Read Entire Article",
-    "link": "https://www.techspot.com/article/3177-legends-iomega-zip/",
+    "title": "GTA VI is ready to pre-load, but even the PS5 Pro tops out at 30 FPS",
+    "summary": "Anyone with a digital pre-order on PS5 or Xbox Series can start downloading now. Xbox pre-loads opened globally at midnight GMT on November 10, while on PS5 they went live at midnight in each player's own time zone. Boxed copies only hold a download code, so those buyers will have... Read Entire Article",
+    "link": "https://www.techspot.com/news/114507-gta-vi-ready-pre-load-but-even-ps5.html",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-10T16:36:06.082866"
+    "processed_date": "2026-11-11T16:37:21.649680"
   },
   {
-    "title": "Googlebooks get their first big update, freeing up 3GB to 6GB of RAM",
-    "summary": "The Googlebook November update also fixes roughly 30 bugs across all five launch machines. The memory optimization applies to the Acer Googlebook 14, Asus Googlebook 14 and Lenovo Googlebook 15, the three launch models based on Intel's Core Ultra 5 Panther Lake chips. Read Entire Article",
-    "link": "https://www.techspot.com/news/114498-googlebooks-get-their-first-big-update-freeing-up.html",
+    "title": "Ollama makes it easy to run AI models locally for free",
+    "summary": "Ollama lets you download and run popular AI models like DeepSeek, Qwen, Gemma, and Llama directly on your PC, without subscriptions or sending your data to the cloud. Use it for chatting, coding, and other AI tasks, with support for Windows, macOS, and Linux. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/7772-ollama.html",
     "categories": [
       "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-10T16:36:06.082981"
-  },
-  {
-    "title": "Many PCs from '80s and '90s had keyhole locks, right next to the Turbo and Reset buttons. What was it for?",
-    "summary": "Your 486 had a key. Do you remember what it was for? Read Entire Article",
-    "link": "https://www.techspot.com/trivia/184-ibm-pcs-80s-90s-keyhole-lock-explained/",
-    "categories": [
       "Hardware"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-11-10T16:36:06.083076"
-  },
-  {
-    "title": "AIMP is a powerful and free music player for your offline library",
-    "summary": "AIMP is a feature-rich music player for anyone who prefers local files over streaming. It supports nearly every popular audio format, with a customizable UI, advanced equalizer, and playlist management. Built-in tools for converting audio files and editing metadata make it an excellent choice for organizing and enjoying your local music collection. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/4199-aimp.html",
-    "categories": [
-      "AI & ML"
-    ],
     "quality_score": 5,
-    "processed_date": "2026-11-10T16:36:06.083188"
+    "processed_date": "2026-11-11T16:37:21.649785"
   }
 ]
