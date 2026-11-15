@@ -1,249 +1,241 @@
 [
   {
-    "title": "Malaysia plans new law using data center power consumption to catch AI GPU smugglers",
-    "summary": "Malaysia plans to track AI GPU imports and data center power consumption to combat chip smuggling. But will it be able to do so?",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-plans-new-law-using-data-center-power-consumption-to-catch-ai-gpu-smugglers-but-real-world-tdp-variance-and-lack-of-physical-audits-could-undermine-it-new-law-also-forces-operators-to-pay-for-unused-electricity-capacity",
+    "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+    "summary": "The 'maintenance safety system' relied on Microsoft Outlook to send warning messages to the operator.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized",
     "categories": [
-      "AI & ML",
-      "GPUs"
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-15T15:52:25.199061"
+  },
+  {
+    "title": "Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix, finds evidence of DRAM collusion plausible after 500% price surge",
+    "summary": "The judge characterized the three companies as \"hawks flying in formation\" when it came to their business decisions.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge",
+    "categories": [
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-14T15:19:54.212343"
+    "processed_date": "2026-11-15T15:52:25.199200"
   },
   {
-    "title": "Researchers allege DeepSeek, Kimi, and other Chinese AI models were trained using banned Nvidia Blackwell GPUs",
-    "summary": "Researchers pinpoint that DeepSeek, Kimi, and other Chinese AI models were trained on export-controlled Nvidia Blackwell chips statistical analysis on model weights reveals high correlation to Nvidia hardware",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-11-14T15:19:54.212481"
-  },
-  {
-    "title": "Contractor turns a Milwaukee Hackzall into a portable Ethernet untwister after facing job requiring 50,000 custom Cat6 cables",
-    "summary": "This Ethernet cable untwisting tool could cut halve the time needed to install an RJ45 connector.",
-    "link": "https://www.tomshardware.com/maker-stem/contractor-builds-ethernet-cable-untwisting-machine-after-facing-100-000-cat6-termination-job-modified-milwaukee-hackzall-straightens-cables-in-under-two-seconds",
+    "title": "3D printing dev s free tool unlocks curved printing along all three axes",
+    "summary": "PancakeSlicer is a self-hostable non-planar 3D printing slicer that might finally make non-planar slicing more accessible to the masses.",
+    "link": "https://www.tomshardware.com/3d-printing/3d-printing-developer-creates-self-hostable-non-planar-printing-slicer-pancakeslicer-makes-non-planar-3d-printing-accessible-potentially-leading-to-rapid-community-development",
     "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-14T15:19:54.212598"
+    "processed_date": "2026-11-15T15:52:25.199314"
   },
   {
-    "title": "Pentagon struggles to account for $31 billion in missing F-35 aircraft parts, weeks after shipment was swiped by China",
-    "summary": "The Pentagon is struggling to track an astonishing 26 million F-35 warfighter parts, worth an estimated $31 billion, according to analysis published by the Government Accountability Office this week.",
-    "link": "https://www.tomshardware.com/tech-industry/pentagon-struggles-to-account-for-usd31-billion-in-missing-f-35-aircraft-parts-weeks-after-shipment-was-swiped-by-china-tracking-of-estimated-26-million-parts-is-outdated-inaccurate-and-incomplete-says-watchdog",
+    "title": "Enthusiast builds a working 486 DX2 retro PC on a breadboard in just 16 days, immediately runs Doom",
+    "summary": "An app engineer has showcased his homemade breadboard 486DX2 PC running Doom, put together in just over two weeks.",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/enthusiast-builds-a-working-486-dx2-retro-pc-on-a-breadboard-in-just-16-days-immediately-runs-doom-build-includes-a-66-mhz-intel-chip-and-custom-five-inch-3d-printed-display",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-15T15:52:25.199442"
+  },
+  {
+    "title": "Pentagon tests pack hunting with autonomous war robots",
+    "summary": "The Pentagon has been testing packs of autonomous ground vehicles in simulated combat situations.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/pentagon-tests-pack-hunting-with-autonomous-war-robots-darpa-experimented-with-four-drone-ground-vehicles-that-detected-tracked-and-engaged-simulated-threats",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-15T15:52:25.199567"
+  },
+  {
+    "title": "Two HPE Juniper network routers grounded all US flights on Friday",
+    "summary": "The FAA determined that a rogue feature in two newly installed routers are to blame for the communications glitches that caused the nationwide ground stop.",
+    "link": "https://www.tomshardware.com/networking/two-hpe-juniper-network-routers-grounded-all-the-us-flights-on-friday-faas-decades-old-copper-network-buckled-under-a-feature-hpe-says-worked-as-intended-creaking-air-traffic-communication-system-became-overloaded-by-very-high-rate-pinging",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-15T15:52:25.199701"
+  },
+  {
+    "title": "Intel reclaims overall CPU market share for the first time since 2025",
+    "summary": "AMD continues to gain server CPU market share amid skyrocketing shipments of data center processors as sales of client CPUs drop in the third quarter, says Mercury Research.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-reclaims-overall-cpu-market-share-for-the-first-time-since-2025-massive-desktop-gains-offset-amds-record-server-and-mobile-growth",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-15T15:52:25.199825"
+  },
+  {
+    "title": "Modified Ender 3 becomes a $450 bioprinter for 3D printing engineered living materials",
+    "summary": "Microbiologists at the University of Rochester have modified an Ender 3 FDM printer into a 3D bioprinter for $450 and outperforming 3D bioprinters costing more than $100,000.",
+    "link": "https://www.tomshardware.com/3d-printing/university-of-rochester-researchers-made-a-3d-bioprinter-from-a-modified-ender-3-usd450-bioprinter-makes-engineered-living-material-research-accessible",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-15T15:52:25.199950"
+  },
+  {
+    "title": "Dev hacks Coway air purifier to cut it off from the cloud",
+    "summary": "A developer reverse-engineered his Coway Airmega IconS air purifier to run it locally in Home Assistant, without Coway s cloud.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/dev-hacks-coway-air-purifier-to-cut-it-off-from-the-cloud-now-runs-locally-in-home-assistant-fan-downloads-the-certificate-over-plain-http-letting-a-home-server-stand-in-for-coways",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-15T15:52:25.200061"
+  },
+  {
+    "title": "Elon Musk signs petition to reinstate Jensen Huang as Nvidia CEO",
+    "summary": "An online petition with over 91,000 signatures is calling for the reinstatement of Nvidia's disgraced former CEO.",
+    "link": "https://www.tomshardware.com/tech-industry/elon-musk-signs-petition-to-reinstate-jensen-huang-as-nvidia-ceo-over-130-000-sign-online-petition-but-not-all-nvidians-support-jensens-return",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-15T15:52:25.200169"
+  },
+  {
+    "title": "Dr. Lisa Su graces the opening of Micro Center's new Austin store",
+    "summary": "AMD gave away 300 swag bags to lucky shoppers, plus raffled off AMD gear, including a Radeon RX 9070 XT that Dr. Lisa Su autographed.",
+    "link": "https://www.tomshardware.com/desktops/pc-building/dr-lisa-su-graces-the-opening-of-micro-centers-new-austin-store-amd-ceo-meets-with-gamers-autographs-a-9070-xt-gpu-and-hands-out-300-swag-bags",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-15T15:52:25.200288"
+  },
+  {
+    "title": "The original Xbox was released 25 years ago today",
+    "summary": "Microsoft s first games console hit North America 25 years ago today powered by a Pentium III CPU and Nvidia GPU.",
+    "link": "https://www.tomshardware.com/video-games/xbox/the-original-xbox-was-released-25-years-ago-today-microsofts-pentium-iii-and-nvidia-gpu-powered-console-did-surprisingly-well-in-a-ps2-dominated-era",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-15T15:52:25.200397"
+  },
+  {
+    "title": "Wacky PC and gadget gift guide",
+    "summary": "Our list of fun and wacky PC and gadget gifts is surprising, delightful, and actually useful.",
+    "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/wacky-pc-and-gadget-gift-guide-surprise-tech-lovers-with-10-different-options-like-wireless-power-buttons-dvd-burner-usb-hubs-and-clamp-on-pegboards",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-15T15:52:25.200520"
+  },
+  {
+    "title": "Samsung's 1TB 990 SSD drops to 19 cents per GB amid the memory crisis",
+    "summary": "Whether you're building a new PC, expanding your gaming library, or replacing an older SATA drive, Samsung's 990 offers a straightforward way to add high-speed PCIe 4.0 storage to your system.",
+    "link": "https://www.tomshardware.com/pc-components/samsungs-1tb-990-ssd-drops-to-19-cents-per-gb-amid-the-memory-crisis-grab-it-for-usd40-off",
     "categories": [
       "AI & ML",
-      "Semiconductors"
+      "Hardware"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-11-14T15:19:54.212711"
+    "quality_score": 5,
+    "processed_date": "2026-11-15T15:52:25.200640"
   },
   {
-    "title": "Lawyer s eight-V100 AI server moves DeepSeek from 2-bit to near-NVFP4 precision",
-    "summary": "A lawyer s eight-GPU Nvidia V100 server now runs DeepSeek V4.1 Flash s most-used experts at NVFP4 precision instead of 2-bit.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-upgrades-eight-v100-private-ai-server-to-run-80-percent-of-deepseek-v4-1-flash-at-4-bit-nvfp4-precision-adds-1tb-of-ram-an-nvidia-rtx-3090-and-fixes-crashes-caused-by-a-bad-psu",
+    "title": "This week in Tom's Hardware Premium: November 14, 2026",
+    "summary": "Catch up with everything we've published this week on our subscription service, Tom's Hardware Premium, including exclusive interviews, local AI deep dives, and much more.",
+    "link": "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-14-2026-mac-studio-versus-dgx-spark-amds-mext-cuts-dram-requirements-in-half-and-the-huang-saga-reaches-critical-mass",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-15T15:52:25.200763"
+  },
+  {
+    "title": "U.S. Treasury Secretary questions whether Nvidia knowingly sold AI GPUs to shell companies, says company itself is responsible",
+    "summary": "Scott Bessent wonders whether Nvidia's management knew about selling restricted hardware to shell companies, but does not directly blame Jensen Huang of anything.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that",
     "categories": [
       "GPUs",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-14T15:19:54.212819"
+    "processed_date": "2026-11-15T15:52:25.200887"
   },
   {
-    "title": "China s Air Force builds drone that shoots painkiller darts at wounded soldiers",
-    "summary": "The Air Force Medical University of the Chinese People's Liberation Army (PLA) built this drone so it could remotely administer pain killers to injured soldiers and make extraction easier.",
-    "link": "https://www.tomshardware.com/tech-industry/drones/chinas-air-force-builds-drone-that-shoots-painkiller-darts-at-wounded-soldiers-experimental-pla-uav-injects-emergency-meds-from-a-distance-to-keep-medics-out-of-danger-and-buys-time-during-the-golden-hour",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-14T15:19:54.212926"
-  },
-  {
-    "title": "Commemorative plaque at Denny s booth where Nvidia was born has been removed in wake of Jensen Huang scandals",
-    "summary": "The San Jose, California, branch of Denny's once featured a plaque commemorating the booth where Jensen Huang and his two other co-founders worked to build Nvidia.",
-    "link": "https://www.tomshardware.com/tech-industry/commemorative-plaque-at-dennys-booth-where-nvidia-was-born-has-been-removed-sign-removed-in-wake-of-jensens-scandals-marked-the-booth-that-launched-a-usd1-trillion-company",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-14T15:19:54.213026"
-  },
-  {
-    "title": "Mechatronics student builds 3D printer made from 92% LEGO for less than $180",
-    "summary": "A mechatronics engineering student made an open-source 3D printer, 92% of which is LEGO, and can print a decent benchy despite the imprecise LEGO leadscrews.",
-    "link": "https://www.tomshardware.com/3d-printing/mechatronics-student-builds-3d-printer-made-from-92-percent-lego-for-less-than-usd180-lego-leadscrews-and-print-bed-can-print-a-decent-benchy-in-1-25-hours",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-14T15:19:54.213142"
-  },
-  {
-    "title": "Nearly 20 years after launch, ancient AMD Radeon HD 2000 and 3000 GPUs finally get a Linux fix for corrupted video playback",
-    "summary": "A new kernel contributor used AI to develop a patch for the drivers powering his nearly-20-year-old Radeon GPU.",
-    "link": "https://www.tomshardware.com/software/linux/nearly-20-years-after-launch-ancient-radeon-hd-2000-and-3000-gpus-finally-get-a-linux-fix-for-corrupted-video-playback-ai-helps-squash-a-decades-old-uvd-bug",
-    "categories": [
-      "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-14T15:19:54.213249"
-  },
-  {
-    "title": "Nvidia board reportedly approached Arm CEO Rene Haas during replacement search",
-    "summary": "Nvidia's board of directors reportedly approached Rene Haas, chief executive of Arm and a long-time Nvidia veteran, in CEO search.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-14T15:19:54.213349"
-  },
-  {
-    "title": "Keyboards and keyboard accessories under $100 budget-friendly gifts for keyboard enthusiasts",
-    "summary": "The best sub-$100 gifts to get the keyboard enthusiast in your life even if they already have their end-game keyboard.",
-    "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/keyboards-and-keyboard-accessories-under-usd100-budget-friendly-gifts-for-keyboard-enthusiasts",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-14T15:19:54.213443"
-  },
-  {
-    "title": "10 great PC upgrades for under $100",
-    "summary": "If you're in the market for a PC upgrade for a cheaper gift, here are 10 items under $100.",
-    "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/10-great-pc-upgrades-for-under-usd100-spice-up-your-setup-for-less-with-these-gifts-and-impulse-purchases",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-14T15:19:54.213530"
-  },
-  {
-    "title": "Desktop operating systems for ESP32-P4-based PCs Meet Sylphide OS and Bare Metal, Do Stuff (BMDS)",
-    "summary": "We ve recently written about the P4 Launcher project that offers a desktop PC-like and/or retro-gaming experience to ESP32-P4 boards with applications stored on a microSD card and loaded into PSRAM when they run. However, I ve recently been tipped about two new projects that go even further and aim to provide a desktop OS for microcontrollers, both currently focusing on the Olimex ESP32-P4-PC board with HDMI, Ethernet, and USB ports: Sylphide OS and Bare Metal, Do Stuff (BMDS). Sylphide OS A Macintosh-like desktop for ESP32-P4, RP2350, and ESP32 Thomas Capricelli (Orzelf) has developed Sylphide OS as an operating system for computers based on microcontrollers. It s designed to run on other targets beyond ESP32-P4 boards, and has currently been tested on the Raspberry Pi Pico 2 with VGA+USB connectors and the FabGL board (Olimex ESP32-SBC-FabGL variant) with PS/2 input and VGA connectors. If you don t own any compatible hardware, a Sylphide [...] The post Desktop operating systems for ESP32-P4-based PCs Meet Sylphide OS and Bare Metal, Do Stuff (BMDS) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/14/desktop-operating-systems-for-esp32-p4-based-pcs-meet-sylphide-os-and-bare-metal-do-stuff-bmds/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-14T15:19:54.214061"
-  },
-  {
-    "title": "The Hackintosh might be back, with macOS booting on Snapdragon and x86 PCs",
-    "summary": "Users can now try an early version of a new Arm-to-x86 translation layer that aims to support macOS on most recent Intel and AMD processors. Elsewhere, another project has booted the operating system on a Snapdragon-powered Asus Zenbook with basic functionality. Read Entire Article",
-    "link": "https://www.techspot.com/news/114551-hackintosh-might-back-macos-booting-snapdragon-x86-pcs.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-14T15:19:54.215353"
-  },
-  {
-    "title": "A network crash grounded every flight in the US, only the third time in history",
-    "summary": "On Friday alone, more than 4,700 flights were canceled and around 10,000 delayed, according to Flightradar24 data cited by Reuters. It's only the third nationwide ground stop in US history, after 9/11 and the 2023 NOTAM outage. Read Entire Article",
-    "link": "https://www.techspot.com/news/114559-network-crash-grounded-every-flight-us-only-third.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-14T15:19:54.215526"
-  },
-  {
-    "title": "Bing now has an \"-ai\" operator for search results without the AI",
-    "summary": "After being among the first to incorporate ChatGPT-style AI answers on Bing, Microsoft has acknowledged that some people don't want to deal with AI's answers in their web searches. The company has now unveiled a browser extension designed to give users a choice between \"full\" AI-powered search results and traditional... Read Entire Article",
-    "link": "https://www.techspot.com/news/114557-bing-now-has-ai-operator-search-results-without.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-14T15:19:54.215723"
-  },
-  {
-    "title": "Intel stages surprise desktop CPU comeback as AMD's market share falls below 30%",
-    "summary": "According to data from Mercury Research, Intel reclaimed around 5.1 percentage points of desktop CPU market share from AMD in Q3 2026, pushing its total share above 70% and cutting AMD's to below 30% for the first time in years. The report suggests that Intel now holds approximately 70.1% of... Read Entire Article",
-    "link": "https://www.techspot.com/news/114552-intel-stages-surprise-desktop-cpu-comeback-amd-market.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-14T15:19:54.215898"
-  },
-  {
-    "title": "Nintendo takes down 144 GitHub repositories hosting Switch modchip firmware",
-    "summary": "A few years ago, Nintendo tried and ultimately failed to stop commercial ventures from selling modchips for the Switch. The company prosecuted Gary Bowser and other members of the Team Xecuter group, but the hardware is still available through third-party organizations and websites. This is why Nintendo is now changing... Read Entire Article",
-    "link": "https://www.techspot.com/news/114554-nintendo-takes-down-144-github-repositories-hosting-switch.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-14T15:19:54.216074"
-  },
-  {
-    "title": "The Legend of Zelda: Ocarina of Time remake sells 5 million copies in just four days",
-    "summary": "Nintendo announced the remake during a Direct presentation back in June, and followed it up with a 15-minute preview in early September. The Switch 2 exclusive features a complete graphical overhaul of the 1998 original as well as several quality of life updates including additional NPC dialogue, improved camera controls,... Read Entire Article",
-    "link": "https://www.techspot.com/news/114553-legend-zelda-ocarina-time-remake-sells-5-million.html",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-11-14T15:19:54.216247"
-  },
-  {
-    "title": "Free Download Manager accelerates downloads and supports torrents",
-    "summary": "FDM accelerates downloads by splitting files into multiple segments. It integrates with popular browsers, resumes transfers, and supports torrent downloads and magnet links. Available for Windows, macOS, Linux, and Android, the app can also do scheduling and manage bandwidth. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/231-free-download-manager.html",
-    "categories": [
-      "AI & ML",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-14T15:19:54.216414"
-  },
-  {
-    "title": "8BitDo's new Forest Wonder keyboard and mouse bring a touch of the outdoors to your gaming setup",
-    "summary": "8BitDo's latest offering in the \"cozy\" gaming peripheral market is now available for shipping in Europe and elsewhere around the world. The Chinese manufacturer recently launched its new \"Forest Wonder\" duo of input devices, which includes both an 87-key compact keyboard and a wireless mouse featuring the same stylish, pixel-inspired... Read Entire Article",
-    "link": "https://www.techspot.com/news/114546-8bitdo-new-forest-wonder-keyboard-mouse-bring-touch.html",
+    "title": "We tested the RAM-saving storage tech in Gears of War: E-Day",
+    "summary": "Today we re focusing on a less-discussed technology that plays an equally important role in bringing this visually rich, densely detailed world to systems with more limited hardware resources: storage technology designed to reduce RAM usage.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/we-tested-the-ram-saving-storage-tech-in-gears-of-war-e-day-up-to-3-7-gb-s-of-ssd-streaming-speed-saves-several-gigabytes-of-system-ram-usage",
     "categories": [
       "Tech News",
-      "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-14T15:19:54.216616"
-  },
-  {
-    "title": "AMD rebrands Medusa Halo as Siren Halo, leak points to Xbox-inspired hardware",
-    "summary": "In an X post, tipster Gotou_3rd claimed that Siren Halo is AMD's official codename for the lineup previously known as Medusa Halo. According to the tipster, the name was deliberately chosen because Team Red does not plan to release an entirely new Halo APU design in 2027. Instead, AMD will... Read Entire Article",
-    "link": "https://www.techspot.com/news/114548-amd-rebrands-medusa-halo-siren-halo-leak-points.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-14T15:19:54.216792"
+    "processed_date": "2026-11-15T15:52:25.201024"
   },
   {
-    "title": "LibreOffice is a free, offline alternative to Microsoft Office",
-    "summary": "LibreOffice is a fully featured open-source office suite that works entirely offline. Its Writer, Calc, and Impress applications cover word processing, spreadsheets, and presentations, with support for Microsoft Office formats, and it's available for Windows, Mac, and Linux. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/5131-libreoffice-productivity-suite.html",
+    "title": "Radxa Linkr review A compact IP KVM with HTTPS, 2FA authentication, and Tailscale support",
+    "summary": "We had a first look at the Radxa Linkr IP KVM in the first part of the review, checking out the specifications, the hardware design, and overall features at the end of August. That was at the end of August, and I didn t have time to test it before I went on a two-month road trip. Since I m now back, I ve taken the time to test it using an AAEON UP Xtreme i11 Edge mini PC running Ubuntu 26.04 as the target device, so I ll report my experience in this post. Connecting Radxa Linkr to the target The Radxa Linkr works over USB, Ethernet, or WiFi. I decided to use the provided USB-C to Ethernet cable to connect it to an Ethernet switch, a USB-C to USB-A cable for power using one of the USB 3.0 ports of the UP Xtreme i11 Edge, and plugged the device directly into the [...] The post Radxa Linkr review A compact IP KVM with HTTPS, 2FA authentication, and Tailscale support appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/15/radxa-linkr-review-a-compact-ip-kvm-with-https-2fa-authentication-and-tailscale-support/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-11-15T15:52:25.201529"
+  },
+  {
+    "title": "Apple launches sensor-driven HomeView smart home hub",
+    "summary": "The Amazon Echo rival features an indoor temperature and humidity sensor.",
+    "link": "https://www.fiercesensors.com/iot-connectivity/apple-launches-sensor-driven-homeview-smart-home-hub",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-15T15:52:25.202851"
+  },
+  {
+    "title": "TDK announces Invensense PositionSense availability",
+    "summary": "Two chip technology from TDK gives wearable manufacturers the ability to place a magnetometer at the edge of a board for less magnetic impedence.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/tdk-announces-invensense-positionsense-availability",
     "categories": [
       "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-15T15:52:25.203006"
+  },
+  {
+    "title": "Tesla is selling the Cybercab to private buyers, but it won't move without a $299 monthly subscription",
+    "summary": "The offer to buy is invitation-only for now. Tesla announced it on its Robotaxi account on X and posted screenshots of the order page with an email inviting \"select customers\" to buy the car for \"personal use.\" The Cybercab will \"only be available in supported service areas,\" so buyers have... Read Entire Article",
+    "link": "https://www.techspot.com/news/114562-tesla-selling-cybercab-private-buyers-but-wont-move.html",
+    "categories": [
+      "Tech News",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-15T15:52:25.203203"
+  },
+  {
+    "title": "New Windows zero-day turns Microsoft's own security fix into a path to full system access",
+    "summary": "This latest exploit is called SignDrop. It comes from Abdelhamid Naceri, a former Microsoft employee who has been dumping unpatched Windows bugs online under the name Nightmare Eclipse since April. He published the code on GitHub on Tuesday, just as Microsoft was rolling out its November security updates. Read Entire Article",
+    "link": "https://www.techspot.com/news/114560-new-windows-zero-day-turns-microsoft-own-security.html",
+    "categories": [
       "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-14T15:19:54.216957"
+    "processed_date": "2026-11-15T15:52:25.203369"
+  },
+  {
+    "title": "The Microsoft 365 outage sent Japan back to fax machines and landlines",
+    "summary": "According to The Japan Times, workers across the country had to resort to age-old technologies to keep operating amid the outage, while organizations without analog backup plans were forced to stop work. Japan's Deputy Chief Cabinet Secretary, Masanao Ozaki, confirmed that the Asian nation's shared IT backbone also went down,... Read Entire Article",
+    "link": "https://www.techspot.com/news/114556-microsoft-365-outage-sent-japan-back-fax-machines.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-15T15:52:25.203566"
   }
 ]

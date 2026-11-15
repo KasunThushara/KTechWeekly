@@ -1,208 +1,4 @@
 {
-  "https://www.tomshardware.com/pc-components/motherboards/gigabyte-x870-aorus-infinity-motherboard-review": {
-    "title": "Gigabyte X870 Aorus Infinity Motherboard Review: limited-edition, designed for extreme overclocking, but pricey for X870",
-    "fingerprint": "b242ac4dd9715be997df505592af324a",
-    "timestamp": 1792157499.945759,
-    "date": "2026-10-16T13:31:39.945762"
-  },
-  "https://www.tomshardware.com/laptops/googlebooks-are-as-poorly-timed-as-valves-steam-machine-and-may-suffer-a-similar-fate": {
-    "title": "Googlebooks are as poorly timed as Valve s Steam Machine, and may suffer a similar fate",
-    "fingerprint": "8b20bcb0778f72913c6bad7b93a86dd7",
-    "timestamp": 1792157499.945872,
-    "date": "2026-10-16T13:31:39.945873"
-  },
-  "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review": {
-    "title": "Microsoft Surface Laptop Ultra review: RTX Spark in a straight-up beautiful Windows PC",
-    "fingerprint": "eb1b8658898fe34bf2a1ae0278cd99f8",
-    "timestamp": 1792157499.945971,
-    "date": "2026-10-16T13:31:39.945971"
-  },
-  "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-raising-usd4-billion-to-build-industrial-park-in-texas-to-support-us-chipmaking-supply-chain-project-to-support-countless-small-manufacturers-crucial-to-tsmc-foxconn-supply-chain": {
-    "title": "Taiwan raising $4 billion to build industrial park in Texas to support US chipmaking supply chain",
-    "fingerprint": "ae4a3a07cbf071c067efde394912a221",
-    "timestamp": 1792157499.946081,
-    "date": "2026-10-16T13:31:39.946081"
-  },
-  "https://www.tomshardware.com/video-games/pc-gaming/epic-introduces-an-improved-version-of-anti-cheat-for-linux-eac-linux-v2-will-finally-allow-linux-gamers-to-play-fortnite": {
-    "title": "Epic introduces an improved version of anti-cheat for Linux",
-    "fingerprint": "d580c95643fb9ba01060eb050526f0d9",
-    "timestamp": 1792157499.946166,
-    "date": "2026-10-16T13:31:39.946166"
-  },
-  "https://www.tomshardware.com/pc-components/cooling/experiment-shows-liquid-metal-tim-doesnt-dry-out-it-turns-solid-two-year-electron-microscope-test-finds-gallium-bonds-with-copper-coolers-and-nickel-plating-keeps-the-layer-about-10-times-thinner": {
-    "title": "Experiment shows liquid metal TIM doesn t dry out; it turns solid",
-    "fingerprint": "413c7221cc1d725c0a8c78b810f98876",
-    "timestamp": 1792157499.946245,
-    "date": "2026-10-16T13:31:39.946246"
-  },
-  "https://www.tomshardware.com/pc-components/ddr5/corsairs-vengeance-rgb-ddr5-32gb-memory-receives-a-usd108-price-cut-the-cheapest-ddr5-5600-kit-available-to-buy-right-now": {
-    "title": "Corsair's Vengeance RGB DDR5 32GB memory receives a $108 price cut",
-    "fingerprint": "270d8d1e31ac8cb233ca3bf9c7e92d36",
-    "timestamp": 1792157499.946325,
-    "date": "2026-10-16T13:31:39.946326"
-  },
-  "https://www.tomshardware.com/software/linux/linus-torvalds-posts-his-first-llm-assisted-patch-to-the-linux-kernel-after-issuing-clear-pro-ai-directives-the-bossman-makes-use-of-ai-tooling-himself": {
-    "title": "Linus Torvalds posts his first AI-assisted patch to the Linux kernel, synthetic test clocks 23x performance leap",
-    "fingerprint": "64d34292af3785fe375683767ff2cb81",
-    "timestamp": 1792157499.946417,
-    "date": "2026-10-16T13:31:39.946417"
-  },
-  "https://www.tomshardware.com/tech-industry/thai-cops-bust-audacious-cross-border-fiberoptic-cable-running-to-myanmar-scam-compound-350-meter-48-core-cable-was-supplying-illegal-border-casino-and-a-scam-center-with-6tb-of-data-per-day": {
-    "title": "Thai cops bust 'audacious' cross-border fiberoptic cable running to Myanmar scam compound",
-    "fingerprint": "62d0ea5b4d883719712528328c3fb838",
-    "timestamp": 1792157499.946501,
-    "date": "2026-10-16T13:31:39.946502"
-  },
-  "https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drones-hit-russian-data-centers-disrupting-russian-apps-and-services-attacks-highlight-the-fragility-of-the-countrys-digital-services": {
-    "title": "Ukrainian drones hit Russian data centers, disrupting Russian apps and services",
-    "fingerprint": "1aec48465b98626f06729b15c6f342d6",
-    "timestamp": 1792157499.946596,
-    "date": "2026-10-16T13:31:39.946597"
-  },
-  "https://www.tomshardware.com/desktops/gaming-pcs/newegg-has-slashed-usd260-off-this-all-amd-4k-gaming-pc-9800x3d-and-radeon-rx-9070-xt-combo-comes-with-32gb-of-ddr5-and-a-2tb-ssd": {
-    "title": "Newegg has slashed $260 off this all-AMD 4K gaming PC 9800X3D and Radeon RX 9070 XT combo comes with 32GB of DDR5 and a 2TB SSD",
-    "fingerprint": "a4e0bee920efbe4715fd7fe825dcf23c",
-    "timestamp": 1792157499.946679,
-    "date": "2026-10-16T13:31:39.946680"
-  },
-  "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram": {
-    "title": "Jailbroken PS5s can now run local AI models at over 100+ tokens per second",
-    "fingerprint": "794c22fb7dd44185bb1f1b898aed4cf8",
-    "timestamp": 1792157499.946764,
-    "date": "2026-10-16T13:31:39.946764"
-  },
-  "https://www.tomshardware.com/3d-printing/formlabs-form-studio-1-review": {
-    "title": "Formlabs Form Studio 1 Review: Professional status, consumer price tag",
-    "fingerprint": "3e4001b8c8e3fcce66d9caed0693e4bc",
-    "timestamp": 1792157499.946853,
-    "date": "2026-10-16T13:31:39.946853"
-  },
-  "https://www.tomshardware.com/pc-components/ssds/sk-hynix-reportedly-playing-hardball-with-trump-admin-over-3d-nand-fab-company-demands-increased-chipmaking-equipment-exports-to-china-in-exchange-for-us-fab": {
-    "title": "SK hynix denies playing hardball with Trump admin over 3D NAND fab",
-    "fingerprint": "677638cce43f07a93e3d9257f972f2a4",
-    "timestamp": 1792157499.946933,
-    "date": "2026-10-16T13:31:39.946933"
-  },
-  "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-disappears-from-micro-center-amid-rumors-of-a-production-halt-retailer-flags-flagship-as-not-carried-as-stock-mysteriously-vanishes": {
-    "title": "RTX 5090 disappears from Nvidia marketplace amid reports of a production halt",
-    "fingerprint": "f9794b03cc73089eb0585654b7c587a5",
-    "timestamp": 1792157499.947019,
-    "date": "2026-10-16T13:31:39.947019"
-  },
-  "https://www.tomshardware.com/laptops/googlebooks-from-dell-lenovo-and-hp-tested-nice-hardware-but-the-os-isnt-ready-yet": {
-    "title": "Googlebooks from Dell, Lenovo, and HP tested: Nice hardware, but the OS isn't ready yet",
-    "fingerprint": "5c12ddc6f778199835afc7e6d50e5e8b",
-    "timestamp": 1792157499.947108,
-    "date": "2026-10-16T13:31:39.947109"
-  },
-  "https://www.tomshardware.com/desktops/mini-pcs/sipeed-reveals-chinese-made-dgx-spark-and-ryzen-ai-halo-rival-expected-to-cost-usd3-999-maixstation-pairs-axeras-ax8860p-with-128gb-of-lpddr5x-at-273-gb-s-with-promising-local-ai-performance-claims": {
-    "title": "Sipeed reveals Chinese-made DGX Spark and Ryzen AI Halo rival, expected to cost $3,999",
-    "fingerprint": "6e0ca3f3a260e3527f338f1b3697b6cb",
-    "timestamp": 1792157499.947192,
-    "date": "2026-10-16T13:31:39.947192"
-  },
-  "https://www.cnx-software.com/2026/10/16/xerxes-pi-2026-and-xerxes-nano-carrier-boards-offer-nvme-poe-and-oculink-for-raspberry-pi-and-jetson-modules/": {
-    "title": "Xerxes Pi 2026 and Xerxes Nano carrier boards offer NVMe, PoE, and OCuLink for Raspberry Pi and Jetson modules (Crowdfunding)",
-    "fingerprint": "78f6006f73affae498aa346221dc95c2",
-    "timestamp": 1792157499.947641,
-    "date": "2026-10-16T13:31:39.947641"
-  },
-  "https://www.cnx-software.com/2026/10/16/w1700k-sdr-turns-a-wi-fi-7-router-into-a-320-msps-software-defined-radio-receiver/": {
-    "title": "W1700K SDR turns a Wi-Fi 7 router into a 320 MSps software-defined radio receiver",
-    "fingerprint": "1063eb614b167b1d453c4e7c182e98bc",
-    "timestamp": 1792157499.947794,
-    "date": "2026-10-16T13:31:39.947795"
-  },
-  "https://www.techspot.com/news/114230-tesla-unveils-roadster-three-versions-including-one-can.html": {
-    "title": "Tesla's new Roadster can fly, drive upside down, and hit 60 mph in under 0.6 seconds",
-    "fingerprint": "90dc444175f8ae0d7a7deb9c33f781ae",
-    "timestamp": 1792157499.94918,
-    "date": "2026-10-16T13:31:39.949182"
-  },
-  "https://www.techspot.com/news/114224-sk-hynix-reportedly-offers-build-nand-fab-us.html": {
-    "title": "SK hynix reportedly offers to build a NAND fab in the US if Washington lets it expand in China",
-    "fingerprint": "8b1f65343c6ea9ee9e2d23d00f354b5f",
-    "timestamp": 1792157499.949405,
-    "date": "2026-10-16T13:31:39.949407"
-  },
-  "https://www.techspot.com/news/114226-sega-pulls-shogun-2-remaster-after-overwhelmingly-negative.html": {
-    "title": "Sega pulls Shogun 2 remaster after overwhelmingly negative reviews, with players citing AI-upscaled art",
-    "fingerprint": "ad659257653930380e84b3f2b9df550c",
-    "timestamp": 1792157499.949591,
-    "date": "2026-10-16T13:31:39.949592"
-  },
-  "https://www.techspot.com/news/114234-would-you-really-give-up-chatgpt-shut-down.html": {
-    "title": "Would you really give up ChatGPT to shut down data centers? Tech CEO highlights the hypocrisy of some AI critics",
-    "fingerprint": "fa1b917f3d82d85770fce9d0f3d55b2c",
-    "timestamp": 1792157499.949751,
-    "date": "2026-10-16T13:31:39.949752"
-  },
-  "https://www.techspot.com/news/114225-new-proposed-bill-would-make-video-games-something.html": {
-    "title": "New proposed bill would make video games something you own, not rent",
-    "fingerprint": "b971b029ca7e318ff54e6a7fb3791032",
-    "timestamp": 1792157499.949915,
-    "date": "2026-10-16T13:31:39.949917"
-  },
-  "https://www.techspot.com/downloads/7507-memtest86-plus.html": {
-    "title": "Memtest86+ adds Arm support, new memory tests, and USB reports",
-    "fingerprint": "d8a011f0c530dc9a3b6fe6489c029713",
-    "timestamp": 1792157499.950089,
-    "date": "2026-10-16T13:31:39.950091"
-  },
-  "https://www.techspot.com/news/114222-nvidia-cisco-unveil-next-gen-network-interface-built.html": {
-    "title": "Nvidia and Cisco unveil next-gen network interface built for the AI data center boom",
-    "fingerprint": "b0471f7ecf917e43782678af1620e0f5",
-    "timestamp": 1792157499.950275,
-    "date": "2026-10-16T13:31:39.950276"
-  },
-  "https://www.techspot.com/news/114220-tcl-wants-build-700hz-oled-gaming-monitor-betting.html": {
-    "title": "TCL wants to build a 700Hz OLED gaming monitor, and it's betting on inkjet printing to do it",
-    "fingerprint": "57441c0c35ced477354fba54f30c6665",
-    "timestamp": 1792157499.950457,
-    "date": "2026-10-16T13:31:39.950458"
-  },
-  "https://www.techspot.com/news/114219-micropatching-service-0patch-releases-new-security-fixes-ancient.html": {
-    "title": "Microsoft won't patch old Windows Servers, so a small security firm is doing it",
-    "fingerprint": "75dc41082fb11c2299492c4b918982f2",
-    "timestamp": 1792157499.950633,
-    "date": "2026-10-16T13:31:39.950634"
-  },
-  "https://www.techspot.com/news/114211-apple-wants-chrome-users-switch-safari-claims-up.html": {
-    "title": "Apple wants Chrome users to switch to Safari, claims up to five extra hours of video playback on a Mac",
-    "fingerprint": "829547244e758e29c0fe547b64c6e06e",
-    "timestamp": 1792157499.950795,
-    "date": "2026-10-16T13:31:39.950796"
-  },
-  "https://www.techspot.com/downloads/7304-nvidia-broadcast.html": {
-    "title": "Nvidia Broadcast 2.3 adds 4K video upscaling and frame generation",
-    "fingerprint": "6b183ddc96894f9100ac3363a70707f5",
-    "timestamp": 1792157499.950964,
-    "date": "2026-10-16T13:31:39.950965"
-  },
-  "https://www.techspot.com/news/114207-microsoft-breaks-patch-tuesday-record-more-than-1000.html": {
-    "title": "Microsoft breaks Patch Tuesday record with more than 1,000 Windows security flaws fixed",
-    "fingerprint": "05f47a3449578a47b454a4857d8db228",
-    "timestamp": 1792157499.951137,
-    "date": "2026-10-16T13:31:39.951138"
-  },
-  "https://www.techspot.com/news/114213-asml-customers-looking-toward-2030-equipment-shortages-loom.html": {
-    "title": "ASML says it won't be able to make enough chipmaking machines to meet demand through 2028",
-    "fingerprint": "50f5e3643bd174fe845d54dfcc1a0d6d",
-    "timestamp": 1792157499.951315,
-    "date": "2026-10-16T13:31:39.951316"
-  },
-  "https://www.techspot.com/news/114212-valve-slashes-index-vr-headset-prices-20-leaked.html": {
-    "title": "Valve Index VR drops to $400 as production ends, leaked code hints at 4K OLED Steam Frame upgrade",
-    "fingerprint": "0fdbf246a10eebfe77f8ce8501cd113e",
-    "timestamp": 1792157499.951506,
-    "date": "2026-10-16T13:31:39.951507"
-  },
-  "https://www.techspot.com/news/114209-anthropic-ditched-git-own-version-control-system-because.html": {
-    "title": "Anthropic ditched Git for its own version control system because Claude is writing too much code",
-    "fingerprint": "4bbe8a6dfe62fd2a2c8efe2ad5a80440",
-    "timestamp": 1792157499.951665,
-    "date": "2026-10-16T13:31:39.951666"
-  },
   "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid": {
     "title": "Taiwan targets illicit AI server exports to China with five-year prison terms",
     "fingerprint": "17357ee3a5003c25b8cd327a781bd0a3",
@@ -5218,5 +5014,143 @@
     "fingerprint": "2201027bb1bb0219a548c606e19d491b",
     "timestamp": 1794669594.216953,
     "date": "2026-11-14T15:19:54.216954"
+  },
+  "https://www.tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized": {
+    "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+    "fingerprint": "3c48c91f92db7c95d92ca94907f63b6f",
+    "timestamp": 1794757945.199052,
+    "date": "2026-11-15T15:52:25.199057"
+  },
+  "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge": {
+    "title": "Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix, finds evidence of DRAM collusion plausible after 500% price surge",
+    "fingerprint": "4b3970d31acee7890ef2c17635950be3",
+    "timestamp": 1794757945.199196,
+    "date": "2026-11-15T15:52:25.199197"
+  },
+  "https://www.tomshardware.com/3d-printing/3d-printing-developer-creates-self-hostable-non-planar-printing-slicer-pancakeslicer-makes-non-planar-3d-printing-accessible-potentially-leading-to-rapid-community-development": {
+    "title": "3D printing dev s free tool unlocks curved printing along all three axes",
+    "fingerprint": "4dbe9c9a821161b5012cf66d081770f8",
+    "timestamp": 1794757945.199311,
+    "date": "2026-11-15T15:52:25.199312"
+  },
+  "https://www.tomshardware.com/video-games/retro-gaming/enthusiast-builds-a-working-486-dx2-retro-pc-on-a-breadboard-in-just-16-days-immediately-runs-doom-build-includes-a-66-mhz-intel-chip-and-custom-five-inch-3d-printed-display": {
+    "title": "Enthusiast builds a working 486 DX2 retro PC on a breadboard in just 16 days, immediately runs Doom",
+    "fingerprint": "9daa7d93054e43e7921a95db4848c396",
+    "timestamp": 1794757945.199438,
+    "date": "2026-11-15T15:52:25.199440"
+  },
+  "https://www.tomshardware.com/tech-industry/drones/pentagon-tests-pack-hunting-with-autonomous-war-robots-darpa-experimented-with-four-drone-ground-vehicles-that-detected-tracked-and-engaged-simulated-threats": {
+    "title": "Pentagon tests pack hunting with autonomous war robots",
+    "fingerprint": "a6741e6cb82b96416faecd90aa6e5004",
+    "timestamp": 1794757945.199564,
+    "date": "2026-11-15T15:52:25.199565"
+  },
+  "https://www.tomshardware.com/networking/two-hpe-juniper-network-routers-grounded-all-the-us-flights-on-friday-faas-decades-old-copper-network-buckled-under-a-feature-hpe-says-worked-as-intended-creaking-air-traffic-communication-system-became-overloaded-by-very-high-rate-pinging": {
+    "title": "Two HPE Juniper network routers grounded all US flights on Friday",
+    "fingerprint": "a72dc341f21efa594fb01ec151eff50a",
+    "timestamp": 1794757945.199698,
+    "date": "2026-11-15T15:52:25.199699"
+  },
+  "https://www.tomshardware.com/pc-components/cpus/intel-reclaims-overall-cpu-market-share-for-the-first-time-since-2025-massive-desktop-gains-offset-amds-record-server-and-mobile-growth": {
+    "title": "Intel reclaims overall CPU market share for the first time since 2025",
+    "fingerprint": "6cbfa3e35035b7fae81c5e60102cf914",
+    "timestamp": 1794757945.199822,
+    "date": "2026-11-15T15:52:25.199823"
+  },
+  "https://www.tomshardware.com/3d-printing/university-of-rochester-researchers-made-a-3d-bioprinter-from-a-modified-ender-3-usd450-bioprinter-makes-engineered-living-material-research-accessible": {
+    "title": "Modified Ender 3 becomes a $450 bioprinter for 3D printing engineered living materials",
+    "fingerprint": "e1d258d477913a3c6c882222a51de367",
+    "timestamp": 1794757945.199945,
+    "date": "2026-11-15T15:52:25.199946"
+  },
+  "https://www.tomshardware.com/tech-industry/cyber-security/dev-hacks-coway-air-purifier-to-cut-it-off-from-the-cloud-now-runs-locally-in-home-assistant-fan-downloads-the-certificate-over-plain-http-letting-a-home-server-stand-in-for-coways": {
+    "title": "Dev hacks Coway air purifier to cut it off from the cloud",
+    "fingerprint": "8996fded5344c8c19f8a9197402abeb6",
+    "timestamp": 1794757945.200058,
+    "date": "2026-11-15T15:52:25.200059"
+  },
+  "https://www.tomshardware.com/tech-industry/elon-musk-signs-petition-to-reinstate-jensen-huang-as-nvidia-ceo-over-130-000-sign-online-petition-but-not-all-nvidians-support-jensens-return": {
+    "title": "Elon Musk signs petition to reinstate Jensen Huang as Nvidia CEO",
+    "fingerprint": "ea741f9121065587938f93d57518c13e",
+    "timestamp": 1794757945.200167,
+    "date": "2026-11-15T15:52:25.200168"
+  },
+  "https://www.tomshardware.com/desktops/pc-building/dr-lisa-su-graces-the-opening-of-micro-centers-new-austin-store-amd-ceo-meets-with-gamers-autographs-a-9070-xt-gpu-and-hands-out-300-swag-bags": {
+    "title": "Dr. Lisa Su graces the opening of Micro Center's new Austin store",
+    "fingerprint": "2c77325b02cc681d053d8e1768cbb2e1",
+    "timestamp": 1794757945.200283,
+    "date": "2026-11-15T15:52:25.200284"
+  },
+  "https://www.tomshardware.com/video-games/xbox/the-original-xbox-was-released-25-years-ago-today-microsofts-pentium-iii-and-nvidia-gpu-powered-console-did-surprisingly-well-in-a-ps2-dominated-era": {
+    "title": "The original Xbox was released 25 years ago today",
+    "fingerprint": "32dd6b50381892626fa7b20a046ffdb4",
+    "timestamp": 1794757945.200394,
+    "date": "2026-11-15T15:52:25.200395"
+  },
+  "https://www.tomshardware.com/gift-guides-seasonal-sales/wacky-pc-and-gadget-gift-guide-surprise-tech-lovers-with-10-different-options-like-wireless-power-buttons-dvd-burner-usb-hubs-and-clamp-on-pegboards": {
+    "title": "Wacky PC and gadget gift guide",
+    "fingerprint": "92180000bd5be181541feddc995bd82c",
+    "timestamp": 1794757945.200517,
+    "date": "2026-11-15T15:52:25.200518"
+  },
+  "https://www.tomshardware.com/pc-components/samsungs-1tb-990-ssd-drops-to-19-cents-per-gb-amid-the-memory-crisis-grab-it-for-usd40-off": {
+    "title": "Samsung's 1TB 990 SSD drops to 19 cents per GB amid the memory crisis",
+    "fingerprint": "a517d9b2797fc9750631c35f9b870864",
+    "timestamp": 1794757945.200637,
+    "date": "2026-11-15T15:52:25.200638"
+  },
+  "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-14-2026-mac-studio-versus-dgx-spark-amds-mext-cuts-dram-requirements-in-half-and-the-huang-saga-reaches-critical-mass": {
+    "title": "This week in Tom's Hardware Premium: November 14, 2026",
+    "fingerprint": "f0dd1698733eb47ef8cb9cbfaf42d99e",
+    "timestamp": 1794757945.200758,
+    "date": "2026-11-15T15:52:25.200759"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that": {
+    "title": "U.S. Treasury Secretary questions whether Nvidia knowingly sold AI GPUs to shell companies, says company itself is responsible",
+    "fingerprint": "d3f9013ebb0d97cd2b0e75e1364c6c09",
+    "timestamp": 1794757945.200885,
+    "date": "2026-11-15T15:52:25.200886"
+  },
+  "https://www.tomshardware.com/pc-components/ssds/we-tested-the-ram-saving-storage-tech-in-gears-of-war-e-day-up-to-3-7-gb-s-of-ssd-streaming-speed-saves-several-gigabytes-of-system-ram-usage": {
+    "title": "We tested the RAM-saving storage tech in Gears of War: E-Day",
+    "fingerprint": "a554d633a1a89d628a4c21779298e3b1",
+    "timestamp": 1794757945.201019,
+    "date": "2026-11-15T15:52:25.201021"
+  },
+  "https://www.cnx-software.com/2026/11/15/radxa-linkr-review-a-compact-ip-kvm-with-https-2fa-authentication-and-tailscale-support/": {
+    "title": "Radxa Linkr review A compact IP KVM with HTTPS, 2FA authentication, and Tailscale support",
+    "fingerprint": "4e939f275e31de70f6ec18da341840b4",
+    "timestamp": 1794757945.201525,
+    "date": "2026-11-15T15:52:25.201527"
+  },
+  "https://www.fiercesensors.com/iot-connectivity/apple-launches-sensor-driven-homeview-smart-home-hub": {
+    "title": "Apple launches sensor-driven HomeView smart home hub",
+    "fingerprint": "d1209d52efdfe0395471ec766f36986b",
+    "timestamp": 1794757945.202845,
+    "date": "2026-11-15T15:52:25.202847"
+  },
+  "https://www.fiercesensors.com/sensors-fusion/tdk-announces-invensense-positionsense-availability": {
+    "title": "TDK announces Invensense PositionSense availability",
+    "fingerprint": "c501152cded23838f1f8024889092217",
+    "timestamp": 1794757945.203001,
+    "date": "2026-11-15T15:52:25.203003"
+  },
+  "https://www.techspot.com/news/114562-tesla-selling-cybercab-private-buyers-but-wont-move.html": {
+    "title": "Tesla is selling the Cybercab to private buyers, but it won't move without a $299 monthly subscription",
+    "fingerprint": "5d467e8282d037ea109eed34db0d2236",
+    "timestamp": 1794757945.203199,
+    "date": "2026-11-15T15:52:25.203201"
+  },
+  "https://www.techspot.com/news/114560-new-windows-zero-day-turns-microsoft-own-security.html": {
+    "title": "New Windows zero-day turns Microsoft's own security fix into a path to full system access",
+    "fingerprint": "855973e0ff1717a814f5eb06593d6c13",
+    "timestamp": 1794757945.203365,
+    "date": "2026-11-15T15:52:25.203366"
+  },
+  "https://www.techspot.com/news/114556-microsoft-365-outage-sent-japan-back-fax-machines.html": {
+    "title": "The Microsoft 365 outage sent Japan back to fax machines and landlines",
+    "fingerprint": "68270c6180a7233c402b8b67763ab989",
+    "timestamp": 1794757945.203562,
+    "date": "2026-11-15T15:52:25.203564"
   }
 }
