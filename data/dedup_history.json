@@ -1,130 +1,4 @@
 {
-  "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid": {
-    "title": "Taiwan targets illicit AI server exports to China with five-year prison terms",
-    "fingerprint": "17357ee3a5003c25b8cd327a781bd0a3",
-    "timestamp": 1792239853.029045,
-    "date": "2026-10-17T12:24:13.029049"
-  },
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-agent-took-eth-from-another-account-without-authorization-justified-stealing-in-its-chain-of-thought": {
-    "title": "Crafty OpenAI agent willingly stole crypto from an account it didn't own to complete a task during test",
-    "fingerprint": "40c13fa91cad5908599ef8910ad33f13",
-    "timestamp": 1792239853.029202,
-    "date": "2026-10-17T12:24:13.029203"
-  },
-  "https://www.tomshardware.com/video-games/retro-gaming/game-decompilation-tracker-decomp-dev-shuts-its-public-leaderboard-saying-ai-has-broken-the-community-its-creator-blames-forks-that-use-ai-to-finish-other-teams-projects-and-races-to-ship-rough-pc-ports": {
-    "title": "Game decompilation hub freezes leaderboard after AI turns progress into a hollow numbers game amid explosion of 'AI slop'",
-    "fingerprint": "b6d6274ae6d8aedb255248837e5d2ad6",
-    "timestamp": 1792239853.029328,
-    "date": "2026-10-17T12:24:13.029329"
-  },
-  "https://www.tomshardware.com/video-games/retro-gaming/modder-finishes-nine-year-xbox-360-voltage-glitch-mod-with-a-usd4-microcontroller-cracks-the-console-open-tiny-microcontroller-dumps-nand-and-flashes-timing-files-to-bypass-cpu-cryptography": {
-    "title": "Modder finishes nine-year Xbox 360 voltage glitch mod with a $4 microcontroller, cracks the console open",
-    "fingerprint": "6e4fc497ef636004de61a9e78f85fc53",
-    "timestamp": 1792239853.029486,
-    "date": "2026-10-17T12:24:13.029487"
-  },
-  "https://www.tomshardware.com/3d-printing/us-army-to-use-3d-printed-rocket-motors-for-low-cost-cruise-missiles-additive-manufacturing-company-secures-deal-to-build-rocket-engines-for-the-arsenal-of-freedom": {
-    "title": "US Army to use 3D-printed rocket motors for low-cost cruise missiles",
-    "fingerprint": "717174e7a76917a6fca14bf99848f11f",
-    "timestamp": 1792239853.029612,
-    "date": "2026-10-17T12:24:13.029612"
-  },
-  "https://www.tomshardware.com/tech-industry/employee-exclusive-asml-lego-set-now-available-on-rebrickable-custom-creation-modifies-original-version-to-add-more-details-now-requires-810-parts": {
-    "title": "ASML's employee-only High-NA EUV Lego kit gets an open 810-piece fan replica",
-    "fingerprint": "84eac9684eb26a506ebd4fddbf05cd5d",
-    "timestamp": 1792239853.029723,
-    "date": "2026-10-17T12:24:13.029723"
-  },
-  "https://www.tomshardware.com/desktops/gaming-pcs/this-could-be-your-last-chance-to-grab-an-rtx-5090-how-to-secure-nvidias-top-rtx-gpu-as-rumors-of-discontinuation-swirl": {
-    "title": "This could be your last chance to grab an RTX 5090",
-    "fingerprint": "f0f6822f67a66480d7af914d10a3b1a3",
-    "timestamp": 1792239853.029826,
-    "date": "2026-10-17T12:24:13.029826"
-  },
-  "https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability": {
-    "title": "China startup demoes prototype EUV light source",
-    "fingerprint": "0d007dd9f53bb8725e2082e7b32b6648",
-    "timestamp": 1792239853.029943,
-    "date": "2026-10-17T12:24:13.029943"
-  },
-  "https://www.tomshardware.com/3d-printing/gun-rights-activist-unveils-worlds-first-ai-made-3d-printed-firearm-22-caliber-handgun-created-by-an-ai-that-can-generate-guns-called-gatgpt": {
-    "title": "Gun-rights activist unveils world's first 'AI-made' 3D-printed firearm .22 caliber handgun created by an 'AI that can generate guns' called GatGPT",
-    "fingerprint": "050c332d9e5a2bff792d6884f2f94f19",
-    "timestamp": 1792239853.030055,
-    "date": "2026-10-17T12:24:13.030056"
-  },
-  "https://www.cnx-software.com/2026/10/17/seeed-studio-xiao-ips-display-series-features-esp32-s3-or-nrf52840-soc-with-0-96-inch-to-1-47-inch-lcd-options/": {
-    "title": "Seeed Studio XIAO IPS display series features ESP32-S3 or nRF52840 SoC with 0.96-inch to 1.47-inch LCD options",
-    "fingerprint": "3dbd605b462e633c4e5251344f30a441",
-    "timestamp": 1792239853.030621,
-    "date": "2026-10-17T12:24:13.030622"
-  },
-  "https://www.fiercesensors.com/iot-connectivity/iridium-ntn-direct-getting-integrated-altair-cellular-iot-chipsets": {
-    "title": "Iridium NTN Direct getting integrated into Altair cellular IoT chipsets",
-    "fingerprint": "4d6bf07e00d322bb35fc0d3ba4431b60",
-    "timestamp": 1792239853.031662,
-    "date": "2026-10-17T12:24:13.031665"
-  },
-  "https://www.techspot.com/news/114240-windows-defender-now-works-linux-because-why-not.html": {
-    "title": "Windows Defender now works in Linux, because why not",
-    "fingerprint": "eb7000bcda8f0770ad7f6a0ff9178858",
-    "timestamp": 1792239853.032121,
-    "date": "2026-10-17T12:24:13.032122"
-  },
-  "https://www.techspot.com/news/114233-dota-2-pro-talked-way-out-police-raid.html": {
-    "title": "A Dota 2 pro says he talked his way out of a police raid by playing a match for the officers",
-    "fingerprint": "36d48b1981ad9d209ea7bb78701a2349",
-    "timestamp": 1792239853.032302,
-    "date": "2026-10-17T12:24:13.032303"
-  },
-  "https://www.techspot.com/products/audio-video/asus-rog-xbox-ally-x20.330955/": {
-    "title": "Asus ROG Xbox Ally X20 debuts: It's all about that OLED",
-    "fingerprint": "e991ced3a429db7ad0a9544dc9ab89b8",
-    "timestamp": 1792239853.0325,
-    "date": "2026-10-17T12:24:13.032502"
-  },
-  "https://www.techspot.com/products/laptops/microsoft-surface-laptop-ultra.330954/": {
-    "title": "First Surface Laptop Ultra reviews: a promising but pricey MacBook Pro rival",
-    "fingerprint": "18d686fe45cf979da078c7ab38d1ee66",
-    "timestamp": 1792239853.032706,
-    "date": "2026-10-17T12:24:13.032710"
-  },
-  "https://www.techspot.com/news/114231-researchers-ad-platform-could-identify-targets-install-spyware.html": {
-    "title": "Researchers say an ad platform could identify targets and install spyware through online ads, no click needed",
-    "fingerprint": "9c61a45f0d020b4cd919c2f8c8825548",
-    "timestamp": 1792239853.032894,
-    "date": "2026-10-17T12:24:13.032895"
-  },
-  "https://www.techspot.com/news/114238-iphone-duo-demand-outpaces-supply-apple-pushes-orders.html": {
-    "title": "Apple iPhone Duo is already backordered until 2027",
-    "fingerprint": "94871b4b56ce682526dba83459b00f4e",
-    "timestamp": 1792239853.033061,
-    "date": "2026-10-17T12:24:13.033062"
-  },
-  "https://www.techspot.com/news/114223-new-windows-photos-app-goes-native-editing-viewing.html": {
-    "title": "The new Windows Photos app goes native for editing and viewing, but power users are mad about the web-based gallery",
-    "fingerprint": "7ab6a89052c151237055aca701d7426e",
-    "timestamp": 1792239853.03324,
-    "date": "2026-10-17T12:24:13.033241"
-  },
-  "https://www.techspot.com/news/114232-microsoft-windows-11-up-20-more-responsive-after.html": {
-    "title": "Microsoft says Windows 11 is up to 20% more responsive after its latest update, with big improvements for 8GB PCs",
-    "fingerprint": "711b4123197c26b6a2d102eb2fe4e3e5",
-    "timestamp": 1792239853.033447,
-    "date": "2026-10-17T12:24:13.033449"
-  },
-  "https://www.techspot.com/news/114228-nintendo-switch-games-latest-targets-ai-built-pc.html": {
-    "title": "Switch games are the latest targets of AI-built PC ports, and Zelda: Link's Awakening is already playable",
-    "fingerprint": "80321246b81198750808a50324af2e09",
-    "timestamp": 1792239853.033626,
-    "date": "2026-10-17T12:24:13.033627"
-  },
-  "https://www.techspot.com/downloads/5681-maxon-cinema-4d.html": {
-    "title": "Cinema 4D adds procedural scattering, more realistic liquids, and faster rendering",
-    "fingerprint": "395655e08d7475e447778a1ab8d1a05d",
-    "timestamp": 1792239853.03382,
-    "date": "2026-10-17T12:24:13.033821"
-  },
   "https://www.tomshardware.com/virtual-reality/mit-engineers-build-soft-3d-shape-sensing-skin-for-gaming-and-vr-tracks-3d-movement-and-touch-with-sub-half-centimeter-error": {
     "title": "MIT engineers build soft 3D shape-sensing skin for gaming and VR",
     "fingerprint": "f85bcdb51ae01620bc38759dc513b9cb",
@@ -5152,5 +5026,239 @@
     "fingerprint": "68270c6180a7233c402b8b67763ab989",
     "timestamp": 1794757945.203562,
     "date": "2026-11-15T15:52:25.203564"
+  },
+  "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen": {
+    "title": "Trump calls for Jensen Huang reinstatement as Nvidia CEO",
+    "fingerprint": "0dd98aa40d1074621c2b4fd0240dde9d",
+    "timestamp": 1794855293.031537,
+    "date": "2026-11-16T18:54:53.031541"
+  },
+  "https://www.tomshardware.com/gift-guides-seasonal-sales/top-tech-gift-ideas-for-frequent-travelers-from-usb-wall-chargers-to-power-banks-here-are-the-best-options": {
+    "title": "Top tech gift ideas for frequent travelers from USB wall chargers to power banks, here are the best options",
+    "fingerprint": "7973395003798f0be6add36decc21ef8",
+    "timestamp": 1794855293.031602,
+    "date": "2026-11-16T18:54:53.031603"
+  },
+  "https://www.tomshardware.com/tech-industry/quantum-computing/intel-bets-on-classiq-acquisition-to-turn-quantum-efforts-into-commercially-viable-business-deal-positions-company-as-leading-vendor-of-qubit-chips-acquisition-to-close-by-the-first-half-of-2027": {
+    "title": "Intel bets on Classiq acquisition to turn Quantum efforts into commercially viable business deal positions company as leading vendor of qubit chips, acquisition to close by the first half of 2027",
+    "fingerprint": "7def8ab7b5f78eb827b434d64b89c0a1",
+    "timestamp": 1794855293.031674,
+    "date": "2026-11-16T18:54:53.031674"
+  },
+  "https://www.tomshardware.com/desktops/mini-pcs/minisforum-elite-mini-m2-air-304-review": {
+    "title": "Minisforum Elite Mini M2 Air-304 review: A quiet and compact Wildcat",
+    "fingerprint": "e60dd2dd3df52cefff1821db4780a3b7",
+    "timestamp": 1794855293.031742,
+    "date": "2026-11-16T18:54:53.031743"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat": {
+    "title": "Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days",
+    "fingerprint": "cc50b5981280472f96015384ff4280aa",
+    "timestamp": 1794855293.031799,
+    "date": "2026-11-16T18:54:53.031799"
+  },
+  "https://www.tomshardware.com/pc-components/cpus/overlocker-uses-vibecoded-bios-modification-to-target-intels-non-k-overclocking-restrictions-attempts-to-revive-asrocks-discontinued-skyoc-technology": {
+    "title": "Overlocker uses vibecoded BIOS modification to target Intel's non-K overclocking restrictions",
+    "fingerprint": "afc0380dfe9dc3c43eeed2e7b3ec91b3",
+    "timestamp": 1794855293.031856,
+    "date": "2026-11-16T18:54:53.031856"
+  },
+  "https://www.tomshardware.com/tech-industry/space/amazons-starlink-rival-sees-major-setback-after-40-satellites-destroyed-in-rocket-failure-anomaly-occurred-10-minutes-after-the-vulcan-launch-on-sunday": {
+    "title": "Amazon s Starlink rival sees major setback after 40 satellites destroyed in rocket failure",
+    "fingerprint": "d13b9b566cf73519e420249522eddf14",
+    "timestamp": 1794855293.03192,
+    "date": "2026-11-16T18:54:53.031920"
+  },
+  "https://www.tomshardware.com/video-games/playstation/jailbroken-ps4-runs-9-billion-parameter-ai-model-at-up-to-43-tokens-per-second-open-source-garlic-llm-bypasses-drivers-to-talk-directly-to-the-2013-era-gpu": {
+    "title": "Jailbroken PS4 runs 9-billion-parameter AI model at up to 43 tokens per second",
+    "fingerprint": "7cda9407d4cb70266270907cf0b7d733",
+    "timestamp": 1794855293.031969,
+    "date": "2026-11-16T18:54:53.031969"
+  },
+  "https://www.tomshardware.com/pc-components/cpus/intel-sued-by-shareholders-for-misleading-investors-after-stock-plunges-29-percent-class-action-claims-the-company-downplayed-the-severity-of-pc-market-headwinds": {
+    "title": "Intel sued by shareholders for misleading investors after stock plunges 29%",
+    "fingerprint": "3051a7fce4638b07a6d647abc559a3d2",
+    "timestamp": 1794855293.032018,
+    "date": "2026-11-16T18:54:53.032018"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-could-be-plotting-return-as-nvidia-ceo-report-claims-allies-have-formed-a-war-room-to-drive-reinstatement-days-after-resignation-scandal": {
+    "title": "Jensen Huang could be plotting return as Nvidia CEO, report claims",
+    "fingerprint": "6951a73f831c7d6f8b19bd5d59c5f7f8",
+    "timestamp": 1794855293.032072,
+    "date": "2026-11-16T18:54:53.032072"
+  },
+  "https://www.tomshardware.com/3d-printing/grab-a-beginner-friendly-anycubic-3d-printer-for-under-usd300-back-at-its-record-low-price-17-percent-discount-for-prime-subscribers-nets-you-a-4-5-star-multi-colored-filament-printer-with-auto-bed-leveling": {
+    "title": "Grab a beginner-friendly Anycubic 3D printer for under $300, back at its record-low price",
+    "fingerprint": "aa104906bf794819a0e4ee28546b0e7f",
+    "timestamp": 1794855293.032117,
+    "date": "2026-11-16T18:54:53.032118"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/fable-5-2-creates-an-underwater-world-in-a-browser-in-only-96-kb-40-line-prompt-creates-impressive-demo-that-runs-at-180-fps": {
+    "title": "Fable 5.2 creates an underwater world in a browser in only 96 KB",
+    "fingerprint": "5053446b4d79b96feaec013bbb23457b",
+    "timestamp": 1794855293.032163,
+    "date": "2026-11-16T18:54:53.032163"
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-amassed-usd530-billion-in-financial-guarantees-to-corner-the-ai-market-supply-commitments-rose-by-nearly-a-quarter-of-a-trillion-dollars-in-a-single-quarter": {
+    "title": "Nvidia amassed $530 billion in financial guarantees to corner the AI market",
+    "fingerprint": "4af7f4b46297e2d678c76df85434215a",
+    "timestamp": 1794855293.032213,
+    "date": "2026-11-16T18:54:53.032214"
+  },
+  "https://www.tomshardware.com/video-games/retro-gaming/hacker-gets-doom-running-on-a-usb-flash-drives-built-in-lcd-played-by-copying-files-hacker-dumps-firmware-from-chip-with-scrubbed-markings-through-an-open-debug-port-then-gets-the-game-running-with-ai-help": {
+    "title": "Hacker gets Doom running on a USB flash drive's built-in LCD, played by copying files",
+    "fingerprint": "fcf3198011a41af5a3bc78706ff12b30",
+    "timestamp": 1794855293.032259,
+    "date": "2026-11-16T18:54:53.032259"
+  },
+  "https://www.tomshardware.com/software/operating-systems/developer-creates-a-100-percent-valid-zip-file-that-doubles-as-a-bios-bootable-operating-system-hiding-bios-boot-flags-inside-uncompressed-files-and-turning-file-headers-into-cpu-instructions": {
+    "title": "Developer creates a 100% valid ZIP file that doubles as a BIOS-bootable operating system",
+    "fingerprint": "1787e522c1510b28033a4e377c42f223",
+    "timestamp": 1794855293.032303,
+    "date": "2026-11-16T18:54:53.032304"
+  },
+  "https://www.tomshardware.com/gift-guides-seasonal-sales/30-must-have-pc-tool-gifts-for-hobbyists-and-makers-essential-bench-upgrades-for-enthusiasts-with-a-project-from-electric-screwdrivers-to-cordless-air-dusters": {
+    "title": "30 must-have PC tool gifts for hobbyists and makers",
+    "fingerprint": "e0c8d1f71f9b221068f8af637ffe52f0",
+    "timestamp": 1794855293.032354,
+    "date": "2026-11-16T18:54:53.032354"
+  },
+  "https://www.tomshardware.com/tech-industry/robotics-engineer-leaves-nvidia-over-lack-of-transparency-around-jensen-huangs-exit-details-decision-joins-chorus-of-disgruntled-staff-as-petition-to-reinstate-former-ceo-passes-150-000-signatures": {
+    "title": "Nvidia engineer leaves company over lack of transparency around Jensen Huang s exit, details decision",
+    "fingerprint": "84b030e96e3dc4c5a9c68626ed84c4ae",
+    "timestamp": 1794855293.0324,
+    "date": "2026-11-16T18:54:53.032401"
+  },
+  "https://www.tomshardware.com/peripherals/controllers-gamepads/cockpit-simulator-737x-cdu-v2-review-an-essential-component-for-flight-sim-enthusiasts": {
+    "title": "Cockpit-Simulator 737X CDU (v2) Review: An Essential Component for Flight Sim Enthusiasts",
+    "fingerprint": "7286f3f0de19d46b103e5b994c8a89ab",
+    "timestamp": 1794855293.032449,
+    "date": "2026-11-16T18:54:53.032449"
+  },
+  "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-stock-returns-to-newegg-with-21-models-but-scarcity-pricing-keeps-the-cheapest-air-cooled-cards-at-least-three-times-msrp": {
+    "title": "Nvidia RTX 5090 stock returns to Newegg with 21 models",
+    "fingerprint": "57a595ce67dbfc79917b9fd6082438df",
+    "timestamp": 1794855293.032498,
+    "date": "2026-11-16T18:54:53.032498"
+  },
+  "https://www.tomshardware.com/tech-industry/cyber-security/fbi-disrupts-north-korean-facestealer-campaign-behind-usd5-billion-binance-hack-doj-seizes-facestealer-cloud-infrastructure-containing-900-videos-of-tech-workers-hackers-used-ai-deepfakes-to-steal-usd400-million-and-compromise-open-source-software": {
+    "title": "FBI disrupts North Korean FaceStealer campaign behind $5 billion Binance hack",
+    "fingerprint": "95b7bc8dc7cb82ce0b1f0b250ff6e44e",
+    "timestamp": 1794855293.032549,
+    "date": "2026-11-16T18:54:53.032549"
+  },
+  "https://www.tomshardware.com/pc-components/cpus/357-detailed-cpu-die-shots-spanning-1971-to-2024-crammed-into-a-new-gallery-motorola-68000-intel-486dx2-amd-athlon-xp-apple-m1-and-many-more-in-beautiful-detail": {
+    "title": "357 detailed CPU die shots spanning 1971 to 2024 crammed into a new gallery",
+    "fingerprint": "d61aa5bc650fd8f80fae2f021e506195",
+    "timestamp": 1794855293.032599,
+    "date": "2026-11-16T18:54:53.032600"
+  },
+  "https://www.cnx-software.com/2026/11/16/geekom-a5-2027-edition-review-part-2-a-mid-range-amd-ryzen-7-7730u-mini-pc-tested-with-windows-11-pro/": {
+    "title": "GEEKOM A5 2027 Edition review Part 2: A mid-range AMD Ryzen 7 7730U mini PC tested with Windows 11 Pro",
+    "fingerprint": "973ce4f203e7014c43c02babaa4b18b4",
+    "timestamp": 1794855293.032859,
+    "date": "2026-11-16T18:54:53.032860"
+  },
+  "https://www.cnx-software.com/2026/11/16/aaeon-boxer-8741ai-industrial-edge-ai-box-pc-nvidia-jetson-thor-t5000-with-dual-10gbe-and-four-5gbe-lan/": {
+    "title": "AAEON BOXER-8741AI industrial Edge AI box PC NVIDIA Jetson Thor T5000 with dual 10GbE and four 5GbE LAN",
+    "fingerprint": "fe2a1bfe7d55d2ce0a404423ba07a92d",
+    "timestamp": 1794855293.03298,
+    "date": "2026-11-16T18:54:53.032980"
+  },
+  "https://www.cnx-software.com/2026/11/16/69-home-assistant-connect-aux-2-offers-poe-audio-streaming-rs-232-control-bluetooth-proxy/": {
+    "title": "$69 Home Assistant Connect AUX-2 controller offers PoE, audio streaming, RS-232 control, Bluetooth proxy, and more",
+    "fingerprint": "b3c084377719394acdd1207d4d40adfb",
+    "timestamp": 1794855293.033088,
+    "date": "2026-11-16T18:54:53.033089"
+  },
+  "https://www.techspot.com/news/114565-italy-fines-meta-805-million-over-facebook-feature.html": {
+    "title": "Italy fines Meta 805 million over a Facebook feature that scanned Android camera rolls",
+    "fingerprint": "fcea19a3e9242542d2b53e60b73c2764",
+    "timestamp": 1794855293.03391,
+    "date": "2026-11-16T18:54:53.033911"
+  },
+  "https://www.techspot.com/news/114575-papa-john-wants-pizza-photos-ai-quality-checks.html": {
+    "title": "Papa John's wants your pizza photos for AI quality checks, with free pizza as the reward",
+    "fingerprint": "07c63975f44bcc9ee8c34c4974abadbc",
+    "timestamp": 1794855293.033996,
+    "date": "2026-11-16T18:54:53.033996"
+  },
+  "https://www.techspot.com/news/114574-microsoft-adds-way-remotely-lock-lost-windows-11.html": {
+    "title": "Microsoft adds a way to remotely lock lost Windows 11 laptops without wiping them",
+    "fingerprint": "f44d901a47824e8c47239e7477bca1aa",
+    "timestamp": 1794855293.034083,
+    "date": "2026-11-16T18:54:53.034084"
+  },
+  "https://www.techspot.com/downloads/612-filezilla.html": {
+    "title": "FileZilla makes transferring files to servers simple and free",
+    "fingerprint": "5a9f5beae83139359becad94afa1f8d2",
+    "timestamp": 1794855293.034161,
+    "date": "2026-11-16T18:54:53.034162"
+  },
+  "https://www.techspot.com/news/114570-race-build-ai-data-centers-sea-faces-rough.html": {
+    "title": "The race to build AI data centers at sea faces rough waters",
+    "fingerprint": "889dcaf9e2c5b1955e553d1b617e02e0",
+    "timestamp": 1794855293.034245,
+    "date": "2026-11-16T18:54:53.034245"
+  },
+  "https://www.techspot.com/news/114573-microsoft-365-outage-led-chlorine-gas-leak-german.html": {
+    "title": "Microsoft 365 outage led to chlorine gas leak at German hotel, poisoning of 15 guests and sending four to hospital",
+    "fingerprint": "d45dd084043b2e97abb78ee6a8b8a0ab",
+    "timestamp": 1794855293.034334,
+    "date": "2026-11-16T18:54:53.034334"
+  },
+  "https://www.techspot.com/news/114572-meta-employees-now-testing-zuckerberg-prediction-market-app.html": {
+    "title": "Meta is now testing Zuckerberg's prediction-market app, but it doesn't use real money",
+    "fingerprint": "9bff99e4fadd3f7d985c8135619ba9e7",
+    "timestamp": 1794855293.03441,
+    "date": "2026-11-16T18:54:53.034410"
+  },
+  "https://www.techspot.com/news/114569-old-bitly-links-hijacked-x-posts-trump-mcdonald.html": {
+    "title": "Old Bitly links hijacked in X posts from Trump, McDonald's, Burger King, and others",
+    "fingerprint": "fb2ca063068591636b60723e526a408f",
+    "timestamp": 1794855293.034487,
+    "date": "2026-11-16T18:54:53.034487"
+  },
+  "https://www.techspot.com/news/114567-how-one-malfunctioning-router-arkansas-grounded-every-flight.html": {
+    "title": "How one malfunctioning router in Arkansas grounded every flight in America last week",
+    "fingerprint": "dc737433802349943452b46557250dce",
+    "timestamp": 1794855293.034567,
+    "date": "2026-11-16T18:54:53.034567"
+  },
+  "https://www.techspot.com/news/114566-gta-6-isnt-even-out-but-already-breaking.html": {
+    "title": "GTA 6 isn't even out yet, but it's already breaking internet traffic records",
+    "fingerprint": "544bc77a342989eb22415228dfd7d566",
+    "timestamp": 1794855293.034654,
+    "date": "2026-11-16T18:54:53.034654"
+  },
+  "https://www.techspot.com/news/114564-microsoft-project-helix-console-plays-pc-games-not.html": {
+    "title": "Microsoft says Project Helix is a console that plays PC games, not a PC that plays console games",
+    "fingerprint": "7e2da4035e4c5a9d781aa6dd28e780fc",
+    "timestamp": 1794855293.034772,
+    "date": "2026-11-16T18:54:53.034772"
+  },
+  "https://www.techspot.com/news/114568-beijing-now-bans-owning-storing-drones-even-if.html": {
+    "title": "Beijing now bans owning and storing drones, even if you never fly them",
+    "fingerprint": "6d812f29b4555c9d1436c25d0559e23d",
+    "timestamp": 1794855293.03485,
+    "date": "2026-11-16T18:54:53.034851"
+  },
+  "https://www.techspot.com/article/2000-anatomy-cpu/": {
+    "title": "Anatomy of a CPU: How Every Part of a Modern CPU Works Together",
+    "fingerprint": "0631a2ad28c39d1121e0cca672489e27",
+    "timestamp": 1794855293.034936,
+    "date": "2026-11-16T18:54:53.034936"
+  },
+  "https://www.techspot.com/news/114563-nearly-150000-people-sign-petition-requesting-jensen-huang.html": {
+    "title": "Nearly 150,000 people sign petition requesting Jensen Huang back as Nvidia CEO",
+    "fingerprint": "522defcae14ab85d7608d42059f9b924",
+    "timestamp": 1794855293.035028,
+    "date": "2026-11-16T18:54:53.035029"
+  },
+  "https://www.techspot.com/news/114561-windows-now-runs-iphone-duo-without-jailbreak.html": {
+    "title": "Windows now runs on the iPhone Duo without a jailbreak",
+    "fingerprint": "bf00c3c3cf720bc469aaabcbb8de3f65",
+    "timestamp": 1794855293.035115,
+    "date": "2026-11-16T18:54:53.035116"
   }
 }
