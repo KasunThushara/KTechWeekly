@@ -1,401 +1,379 @@
 [
   {
-    "title": "GTA VI runs at 1440p on PS5 and Xbox Series X, but just 720p with upscaling on Series S",
-    "summary": "GTA VI will target 30FPS across PlayStation and Xbox consoles, with Rockstar using its own temporal anti-aliasing solution on the PS5 and Xbox Series X, Sony's PSSR 2 on the PS5 Pro, and AMD's FSR 4 on the Xbox Series S.",
-    "link": "https://www.tomshardware.com/video-games/console-gaming/gta-vi-runs-at-1440p-on-ps5-and-xbox-series-x-but-just-720p-with-upscaling-on-series-s-rockstar-details-upscaling-technologies-for-launch",
+    "title": "Intel continues layoffs with cuts to its IT department, hundreds of employees reportedly affected",
+    "summary": "Intel continues to reduce headcount, IT department affected this time.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-continues-layoffs-with-cuts-to-its-it-department-hundreds-of-employees-reportedly-affected-companys-workforce-reduced-by-27-800-under-lip-bu-tan",
     "categories": [
-      "GPUs"
+      "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.740858"
+    "quality_score": 0,
+    "processed_date": "2026-11-19T17:38:13.040778"
   },
   {
-    "title": "Leaked Ohio bill could allow AI data center companies to seize private land for their buildouts using eminent domain law",
-    "summary": "A leaked Ohio bill could allow data centers to qualify as public utilities for the purpose of eminent domain law, allowing companies to seize private land for building new facilities.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/leaked-ohio-bill-could-allow-ai-data-center-companies-to-seize-private-land-for-their-buildouts-using-eminent-domain-law-proposed-law-would-expand-list-of-beneficiaries",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.740958"
-  },
-  {
-    "title": "Nvidia says it s absurd to assume it predicted the agentic moment during Vera s development",
-    "summary": "AMD has criticized Nvidia, and to a lesser extent Arm, for claims about creating a CPU designed for agentic AI. Nvidia is pushing back on that characterization, instead saying Vera was designed with base principles, product intuition, and oftentimes simple allegorical laws of computer science in a recent interview with Tom s Hardware.",
-    "link": "https://www.tomshardware.com/pc-components/cpus/nvidia-says-its-absurd-to-assume-it-predicted-the-agentic-moment-during-veras-development-product-intuition-helped-drive-cpu-design-superior-memory-bandwidth-will-play-critical-role-in-future-ai-agents-cpu-boss-claims",
+    "title": "Developer vibe codes Windows 11 alternative operating system for amd64, arm64, and riscv64 hardware",
+    "summary": "There s a new vibe-coded OS in town going by the name of LiberNT.",
+    "link": "https://www.tomshardware.com/software/windows/developer-vibe-codes-windows-11-alternative-operating-system-for-amd64-arm64-and-riscv64-hardware-libernt-is-a-free-64-bit-clone-promising-reliable-stable-and-efficient-performance",
     "categories": [
       "Hardware",
       "GPUs"
     ],
-    "quality_score": 10,
-    "processed_date": "2026-11-18T17:33:08.741070"
+    "quality_score": 0,
+    "processed_date": "2026-11-19T17:38:13.040851"
   },
   {
-    "title": "Elon Musk s SpaceXAI suffers chemical spill at Mississippi AI data center",
-    "summary": "5,000 to 6,000 gallons of propylene glycol spilled from a SpaceXAI facility in Southaven, Mississippi, before reaching a nearby drainage ditch. State environmental officials have sought to ease the worries of locals, saying there is no risk to their health.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-suffers-chemical-spill-at-mississippi-ai-data-center-up-to-6-000-gallons-of-propylene-glycol-heat-transfer-fluid-lost-environment-agency-says-no-threat-to-residents",
+    "title": "Pakistan undersea cable fault causes internet failure near Strait of Hormuz",
+    "summary": "Pakistan's telecommunications authority has confirmed that an undersea network cable fault is behind internet connectivity issues in the country, adding that Transworld Associates is looking into what caused the issue and when it expects it to be fixed. Traffic has been rerouted in the interim.",
+    "link": "https://www.tomshardware.com/networking/pakistan-undersea-cable-fault-causes-internet-failure-near-strait-of-hormuz-fault-detected-offshore-weeks-after-iran-threatened-infrastructure-in-the-region",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-19T17:38:13.040928"
+  },
+  {
+    "title": "Silicon Motion demos SM8466 PCIe 6.0 SSD controller, expected to ship by 2028 controller boasts improved quality of service, samples imminent",
+    "summary": "Silicon Motion's SM8466 has finally taped out and is set to enter the market in 2027-2028.",
+    "link": "https://www.tomshardware.com/pc-components/ssds/silicon-motion-demos-sm8466-pcie-6-0-ssd-controller-expected-to-ship-by-2028-controller-boasts-improved-quality-of-service-samples-imminent",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-19T17:38:13.040985"
+  },
+  {
+    "title": "Intel Diamond Rapids shows signs of life in SC26 demo running live server",
+    "summary": "Intel s next-gen Xeon Diamond Rapids CPUs appeared at two booths during SC26, one of which featured a running server, but neither were directly from Intel.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intel-diamond-rapids-shows-signs-of-life-in-sc26-demo-running-live-server-next-gen-xeon-7-cpu-breaks-cover-at-partner-booths-no-showcase-from-intel",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-19T17:38:13.041040"
+  },
+  {
+    "title": "Ukraine deploys homemade 'flying modems' in daring drone attack to destroy Crimean Bridge, ditching Elon Musk's Starlink",
+    "summary": "Ukrainian forces ditched Elon Musk's Starlink and used a network of \"flying modems\" to build a relay network that allowed them to maintain a live feed of an attack on the Crimean Bridge, even as Russia tried to block the signal.",
+    "link": "https://www.tomshardware.com/networking/ukraine-deploys-homemade-flying-modems-in-daring-drone-attack-to-destroy-crimean-bridge-ditching-elon-musks-starlink-airborne-relay-stations-allow-pilots-to-dodge-russian-air-defences-to-deliver-1-200kg-payload",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-19T17:38:13.041104"
+  },
+  {
+    "title": "Three 'e-waste' Nvidia V100s hit 100 tokens per second on Qwen 3.6 35B in a $1,042 homelab rig",
+    "summary": "A homelab builder runs Qwen 3.6 35B on three used Nvidia Tesla V100 GPUs at about 100 tokens per second, in a $1,042 build.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/three-e-waste-nvidia-v100s-hit-100-tokens-per-second-on-qwen-3-6-35b-in-a-usd1-042-homelab-rig-decommissioned-gpus-outpace-a-usd5-399-m5-max-mac-studio-at-long-contexts",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-19T17:38:13.041157"
+  },
+  {
+    "title": "Get 32GB of DDR5 for $240 with this blistering Intel gaming PC bundle",
+    "summary": "Score Intel's latest Core Ultra 7 270K Plus with a Z890 motherboard and 32GB of DDR5-6000 memory for $240 off with this bundle.",
+    "link": "https://www.tomshardware.com/pc-components/get-32gb-of-ddr5-for-usd240-with-this-blistering-intel-gaming-pc-bundle-the-270k-plus-cpu-also-comes-with-a-1tb-990-pro-ssd-z890-and-a-cooler-for-just-usd1-079",
+    "categories": [
+      "Hardware",
+      "GPUs"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-19T17:38:13.041211"
+  },
+  {
+    "title": "Critical Java vulnerability puts millions of sites, services, and devices at risk of remote code execution",
+    "summary": "Millions of sites, services, and devices are at risk of remote code execution thanks to a critical bug in the widely-used Java software. Attackers can trigger the bug by just inputting repeated text",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/critical-java-vulnerability-puts-millions-of-sites-services-and-devices-at-risk-of-remote-code-execution-triggers-with-64-as-and-an-sign-openjdk-optimization-bug-lets-an-attacker-trigger-it-just-by-inputting-repeated-text",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-19T17:38:13.041276"
+  },
+  {
+    "title": "DDR6 RAM shrinks by 44% while delivering 4 times more bandwidth than DDR5 JEDEC previews 12.8 GT/s modules with up to 1 terabyte of capacity per slot",
+    "summary": "Upcoming DDR6 memory cuts module length from 133mm to 74mm while kicking off at 12.8 GT/s, more than doubling DDR5 s baseline transfer rate.",
+    "link": "https://www.tomshardware.com/pc-components/ram/ddr6-ram-shrinks-by-44-percent-while-delivering-4x-ddr5s-baseline-bandwidth-jedec-previews-12-8-gt-s-modules-with-up-to-1-terabyte-of-capacity-per-slot",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-19T17:38:13.041335"
+  },
+  {
+    "title": "AMD s Twitter brag that it loves gamers met with savage Community Note",
+    "summary": "Following a post on X, AMD Japan's claim that the company values gamers \"above all else\" saw those gamers point out that its own CEO believes the company is more focused on data centers.",
+    "link": "https://www.tomshardware.com/pc-components/amds-twitter-brag-that-it-loves-gamers-met-with-savage-community-note-post-met-with-backlash-over-the-companys-pivot-to-ai",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-19T17:38:13.041390"
+  },
+  {
+    "title": "Nvidia GeForce driver bug reportedly hammers SSDs with up to 30GB of writes per hour",
+    "summary": "Nvidia s GeForce 621.14 and 621.24 drivers reportedly rewrite a log file nonstop, writing gigabytes to SSDs every hour.",
+    "link": "https://www.tomshardware.com/pc-components/gpu-drivers/nvidia-geforce-driver-bug-reportedly-hammers-ssds-with-up-to-30gb-of-writes-per-hour-users-trace-massive-idle-wear-to-background-service-newer-driver-reportedly-still-affected",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-19T17:38:13.041441"
+  },
+  {
+    "title": "Nvidia promises employee pay raises, equity before December to quell unrest in wake of Jensen Huang scandal",
+    "summary": "Interim CEO Collete Kress reportedly offered staffers higher wages and more equity on an advanced schedule at the company's first all-hands after Jensen Huang resigned.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-promises-employee-pay-raises-equity-before-december-to-quell-unrest-in-wake-of-jensen-huang-scandal-at-first-all-hands-meeting-since-ceos-departure-staff-offered-perks-told-were-going-to-be-fine",
+    "categories": [
+      "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-19T17:38:13.041498"
+  },
+  {
+    "title": "Waveshare ESP32-S31-Touch-LCD-4.3C An ESP32-S31 4.3-inch display devkit with optional DIN rail case",
+    "summary": "Last month we wrote about VIEWE s ESP32-S31 4.3-inch touch display, but there s now another option, namely the Waveshare ESP32-S31-Touch-LCD-4.3C development kit. Both models are similar, with an ESP32-S31 module equipped with 16MB flash and 16MB PSRAM, a 4.3-inch 800 480 touchscreen display, RS485 and CAN Bus interfaces, and more. The EVIEW model supports 16.7M colors, while the Waveshare devkit is limited to 65K colors, but it offers a wider 7V-36V voltage input, an optional DIN rail enclosure, and 3.7V Lithium battery support. Waveshare ESP32-S31-Touch-LCD-4.3C specifications: Wireless module ESP32-S31-WROOM-3-N16R16V SoC ESP32-S31NRV16 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory 512 KB SRAM, 32 KB low-power SRAM, 16MB PSRAM Wireless 2.4 GHz WiFi 6 (802.11ax) Bluetooth 5.4 with support for LE Audio, direction finding, Bluetooth Mesh 1.1, and Classic (BR/EDR) 802.15.4 radio for Zigbee, Thread, and Matter Storage [...] The post Waveshare ESP32-S31-Touch-LCD-4.3C An ESP32-S31 4.3-inch display devkit with optional DIN rail case appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/19/waveshare-esp32-s31-touch-lcd-4-3c-an-esp32-s31-4-3-inch-display-devkit-with-optional-din-rail-case/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 20,
+    "processed_date": "2026-11-19T17:38:13.041859"
+  },
+  {
+    "title": "Raspberry Pi SBCs get an open-source hardware I2C TPM 2.0 security module (Crowdfunding)",
+    "summary": "ANAVI I2C TPM 2.0 is an open-source hardware I2C TPM 2.0 security module for Raspberry Pi single board computers based on the Infineon Optiga SLB 9673 TPM 2.0 chip. It s an alternative to the earlier ANAVI TPM 2.0 module using an Optiga SLB 9672 SPI chip. The add-on board is designed for developers, hobbyists, and professionals who require enhanced security for Raspberry Pi-based projects. It s especially useful for disk encryption, secure key storage, and cryptographic operations, but can also work as a True Hardware Random Number Generator (TRNG) for security-critical applications. ANAVI I2C TPM 2.0 security module specifications: Compatibility Works with all Raspberry Pi single board computers (and can probably be adapted for other SBCs with a compatible 40-pin GPIO header) Host interface 5-pin header with I2C, Reset, 3.3V, and GND pins Two configurations: Horizontal version with a standard 5-pin (2.54 mm pitch) female header Vertical version with a [...] The post Raspberry Pi SBCs get an open-source hardware I2C TPM 2.0 security module (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/19/raspberry-pi-sbcs-get-an-open-source-hardware-i2c-tpm-2-0-security-module/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-19T17:38:13.041969"
+  },
+  {
+    "title": "EINSTAR EZ GO: Your First AI-Powered Mobile 3D Scanner (Sponsored)",
+    "summary": "Start Here. Start Easy. For more than 20 years, SHINING 3D has been advancing high-precision 3D digitization, building deep technical expertise and a solid foundation in precision metrology. Through EINSTAR, this professional 3D technology has now entered a more accessible space bringing trusted scanning capabilities closer to makers, 3D printing enthusiasts, and everyday creators. That commitment now takes shape in EINSTAR EZ GO the first AI-powered mobile 3D scanner. Combining wireless mobile scanning, versatile laser and infrared technologies, and AI-powered tracking and assistance, EZ GO makes 3D scanning easier to start and easier to use. Scanning is only the beginning. With cloud-powered 3D Gaussian Splatting processing and seamless integration with the SHINING 3D software ecosystem, including ShiningSpace, EXModel, and EXMeasure, EZ GO helps turn real-world objects into digital assets and digital ideas into creations. EZ to Go: Mobile Scanning, Wherever Inspiration Happens EZ GO is built around the freedom to scan where [...] The post EINSTAR EZ GO: Your First AI-Powered Mobile 3D Scanner (Sponsored) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/19/einstar-ez-go-your-first-ai-powered-mobile-3d-scanner/",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-19T17:38:13.042082"
+  },
+  {
+    "title": "SwitchBot Hub 4 Smart Home controller supports Matter 1.3, Hello Kata voice control, over 101,000 infrared devices",
+    "summary": "SwitchBot Hub 4 is a Smart Home control hub with a color display, physical controls (buttons and knob), Hello Kata voice control, WiFi and Bluetooth connectivity, and Matter Bridge 1.3 support. It supports over 101,000 infrared appliances, including air conditioners, televisions, projectors, fans, streaming devices (Fire TV, Apple TV, and Android TV), and more. For devices that are not part of the list, you can also use the IR learning function. The hub can also control Bluetooth HID devices, SwitchBot devices, and Matter devices via on-screen touch shortcuts and the rotary knob. SwitchBot Hub 4 (W108021000) specifications: SoC Not specified. Potentially ESP32-S3. Display 2.8-inch IPS color LCD with 240 x 320 resolution Bottom touch area Shows time, weather, temperature/humidity, device status, and scene/shortcut entries Audio 2W full-range speaker 2x omnidirectional microphones Voice wake-up with Hello Kata within a 3 m range Voice control for devices, alarm creation, and calendar [...] The post SwitchBot Hub 4 Smart Home controller supports Matter 1.3, Hello Kata voice control, over 101,000 infrared devices appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/19/switchbot-hub-4-smart-home-controller-supports-matter-1-3-hello-kata-voice-control-over-101000-infrared-devices/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-19T17:38:13.042198"
+  },
+  {
+    "title": "OpenAI's Altman teases humanoid demo in 2027",
+    "summary": "The company is moving from robot hand dexterity to how the humanoid brain relies on AI models",
+    "link": "https://www.fiercesensors.com/embedded/openais-altman-teases-humanoid-demo-2027",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-19T17:38:13.043036"
+  },
+  {
+    "title": "NAND flash prices fell 20% in the last two weeks, and are predicted to fall further in 2027",
+    "summary": "While NAND flash prices have risen rapidly over the past year, 2027 could finally bring some relief to customers. According to TrendForce, the anticipated price correction could be attributed to two main factors: a large-scale reduction in enterprise SSD orders from Chinese cloud service providers and a marked downturn in... Read Entire Article",
+    "link": "https://www.techspot.com/news/114630-nand-flash-prices-fell-20-last-two-weeks.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-19T17:38:13.043149"
+  },
+  {
+    "title": "Google will force Android developers to make their apps work properly on foldables",
+    "summary": "Google recently published the new \"adaptive quality standards\" Android developers will be required to adopt over the next few months. The change will affect apps published on the Google Play Store, with a specific focus on improving support for the latest foldable devices coming to Android. Read Entire Article",
+    "link": "https://www.techspot.com/news/114626-google-force-android-developers-make-their-apps-work.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-19T17:38:13.043236"
+  },
+  {
+    "title": "The Game Awards 2026: No PlayStation title nominated for Game of the Year for the first time since 2014",
+    "summary": "The six nominees shortlisted for 2026's Game of the Year are 007 First Light, Control Resonant, Grand Theft Auto VI, Phantom Blade Zero, Resident Evil Requiem, and The Legend of Zelda: Ocarina of Time. Voting is currently open on the official Game Awards website, with the ceremony scheduled to be... Read Entire Article",
+    "link": "https://www.techspot.com/news/114613-game-awards-2026-no-playstation-title-nominated-game.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-19T17:38:13.043327"
+  },
+  {
+    "title": "Intel says its graphics-free D270 GPU beats Nvidia's RTX Pro 6000 by up to 5.9x in benchmarks",
+    "summary": "In a post, Intel put the D270 up against Nvidia's RTX Pro 6000 Blackwell Server Edition. Instead of games or AI models, Intel went with something a little more niche. It picked four workloads that banks rely on to put a price on financial contracts. Read Entire Article",
+    "link": "https://www.techspot.com/news/114624-intel-graphics-free-d270-gpu-beats-nvidia-rtx.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-19T17:38:13.043414"
+  },
+  {
+    "title": "DDR6 memory modules could be 44% shorter than DDR5 while delivering over 50% more bandwidth",
+    "summary": "As VideoCardz notes, a full-size DDR5 stick measures just over 133 mm from end to end. The design JEDEC has in mind for DDR6 measures 74 mm, putting it within a few millimeters of those little SO-DIMMs found in laptops. Unfortunately, you can probably guess who stands to benefit most... Read Entire Article",
+    "link": "https://www.techspot.com/news/114629-ddr6-memory-could-44-shorter-than-ddr5-while.html",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-19T17:38:13.043502"
+  },
+  {
+    "title": "Disney's new Star Wars robots use AI to react to guests in real time",
+    "summary": "The characters are named Vilo Vele, Kado Bre'a and Jibu Bre'a. Their first public appearance will be at AWS re:Invent in Las Vegas later this month, where conference attendees can interact with them. Disney has not committed to a park debut. However, the characters and the technology behind them could... Read Entire Article",
+    "link": "https://www.techspot.com/news/114620-disney-new-star-wars-robots-use-ai-react.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-19T17:38:13.043607"
+  },
+  {
+    "title": "Nvidia's latest drivers may be wearing out your SSD with tens of gigabytes of unnecessary writes",
+    "summary": "TroubleGrid recently published a summary of the issue, which impacts driver versions 621.14 and 621.24, both released in November. Besides rolling back drivers, users can restart the affected service or change the display container settings, but neither solution is perfect. Read Entire Article",
+    "link": "https://www.techspot.com/news/114618-nvidia-latest-drivers-may-wearing-out-ssd-tens.html",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-19T17:38:13.043701"
+  },
+  {
+    "title": "South Korea uses nationwide emergency alert to catch exam cheats, exposes 22 students with hidden phones",
+    "summary": "Half a million people took South Korea's annual College Scholastic Ability Test (CSAT), known as the suneung, at 1,312 centers across the country on Thursday. The five exams take place over eight hours in a single day, and the results can determine which university a candidate gets into and what... Read Entire Article",
+    "link": "https://www.techspot.com/news/114628-south-korea-uses-nationwide-emergency-alert-catch-exam.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-19T17:38:13.043789"
+  },
+  {
+    "title": "Microsoft thinks it can make agentic AI work for the whole company, not just you",
+    "summary": "While there's been a tremendous amount of excitement surrounding agentic AI over the last year or two, the vast majority of the attention has focused on individual use of these tools. Everywhere you look, it seems, you can find stories of people who have done amazing work on their own... Read Entire Article",
+    "link": "https://www.techspot.com/news/114611-microsoft-thinks-can-make-agentic-ai-work-whole.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-19T17:38:13.043876"
+  },
+  {
+    "title": "Robots can do backflips but can't hold a gaze or press piano keys, and scientists think they've fixed that",
+    "summary": "The work, published in Advanced Functional Materials, is modeled on the small muscles that move human fingers and eyes. Those muscles make fine, controlled movements, and that kind of control has been hard to get from the hardware inside most robots today. Read Entire Article",
+    "link": "https://www.techspot.com/news/114610-robots-can-do-backflips-but-cant-hold-gaze.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-19T17:38:13.043966"
+  },
+  {
+    "title": "Microsoft is experimenting with open-source AMD code to give Xbox up to 16% performance boost",
+    "summary": "The open-source AMD compiler at the heart of the updated GDK is based on ACO, a shader compiler from the Mesa project that is used by the RADV Vulkan driver for AMD GPUs on Linux. It converts high-level shader instructions into machine code optimized for RDNA 2 GPUs powering Xbox... Read Entire Article",
+    "link": "https://www.techspot.com/news/114617-microsoft-experimenting-open-source-amd-code-give-xbox.html",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-19T17:38:13.044053"
+  },
+  {
+    "title": "Palmer Luckey plans to build a sovereign city at sea, free from US laws",
+    "summary": "Luckey explained that he started developing SLAB in 2014 using some of the $2 billion Facebook paid to acquire Oculus VR. Read Entire Article",
+    "link": "https://www.techspot.com/news/114625-palmer-luckey-wants-build-sovereign-city-sea-free.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-19T17:38:13.044127"
+  },
+  {
+    "title": "Welcome to GTA VI day!",
+    "summary": "Well, it's finally here. After 13 years, countless rumors, trailers, delays, and a level of anticipation few games have ever experienced, Grand Theft Auto VI is officially launched. Read Entire Article",
+    "link": "https://www.techspot.com/news/114619-welcome-gta-vi-day.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-19T17:38:13.044209"
+  },
+  {
+    "title": "NASA's Voyager 1 reaches a distance of one light-day from Earth",
+    "summary": "One \"day\" might not sound like a lot of time or distance, and in the vast emptiness of space, where everything is so far apart, it really isn't. Rather than using familiar measurements such as miles or kilometers, distances in space are often described in terms of how light travels. Read Entire Article",
+    "link": "https://www.techspot.com/news/114614-nasa-voyager-1-reaches-distance-one-light-day.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-19T17:38:13.044294"
+  },
+  {
+    "title": "Flipper One raises more than $10 million on Kickstarter in just 24 hours",
+    "summary": "The Flipper One Kickstarter campaign is now live, and the developers have already raised more than $13,700,000 against an initial funding target of $300,000. Interest in the new Linux-based hacking tool is clearly strong, but Flipper Devices warns that it is not simply a more powerful replacement for the previously... Read Entire Article",
+    "link": "https://www.techspot.com/news/114601-flipper-one-blows-past-kickstarter-goal-24-hours.html",
+    "categories": [
+      "AI & ML",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-19T17:38:13.044383"
+  },
+  {
+    "title": "AI is now finding bugs in the code that runs banks, airlines, and hospitals",
+    "summary": "Oracle released what it called a \"critical security patch update\" the same day and urged customers to install it. The company declined to comment further. Applying the fix could be a major undertaking: 90% of Fortune 500 companies use Java, which is deeply embedded in the software that keeps large organizations running. Read Entire Article",
+    "link": "https://www.techspot.com/news/114608-ai-model-uncovers-java-security-flaws-us-agency.html",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-19T17:38:13.044475"
+  },
+  {
+    "title": "You can now opt out of AI training in Gemini without losing your chat history",
+    "summary": "The new settings were reported by 9to5Google, which noted that the Gemini app now splits chat history saving and consent for generative AI model training into separate sections. The change allows users to switch off generative AI training on their data while still saving their chat history for future reference.... Read Entire Article",
+    "link": "https://www.techspot.com/news/114598-you-can-now-opt-out-ai-training-gemini.html",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.741169"
+    "processed_date": "2026-11-19T17:38:13.044585"
   },
   {
-    "title": "The Downfall of Jensen Huang a timeline of allegations and scandals that brought down the king of AI infrastructure",
-    "summary": "Jensen s affairs dominated headlines, but the seeds of his downfall were planted in both the bedroom and the boardroom and stretched from Beijing to Washington, with Nvidia sitting right in the middle.",
-    "link": "https://www.tomshardware.com/tech-industry/the-downfall-of-jensen-huang",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.741273"
-  },
-  {
-    "title": "Global OLED monitor shipments doubled year-over-year in Q3 2026",
-    "summary": "A TrendForce report reveals that gamers are buying OLED monitors in a big way, and ASUS leads the pack.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/global-oled-monitor-shipments-doubled-year-over-year-in-q3-2026-gamers-turn-to-display-upgrades-as-technology-gets-cheaper-and-ai-squeezes-components",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-18T17:33:08.741348"
-  },
-  {
-    "title": "Nvidia board faction angling for Jensen Huang return as CEO, report claims",
-    "summary": "Despite Nvidia's board saying it has no intention of bringing former CEO Jensen Huang back to the company, some directors are reportedly still pushing for that to happen.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-board-faction-angling-for-jensen-huang-return-as-ceo-report-claims-company-defiant-at-earnings-calls-says-no-possibility-of-reinstatement",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.741432"
-  },
-  {
-    "title": "Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record-setting quarter",
-    "summary": "Nvidia's quarterly revenue surged to $115.8 billion as Vera Rubin achieved a record $20 billion debut, while total commitments to suppliers and customers climbed to $540 billion and rising costs prompted a revised pricing strategy for FY2028.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.741539"
-  },
-  {
-    "title": "Retro Kickstarter speaker can play soundtracks directly from original Game Boy cartridges",
-    "summary": "Retro Song Bird can play music directly from original cartridges, export individual audio channels to a PC, back up game saves, flash writable cartridges, and sync two units for chiptune DJ performances.",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/retro-kickstarter-speaker-can-play-soundtracks-directly-from-original-game-boy-cartridges-retro-song-bird-supports-over-1-900-with-physical-controls-for-media",
+    "title": "GTA VI earns perfect review scores ahead of November 19 launch",
+    "summary": "After years of anticipation, Grand Theft Auto VI will arrive this week to near-universal acclaim. Critics are praising Rockstar's incredibly detailed open world, compelling story, and impressive visuals, with reviews awarding perfect scores across the board. GTA VI won't make it to PC just yet, but you can play it on PS5 and Xbox Series consoles. Read Entire Article",
+    "link": "https://www.techspot.com/products/pc-games/grand-theft-auto-vi.330968/",
     "categories": [
       "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-18T17:33:08.741628"
-  },
-  {
-    "title": "Voyager 1 spacecraft crosses milestones distance of one-light day from Earth 49 years after launch",
-    "summary": "NASA anticipates that Voyager 1 will be the first human-made object to reach space beyond one light-day away from Earth on Wednesday.",
-    "link": "https://www.tomshardware.com/tech-industry/space/voyager-1-spacecraft-crosses-milestones-distance-of-one-light-day-from-earth-49-years-after-launch-now-16-09-billion-miles-away-signal-takes-full-24-hours-to-travel-home",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.741716"
-  },
-  {
-    "title": "SSDs, laptops, and phones may get cheaper as consumer NAND spot pricing drops 20%",
-    "summary": "According to a new report, slowing demand for consumer electronics and diverging production requirements for consumer and enterprise NAND have resulted in declining spot prices for consumer-grade flash memory. Those trends may result in unexpected but welcome relief for consumers.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/ssds-laptops-and-phones-may-get-cheaper-as-consumer-nand-spot-pricing-drops-20-percent-bank-of-america-expects-contract-price-drops-report-cites-oversupply-in-consumer-market-amid-declining-demand-and-growing-chinese-competition",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.741806"
-  },
-  {
-    "title": "Walmart has slashed $700 off this MSI gaming laptop",
-    "summary": "You can save $700 on a new MSI Crosshair 16 gaming laptop at Walmart and bag an RTX 5060-powered portable gaming station for less.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/walmart-has-slashed-usd700-off-this-msi-gaming-laptop-16-inch-crosshair-features-an-rtx-5060-gpu-and-16gb-of-ddr5-ram",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-18T17:33:08.741881"
-  },
-  {
-    "title": "China threatens 'countermeasures' in the face of new AI GPU rental and export restrictions",
-    "summary": "China threatens \"countermeasures\" on the face of new Blackwell rental and export restrictions Sino-American trade war may be renewed for a new season",
-    "link": "https://www.tomshardware.com/pc-components/gpus/china-threatens-countermeasures-on-the-face-of-new-ai-gpu-rental-and-export-restrictions-beijing-threatens-retaliation-ahead-of-thursdays-xi-jinping-meeting-sino-american-trade-war-may-be-renewed-for-a-new-season",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.741966"
-  },
-  {
-    "title": "$3.26 million in SpaceX AI data center revenue will be pumped back into the City of Memphis",
-    "summary": "The City of Memphis is making its first major investment, almost $3.3 million, through the Community Benefit Ordinance. The fund was set up to use a portion of the tax generated by SpaceX AI's Colossus 1 facility for the benefit of residents, with the first $2 million allocated for a new home repair assistance program.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/usd3-26-million-in-spacex-ai-data-center-revenue-will-be-pumped-back-into-the-city-of-memphis-up-to-usd25-000-on-offer-to-low-income-residents-for-repairs-and-home-improvements",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.742056"
-  },
-  {
-    "title": "Budget-friendly gifts for gamers keyboards, mice, headsets, and more under $80",
-    "summary": "The best budget-friendly gifts for gamers keyboards, mice, headsets, and more, all for under $80.",
-    "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/budget-friendly-gifts-for-gamers-keyboards-mice-headsets-and-more-under-usd80",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-18T17:33:08.742130"
-  },
-  {
-    "title": "Nvidia employee warns of 'irreplaceable' talent exodus if Jensen Huang not reinstated",
-    "summary": "An internal letter was sent to Nvidia's board and top executives warning that \"irreplaceable talent\" could leave if Jensen Huang isn't reinstated as CEO.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-employee-warns-of-irreplaceable-talent-exodus-if-jensen-huang-not-reinstated-cautions-board-and-top-brass-that-talent-at-nvidia-is-now-contemplating-departing",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.742210"
-  },
-  {
-    "title": "10 desk upgrade gifts to improve PC work and gaming spaces",
-    "summary": "These 10 devices can make the desk space around a PC more versatile, enjoyable, and productive experience.",
-    "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/10-desk-upgrade-gifts-to-improve-pc-work-and-gaming-spaces-a-monitor-riser-with-charging-and-usb-ports-an-excellent-speaker-upgrade-modern-charging-hubs-and-more",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-18T17:33:08.742283"
-  },
-  {
-    "title": "Bluetooth 7.0 specification ratified with HDT (High Data Throughput) support",
-    "summary": "The Bluetooth SIG ratified the Bluetooth 7.0 specification on November 3, 2026, with the highlight of the new Bluetooth Core specification being optional support for HDT (High Data Throughput), delivering up to 7.5 Mbps bitrate. We first covered HDT in 2025 when initial/early support was implemented into the Ceva-Waves Links200 multi-protocol platform IP, and followed last September with the Realtek RTL8773J Bluetooth 7-ready Cortex-M55/M33 microcontroller. The main news is that the specification for Bluetooth 7.0 and the associated HDT feature is officially ratified/adopted. Bluetooth 7.0 highlights: Bluetooth High Data Throughput (HDT) introduces a new Bluetooth LE physical layer that increases the maximum Bluetooth bit rate to 7.5 Mbps while improving wireless efficiency and robustness. The higher bitrate is enabled by a combination of higher-order modulation, convolutional forward error correction, synchronization enhancements, adaptive rate selection, and enhanced packet architectures. It will be especially useful for high-resolution and lossless audio streaming. Bluetooth [...] The post Bluetooth 7.0 specification ratified with HDT (High Data Throughput) support appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/18/bluetooth-7-0-specification-ratified-with-hdt-high-data-throughput-support/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-11-18T17:33:08.742774"
-  },
-  {
-    "title": "Web-based breadboard simulator lets you build circuits, fix errors, and monitor designs with a built-in oscilloscope",
-    "summary": "Dev Kapadia s de:volt is a breadboard simulator that runs in your browser. You can place parts and wires on a breadboard, and the circuit runs live the whole time as you build it. The project aims to be as close as a real breadboard would be. It reports errors and warnings, and you can monitor pins with its built-in oscilloscope and/or multimeter. For instance, an LED with no resistor burns out, a weak battery sags under load, a motor pulls current, and a 555 on the 4-channel scope shows its timing capacitor charging and discharging. de:volt highlights: Build circuits on a virtual breadboard using the 105 parts available from the interface: resistors, capacitors, diodes, transistors, LEDs, 555 timers, 74-series and CD4000 logic, EEPROMs, motor drivers, sensors, and more. Four Arduino, BBC micro:bit, and RP2040 MCU boards are also available, and you can write and run MicroPython code from the web [...] The post Web-based breadboard simulator lets you build circuits, fix errors, and monitor designs with a built-in oscilloscope appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/18/web-based-breadboard-simulator-lets-you-build-circuits-fix-errors-and-monitor-designs-with-a-built-in-oscilloscope/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.742939"
-  },
-  {
-    "title": "Flipper One A Rockchip RK3576-powered portable Arm Linux computer and networking multi-tool (Crowdfunding)",
-    "summary": "Flipper Devices has launched the Flipper One open-source hardware portable Arm Linux platform and networking/Edge AI multi-tool powered by a Rockchip RK3576 octa-core Arm Cortex-A72/A53 SoC. It also features a Raspberry Pi RP2350 microcontroller for low-level control. You may think of it as a successor to the popular STM32-based Flipper Zero hardware and wireless hacking tool, but the company stresses that the Flipper One is NOT a replacement for the Flipper Zero. It is a different product with mainline Linux kernel support, no binary blobs (probably not 100% true), and open-source drivers, and operating at a different level of the networking and wireless stacks with dual Gigabit Ethernet, Wi-Fi 6E, and optional 5G or 4G LTE modem. Flipper One specifications: SoC Rockchip RK3576 CPU 4x Cortex-A72 cores @ 2.2GHz, 4x Cortex-A53 cores @ 1.8GHz Arm Cortex-M0 MCU at 400MHz GPU ARM Mali-G52 MC3 GPU with support for OpenGL [...] The post Flipper One A Rockchip RK3576-powered portable Arm Linux computer and networking multi-tool (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/18/flipper-one-a-rockchip-rk3576-powered-portable-arm-linux-computer-and-networking-multi-tool/",
-    "categories": [
-      "Semiconductors",
-      "Hardware"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-11-18T17:33:08.743098"
-  },
-  {
-    "title": "Nvidia scores at the Edge with Kress at the interim helm",
-    "summary": " Our ambition has never been greater, Nvidia interim CEO Colette Kress says after Jensen Huang recently resigned in a scandal. Customers are \"100% behind us.\"",
-    "link": "https://www.fiercesensors.com/sensors-fusion/nvidia-scores-edge-kress-interim-helm",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.744117"
-  },
-  {
-    "title": "Four major outages over five days, and a tech house of cards",
-    "summary": "Outages with Microsoft, the FAA, United and Chase were not a coordinated cyberattack, DHS Secretary says.",
-    "link": "https://www.fiercesensors.com/electronics/four-major-outages-over-five-days-and-tech-house-cards",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-18T17:33:08.744223"
-  },
-  {
-    "title": "Advanced silicone materials for MEMS and sensor modules mitigate stresses in semiconductor packaging",
-    "summary": "For reliability, engineers must adopt a whole-of-system approach and specify compliant, low-modulus materials that absorb mechanical strain while preserving long-term zero-offset signal fidelity.",
-    "link": "https://www.fiercesensors.com/electronics/advanced-silicone-materials-mems-and-sensor-modules-mitigate-stresses-semiconductor",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.744358"
-  },
-  {
-    "title": "Waymo pulls driverless cars from highways nationwide after California ban",
-    "summary": "The DMV directive requires Waymo to stop both operating and testing its driverless vehicles on all California freeways, citing \"an imminent hazard to public safety.\" The order will remain in effect until the company takes \"effective corrective actions,\" the agency said. It did not provide a timeline. Read Entire Article",
-    "link": "https://www.techspot.com/news/114606-waymo-pulls-driverless-cars-highways-nationwide-after-california.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.744763"
-  },
-  {
-    "title": "Windows will soon grade your PC's security, and apps like Battle.net get to see the score",
-    "summary": "Microsoft calls the feature Windows baseline protection. Insiders can already try it, though a broader release isn't planned until 2027. None of the protections it checks are actually new. The feature simply rolls eight existing ones into a single pass-or-fail result. Those include TPM 2.0, Secure Boot, virtualization-based security, and... Read Entire Article",
-    "link": "https://www.techspot.com/news/114602-windows-11-soon-grade-pc-security-apps-like.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.744919"
-  },
-  {
-    "title": "US closes the AI chip loophole that let China rent Nvidia hardware abroad",
-    "summary": "The gap the rule addresses is simple. A Chinese company that can't legally buy a cutting-edge Nvidia processor can still rent time on one, as long as the chip sits in a server rack outside China. The silicon never crosses the Chinese border, but the computing power does. Read Entire Article",
-    "link": "https://www.techspot.com/news/114605-us-closes-ai-chip-loophole-china-rent-nvidia.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.745064"
-  },
-  {
-    "title": "TCL's 500Hz OLED panel fights burn-in while you're still using it",
-    "summary": "TCL CSOT showed off the prototype at its DTC2026 conference in Wuhan last week. It pairs the company's inkjet-printed OLED tech with an oxide backplane and what it calls the first in-panel compensation system built for high refresh rates. So rather than waiting for the monitor to go into standby,... Read Entire Article",
-    "link": "https://www.techspot.com/news/114603-tcl-500hz-oled-panel-fights-burn-while-youre.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.745197"
-  },
-  {
-    "title": "Sony wins $2.6 billion PlayStation Store pricing lawsuit, but digital game prices could still rise",
-    "summary": "Consumer rights campaigner Alex Neill filed the lawsuit way back in August 2022 on behalf of an estimated nine million UK PlayStation users. At the time, the claim was worth up to 5 billion, or around $5.9 billion. Sony tried to have the case thrown out, calling it \"flawed from... Read Entire Article",
-    "link": "https://www.techspot.com/news/114609-sony-wins-26-billion-playstation-store-pricing-lawsuit.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.745338"
-  },
-  {
-    "title": "Unity is offering $50,000 to indie developers without asking for revenue share or IP ownership",
-    "summary": "According to an announcement by the company on Reddit, applicants seeking the grant must meet multiple criteria in addition to the obvious Unity engine requirement. First, the game must already have a playable build or demo at the time of application and should be scheduled for release within a year... Read Entire Article",
-    "link": "https://www.techspot.com/news/114599-unity-offering-50000-indie-developers-without-asking-revenue.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.745498"
-  },
-  {
-    "title": "European game dev unions publish a manifesto calling on studios to ditch generative AI",
-    "summary": "Unions representing game developers in the United Kingdom, Ireland, Spain, and Italy recently published a lengthy manifesto calling on companies to abandon or at least carefully monitor GenAI use. The document cites numerous studies on the technology's negative impacts in different sectors of the workforce. Read Entire Article",
-    "link": "https://www.techspot.com/news/114597-european-game-dev-unions-publish-manifesto-calling-studios.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.745640"
-  },
-  {
-    "title": "Pennsylvania high school disables AI weapons detector after it keeps mistaking everyday items for guns",
-    "summary": "Hempfield Area High School is one of several schools across Pennsylvania that agreed to help train Wi-AI. Developed by CurvePoint, a Carnegie Mellon University spinout, Wi-AI uses Wi-Fi signals to look for concealed weapons. Read Entire Article",
-    "link": "https://www.techspot.com/news/114607-pennsylvania-high-school-disables-ai-weapons-detector-after.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.745775"
-  },
-  {
-    "title": "Optimizely hack made Zoom, CNN, BBC, and 175 other sites serve crypto-stealing malware",
-    "summary": "Optimizely is best known for letting companies A/B test their web pages on real visitors. Customers embed a small snippet that pulls each project's code straight from Optimizely's servers. So whoever controls that code effectively decides what runs in every visitor's browser. Read Entire Article",
-    "link": "https://www.techspot.com/news/114600-optimizely-hack-made-zoom-cnn-bbc-175-other.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.745916"
-  },
-  {
-    "title": "AMD teases mystery CES 2027 announcement: Zen 6, RDNA 5, or yet more AI?",
-    "summary": "Jack Huynh, AMD's SVP and GM of Computing and Graphics, posted the teaser on his official X account. He's certainly building up the reveal as something special, talking about \"the next era of computing\" and \"creating a future filled with possibilities we once only dreamed of.\" Read Entire Article",
-    "link": "https://www.techspot.com/news/114604-amd-teases-mystery-ces-2027-announcement-zen-6.html",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.746071"
-  },
-  {
-    "title": "Forget GPU heists: police say someone used a bomb hidden in an Xbox 360 to sabotage a rival",
-    "summary": "Police in Santo Andr , near S o Paulo, have arrested a local businessman on suspicion of attempting to assassinate a potential competitor by rigging an Xbox 360 to explode inside the rival's shop on the day of its grand opening. No one was killed in the blast, which was caught on... Read Entire Article",
-    "link": "https://www.techspot.com/news/114589-forget-gpu-heists-police-someone-used-bomb-hidden.html",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.746209"
-  },
-  {
-    "title": "Jensen Huang says he'd be \"honored\" to return as Nvidia CEO if the board wants him back",
-    "summary": "In a lengthy statement posted on X, Huang said he was willing to return as Nvidia CEO \"if the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America.\" Read Entire Article",
-    "link": "https://www.techspot.com/news/114595-jensen-huang-hed-honored-return-nvidia-ceo-if.html",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.746345"
-  },
-  {
-    "title": "Sony releases new PS5 firmware as hackers set their sights on GTA VI",
-    "summary": "Sony recently released a new system update for the PlayStation 5. Firmware version 26.07-14.23.00 includes only some vaguely described \"security fixes\" to the console's system. However, the timing of the release suggests that the new firmware could be intended to do more than simply patch a few unnamed vulnerabilities in... Read Entire Article",
-    "link": "https://www.techspot.com/news/114592-sony-releases-new-ps5-firmware-hackers-set-their.html",
-    "categories": [
       "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-11-18T17:33:08.746499"
-  },
-  {
-    "title": "Surprise! Windows 11 26H2 makes multitasking on 8GB PCs remarkably smooth",
-    "summary": "Earlier this month, Microsoft released Windows 11 26H2 with a series of optimizations that it claimed will improve performance on PCs with just 8GB of memory. According to Pavan Davuluri, Microsoft's EVP of Windows and Devices, the improvements will make Windows up to 20% more responsive and boost multitasking performance... Read Entire Article",
-    "link": "https://www.techspot.com/news/114591-surprise-windows-11-26h2-makes-multitasking-8gb-pcs.html",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-11-18T17:33:08.746643"
-  },
-  {
-    "title": "Trmnl Frame is a $1,300 ePaper display designed to look like real artwork",
-    "summary": "The Trmnl Frame, not to be confused with a similarly named Samsung product, is a 31.5-inch full color digital picture frame enclosed in a wooden frame. The company's third release, it features a Spectra 6 ePaper display with a resolution of 2,560 x 1,440 (~16:9 aspect ratio). Inside is a... Read Entire Article",
-    "link": "https://www.techspot.com/news/114594-trmnl-frame-1300-epaper-display-designed-look-like.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-18T17:33:08.746781"
+    "processed_date": "2026-11-19T17:38:13.044681"
   }
 ]
