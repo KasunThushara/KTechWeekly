@@ -1,377 +1,173 @@
 [
   {
-    "title": "Anthropic mathematician claims to have solved 167-year-old math problem with Claude",
-    "summary": "An anthropic mathematician claims to have solved the Riemann hypothesis using Claude.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed",
+    "title": "This week on Tom's Hardware Premium: 21 November 2026",
+    "summary": "We go through an exhaustive list of everything we covered at SC26, which includes brand-new devices and developments from AMD, Nvidia, Intel and many more.",
+    "link": "https://www.tomshardware.com/tech-industry/supercomputers/this-week-on-toms-hardware-premium-21-november-2026-amd-nvidia-and-more-show-off-the-future-of-high-performance-computing-at-sc26",
     "categories": [
-      "AI & ML"
+      "GPUs",
+      "Hardware"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-11-20T17:16:39.027789"
+    "quality_score": 10,
+    "processed_date": "2026-11-21T16:22:56.316754"
   },
   {
-    "title": "VAST says petabyte SSDs will outgrow today s parallel file system RAID",
-    "summary": "VAST Data s Glenn Lockwood told SC26 that petabyte SSDs need global declustering plus extra parity to avoid data loss.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/vast-data-says-petabyte-ssds-will-outgrow-raid-in-todays-parallel-file-systems-simulation-of-a-900-pb-system-puts-data-loss-odds-at-1-in-11-over-10-years",
+    "title": "Modder cools gaming laptop with a bounce house blower for a 35-degree drop",
+    "summary": "A PC cooling enthusiast attached a bounce house blower to the bottom of his laptop, bringing temperatures below 50 degrees Celsius.",
+    "link": "https://www.tomshardware.com/pc-components/air-cooling/laptop-cooled-by-bounce-house-blower-gets-35-degree-drop-in-temperatures-modder-compares-laptop-cooler-with-increasingly-powerful-fan-setups",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-20T17:16:39.027897"
-  },
-  {
-    "title": "Phison details SSD with a built-in NPU and 64GB of memory that supports AI frameworks on the drive",
-    "summary": "Phison showed a computational-storage SSD with an NPU and 64GB of memory, plus Mixed Media pSLC and QLC drives, at SC26.",
-    "link": "https://www.tomshardware.com/pc-components/ssds/phison-details-ssd-with-a-built-in-npu-and-64gb-of-memory-that-supports-pytorch-and-llama-cpp-running-on-the-drive-second-design-merges-fast-pslc-cache-and-qlc-capacity-behind-one-controller",
-    "categories": [
-      "AI & ML"
+      "Hardware",
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.028018"
+    "processed_date": "2026-11-21T16:22:56.316847"
   },
   {
-    "title": "Thousands of vulnerable fridges patched against cyberattacks in secret operation",
-    "summary": "Following devastating hacks that caused European fridges to reach 50 degrees Celsius, destroying food stocks, the U.K. has implemented nationwide patching to ensure similar attacks won't affect its fridges.",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/thousands-of-vulnerable-fridges-patched-against-cyberattacks-in-secret-operation-uk-takes-action-following-hacks-that-destroyed-food-supplies-with-50-degree-defrosting-hijack",
+    "title": "Rapidus reportedly struggles to produce working SRAM on its 2nm node, putting 2027 mass production at risk",
+    "summary": "Japan's semiconductor startup has demonstrated functioning GAA transistors, but integrating them into working memory cells appears to be a considerably greater challenge.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/rapidus-reportedly-struggles-to-produce-working-sram-on-its-2nm-node-putting-2027-mass-production-at-risk-company-faces-significant-challenges-using-euv-to-develop-gaa-transistors",
     "categories": [
-      "AI & ML"
+      "Semiconductors",
+      "Tech News"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.028131"
+    "processed_date": "2026-11-21T16:22:56.316922"
   },
   {
-    "title": "Jensen Huang question gets reporter ejected from Trump-Xi-Putin summit",
-    "summary": "Annmarie Hordern, Bloomberg's chief political correspondent and co-host of its leading program, was barred from the historic trilateral meeting between the leaders of Russia, China, and the U.S. after she asked the controversial question.",
-    "link": "https://www.tomshardware.com/tech-industry/policy/jensen-huang-question-gets-reporter-ejected-from-trump-xi-putin-summit-journalist-asked-us-president-if-former-nvidia-ceo-had-been-disloyal-to-the-united-states",
+    "title": "35-year-old SNES runs ChatGPT, accelerated with a Super FX 2 chip 21 MHz of RISC muscle speeds 2.2M parameter chatbot replies",
+    "summary": "Nintendo s classic SNES console now has its own ChatGPT client, and it's accelerated by the Super FX 2 chip.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/35-year-old-snes-runs-chatgpt-accelerated-with-a-super-fx-2-chip-21-mhz-of-risc-muscle-speeds-2-2m-parameter-chatbot-replies",
     "categories": [
+      "AI & ML",
       "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.028239"
+    "processed_date": "2026-11-21T16:22:56.316989"
   },
   {
-    "title": "Lawyer s $9,450 private AI server with 12 used Nvidia V100s now runs every DeepSeek V4.1 Flash expert",
-    "summary": "A lawyer s private AI server now runs DeepSeek V4.1 Flash on 12 used Nvidia V100 GPUs, with every expert at 4-bit NVFP4.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyers-usd9-450-private-ai-server-of-12-used-nvidia-v100s-now-runs-every-deepseek-v4-1-flash-expert-at-4-bit-nvfp4-up-to-184-tokens-per-second-on-code-and-long-documents-start-answering-in-about-half-the-time",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.028366"
-  },
-  {
-    "title": "MSI EdgeMesa N AI+ review: RTX Spark power comes to Windows on Arm desktops, but there are trade-offs",
-    "summary": "MSI's EdgeMesa N AI+ brings Nvidia RTX Spark N1X power to a Windows-on-Arm mini PC with 128GB of unified memory, strong local AI performance, and the ability to game on the side. But its high $7,499 price isn't that much cheaper than more versatile DGX Spark systems.",
-    "link": "https://www.tomshardware.com/desktops/mini-pcs/msi-edgemesa-n-ai-plus-review",
+    "title": "Gigabyte MO27Q2A 27-inch QHD 280 Hz QD-OLED gaming monitor review: Another price buster from Gigabyte",
+    "summary": "Gigabyte brings excellent value while delivering premium performance and build quality with its MO27Q2A. This QD-OLED panel sports QHD resolution, 280 Hz, Adaptive-Sync, DisplayHDR 400, and wide-gamut color in a stylish and full-featured package.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/gigabyte-mo27q2a-27-inch-qhd-280-hz-qd-oled-gaming-monitor-review",
     "categories": [
       "Hardware",
       "GPUs"
     ],
     "quality_score": 15,
-    "processed_date": "2026-11-20T17:16:39.028489"
+    "processed_date": "2026-11-21T16:22:56.317062"
   },
   {
-    "title": "Amazon lists the Asus ROG Strix G16 at a new all-time low price of $1,179",
-    "summary": "Pick up a new gaming laptop for less with $575 off the Asus ROG G16 at Amazon.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/amazon-lists-the-asus-rog-strix-g16-at-a-new-all-time-low-price-of-usd1-179-rtx-5060-powered-gaming-laptop-comes-with-16gb-of-ddr5-ram-and-a-1tb-ssd",
+    "title": "New semi-autonomous 911 drones will reach nearly all of Knoxville in 90 seconds or less",
+    "summary": "The Knoxville Police Department has launched its Drone as First Responder program, with drones being dispatched to the scene following a 911 call to increase real-time situational awareness.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/knoxvilles-police-department-will-send-semi-autonomous-drones-on-911-calls-eyes-in-the-sky-to-aid-situational-awareness-for-officers",
     "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-20T17:16:39.028586"
-  },
-  {
-    "title": "Power and cooling limits force AI clusters with 100,000+ accelerators to use multiple data centers",
-    "summary": "Faster GPUs are no longer enough as power constraints, network congestion, and communication overhead force the industry to rethink how massive AI systems are built.",
-    "link": "https://www.tomshardware.com/tech-industry/supercomputers/power-and-cooling-limits-push-100-000-accelerator-ai-clusters-past-single-data-centers-google-cisco-and-marvell-target-scale-across-networking-across-regions",
-    "categories": [
-      "GPUs",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.028691"
-  },
-  {
-    "title": "Redditor forced to bring desktop PC in checked luggage on US-to-UK flight with GPU still installed",
-    "summary": "A pissed traveler decided to check their desktop CPU after a check-in attendant refused to have it carried in the cabin, despite being historically allowed by the airline.",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/redditor-puts-pc-into-checked-baggage-from-us-to-uk-flight-desktop-unit-miraculously-arrives-in-one-piece",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.028807"
-  },
-  {
-    "title": "OpenAI's AI models boost AMD's upcoming flagship GPU design by up to 14% in PPA",
-    "summary": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA GPT models also helping Lisa Su's outfit boost its new CPUs",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.028905"
-  },
-  {
-    "title": "Autonomous 5-ton John Deere skid-steer loader trained to perform acrobatic maneuvers using AI",
-    "summary": "Videos of an incredibly acrobatic, nimble, and graceful John Deere 332G 5-tonne skid-steer loader have been shared by a group of researchers from the U.S. and Switzerland.",
-    "link": "https://www.tomshardware.com/tech-industry/robotics/autonomous-5-tonne-john-deere-skid-steer-loader-trained-to-perform-acrobatic-maneuvers-using-ai-researchers-discuss-reinforcement-learning-tech-in-a-paper-titled-heavy-metal-acrobatics",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
+      "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-11-20T17:16:39.029008"
+    "processed_date": "2026-11-21T16:22:56.317126"
   },
   {
-    "title": "Score TP-Link Archer with full Wi-Fi 7 support and 10 Gbps wired networking for incredible 55% off its regular price",
-    "summary": "Get TP-Link Archer BE9500 with full Wi-Fi 7 support and 10 Gbps WAN for just $89.99, or 55% off its regular $199.99 price",
-    "link": "https://www.tomshardware.com/networking/routers/score-tp-link-archer-with-full-wi-fi-7-support-and-10-gbps-wired-networking-for-incredible-55-percent-off-its-regular-price-be9500-router-is-now-just-usd89-99-a-steep-discount-from-the-regular-usd199-99-price",
+    "title": "Defense firm s EMP Dragon weapon fries 51 jam-proof drones simultaneously",
+    "summary": "Aselsan developed the Ejderha, which translates to 'Dragon' in English, as a defensive weapon designed to combat drone swarms.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/defense-firms-emp-dragon-weapon-fries-51-jam-proof-drones-simultaneously-high-power-electromagnetic-system-relies-on-120-year-old-vacuum-tube-tech-to-defeat-fiber-optic-uavs",
     "categories": [
       "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.029114"
-  },
-  {
-    "title": "New Windows 11 lock screen zero-day unlocks BitLocker-protected PCs with just a few keystrokes",
-    "summary": "Windows 0-day lets attackers run software by partially bypass the lock screen with just some keystrokes even BitLocker-protected machines are seemingly vulnerable",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/new-windows-11-lock-screen-zero-day-unlocks-bitlocker-protected-pcs-with-just-a-few-keystrokes-win-u-keyboard-trick-lets-physical-attackers-run-usb-payloads-or-create-new-admin-accounts",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.029214"
-  },
-  {
-    "title": "AI data center power demand will double by 2030 thanks to $4 trillion in spending, adding an entire Great Britain to energy strain",
-    "summary": "IEA's report says that power production and distribution is barely keeping up with the rapid growth of AI data centers.",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-power-demand-will-double-by-2030-thanks-to-usd4-trillion-in-spending-adding-an-entire-great-britain-to-energy-strain-93-large-ai-factories-with-projected-capacity-of-around-50-gigawatts",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.029331"
-  },
-  {
-    "title": "GUITION ESP32-S31 development kit features 7-inch capacitive touch display, Ethernet port",
-    "summary": "After the Waveshare ESP32-S31-Touch-LCD-4.3C and VIEWE PLCM-UES31S043H800V480C-U, the GUITION JC1060F570C is another ESP32-S31 development kit with an integrated 7-inch touchscreen display. Some companies might reconsider the way they name their product Leaving that aside, the GUITION devkit is especially interesting as it features a large 7-inch capacitive display compared to the 4.3-inch panels used in the other two models, and it s the first to make use of the native Ethernet interface from the ESP32-S31 SoC. GUITION JC1060F570C_I_W_Y specifications: Wireless module ESP32-S31-WROOM-3-N16R16V SoC ESP32-S31NRV16 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory 512 KB SRAM, 32 KB low-power SRAM, 16MB PSRAM Wireless 2.4 GHz WiFi 6 (802.11ax) Bluetooth 5.4 with support for LE Audio, direction finding, Bluetooth Mesh 1.1, and Classic (BR/EDR) 802.15.4 radio for Zigbee, Thread, and Matter Storage 16 MB flash Antenna PCB [...] The post GUITION ESP32-S31 development kit features 7-inch capacitive touch display, Ethernet port appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/20/guition-esp32-s31-development-kit-features-7-inch-capacitive-touch-display-ethernet-port/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 20,
-    "processed_date": "2026-11-20T17:16:39.029780"
-  },
-  {
-    "title": "M5Stack Chain Captain An ESP32-S3 multifunctional controller with 1.54-inch color display, audio, motion sensing, IR Tx/Rx",
-    "summary": "M5Stack Chain Captain is an ESP32-S3-based multifunctional programmable controller that features a 1.54-inch color square display, a speaker and microphone for audio interaction, motion sensing, and infrared transmission and reception. The IoT controller features 16MB SPI flash and 8MB on-chip PSRAM, Chain and Grove 4-pin ports, a 15-pin GPIO header, and several buttons and RGB. It s powered by an 800 mAh battery that can be charged at 5V through USB-C or any of the expansion connectors. Chain Captain Dev Kit (ESP32-S3) specifications: SoC Espressif ESP32-S3R8 CPU Dual-core Tensilica LX7 microcontroller up to 240 MHz with vector instructions for AI acceleration Memory 8MB PSRAM Wireless WiFi 4 and Bluetooth 5.0 LE + Mesh connectivity Storage 16MB SPI flash Display 1.54-inch color LCD with 240 x 240 resolution; JD9853A SPI driver Audio ES8311 audio codec AW8737A amplifier 1W / 8 speaker MEMS microphone USB USB [...] The post M5Stack Chain Captain An ESP32-S3 multifunctional controller with 1.54-inch color display, audio, motion sensing, IR Tx/Rx appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/20/m5stack-chain-captain-an-esp32-s3-multifunctional-controller-with-1-54-inch-color-display-audio-motion-sensing-ir-tx-rx/",
-    "categories": [
-      "Hardware",
-      "Semiconductors"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-20T17:16:39.029953"
-  },
-  {
-    "title": "Meet the human workforce training physical AI",
-    "summary": "Before robots take the jobs, humans are being paid to teach them.",
-    "link": "https://www.fiercesensors.com/ai/meet-human-workforce-training-physical-ai",
-    "categories": [
-      "AI & ML"
     ],
     "quality_score": 0,
-    "processed_date": "2026-11-20T17:16:39.030911"
+    "processed_date": "2026-11-21T16:22:56.317184"
   },
   {
-    "title": "Why Anthropic s massive IPO matters to average AI devs: It s MDH",
-    "summary": "Anthropic has joined the race to give AI a body, in robotics, laboratory machines and more. The IPO will increase the company s ability to do so.",
-    "link": "https://www.fiercesensors.com/ai/why-anthropics-massive-ipo-matters-average-ai-devs-its-mdh",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.031070"
-  },
-  {
-    "title": "Ford is using Chinese battery tech to build a cheaper EV pickup in the US",
-    "summary": "Production began in October at Ford's $3 billion battery plant in Marshall, Michigan, about 100 miles west of Detroit. Finished cells are being shipped to the company's Louisville, Kentucky, plant, where prototypes of the Fathom are being built. CEO Jim Farley has pitched the small pickup as a direct competitor... Read Entire Article",
-    "link": "https://www.techspot.com/news/114643-ford-using-chinese-battery-tech-build-cheaper-ev.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.031481"
-  },
-  {
-    "title": "Ubisoft lays off 166 employees despite Black Flag Resynced generating $427 million in net sales",
-    "summary": "While layoffs at major game studios have become commonplace in recent years, some industry watchers were surprised by the timing of this particular announcement. Ubisoft released its H2 FY27 earnings report on the same day it announced the layoffs, revealing stronger-than-expected revenue and profits. Read Entire Article",
-    "link": "https://www.techspot.com/news/114640-ubisoft-lays-off-166-employees-despite-black-flag.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.031597"
-  },
-  {
-    "title": "There are now more satellites over most towns than stars you can actually see",
-    "summary": "Those figures come from The Night Sky Report, which UK engineering firm Accu Components published based on US Space Force tracking data from CelesTrak. The company plotted where nearly 15,900 active satellites in low Earth orbit sat every two minutes across seven October nights. Over a full night, it found... Read Entire Article",
-    "link": "https://www.techspot.com/news/114638-there-now-more-satellites-over-most-towns-than.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.031705"
-  },
-  {
-    "title": "JPMorgan, Visa, and Mastercard customer data leaked on the dark web by \"n0n\" ransomware group",
-    "summary": "According to Reuters, the leaked names and email addresses belong to more than 16,000 customers and 124 bank employees. \"Some\" phone numbers and partial home addresses, including ZIP codes, are also said to be part of the exfiltrated data. All three companies claim that critical financial data and payment card... Read Entire Article",
-    "link": "https://www.techspot.com/news/114637-jpmorgan-visa-mastercard-customer-data-leaked-dark-web.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.031818"
-  },
-  {
-    "title": "Steam Machine could get even more expensive as Valve warns of rising memory costs",
-    "summary": "Like pretty much all consumer devices, the Steam Machine has been impacted by the AI-driven memory crisis. Demand for the living room PC has been so high that Valve has only just fulfilled all reservations for the 512GB model. There's finally some stock left over, too, meaning you can buy... Read Entire Article",
-    "link": "https://www.techspot.com/news/114646-steam-machine-could-get-even-more-expensive-valve.html",
+    "title": "Homelabber s second-gen Optane build uses two RTX 3090s to run 2.8-trillion-parameter Kimi AI model at 3.11 tokens per second",
+    "summary": "A Reddit homelabber s Optane PMem 200 server now runs Moonshot AI s Kimi K3 at 3.11 tokens/s with two RTX 3090s and a RAM drive.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabbers-second-gen-optane-build-runs-2-8-trillion-parameter-kimi-k3-at-3-11-tokens-per-second-after-adding-two-rtx-3090s-moving-nearly-half-the-model-into-a-ram-drive-boosted-performance-by-41-percent",
     "categories": [
       "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.031930"
-  },
-  {
-    "title": "Anthropic becomes the biggest IPO ever at $2 trillion, beating SpaceX's record",
-    "summary": "Anthropic began trading on the Nasdaq on Thursday under the ticker \"ANT,\" closing at $97 per share. The company's fully diluted $2 trillion valuation makes it the most valuable IPO ever, surpassing SpaceX's June record of $1.77 trillion, which briefly made CEO Elon Musk the world's first trillionaire on paper. Read Entire Article",
-    "link": "https://www.techspot.com/news/114636-anthropic-becomes-world-most-valuable-ipo-2-trillion.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.032040"
-  },
-  {
-    "title": "Wafer prices may climb up to 20% next year, and some TSMC customers might have to pay in advance",
-    "summary": "Taiwanese IC design firms have started receiving notices of the increases, with the higher foundry costs expected to take effect in the first quarter of 2027. If design houses cannot pass them on, their gross margins could drop by 4 to 5 percentage points. Read Entire Article",
-    "link": "https://www.techspot.com/news/114622-wafer-prices-may-climb-up-20-next-year.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.032152"
-  },
-  {
-    "title": "Hackers exploited a two-year-old Windows flaw on POS systems to steal data on one million credit cards",
-    "summary": "Unknown cybercriminals spent months or even years harvesting critical data about millions of credit card transactions on point-of-sale (POS) systems. The operation was eventually discovered because the crew left a server exposed to public access. After breaking in, security researchers found a massive trove of revealing data, including malware source... Read Entire Article",
-    "link": "https://www.techspot.com/news/114633-hackers-exploited-two-year-old-windows-flaw-pos.html",
-    "categories": [
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-20T17:16:39.032274"
-  },
-  {
-    "title": "Amazon warns New Yorkers of up to $5 delivery price hikes if labor bill becomes law",
-    "summary": "The Delivery Protection Act, also known as Intro 518, would change whose name appears on an Amazon driver's paycheck. Today, the person who drops off your package might wear an Amazon vest, drive an Amazon van, and even have one of Amazon's AI-powered cameras watching how they drive. Their employer,... Read Entire Article",
-    "link": "https://www.techspot.com/news/114642-amazon-warns-new-yorkers-up-5-delivery-price.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.032414"
-  },
-  {
-    "title": "Germany and Austria want TikTok to have European owners, following US example",
-    "summary": "Bloomberg has obtained a copy of the joint proposal from the two governments. In it, they argue that the EU's existing rules aren't enough to address the risks associated with TikTok's ties to Beijing. They plan to present the idea to other EU countries when culture and media ministers meet... Read Entire Article",
-    "link": "https://www.techspot.com/news/114623-germany-austria-want-tiktok-have-european-owners-following.html",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.032528"
-  },
-  {
-    "title": "Modders are already playing GTA VI on PC with DLSS 5 through PS5 Remote Play and capture cards",
-    "summary": "Within hours of Grand Theft Auto VI's console launch, PC users have significantly altered its visual presentation by running Nvidia DLSS on top of console video feeds. The experience isn't quite like playing the open-world crime simulator on a PC, but some might appreciate the graphical changes and interpolated framerate. Read Entire Article",
-    "link": "https://www.techspot.com/news/114635-modders-already-playing-gta-vi-pc-dlss-5.html",
-    "categories": [
-      "Hardware",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.032647"
+    "processed_date": "2026-11-21T16:22:56.317266"
   },
   {
-    "title": "Intel's layoff spree continues as hundreds of IT workers face the axe",
-    "summary": "According to CTech (via TrendForce), Intel began making cuts to its global IT organization on November 16. While it hasn't revealed exact figures, employees claimed on social media that the reductions affected a double-digit percentage of the department's workforce. Read Entire Article",
-    "link": "https://www.techspot.com/news/114641-intel-layoff-spree-continues-hundreds-workers-face-axe.html",
-    "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.032760"
-  },
-  {
-    "title": "The Best Windows Screenshot and Screen Capture Tools",
-    "summary": "The Snipping Tool covers the basics, but these screenshot and screen capture tools do it faster and better . We retested the best options, from quick captures to tutorial-ready suites. Read Entire Article",
-    "link": "https://www.techspot.com/article/3183-best-screenshot-tools/",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.032865"
-  },
-  {
-    "title": "LibreOffice maker asks governments why they had no backup plan for the Microsoft 365 outage",
-    "summary": "The Document Foundation has shared a list of pointed questions aimed at organizations hit by the recent Microsoft 365 outage. TDF is hardly a neutral party: the non-profit develops the free alternative, and it says it received more than 1,000 donations in 24 hours as the outage unfolded. Read Entire Article",
-    "link": "https://www.techspot.com/news/114632-libreoffice-maker-asks-governments-why-they-had-no.html",
-    "categories": [
-      "Semiconductors",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.032978"
-  },
-  {
-    "title": "Proton Lumo is a free, privacy-focused alternative to ChatGPT",
-    "summary": "Built by the company behind Proton Mail, Lumo is a free AI assistant for writing, coding, and everyday tasks. Powered by open-source models, it protects saved conversations with zero-access encryption, keeps no logs, and never uses your data for AI training. Available on desktop and mobile, Lumo can also be used without creating an account. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/7940-proton-lumo-ai.html",
+    "title": "One gigabyte of Wikipedia losslessly compressed to 105.39MB with self-learning AI transformer model",
+    "summary": "Tufa Labs tufazip compresses 1GB of Wikipedia to 105.39MB with a 163M-parameter Transformer as its only predictor, on two Nvidia B200s.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/one-gigabyte-of-wikipedia-losslessly-compressed-to-105-39mb-with-self-learning-ai-transformer-model-tufazip-needs-two-nvidia-b200-gpus-and-about-a-week-to-compress-or-decompress",
     "categories": [
       "AI & ML",
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-21T16:22:56.317345"
+  },
+  {
+    "title": "Hardware hacker builds open-source portable 3.5-inch floppy Wi-Fi NAS",
+    "summary": "Techie designs a portable Wi-Fi NAS to read and transfer digital camera floppy disks device does double duty for easy floppy archival",
+    "link": "https://www.tomshardware.com/maker-stem/hardware-hacker-builds-open-source-portable-3-5-inch-floppy-wi-fi-nas-reads-and-shares-old-school-floppies-wirelessly-or-through-direct-connection",
+    "categories": [
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.033106"
+    "processed_date": "2026-11-21T16:22:56.317403"
   },
   {
-    "title": "China's first fully AI-generated movie flops at the box office",
-    "summary": "Sanxingdui: Future Past, a 100-minute sci-fi movie about a future AI apocalypse, failed to earn enough at the box office to cover the AI token costs required to generate the entire film. China's first fully AI-generated feature film has turned into a massive flop, despite locals already spending countless hours... Read Entire Article",
-    "link": "https://www.techspot.com/news/114616-china-first-fully-ai-generated-movie-flops-box.html",
+    "title": "South Korea busts 54 students cheating on national college admission exam by deploying emergency disaster alert during test",
+    "summary": "The South Korean government used extra measures to prevent cheating in its national college admission exams, due to a confession from a tax accountant exam top scorer admitting to AI-assisted cheating days before the CSAT.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/south-korea-busts-54-students-cheating-on-national-college-admission-exam-by-deploying-emergency-disaster-alert-during-test-ai-micro-cameras-and-phones-drive-cheating-epidemic-that-forced-government-crackdown",
     "categories": [
-      "AI & ML"
+      "AI & ML",
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.033216"
+    "processed_date": "2026-11-21T16:22:56.317503"
   },
   {
-    "title": "Civilization and XCOM developer Firaxis cuts a third of its workforce",
-    "summary": "Studio head Heather Hazen is also leaving as part of the restructuring. Meanwhile, people familiar with the matter say a new XCOM game, which is already behind schedule, could face further changes as a result of the overhaul. Read Entire Article",
-    "link": "https://www.techspot.com/news/114627-civilization-xcom-developer-firaxis-cuts-third-workforce-major.html",
+    "title": "Timekettle LiveTalk review Open-ear earbuds with real-time AI translation of videos, phone calls, face-to-face conversations",
+    "summary": "We ve received a review sample for the Timekettle LiveTalk, a pair of open-ear earbuds that supports real-time AI translation and AI-powered conversation summaries. It supports 53 languages and 107 accents, including 25 language pairs available offline. I ll start with an unboxing, share my experience using the LiveTalk as standard earbuds, then focus on the AI translation features by watching videos in German and Thai and discussing in Thai and French, both face-to-face and over the phone. Timekettle LiveTalk unboxing The retail package highlights the key features of the Timekettle LiveTalk AI translation Earbuds , which support Bluetooth connectivity, AI, and up to 8 hours/35 hours (with case) of battery life. It also mentions 53 supported languages, AI live summaries, privacy protection/GDPR compliance, and an all-day comfort open-ear design. You ll find the charging case, a USB-C to USB-A charging cable, a Quick Start Guide in English, and a multilingual safety sheet in [...] The post Timekettle LiveTalk review Open-ear earbuds with real-time AI translation of videos, phone calls, face-to-face conversations appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/20/timekettle-livetalk-review-open-ear-earbuds-with-real-time-ai-translation-of-videos-phone-calls-face-to-face-conversations/",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-21T16:22:56.317933"
+  },
+  {
+    "title": "LG and Samsung want to bring CO2 laundry from industrial plants into the home",
+    "summary": "At roughly 900 psi, CO2 turns into a thin liquid. That liquid penetrates fabric and carries away oils and grime. When the cycle ends, the pressure drops, and the CO2 turns straight back into gas. The clothes come out almost instantly dry. Filters remove dirt from the CO2 along the... Read Entire Article",
+    "link": "https://www.techspot.com/news/114652-lg-samsung-want-wash-clothes-carbon-dioxide.html",
+    "categories": [
+      "AI & ML",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-21T16:22:56.318654"
+  },
+  {
+    "title": "A new Windows zero-day reportedly gets past BitLocker using only the screen reader and a USB stick",
+    "summary": "The exploit, dubbed FastUnlock, lives entirely inside software that ships with Windows. It requires no malware download, no credential theft and no memory corruption bug. It is a logic flaw, and according to former Microsoft researcher Abdelhamid Naceri it worked on every machine he tried. Read Entire Article",
+    "link": "https://www.techspot.com/news/114655-new-windows-zero-day-reportedly-gets-past-bitlocker.html",
     "categories": [
       "Tech News"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-11-20T17:16:39.033342"
+    "quality_score": 10,
+    "processed_date": "2026-11-21T16:22:56.318750"
+  },
+  {
+    "title": "Scientists modify standard 3D printer to build 100-layer structures using living bacteria",
+    "summary": "Now, a team from the University of Rochester and Cornell University has built one capable of stacking around 100 layers, all for about $450. In a study published in ACS Applied Polymer Materials, the researchers describe how they started with a standard Creality Ender 3 and replaced its print head... Read Entire Article",
+    "link": "https://www.techspot.com/news/114645-scientists-modify-standard-3d-printer-build-100-layer.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-21T16:22:56.318868"
+  },
+  {
+    "title": "Impossible OS is an ambitious new x86 operating system built from scratch by a solo developer",
+    "summary": "Writing a new, custom operating system from scratch is difficult enough for an experienced team, but Derick Payne is attempting to do it all by himself. The South African developer and entrepreneur recently unveiled Impossible OS, a modern PC (x86-64) operating system inspired by Windows 11 and built using \"100%\"... Read Entire Article",
+    "link": "https://www.techspot.com/news/114647-impossible-os-ambitious-new-x86-operating-system-built.html",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-21T16:22:56.318977"
   }
 ]
