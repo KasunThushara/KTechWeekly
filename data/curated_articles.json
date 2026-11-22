@@ -1,173 +1,200 @@
 [
   {
-    "title": "This week on Tom's Hardware Premium: 21 November 2026",
-    "summary": "We go through an exhaustive list of everything we covered at SC26, which includes brand-new devices and developments from AMD, Nvidia, Intel and many more.",
-    "link": "https://www.tomshardware.com/tech-industry/supercomputers/this-week-on-toms-hardware-premium-21-november-2026-amd-nvidia-and-more-show-off-the-future-of-high-performance-computing-at-sc26",
+    "title": "Maker builds Mad Max-inspired wall of 100 Noctua PC fans",
+    "summary": "A wall of 100 Noctua PC fans was built by maker Sasa Karanovic because \"why not\" and to demo his new OpenFAN XL fan controller.",
+    "link": "https://www.tomshardware.com/pc-components/case-fans/maker-builds-mad-max-inspired-wall-of-100-noctua-pc-fans-stress-tests-usd2-355-open-source-openfan-xl-controller",
     "categories": [
-      "GPUs",
       "Hardware"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-21T16:22:56.316754"
-  },
-  {
-    "title": "Modder cools gaming laptop with a bounce house blower for a 35-degree drop",
-    "summary": "A PC cooling enthusiast attached a bounce house blower to the bottom of his laptop, bringing temperatures below 50 degrees Celsius.",
-    "link": "https://www.tomshardware.com/pc-components/air-cooling/laptop-cooled-by-bounce-house-blower-gets-35-degree-drop-in-temperatures-modder-compares-laptop-cooler-with-increasingly-powerful-fan-setups",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-21T16:22:56.316847"
-  },
-  {
-    "title": "Rapidus reportedly struggles to produce working SRAM on its 2nm node, putting 2027 mass production at risk",
-    "summary": "Japan's semiconductor startup has demonstrated functioning GAA transistors, but integrating them into working memory cells appears to be a considerably greater challenge.",
-    "link": "https://www.tomshardware.com/tech-industry/semiconductors/rapidus-reportedly-struggles-to-produce-working-sram-on-its-2nm-node-putting-2027-mass-production-at-risk-company-faces-significant-challenges-using-euv-to-develop-gaa-transistors",
-    "categories": [
-      "Semiconductors",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-21T16:22:56.316922"
-  },
-  {
-    "title": "35-year-old SNES runs ChatGPT, accelerated with a Super FX 2 chip 21 MHz of RISC muscle speeds 2.2M parameter chatbot replies",
-    "summary": "Nintendo s classic SNES console now has its own ChatGPT client, and it's accelerated by the Super FX 2 chip.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/35-year-old-snes-runs-chatgpt-accelerated-with-a-super-fx-2-chip-21-mhz-of-risc-muscle-speeds-2-2m-parameter-chatbot-replies",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-21T16:22:56.316989"
-  },
-  {
-    "title": "Gigabyte MO27Q2A 27-inch QHD 280 Hz QD-OLED gaming monitor review: Another price buster from Gigabyte",
-    "summary": "Gigabyte brings excellent value while delivering premium performance and build quality with its MO27Q2A. This QD-OLED panel sports QHD resolution, 280 Hz, Adaptive-Sync, DisplayHDR 400, and wide-gamut color in a stylish and full-featured package.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/gigabyte-mo27q2a-27-inch-qhd-280-hz-qd-oled-gaming-monitor-review",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-11-21T16:22:56.317062"
-  },
-  {
-    "title": "New semi-autonomous 911 drones will reach nearly all of Knoxville in 90 seconds or less",
-    "summary": "The Knoxville Police Department has launched its Drone as First Responder program, with drones being dispatched to the scene following a 911 call to increase real-time situational awareness.",
-    "link": "https://www.tomshardware.com/tech-industry/drones/knoxvilles-police-department-will-send-semi-autonomous-drones-on-911-calls-eyes-in-the-sky-to-aid-situational-awareness-for-officers",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-21T16:22:56.317126"
-  },
-  {
-    "title": "Defense firm s EMP Dragon weapon fries 51 jam-proof drones simultaneously",
-    "summary": "Aselsan developed the Ejderha, which translates to 'Dragon' in English, as a defensive weapon designed to combat drone swarms.",
-    "link": "https://www.tomshardware.com/tech-industry/drones/defense-firms-emp-dragon-weapon-fries-51-jam-proof-drones-simultaneously-high-power-electromagnetic-system-relies-on-120-year-old-vacuum-tube-tech-to-defeat-fiber-optic-uavs",
-    "categories": [
-      "Semiconductors"
     ],
     "quality_score": 0,
-    "processed_date": "2026-11-21T16:22:56.317184"
+    "processed_date": "2026-11-22T16:37:45.599820"
   },
   {
-    "title": "Homelabber s second-gen Optane build uses two RTX 3090s to run 2.8-trillion-parameter Kimi AI model at 3.11 tokens per second",
-    "summary": "A Reddit homelabber s Optane PMem 200 server now runs Moonshot AI s Kimi K3 at 3.11 tokens/s with two RTX 3090s and a RAM drive.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabbers-second-gen-optane-build-runs-2-8-trillion-parameter-kimi-k3-at-3-11-tokens-per-second-after-adding-two-rtx-3090s-moving-nearly-half-the-model-into-a-ram-drive-boosted-performance-by-41-percent",
+    "title": "Lenovo Pro 9n review: 18-core RTX Spark in a fancy chassis",
+    "summary": "The Lenovo Pro 9n is a lighter alternative to the Surface Laptop Ultra, offering a vivid OLED panel and lots of ports, though it shares similar weaknesses, like battery life.",
+    "link": "https://www.tomshardware.com/laptops/lenovo-pro-9n-review",
     "categories": [
-      "AI & ML",
+      "Hardware",
       "GPUs"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-11-21T16:22:56.317266"
+    "quality_score": 10,
+    "processed_date": "2026-11-22T16:37:45.599893"
   },
   {
-    "title": "One gigabyte of Wikipedia losslessly compressed to 105.39MB with self-learning AI transformer model",
-    "summary": "Tufa Labs tufazip compresses 1GB of Wikipedia to 105.39MB with a 163M-parameter Transformer as its only predictor, on two Nvidia B200s.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/one-gigabyte-of-wikipedia-losslessly-compressed-to-105-39mb-with-self-learning-ai-transformer-model-tufazip-needs-two-nvidia-b200-gpus-and-about-a-week-to-compress-or-decompress",
+    "title": "Neuralink trial participant ditches mouth stick to play GTA 6 with his mind",
+    "summary": "This is one of the most complicated games yet to be played using Neuralink, with the patient using imagined movements like tapping a finger or sliding a hand to simulate commands on the PS5 controller.",
+    "link": "https://www.tomshardware.com/peripherals/wearable-tech/neuralink-trial-participant-ditches-mouth-stick-to-play-gta-6-with-his-mind-brain-computer-interface-maps-imagined-ring-finger-taps-and-hand-slides-to-a-playstation-5-controller",
     "categories": [
-      "AI & ML",
-      "GPUs"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-21T16:22:56.317345"
+    "processed_date": "2026-11-22T16:37:45.599969"
   },
   {
-    "title": "Hardware hacker builds open-source portable 3.5-inch floppy Wi-Fi NAS",
-    "summary": "Techie designs a portable Wi-Fi NAS to read and transfer digital camera floppy disks device does double duty for easy floppy archival",
-    "link": "https://www.tomshardware.com/maker-stem/hardware-hacker-builds-open-source-portable-3-5-inch-floppy-wi-fi-nas-reads-and-shares-old-school-floppies-wirelessly-or-through-direct-connection",
+    "title": "KFC offers disc-shaped fried chicken to sad disc-less GTA VI fans",
+    "summary": "KFC Spain is offering free fried chicken discs to GTA 6 game owners bringing in their empty game cases as part of its 'The Replacement Disc' campaign.",
+    "link": "https://www.tomshardware.com/video-games/kfc-offers-disc-shaped-fried-chicken-to-sad-disc-less-gta-vi-fans-kfc-spains-the-replacement-disc-campaign-delivers-where-rockstar-disappoints-after-selling-usd3-79-billion-of-gta-vi-without-a-physical-disc",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-22T16:37:45.600030"
+  },
+  {
+    "title": "Ukraine revives its grounded fleet of 500+ US-made Puma drones with homegrown anti-jamming tech",
+    "summary": "The Puma AE reconnaissance drones had been grounded by electromagnetic warfare until they received this upgrade.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/ukraine-revives-its-grounded-fleet-of-500-us-made-puma-drones-with-homegrown-anti-jamming-tech-anti-jamming-upgrade-triples-range-to-31-miles",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-22T16:37:45.600088"
+  },
+  {
+    "title": "TSMC reportedly pauses shipments to Chinese designers after U.S. export rules flag decade-old 16nm and 14nm nodes",
+    "summary": "The BIS's IFR says that chip fabs can no longer assume a design's performance based on the specifications provided by their customer.",
+    "link": "https://www.tomshardware.com/tech-industry/policy/tsmc-reportedly-pauses-shipments-to-chinese-designers-after-u-s-export-rules-flag-decade-old-16nm-and-14nm-nodes-new-bis-controls-threaten-smartphone-tv-and-automotive-chips",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-11-22T16:37:45.600149"
+  },
+  {
+    "title": "AI agents design an entirely new CPU architecture from scratch, startup claims",
+    "summary": "Architect Labs says its AI agents designed Frostbite, an interaction-net CPU with 4.59x the performance per watt of an in-order core.",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/ai-agents-design-an-entirely-new-cpu-architecture-from-scratch-startup-claims-frostbite-posts-4-59x-the-performance-per-watt-of-an-in-order-core-in-pre-silicon-tests",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-11-22T16:37:45.600222"
+  },
+  {
+    "title": "Moore Threads' next 'Lushan' gaming GPU could pack a record 64GB of VRAM",
+    "summary": "Moore Threads teased its Lushan gaming GPU ahead of MDC 2026, with a product manager claiming record VRAM for a consumer graphics card.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/moore-threads-next-lushan-gaming-gpu-could-pack-a-record-64gb-of-vram-doubles-the-rtx-5090s-32gb-lofty-claims-of-15x-gaming-and-50x-ray-tracing-over-mtt-s80",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-22T16:37:45.600281"
+  },
+  {
+    "title": "Energy companies deploy drones that can be recharged by straddling power lines",
+    "summary": "NOMADs are drones that can land on live high-voltage lines, charge from the line itself and relocate ready for their next task.",
+    "link": "https://www.tomshardware.com/tech-industry/drones/energy-companies-deploy-drones-that-can-be-recharged-by-straddling-power-lines-nomad-quadcopter-drones-can-monitor-the-grid-without-ever-returning-home",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-22T16:37:45.600360"
+  },
+  {
+    "title": "Dev squeezes an AI language model onto a floppy for 486DX and Pentium PC stalwarts",
+    "summary": "An inspired developer has shoehorned a language model onto a floppy disk created especially for 486DX and Pentium PC users running DOS.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dev-squeezes-an-ai-language-model-onto-a-floppy-for-486dx-and-pentium-pc-stalwarts-tiny-2-1-needs-540kb-of-memory-and-speaks-via-pc-speaker-is-a-question-answering-transformer-with-367k-parameters",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-22T16:37:45.600420"
+  },
+  {
+    "title": "MSI's magnificent 32-inch 4K QD-OLED gaming monitor tumbles to just $569",
+    "summary": "Save $130 on this gorgeous 32-inch QD-OLED gaming monitor from MSI and experience crisp visuals in 4K.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/msis-magnificent-32-inch-4k-qd-oled-gaming-monitor-tumbles-to-just-usd569-save-usd130-at-b-and-h-photo-with-this-black-friday-mag-321up-deal-the-perfect-gaming-upgrade-for-your-pc",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-22T16:37:45.600481"
+  },
+  {
+    "title": "Act fast to score Intel's Core i7-14700K for its lowest price ever at $249.99",
+    "summary": "After months of inconsistent pricing, Intel's Core i7-14700K is down to its lowest price ever at $249.99, with support for LGA 1700 motherboards that come with either DDR4 or DDR5 memory support.",
+    "link": "https://www.tomshardware.com/pc-components/cpus/act-fast-to-score-intels-core-i7-14700k-for-its-lowest-price-ever-at-usd249-99-raptor-lake-refresh-cpu-is-a-bargain-that-supports-ddr5-and-ddr4-motherboards",
     "categories": [
       "Hardware"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-21T16:22:56.317403"
+    "processed_date": "2026-11-22T16:37:45.600554"
   },
   {
-    "title": "South Korea busts 54 students cheating on national college admission exam by deploying emergency disaster alert during test",
-    "summary": "The South Korean government used extra measures to prevent cheating in its national college admission exams, due to a confession from a tax accountant exam top scorer admitting to AI-assisted cheating days before the CSAT.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/south-korea-busts-54-students-cheating-on-national-college-admission-exam-by-deploying-emergency-disaster-alert-during-test-ai-micro-cameras-and-phones-drive-cheating-epidemic-that-forced-government-crackdown",
+    "title": "Trump wants to ban US companies from building overseas data centers as bans slow development",
+    "summary": "The president wants U.S. data center companies to stay within U.S. borders or pay a hefty fee if they want to build in foreign countries.",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/trump-wants-to-ban-us-companies-from-building-overseas-data-centers-as-bans-slow-development-also-considers-putting-a-tremendous-tax-in-lieu-of-prohibition",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-22T16:37:45.600622"
+  },
+  {
+    "title": "4-in-1 Raspberry Pi HAT combines RTL-SDR, LoRa, GPS, and RTC",
+    "summary": "Guangzhou-based HackerGadgets has launched a 4-in-1 Raspberry Pi HAT that offers RTL-SDR and LoRa connectivity, GPS and Beidou/GLONASS GNSS, and a PCF85063A real-time clock (RTC). The SDR part is implemented through an RTL2832U+R860 combo supporting 100 kHz to 1.74 GHz frequency and 100 kHz-28.8 MHz HF direct sampling. The HAT also features a Semtech SX1262 LoRa transceiver supporting the 860-960 MHz frequency band, 22 dBm max output power, and Meshtastic firmware. Users can select between U.FL and SMA versions depending on the type of antennas they plan to use. RTL-SDR/LoRa/GPS/RTC HAT specifications: Compatibility Raspberry Pi 3B, 4B, and 5 Direct installation. Raspberry Pi Zero and Zero 2 W Direct installation if the board has a 40-pin header; check overall height and power capacity. Software-defined radio (SDR) module Chips Realtek RTL2832U + Rafael Micro R860 as used in many RTL-SDR USB dongles Frequency Range 100 kHz [...] The post 4-in-1 Raspberry Pi HAT combines RTL-SDR, LoRa, GPS, and RTC appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/22/4-in-1-raspberry-pi-hat-combines-rtl-sdr-lora-gps-and-rtc/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-11-22T16:37:45.600955"
+  },
+  {
+    "title": "Polymega's $229 USB drive lets a Windows PC play PlayStation and Saturn discs",
+    "summary": "The Remix first went up for pre-order in April for $199. Playmaji raised the price to $229 in October saying costs for nearly everything kept climbing and reopened orders with holiday shipping at the same time. Its product page now promises orders will ship by the end of the year. Read Entire Article",
+    "link": "https://www.techspot.com/news/114654-polymega-229-usb-drive-windows-pc-play-playstation.html",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-22T16:37:45.601793"
+  },
+  {
+    "title": "Intel secures first external customer for 18A-P node, CEO Lip-Bu Tan says",
+    "summary": "The news was reiterated by Intel's chief technology officer, Pushkar Ranade, who clarified that Tan was talking about the cutting-edge 18A-P node rather than the base 18A. Though both are 1.8nm-class process nodes, Intel claims that the newer technology delivers around 9% higher performance at the same power or consumes... Read Entire Article",
+    "link": "https://www.techspot.com/news/114649-intel-secures-first-external-customer-18a-p-node.html",
     "categories": [
       "AI & ML",
       "Semiconductors"
     ],
-    "quality_score": 5,
-    "processed_date": "2026-11-21T16:22:56.317503"
-  },
-  {
-    "title": "Timekettle LiveTalk review Open-ear earbuds with real-time AI translation of videos, phone calls, face-to-face conversations",
-    "summary": "We ve received a review sample for the Timekettle LiveTalk, a pair of open-ear earbuds that supports real-time AI translation and AI-powered conversation summaries. It supports 53 languages and 107 accents, including 25 language pairs available offline. I ll start with an unboxing, share my experience using the LiveTalk as standard earbuds, then focus on the AI translation features by watching videos in German and Thai and discussing in Thai and French, both face-to-face and over the phone. Timekettle LiveTalk unboxing The retail package highlights the key features of the Timekettle LiveTalk AI translation Earbuds , which support Bluetooth connectivity, AI, and up to 8 hours/35 hours (with case) of battery life. It also mentions 53 supported languages, AI live summaries, privacy protection/GDPR compliance, and an all-day comfort open-ear design. You ll find the charging case, a USB-C to USB-A charging cable, a Quick Start Guide in English, and a multilingual safety sheet in [...] The post Timekettle LiveTalk review Open-ear earbuds with real-time AI translation of videos, phone calls, face-to-face conversations appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/20/timekettle-livetalk-review-open-ear-earbuds-with-real-time-ai-translation-of-videos-phone-calls-face-to-face-conversations/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
     "quality_score": 10,
-    "processed_date": "2026-11-21T16:22:56.317933"
+    "processed_date": "2026-11-22T16:37:45.601887"
   },
   {
-    "title": "LG and Samsung want to bring CO2 laundry from industrial plants into the home",
-    "summary": "At roughly 900 psi, CO2 turns into a thin liquid. That liquid penetrates fabric and carries away oils and grime. When the cycle ends, the pressure drops, and the CO2 turns straight back into gas. The clothes come out almost instantly dry. Filters remove dirt from the CO2 along the... Read Entire Article",
-    "link": "https://www.techspot.com/news/114652-lg-samsung-want-wash-clothes-carbon-dioxide.html",
+    "title": "Proton Drive can now move your files out of Google Drive with one click",
+    "summary": "Proton AG is making it easier to migrate files from Google Drive thanks to the newly introduced Easy Switch feature. Proton's marketing message is that Google's service is not secure enough, while every Big Tech player is now increasingly abusing users' data to train their new AI models. Conversely, Proton... Read Entire Article",
+    "link": "https://www.techspot.com/news/114648-proton-drive-can-now-move-files-out-google.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-22T16:37:45.601969"
+  },
+  {
+    "title": "Phison shows an SSD design with an NPU and 64GB of memory that runs AI on the data it stores",
+    "summary": "The company showed off the design at Supercomputing 2026 (SC26) in Chicago this week. Rather than sending entire datasets to the host, the drive scans and processes data in parallel right where it sits. It then sends back only the results that matter. Phison claims this could cut data transfers... Read Entire Article",
+    "link": "https://www.techspot.com/news/114653-phison-shows-ssd-design-npu-64gb-memory-runs.html",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-22T16:37:45.602059"
+  },
+  {
+    "title": "Jensen Huang berated Nvidia employees for decades, NYT report claims",
+    "summary": "According to an extensive New York Times report, former Nvidia CEO Jensen Huang's pattern of making abusive and often violent remarks toward employees dates back at least to the early 2000s. Two executives tried to sue the company after being fired, and one of them sought medical treatment for anxiety. Read Entire Article",
+    "link": "https://www.techspot.com/news/114651-jensen-huang-berated-nvidia-employees-decades-nyt-report.html",
     "categories": [
       "AI & ML",
-      "Semiconductors"
+      "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-21T16:22:56.318654"
-  },
-  {
-    "title": "A new Windows zero-day reportedly gets past BitLocker using only the screen reader and a USB stick",
-    "summary": "The exploit, dubbed FastUnlock, lives entirely inside software that ships with Windows. It requires no malware download, no credential theft and no memory corruption bug. It is a logic flaw, and according to former Microsoft researcher Abdelhamid Naceri it worked on every machine he tried. Read Entire Article",
-    "link": "https://www.techspot.com/news/114655-new-windows-zero-day-reportedly-gets-past-bitlocker.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-21T16:22:56.318750"
-  },
-  {
-    "title": "Scientists modify standard 3D printer to build 100-layer structures using living bacteria",
-    "summary": "Now, a team from the University of Rochester and Cornell University has built one capable of stacking around 100 layers, all for about $450. In a study published in ACS Applied Polymer Materials, the researchers describe how they started with a standard Creality Ender 3 and replaced its print head... Read Entire Article",
-    "link": "https://www.techspot.com/news/114645-scientists-modify-standard-3d-printer-build-100-layer.html",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-21T16:22:56.318868"
-  },
-  {
-    "title": "Impossible OS is an ambitious new x86 operating system built from scratch by a solo developer",
-    "summary": "Writing a new, custom operating system from scratch is difficult enough for an experienced team, but Derick Payne is attempting to do it all by himself. The South African developer and entrepreneur recently unveiled Impossible OS, a modern PC (x86-64) operating system inspired by Windows 11 and built using \"100%\"... Read Entire Article",
-    "link": "https://www.techspot.com/news/114647-impossible-os-ambitious-new-x86-operating-system-built.html",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-21T16:22:56.318977"
+    "processed_date": "2026-11-22T16:37:45.602152"
   }
 ]
