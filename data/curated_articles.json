@@ -1,354 +1,461 @@
 [
   {
-    "title": "Penguin shows off photonic memory box at SC26 that can expand AI accelerator capacity over optical links",
-    "summary": "Penguin Solutions demonstrates external memory box with up to 576 GB of HBM3E and 16 TB of DDR5 inside that connects to hosts using optical links. There is a major caveat with this one as it does not seem to support existing servers and accelerators.",
-    "link": "https://www.tomshardware.com/pc-components/dram/penguin-shows-off-photonic-memory-box-at-sc26-that-can-expand-ai-accelerator-capacity-over-optical-links-device-sports-up-to-576gb-of-hbm3e-customer-samples-expected-in-2027",
+    "title": "RAM price tracking 2026",
+    "summary": "Check the best prices on DDR5 and DDR4 memory kits of different capacities.",
+    "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/ram-price-tracking-2026-lowest-price-on-ddr5-and-ddr4-memory-of-all-capacities",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-24T19:41:54.564589"
+  },
+  {
+    "title": "Saudi OpenAI eavesdropper who bugged company office had hundreds of private recordings",
+    "summary": "Prosecutors found dozens of recordings of OpenAI meetings and conversations recorded from a covert listening device inside one of the company's conference rooms.",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/saudi-openai-eavesdropper-who-bugged-company-office-had-hundreds-of-private-recordings-was-in-frequent-communication-with-saudi-government-perp-had-dozens-of-recordings-of-discussions-of-trade-secrets",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-24T19:41:54.564749"
+  },
+  {
+    "title": "Tom's Hardware s CES 2027 Awards: How to enter your product",
+    "summary": "Here s how to submit your products for Tom's Hardware CES 2027 Awards.",
+    "link": "https://www.tomshardware.com/pc-components/toms-hardwares-ces-2027-awards-how-to-enter-your-product",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-24T19:41:54.564844"
+  },
+  {
+    "title": "Reinstated Nvidia CEO Jensen Huang must still face China congressional and Senate Banking committees",
+    "summary": "The Nvidia CEO will face the Select Committee on China December 1 and then the Senate Banking Committee on December 3.",
+    "link": "https://www.tomshardware.com/tech-industry/policy/reinstated-nvidia-ceo-jensen-huang-must-still-face-china-congressional-and-senate-banking-committees-senators-and-representatives-demand-answers-from-nvidia-ceo-on-national-security-threats-and-export-controls",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-24T19:41:54.564941"
+  },
+  {
+    "title": "Bambu Lab shows off H3C tool changer, first laser at Formnext 2026",
+    "summary": "The latest in 3D printing tech comes to Frankfurt.",
+    "link": "https://www.tomshardware.com/3d-printing/bambu-lab-shows-off-h3c-tool-changer-first-laser-at-formnext-2026-prusa-research-snapmaker-creality-elegoo-anycubic-and-flashforge-also-on-display",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-24T19:41:54.565022"
+  },
+  {
+    "title": "This $479 RTX 5060 Ti 8GB gives you a big step up in performance for an RTX 5060 price",
+    "summary": "RTX 5060s and RTX 5060 Ti 8GB cards are selling for about the same price right now, so step up to 5060 Ti power for just a bit more cash with this Gigabyte deal.",
+    "link": "https://www.tomshardware.com/pc-components/gpus/this-usd479-rtx-5060-ti-8gb-gives-you-a-big-step-up-in-performance-for-an-rtx-5060-price-twin-fan-gigabyte-eagle-card-is-a-great-1080p-gaming-upgrade",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-24T19:41:54.565114"
+  },
+  {
+    "title": "Rockstar nukes 15-year-old s GTA 6 recompilation project, Discord and GitHub servers taken down",
+    "summary": "Project Leonida, a recompilation project aiming to bring the console version of GTA 6 to the PC, has shut down with its Discord and GitHub servers offline, and its creator is now banned from the former until 2028.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/rockstar-nukes-15-year-olds-gta-6-recompilation-project-discord-and-github-servers-taken-down-project-leonida-had-almost-180-000-discord-members-host-account-banned-for-two-years",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-24T19:41:54.565212"
+  },
+  {
+    "title": "Jensen Huang confessed to more affairs before the board reinstated him as Nvidia CEO, report claims",
+    "summary": "Jensen Huang admitted to more affairs than the two that Nvidia's board members were already aware of before they agreed to let him return to the company as CEO, President, and board member, amid reports that one of the women involved is a Chinese spy.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-confessed-to-more-affairs-before-the-board-reinstated-him-as-nvidia-ceo-report-claims-contrite-chief-disclosed-at-least-two-additional-affairs-beyond-megaspeed-exec-and-nvidias-vp-of-health-care",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-24T19:41:54.565318"
+  },
+  {
+    "title": "Bambu Lab P3C Review: A more affordable tool changer",
+    "summary": "The Bambu Lab P3C is a more affordable five-color tool changer that can expand to seven tools and handles TPU with ease.",
+    "link": "https://www.tomshardware.com/3d-printing/bambu-lab-p3c-review",
+    "categories": [
+      "Hardware",
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-24T19:41:54.565430"
+  },
+  {
+    "title": "Trump pressured Nvidia to bring Jensen back, called into board meeting to push reinstatement, reports claim",
+    "summary": "Nvidia's crashing stock market prices is threatening to take down the entire market with it, which is why President Donald Trump decided to intervene and steady the situation.",
+    "link": "https://www.tomshardware.com/tech-industry/policy/trump-pressured-nvidia-to-bring-jensen-back-called-into-board-meeting-to-push-reinstatement-reports-claim-president-concerned-over-falling-stock-prices-with-huangs-return-reversing-slide",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-24T19:41:54.565531"
+  },
+  {
+    "title": "Samsung just launched a gaming monitor with a refresh rate higher than its price dual-mode Odyssey G60H offers 1,100 Hz in HD",
+    "summary": "Samsung's newly launched Odyssey G60H display is targeted squarely at serious competitive gamers with QHD 600Hz and HD 1100HZ display modes.",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/samsung-just-launched-a-gaming-monitor-with-a-refresh-rate-higher-than-its-price-dual-mode-odyssey-g60h-offers-1-100-hz-in-hd",
+    "categories": [
+      "GPUs",
+      "Tech News"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-24T19:41:54.565623"
+  },
+  {
+    "title": "Vulnerability could let hacker hijack electric trailer braking system remotely via Bluetooth, apply any amount of force remotely",
+    "summary": "After noticing that his Elecbrakes remote had automatically paired to a stranger's trailer, Patrick Forck's cyber security spider senses tingled.",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/vulnerability-could-let-hacker-hijack-electric-trailer-braking-system-remotely-via-bluetooth-apply-any-amount-of-force-remotely-elecbrakes-flaw-reverse-engineered-using-claude-patched-by-manufacturer",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-24T19:41:54.565717"
+  },
+  {
+    "title": "Go ad-free across Tom s Hardware by subscribing to Premium from $7 a month, or $29 annually",
+    "summary": "Tom s Hardware is going ad-free, exclusively for Premium members.",
+    "link": "https://www.tomshardware.com/tech-industry/go-ad-free-across-toms-hardware-by-subscribing-to-premium-from-usd7-a-month-or-usd29-annually-support-us-to-get-seamless-browsing-read-a-treasure-trove-of-exclusive-content-and-unlock-access-to-bench",
+    "categories": [
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-24T19:41:54.565800"
+  },
+  {
+    "title": "Shared CXL memory pools come with steep software tax that could stall multi-server scaling",
+    "summary": "UT Arlington and Intel measured software sync costs on a real four-host shared CXL memory pool, as vendors eye CXL for AI KV cache.",
+    "link": "https://www.tomshardware.com/pc-components/dram/shared-cxl-memory-pools-come-with-steep-software-tax-that-could-stall-multi-server-scaling-ut-arlington-shares-real-world-test-that-measured-four-servers-sharing-the-same-pool-at-sc26",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-24T19:41:54.565899"
+  },
+  {
+    "title": "Japan puts chipmaking labs inside trucks with mobileFab",
+    "summary": "Japan's chip-making education program goes on wheels with the mobileFab truck-mounted lithography machines let students everywhere pattern chip wiring",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/japan-puts-chipmaking-labs-inside-trucks-with-mobilefab-trucks-pack-30-cm-lithography-gear-to-tackle-a-10-year-semiconductor-engineer-shortage",
+    "categories": [
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-24T19:41:54.565986"
+  },
+  {
+    "title": "Grab a 4K-ready CyberPowerPC gaming rig with a 7800X3D and RTX 5070 for $2,099.99",
+    "summary": "Grab this powerful CyberPowerPC gaming rig with an AMD Ryzen 7 7800X3D and Nvidia GeForce RTX 5070 for $2,099.99.",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/grab-a-4k-ready-cyberpowerpc-gaming-rig-with-a-7800x3d-and-rtx-5070-for-usd2-099-99-newegg-knocks-usd130-off-this-liquid-cooled-desktop-with-32gb-ddr5-and-a-1tb-ssd",
+    "categories": [
+      "GPUs",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-24T19:41:54.566072"
+  },
+  {
+    "title": "Nvidia engineer who quit over Jensen Huang's exit says he 'may have moved too quickly'",
+    "summary": "An Nvidia robotics engineer that quit in response to Jensen Huang's resignation says he \"may have moved too quickly\" now that CEO is back in charge.",
+    "link": "https://www.tomshardware.com/tech-industry/nvidia-engineer-that-quit-in-response-to-jensen-huang-resignation-welcomes-ceo-back-i-may-have-moved-too-quickly-says-robotics-engineer-who-made-viral-post",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-24T19:41:54.566160"
+  },
+  {
+    "title": "Gamer hijacks plane in GTA 6 using just mind control and eye tracking",
+    "summary": "Perri Karyal programmed an EEG device to read her brainwaves and translate it to actions on her Xbox controller.",
+    "link": "https://www.tomshardware.com/peripherals/wearable-tech/gamer-hijacks-plane-in-gta-6-using-just-mind-control-and-eye-tracking-xbox-controller-mapped-to-read-brain-signals-using-eeg",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-24T19:41:54.566244"
+  },
+  {
+    "title": "Enthusiast gets GTA V running on a 2007 Radeon with just 64MB of VRAM",
+    "summary": "Budget-Builds Official ran GTA V on a 2007 ATI Radeon HD 2350 with 64MB of DDR2 VRAM at 13 to 20 FPS.",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/enthusiast-gets-gta-v-running-on-a-2007-radeon-with-just-64mb-of-vram-config-edits-windows-8-and-an-overclock-lift-it-from-1-fps-to-20-fps-but-most-cars-stop-rendering",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-24T19:41:54.566337"
+  },
+  {
+    "title": "Grab a TP-Link tri-band Wi-Fi 7 router for less than $90",
+    "summary": "TP-Link is aiming for the value crown with a $90 tri-band Wi-Fi 7 router.",
+    "link": "https://www.tomshardware.com/networking/routers/grab-a-speedy-tp-link-tri-band-wi-fi-7-router-for-less-than-usd90-archer-be9500-router-is-55-percent-off-sports-10-gbe-wan-and-two-2-5-gbe-lan-ports",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-24T19:41:54.566428"
+  },
+  {
+    "title": "Jensen Huang returns to applause from employees at Nvidia HQ",
+    "summary": "Jensen Huang returned to the office after being reinstated to CEO to cheers, according to videos spread on social media.",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome",
+    "categories": [
+      "GPUs"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-24T19:41:54.566522"
+  },
+  {
+    "title": "ST VL53LB is the smallest FlightSense ToF ranging sensor at just 4.0 1.8 1.0 mm",
+    "summary": "STMicroelectronics has just introduced the VL53LB (VL53LBCA), its smallest Time-of-Flight (ToF) ranging sensor, part of the FlightSense portfolio, with a size of just 4.0 1.8 1.0 mm. Like the earlier VL53L0X and VL53L1X models, it s a single-zone ToF sensor featuring a 940 nm invisible vertical-cavity surface-emitting laser (VCSEL), but it offers a longer range of up to 8 meters and supports multi-object detection. It s 30% smaller than the previous generation (VL53L3) and consumes just 50 W in ULP mode, which makes it ideal for smartphones and space-constrained robotics and industrial systems. ST VL53LB key features and specifications: Low-power microcontroller running digital firmware Emitter 940 nm invisible vertical-cavity surface-emitting laser (VCSEL) and its analog driver Distance ranging Histogram-based technology, with the possibility to output distance and raw histograms from the chip Detection Range 5mm up to 8+ m with up to 1% accuracy Longer range in dark room [...] The post ST VL53LB is the smallest FlightSense ToF ranging sensor at just 4.0 1.8 1.0 mm appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/24/st-vl53lb-is-the-smallest-flightsense-tof-ranging-sensor-at-just-4-0-x-1-8-x-1-0-mm/",
+    "categories": [
+      "AI & ML",
+      "Hardware"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-24T19:41:54.566846"
+  },
+  {
+    "title": "TinyWifiDongle Arduino library turns ESP32-S3 and Raspberry Pi Pico 2 W boards into USB WiFi adapters",
+    "summary": "TinyWifiDongle open-source Arduino library turns ESP32-S2/S3 and Raspberry Pi Pico W/2 W boards into USB WiFi adapters. The library uses USB CDC-NCM (Network Control Model) to provide network connectivity to Linux, macOS, and Windows 11 computers without installing additional drivers. The library implements a transparent Layer-2 bridge between the MCU s WiFi and USB interfaces, allowing the connected computer to get an IP address directly from the router via DHCP, without NAT or a separate network. It supports hard-coded WiFi credentials or browser-based configuration and achieves approximately 5 Mbps on the ESP32-S3 and 2 Mbps on the Pico 2 W in the developer s tests. TinyWifiDongle overview: Supported hardware ESP32-S3 and ESP32-S2 with native USB-OTG support; tested on ESP32-S3 Raspberry Pi Pico 2 W (RP2350) and Pico W (RP2040); tested on Pico 2 W ESP32-P4 (+ESP32-C6) support is experimental, with USB networking not yet tested USB networking USB CDC-NCM using TinyUSB [...] The post TinyWifiDongle Arduino library turns ESP32-S3 and Raspberry Pi Pico 2 W boards into USB WiFi adapters appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/24/tinywifidongle-arduino-library-turns-esp32-s3-and-raspberry-pi-pico-2-w-boards-into-usb-wifi-adapters/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-24T19:41:54.567022"
+  },
+  {
+    "title": "RetroLine pairs a rotary or touch-tone landline phone to your smartphone (Crowdfunding)",
+    "summary": "RetroLine is a small USB-C-powered adapter with an RJ-11 phone jack that allows you to connect a retro rotary dial (pulse) and touch-tone (DTMF) phone and make or receive calls over Bluetooth through your smartphone. The company, Indigo Telephony, says it behaves like a real line. Users can pick their country, and the RetroLine box matches the dial, busy and ringback tones, ring cadence, and Caller ID format. The bells inside older 1970s phones can also ring. RetroLine key features and specifications: SoC Not disclosed. The company only mentions a fast microcontroller , and I suspect it may be an ESP32. Storage MicroSD card slot for call recording, hold music, sound-board clips, and system logs Wireless Bluetooth for connection to your smartphone WiFi for web dashboard Phone connector RJ-11 jack compatible with rotary dial (pulse) and touch-tone (DTMF) phones Audio High-fidelity audio codec Custom hold music (WAV or MP3) [...] The post RetroLine pairs a rotary or touch-tone landline phone to your smartphone (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/24/retroline-pairs-a-rotary-or-touch-tone-landline-phone-to-your-smartphone/",
+    "categories": [
+      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 10,
+    "processed_date": "2026-11-24T19:41:54.567197"
+  },
+  {
+    "title": "Forlinx FET-MX952x-C SoM features NXP i.MX 952 SoC with 2 TOPS NPU, three CAN FD interfaces",
+    "summary": "Forlinx Embedded FET-MX952x-C SoM and its matching OK-MX952x-C development kit are built around the NXP i.MX 952 Edge AI SoC. Designed for industrial and automotive applications, the processor features four Cortex-A55 cores, a Cortex-M7 real-time core, a Cortex-M33 safety core, and an integrated 2 eTOPS NPU for edge AI workloads. Forlinx FET-MX952x-C SoM The SoM supports up to 8GB LPDDR4X RAM, 64GB eMMC storage, dual Gigabit Ethernet with TSN support, three CAN FD interfaces, and PCIe Gen 3 connectivity. It is designed for industrial automation, machine vision, smart displays, and automotive applications. FET-MX952x-C specifications: SoC NXP i.MX 952 CPU 4x Arm Cortex-A55 cores @ up to 1.7 GHz 1x Arm Cortex-M7 real-time core @ 800 MHz 1x Arm Cortex-M33 safety core @ 333 MHz GPU Arm Mali-G310 with OpenGL ES 3.2, Vulkan 1.2, and OpenCL 3.0 support VPU H.264/H.265 hardware decoding up to 4K @ 60fps H.264 hardware [...] The post Forlinx FET-MX952x-C SoM features NXP i.MX 952 SoC with 2 TOPS NPU, three CAN FD interfaces appeared first on CNX Software - Embedded Systems News .",
+    "link": "https://www.cnx-software.com/2026/11/24/forlinx-fet-mx952x-c-som-features-nxp-i-mx-952-soc-with-2-tops-npu-three-can-fd-interfaces/",
+    "categories": [
+      "Hardware",
+      "AI & ML"
+    ],
+    "quality_score": 15,
+    "processed_date": "2026-11-24T19:41:54.567374"
+  },
+  {
+    "title": "Jensen Huang is back. Nvidia s dependency problem isn t fixed.",
+    "summary": "So-called physical AI increasingly depends on Nvidia. Huang s tumultuous exit and returns shows just how much Nvidia itself depends on him.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/jensen-huang-back-nvidias-dependency-problem-isnt-fixed",
+    "categories": [
+      "GPUs",
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-24T19:41:54.568453"
+  },
+  {
+    "title": "Robots are becoming the new battleground for lidar",
+    "summary": "After years of betting on autonomous cars, sensor makers are finding an expanding market in robots and physical AI, where lidar increasingly works alongside cameras and other sensors to give machines a view of the physical world.",
+    "link": "https://www.fiercesensors.com/sensors-fusion/robots-are-becoming-new-battleground-lidar",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-24T19:41:54.568557"
+  },
+  {
+    "title": "Huang's Nvidia return puts physical AI back on familiar course",
+    "summary": "The reinstated CEO has been one of the industry's loudest evangelists for robotics and physical AI, where cameras, LiDAR, tactile sensors and other real-world inputs are critical to making AI useful outside the data center.",
+    "link": "https://www.fiercesensors.com/ai/huangs-nvidia-return-puts-physical-ai-back-familiar-course",
     "categories": [
       "AI & ML",
       "GPUs"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-23T20:33:05.751006"
+    "processed_date": "2026-11-24T19:41:54.568660"
   },
   {
-    "title": "3D printer that promises simultaneous printing from all four heads gets $500,000 in crowdfunding",
-    "summary": "The $899 Co Print Quadro IQEX 3D printer raised over $500,000 on Kickstarter, exceeding its $50,000 goal.",
-    "link": "https://www.tomshardware.com/3d-printing/3d-printer-that-promises-simultaneous-printing-from-all-four-heads-gets-usd500-000-in-crowdfunding-four-printhead-co-print-quadro-msrp-set-at-just-usd899-promises-reduced-waste-and-faster-printing",
+    "title": "How many sensors in a humanoid hand? (XELA counts 368.)",
+    "summary": "Humanoid hands will need hundreds of sensors for tactile, force and more. One company already counts 368 sensors per hand.",
+    "link": "https://www.fiercesensors.com/ai/how-many-sensors-humanoid-hand-xela-counts-368",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 0,
+    "processed_date": "2026-11-24T19:41:54.568907"
+  },
+  {
+    "title": "Musk spills on Optimus hand, Tesla s planned Optimus Academy",
+    "summary": "Musk and Tesla executives described building a sensor-rich Optimus hand that is squishy and resilient. Training many Optimi will happen in an Optimus Academy.",
+    "link": "https://www.fiercesensors.com/ai/musk-spills-optimus-hand-teslas-planned-optimus-academy",
+    "categories": [
+      "AI & ML"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-24T19:41:54.568998"
+  },
+  {
+    "title": "GTA 6 shatters PlayStation records with 39 million players and 683 million hours played in 3 days",
+    "summary": "GTA 6 smashed several other PS5 records, including the highest peak concurrent player count of any PlayStation game, surpassing previous records across multiplayer, free-to-play, and single-player titles. The launch also reportedly resulted in the highest number of new PS5 consoles connected on a single day outside the holiday season, with... Read Entire Article",
+    "link": "https://www.techspot.com/news/114686-gta-6-shatters-playstation-records-39-million-players.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-24T19:41:54.569109"
+  },
+  {
+    "title": "Apple is readying MacBook Neo 2 for a spring 2027 launch",
+    "summary": "According to the well-connected Mark Gurman, Apple is putting Neo on an annual update cycle that doesn't sound much different than the MacBook Air and Pro lines. The next iteration, reportedly codenamed J701, is scheduled to debut in the spring of 2027 and will primarily focus on hardware upgrades and... Read Entire Article",
+    "link": "https://www.techspot.com/news/114688-apple-readies-second-generation-macbook-neo-spring-2027.html",
     "categories": [
       "Tech News",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-23T20:33:05.751091"
+    "processed_date": "2026-11-24T19:41:54.569222"
   },
   {
-    "title": "Samsung Odyssey G8 G80SH 32-inch 4K OLED gaming monitor review: Color, performance and style",
-    "summary": "Samsung s Odyssey G8 G80SH is a 32-inch Quantum Dot OLED with 4K resolution and 240 Hz. It delivers a huge color gamut along with smooth and responsive gaming and it supports HDR10+ with dynamic tone mapping.",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/samsung-odyssey-g8-g80sh-32-inch-4k-oled-gaming-monitor-review",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-11-23T20:33:05.751168"
-  },
-  {
-    "title": "Nvidia reinstates Jensen Huang as CEO following unanimous vote by company board",
-    "summary": "Nvidia has reinstated Jensen Huang as CEO, president, and a board member.",
-    "link": "https://www.tomshardware.com/tech-industry/nvidia-reinstates-jensen-huang-as-ceo-following-unanimous-vote-by-company-board-11-day-exit-from-company-saw-stock-prices-fall-by-24-percent-after-affair-scandal",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-23T20:33:05.751223"
-  },
-  {
-    "title": "Russia readying nuclear-armed satellite that could destroy every low-Earth-orbit satellite, report claims",
-    "summary": "Intelligence agencies believe that Russia has spent the last several years readying Sputnik-S, a satellite armed with a nuclear weapon that could be used to destroy rival satellites in Earth's orbit and it's expected to launch before the end of 2026.",
-    "link": "https://www.tomshardware.com/tech-industry/space/russia-readying-nuclear-armed-satellite-that-could-destroy-every-low-earth-orbit-satellite-report-claims-kremlin-blasts-sputnik-s-claims-as-unfounded-allegations-and-propaganda",
-    "categories": [
-      "AI & ML",
-      "Semiconductors"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-23T20:33:05.751294"
-  },
-  {
-    "title": "The RTX 5090 s 16-pin connector just got a free pin-by-pin watchdog",
-    "summary": "RTX Lens, a free open-source Windows app, reads per-pin current from Asus ROG Astral GPUs, WireView Pro II and MSI PSUs.",
-    "link": "https://www.tomshardware.com/pc-components/gpus/the-rtx-5090s-16-pin-connector-just-got-a-free-pin-by-pin-watchdog-rtx-lens-taps-asus-astral-wireview-pro-ii-and-msi-psu-sensors-to-alert-your-phone-or-shut-down-your-pc",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-23T20:33:05.751353"
-  },
-  {
-    "title": "MacBook modder turns Apple s Force Touch trackpad into a speaker using haptic engine",
-    "summary": "The MacBook's Force Touch trackpad with its haptic engine can be used to make it into a speaker using some new 'No Speaker' software.",
-    "link": "https://www.tomshardware.com/laptops/macbooks/macbook-modder-turns-apples-force-touch-trackpad-into-a-speaker-using-haptic-engine-macbook-talks-using-only-vibrations-from-the-motor-can-play-speech-tones-and-even-music",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-23T20:33:05.751409"
-  },
-  {
-    "title": "AI server makers hike prices up to 45% months after contracts are signed as RAM shortage triples memory-heavy CPU node costs",
-    "summary": "AI server OEMs are hiking prices post-contract up to 45% financial firms building datacenters still pay up as \"the compute is valuable\"",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/ai-server-makers-hike-prices-up-to-45-percent-months-after-contracts-are-signed-as-ram-shortage-triples-memory-heavy-cpu-node-costs-financial-firms-still-pay-up-as-the-compute-is-valuable",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-23T20:33:05.751472"
-  },
-  {
-    "title": "Walmart has slashed $1,090 off this RTX 5070 gaming laptop, nearly half price",
-    "summary": "Save nearly 50% on this HyperX gaming laptop with RTX 5070.",
-    "link": "https://www.tomshardware.com/laptops/gaming-laptops/walmart-has-slashed-usd1-090-off-this-rtx-5070-gaming-laptop-nearly-half-price-get-a-ryzen-9-powered-machine-for-just-usd1-299",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 0,
-    "processed_date": "2026-11-23T20:33:05.751543"
-  },
-  {
-    "title": "President Trump says Nvidia board rehiring Jensen Huang would be best for the company and US",
-    "summary": "After saying that Nvidia's new CEO should come \"outside the company,\" U.S. Treasury Secretary Scott Bessent now argues that former chief Jensen Huang \"is on the outside,\" paving the way for a return following President Trump's declaration of his \"hope\" that Huang will be back.",
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/president-trump-says-nvidia-board-rehiring-jensen-huang-would-be-best-for-the-company-and-the-us-treasury-sec-bessent-walks-back-outsider-ceo-comments-claims-huang-is-technically-an-outsider-now",
-    "categories": [
-      "Hardware",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-23T20:33:05.751616"
-  },
-  {
-    "title": "Weird finger-wearable gaming mouse raises $43,000 on Kickstarter, a staggering 8x its crowdfunding goal",
-    "summary": "The Borslon finger-worn gaming mouse is the first of its kind, reaching $43,000 in its Kickstarter campaign and shattering its $5,000 goal. However, it may have some major design flaws.",
-    "link": "https://www.tomshardware.com/peripherals/gaming-mice/weird-finger-wearable-gaming-mouse-kickstarter-breaks-8x-its-crowdfunding-goal-but-it-potentially-has-major-design-flaws-and-is-kind-of-sketchy",
-    "categories": [
-      "AI & ML",
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-23T20:33:05.751687"
-  },
-  {
-    "title": "Homelabber's $3,500 build straps four 32GB Nvidia V100s to a Lenovo mini PC for 128GB of VRAM",
-    "summary": "A homelab builder runs four used Nvidia Tesla V100 32GB GPUs off a Lenovo ThinkCentre M720q Tiny over OCuLink for 128GB of VRAM.",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabbers-usd3-500-build-straps-four-32gb-nvidia-v100s-to-a-lenovo-mini-pc-for-128gb-of-vram-coreboot-oculink-docks-and-a-solder-bridge-unlock-285-tokens-sec-in-qwen3-8-27b",
-    "categories": [
-      "GPUs",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-23T20:33:05.751745"
-  },
-  {
-    "title": "Canadian scalper places 40+ Nvidia RTX 5090s on Facebook Marketplace for over $6,600 apiece",
-    "summary": "Canadian scalper places 40+ Nvidia RTX 5090s on Facebook Marketplace for over 6,600 USD a piece purportedly sold every unit quite quickly",
-    "link": "https://www.tomshardware.com/pc-components/gpus/canadian-scalper-places-40-nvidia-rtx-5090s-on-facebook-marketplace-for-over-usd6-600-apiece-ironically-still-cheaper-than-memory-expresss-10-000-cad-retail-price-purportedly-selling-every-unit-quite-quickly",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-23T20:33:05.751802"
-  },
-  {
-    "title": "Anthropic researcher tunes chess software to turn a 200 MHz Pentium Pro into a behemoth that would handily defeat Kasparov and Carlsen",
-    "summary": "Anthropic researcher tunes chess software to turn a lone Pentium Pro into a behemoth that would handily defeat Kasparov and Carlsen 1995 challenge would have a different outcome with today's software",
-    "link": "https://www.tomshardware.com/video-games/retro-gaming/anthropic-researcher-tunes-chess-software-to-turn-a-200-mhz-pentium-pro-into-a-behemoth-that-would-handily-defeat-kasparov-and-carlsen-1995-pc-with-64-mb-of-ram-would-crush-kasparov-9-times-out-of-10",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-23T20:33:05.751866"
-  },
-  {
-    "title": "17-year-old Windows 7 gets unofficial DirectX 12 and Vulkan 1.4 support",
-    "summary": "A community-developed project brings DirectX 12 and Vulkan 1.4 support to Microsoft's retired operating system, allowing modern Nvidia, AMD, and Intel graphics cards to work with Windows 7.",
-    "link": "https://www.tomshardware.com/software/windows/17-year-old-windows-7-gets-unofficial-directx-12-and-vulkan-1-4-support-enthusiasts-bring-nvidia-rtx-50-amd-rx-9000-and-intel-arc-gpus-to-the-aging-os",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-23T20:33:05.751935"
-  },
-  {
-    "title": "An under-desk headphone hanger with three charging ports (up to 20W) for less than $10",
-    "summary": "With two hanging hooks, notches for six cables and 20W of charging, Cozoo's quirky combo device has been a useful addition to my standing desk since 2023.",
-    "link": "https://www.tomshardware.com/peripherals/usb/under-desk-headphone-hanger-with-three-charging-ports-drops-below-usd10-cozoos-20w-combo-device-has-been-a-useful-addition-to-my-standing-desk-since-2023",
-    "categories": [
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-23T20:33:05.751991"
-  },
-  {
-    "title": "Give your gaming setup a serious upgrade with the Razer Basilisk V3 for half price",
-    "summary": "Whether you play competitive shooters, racing games, or RPGs, the Basilisk V3 offers customizable controls and an adjustable scroll wheel to suit different gaming preferences.",
-    "link": "https://www.tomshardware.com/pc-components/give-your-gaming-setup-a-serious-upgrade-with-the-razer-basilisk-v3-for-half-price-for-just-usd32-99-you-get-26-000-dpi-sensitivity-programmable-buttons-and-plenty-of-rgb",
-    "categories": [
-      "GPUs"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-23T20:33:05.752058"
-  },
-  {
-    "title": "Tessera open-source dashboard for Home Assistant runs on ESP32 touchscreen devkits",
-    "summary": "The open-source Tessera project enables neat dashboards for Home Assistant on affordable 2.8-inch to 10.1-inch ESP32 touchscreen (development) kits from CYD, Guition, and Waveshare. The Tessera firmware adds a layer to ESPHome firmware for display management, touchscreen handling, dashboard rendering, tiles, plugins, and more. It works in conjunction with the Tessera Screen Manager, which provides the Home Assistant interface to configure screens, manage layouts, install firmware, and push updates. The whole solution is supposed to be easy to use thanks to a drag-and-drop editor, and users don t need to know anything about YAML or MQTT. Tessera features highlights: Hardware support Various ESP32 touchscreen platforms from 2.8-inch Cheap Yellow Displays (CYD) to 10.1-inch Guition panels. Drag-and-drop dashboard editor Configure screens, pages and tiles from Home Assistant. No YAML knowledge is needed. Multi-page dashboards Organize controls across multiple pages Customizable layouts Configure grid dimensions, tile sizes, icons, colours and [...] The post Tessera open-source dashboard for Home Assistant runs on ESP32 touchscreen devkits appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/23/tessera-open-source-dashboard-for-home-assistant-runs-on-esp32-touchscreen-devkits/",
-    "categories": [
-      "Hardware",
-      "AI & ML"
-    ],
-    "quality_score": 10,
-    "processed_date": "2026-11-23T20:33:05.752338"
-  },
-  {
-    "title": "Piccola CNC An open-source hardware desktop milling machine with PCB auto-leveling and integrated CAM (Crowdfunding)",
-    "summary": "InMachines Ingrassia GmbH has launched the Piccola CNC, an open-source hardware desktop CNC milling machine designed for PCB prototyping and machining wood, plastics, and soft metals such as aluminum, brass, and copper. Built in Germany, the machine features a 150 150 70 mm work area, belt-driven ball screws on all three axes, ER11 collets, and a choice of 100W or 200W spindles. The machine comes in three versions, which include the Basic, Pro, and Ultimate. The Pro variant adds a full enclosure and safety interlocks, while the Ultimate model further adds a brushless spindle and laser distance sensor. Other features include USB-C and Wi-Fi connectivity, built-in CAM software for PCB, 2D, 3D, and rotary milling, and laser-based PCB height mapping on the Ultimate, with the sensor available as an accessory for Basic and Pro. Piccola CNC specifications: Work area 150 150 70 mm (X [...] The post Piccola CNC An open-source hardware desktop milling machine with PCB auto-leveling and integrated CAM (Crowdfunding) appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/23/piccola-cnc-open-source-desktop-milling-machine-with-pcb-auto-leveling-and-integrated-cam/",
-    "categories": [
-      "Hardware",
-      "Tech News"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-11-23T20:33:05.752464"
-  },
-  {
-    "title": "AMD EPYC Embedded 9006 Series embedded processors offer up to 256 Zen 6c cores, PCIe Gen 6, and CXL 3.1",
-    "summary": "AMD has introduced the EPYC Embedded 9006 Series SP7, a family of high-performance x86 SoCs built around the Zen 6 and Zen 6c architectures using a 2nm CPU process. Designed for semiconductor automated test equipment (ATE), networking appliances, firewalls, and enterprise storage controllers, the new embedded processors feature up to 256 cores, 512 threads, and 1GB of L3 cache, with power ratings ranging from 400W to 600W. Compared to the previous-generation EPYC Embedded 9005 Series, the new processors offer 16-channel DDR5 memory with RDIMM and MRDIMM support, up to 96 PCIe Gen 6 lanes, and CXL 3.1 connectivity. They also offer improved security, enterprise-class reliability, and seven-year product availability, making them suitable for long-lifecycle embedded systems. AMD EPYC Embedded 9006 series specifications: CPU 6th Gen AMD EPYC Embedded processors Zen 6c architecture with 96 to 256 cores and 192 to 512 threads Zen 6 architecture with 64 cores and [...] The post AMD EPYC Embedded 9006 Series embedded processors offer up to 256 Zen 6c cores, PCIe Gen 6, and CXL 3.1 appeared first on CNX Software - Embedded Systems News .",
-    "link": "https://www.cnx-software.com/2026/11/23/amd-epyc-embedded-9006-series-embedded-processors-offer-up-to-256-zen-6c-cores-pcie-gen-6-and-cxl-3-1/",
+    "title": "Google shows its quantum chip can win a logic game classical computers can't",
+    "summary": "Published in the journal Science, the research gives physicists a working hardware demonstration of a phenomenon they consider central to what quantum computers may eventually be capable of. Read Entire Article",
+    "link": "https://www.techspot.com/news/114683-google-shows-quantum-chip-can-win-logic-game.html",
     "categories": [
       "Hardware",
       "Semiconductors"
     ],
-    "quality_score": 20,
-    "processed_date": "2026-11-23T20:33:05.752616"
+    "quality_score": 10,
+    "processed_date": "2026-11-24T19:41:54.569361"
   },
   {
-    "title": "Math's biggest open problem may have fallen to AI, but the proof is unreadable to humans",
-    "summary": "Alp ge did not release the proof as a traditional research paper. Instead, he posted it on his personal website in a formal programming language that allows computers to check every logical step. Within a day, reviewers from the Lean Focused Research Organization and the Mathlib Initiative had checked 17 million... Read Entire Article",
-    "link": "https://www.techspot.com/news/114663-math-biggest-open-problem-may-have-fallen-ai.html",
+    "title": "Developer turns the MacBook's trackpad into a tiny robotic speaker",
+    "summary": "Cody Collier, the developer behind the project, posted a demo on X over the weekend. In the clip, his MacBook reads lines aloud in a buzzy, robotic voice between bursts of chiptune-style beeps. It's a familiar kind of stunt for anyone who has watched floppy drives play entire songs, except... Read Entire Article",
+    "link": "https://www.techspot.com/news/114677-developer-turns-macbook-trackpad-tiny-robotic-speaker.html",
     "categories": [
-      "Hardware",
+      "Semiconductors"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-24T19:41:54.569472"
+  },
+  {
+    "title": "Google Chrome 158 update patches critical security vulnerability",
+    "summary": "Google Chrome has received a new security update addressing a critical vulnerability (CVE-2026-134401) that could allow attackers to execute malicious code outside the browser's sandbox through a specially crafted webpage. Users are advised to update their browsers and relaunching once the installation completes. Read Entire Article",
+    "link": "https://www.techspot.com/downloads/4718-google-chrome.html",
+    "categories": [
       "Tech News"
     ],
-    "quality_score": 15,
-    "processed_date": "2026-11-23T20:33:05.753381"
+    "quality_score": 5,
+    "processed_date": "2026-11-24T19:41:54.569579"
   },
   {
-    "title": "Wacom is going private in an $860 million buyout as cheaper rivals close in",
-    "summary": "The offer works out to 1,030 per share, about 50% above the stock's closing price the day before the deal was announced. Wacom's board has already approved the offer and is recommending that shareholders tender their shares. Those shares will be transferred to a holding company MBK established in Japan... Read Entire Article",
-    "link": "https://www.techspot.com/news/114664-wacom-going-private-860-million-buyout-cheaper-rivals.html",
+    "title": "Microsoft president Brad Smith warns tech outages are going to be the new normal for a while",
+    "summary": "Microsoft President Brad Smith recently confirmed what some people in the industry had already realized months or even years ago: the ongoing wave of outages, crashes, and technology-related disruptions is unlikely to stop or be permanently \"solved\" anytime soon. In fact, Smith expects these problems to multiply as software vendors... Read Entire Article",
+    "link": "https://www.techspot.com/news/114670-microsoft-president-brad-smith-warns-tech-outages-going.html",
     "categories": [
-      "Hardware",
       "Tech News"
     ],
-    "quality_score": 0,
-    "processed_date": "2026-11-23T20:33:05.753473"
+    "quality_score": 5,
+    "processed_date": "2026-11-24T19:41:54.569688"
   },
   {
-    "title": "Dell, HPE, Lenovo, and Supermicro are allegedly hiking AI server prices months after signing contracts",
-    "summary": "Major server manufacturers including Dell, HPE, Lenovo, and Supermicro are allegedly raising prices on their products months after agreeing on an initial purchase price with customers. Even worse, those customers are mostly accepting the increases because they need the hardware to build new data centers around the world. Read Entire Article",
-    "link": "https://www.techspot.com/news/114658-dell-hpe-lenovo-supermicro-allegedly-hiking-ai-server.html",
+    "title": "New York is ending car features locked behind subscriptions, with a few big exceptions",
+    "summary": "The legislation bans subscription offers for any feature that meets two tests. First, the feature has to run on equipment that was in the vehicle when it was bought or leased. Second, once activated, it must work without ongoing cost or support from the manufacturer or any third party. Read Entire Article",
+    "link": "https://www.techspot.com/news/114679-new-york-ending-car-features-locked-behind-subscriptions.html",
+    "categories": [
+      "Tech News"
+    ],
+    "quality_score": 5,
+    "processed_date": "2026-11-24T19:41:54.569790"
+  },
+  {
+    "title": "Asus could go back to 8GB of RAM in entry-level and mid-range PCs as memory prices soar",
+    "summary": "Talking to investors at Asus' Q3 2026 earnings call, Hsu said that the company is likely to \"adjust the memory configuration\" in its entry-level and mid-range PCs to 8GB following the latest Windows 11 update, which Microsoft promises will make the operating system faster and more responsive on devices with... Read Entire Article",
+    "link": "https://www.techspot.com/news/114674-asus-could-go-back-8gb-ram-entry-level.html",
     "categories": [
       "Hardware",
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-23T20:33:05.753598"
+    "processed_date": "2026-11-24T19:41:54.569899"
   },
   {
-    "title": "Jensen is back: Nvidia board reinstates Huang as CEO",
-    "summary": "The move marks a sharp reversal by the board. Chair Harvey C. Jones said last week that the company had no plans to reinstate Huang as CEO, a statement that came after Huang said he would be \"honored\" to return if the board wanted him back. Read Entire Article",
-    "link": "https://www.techspot.com/news/114668-jensen-back-nvidia-board-reinstates-huang-ceo.html",
+    "title": "GTA VI hacker who used a Fire Stick to breach Rockstar walks free on the day he's sentenced",
+    "summary": "The judge decided that Kurtaj had already served enough time between his stay in a secure hospital and his period \"on remand,\" the British term for being held in jail while awaiting trial or sentencing. He was sent off with a warning: \"Don't let this happen again.\" Read Entire Article",
+    "link": "https://www.techspot.com/news/114676-gta-vi-hacker-who-used-amazon-fire-stick.html",
     "categories": [
-      "Hardware",
-      "GPUs"
+      "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-23T20:33:05.753665"
+    "processed_date": "2026-11-24T19:41:54.570003"
   },
   {
-    "title": "Nvidia releases GeForce 621.35 hotfix to address excessive SSD writes",
-    "summary": "The GeForce driver Hotfix 621.35 addresses excessive SSD writes caused by a background logging bug. The update targets an issue affecting drivers 621.14 and 621.24, with some users reporting tens of gigabytes of unnecessary disk activity. A WHQL-certified fix is expected soon. Read Entire Article",
-    "link": "https://www.techspot.com/downloads/drivers/essentials/nvidia-geforce-hotfix/",
+    "title": "Nvidia engineer who quit over Jensen Huang's departure admits he \"may have moved too quickly\" after CEO's return",
+    "summary": "Dai was one of the many Nvidia employees aghast at Huang's departure. He wrote in a November 15 post that he was disappointed with how the situation has been handled and the lack of transparency from the company. The engineer also praised Huang's long-term vision, early investments in CUDA and... Read Entire Article",
+    "link": "https://www.techspot.com/news/114684-nvidia-engineer-who-quit-over-jensen-huang-departure.html",
     "categories": [
       "GPUs",
-      "Tech News"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-23T20:33:05.753732"
-  },
-  {
-    "title": "Amazon starts putting $5 delivery price hike warnings on packages in fight against NYC labor bill",
-    "summary": "A photo posted to Reddit's Amazon Prime community shows what New Yorkers are now finding on their doorsteps. The sticker warns that the City Council could add up to $5 to an order and includes a QR code shoppers can scan to contact their council member. As reported last week,... Read Entire Article",
-    "link": "https://www.techspot.com/news/114666-amazon-starts-putting-5-delivery-price-hike-warnings.html",
-    "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-23T20:33:05.753811"
+    "processed_date": "2026-11-24T19:41:54.570112"
   },
   {
-    "title": "AI agents design new CPU architecture that's 4x more efficient than a conventional core, startup claims",
-    "summary": "Humans did pick what the chip should be good at, selecting 25 test programs, ten of which the agents could use to tune their designs. Beyond that, the AIs had no starting design to build on, according to a research post the company published last week, so they started out... Read Entire Article",
-    "link": "https://www.techspot.com/news/114661-ai-agents-design-new-cpu-architecture-over-4x.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 15,
-    "processed_date": "2026-11-23T20:33:05.753887"
-  },
-  {
-    "title": "Tech-packed cars are driving up repair bills and insurance costs, wasting $12 billion a year",
-    "summary": "The report, titled Closing Shop, highlights the reality of repairs on today's heavily computerized vehicles. Its authors, from the US PIRG Education Fund, iFixit, and FULU, note that finding a failed sensor, releasing an electronic parking brake, or getting a car to recognize a replacement part can require plugging a... Read Entire Article",
-    "link": "https://www.techspot.com/news/114665-tech-packed-cars-driving-up-repair-bills-insurance.html",
-    "categories": [
-      "AI & ML",
-      "Hardware"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-23T20:33:05.753973"
-  },
-  {
-    "title": "GrapheneOS accuses Google of anti-competitive pressure as it expands to Motorola hardware",
-    "summary": "The team made the claims on X and described Google's outreach as a threat to the brands involved. It also said Google might eventually take a range of steps meant to block GrapheneOS and other Android forks. Its leaders said they want to speak with US Attorney General Todd Blanche... Read Entire Article",
-    "link": "https://www.techspot.com/news/114657-grapheneos-accuses-google-pressuring-phone-makers-stay-away.html",
+    "title": "Xbox Helix started as a PC in disguise, with free multiplayer and Steam, until plans changed",
+    "summary": "Sources tell Windows Central that, before Asha Sharma became Xbox CEO earlier this year, Microsoft planned for its next console to essentially be a PC with an Xbox-style UI and support for Xbox console games. This would have required the company to drop its online multiplayer paywall. Read Entire Article",
+    "link": "https://www.techspot.com/news/114673-xbox-helix-started-pc-disguise-free-multiplayer-steam.html",
     "categories": [
       "Hardware",
-      "AI & ML"
+      "Semiconductors"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-23T20:33:05.754050"
+    "processed_date": "2026-11-24T19:41:54.570221"
   },
   {
-    "title": "GTA VI player gets 30-day PSN suspension for sharing screenshot of in-game nudity with friend",
-    "summary": "X user DerrickGott007 posted the notification he received from PlayStation, along with a warning not to send images that contain nudity. He sent a friend an image of GTA VI's nudist beach, which the company says breached its code of conduct set out in its terms of service. It classifies... Read Entire Article",
-    "link": "https://www.techspot.com/news/114662-gta-vi-player-gets-30-day-psn-suspension.html",
+    "title": "Ladybird is the first new browser engine in years, and of course some sites are broken",
+    "summary": "Most browser makers start from an existing engine and build features on top of it. Ladybird's team wrote its own, so every part of the browser, from how pages are laid out to how they are drawn on screen, comes from code the project controls instead of code it inherited. Read Entire Article",
+    "link": "https://www.techspot.com/news/114675-ladybird-first-new-browser-engine-years-course-sites.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-23T20:33:05.754121"
+    "processed_date": "2026-11-24T19:41:54.570356"
   },
   {
-    "title": "Newer AI models are swearing more, and it usually means they're failing",
-    "summary": "Connor Frank, who wrote the Vals report, summed up the pattern. \"Models swear when stuck, and mostly to themselves,\" he told The Economist. Read Entire Article",
-    "link": "https://www.techspot.com/news/114656-newer-ai-models-swearing-more-usually-means-theyre.html",
+    "title": "Google wants to create an AI-generated TV channel starring you, complete with ads",
+    "summary": "First noticed by Patentlyze, Google's AI-generated channel, imaginatively called \"My Channel,\" is described as an option in a TV app. The content it generates will be based on demographic data, device data, YouTube watch history, and any other information Google holds about the user, who will also be the protagonist... Read Entire Article",
+    "link": "https://www.techspot.com/news/114680-google-wants-create-ai-generated-tv-channel-starring.html",
     "categories": [
       "AI & ML"
     ],
     "quality_score": 5,
-    "processed_date": "2026-11-23T20:33:05.754180"
+    "processed_date": "2026-11-24T19:41:54.570472"
   },
   {
-    "title": "Neuralink patient plays GTA VI using only his mind, shows how the controls work",
-    "summary": "Neuralink shared the two-minute clip on November 20, just one day after GTA VI landed on consoles. It shows the player taking Jason under a bridge in a speedboat and steering into a narrow channel to collect a package. He also gets into a fistfight and a shootout, but the... Read Entire Article",
-    "link": "https://www.techspot.com/news/114660-neuralink-patient-plays-gta-vi-using-only-mind.html",
+    "title": "GTA 6 leaker releases Xbox build executable, and modders say a PC port already boots",
+    "summary": "The leaker who shared footage of Grand Theft Auto VI in August says he has now released the executable and hash for the Xbox version. Hours later, a post on X showed what's claimed to be early footage of an unofficial PC port. Cyberleek first shared footage in August suggesting... Read Entire Article",
+    "link": "https://www.techspot.com/news/114672-gta-6-leaker-releases-xbox-build-executable-modders.html",
     "categories": [
-      "AI & ML"
-    ],
-    "quality_score": 5,
-    "processed_date": "2026-11-23T20:33:05.754248"
-  },
-  {
-    "title": "Which iPad Model Should You Get? Full 2026 Update",
-    "summary": "Apple's iPad lineup looks different in 2026, with an OLED mini, a capable M4 Air, and an expensive M5 Pro. We compare prices, performance, displays, and accessories to help you choose the right iPad. Read Entire Article",
-    "link": "https://www.techspot.com/article/3101-ipad-buying-guide-26/",
-    "categories": [
-      "AI & ML"
+      "Hardware",
+      "Tech News"
     ],
     "quality_score": 10,
-    "processed_date": "2026-11-23T20:33:05.754308"
+    "processed_date": "2026-11-24T19:41:54.570591"
   }
 ]
